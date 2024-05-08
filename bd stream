@@ -1,0 +1,241 @@
+#EXTM3U
+#EXTINF:-1,BTV-HD
+http://172.26.1.3:8089/amrbd/BTV-HD/playlist.m3u8
+#EXTINF:-1,btv-world
+http://172.26.1.3:8089/load/btv-world/playlist.m3u8
+#EXTINF:-1,Gazi Tv
+http://172.26.1.3:8089/amrbd/Gazi-Tv/playlist.m3u8
+#EXTINF:-1,Tsports Hd
+http://172.26.1.3:8089/amrbd/T-Sports/playlist.m3u8
+#EXTINF:-1,Asian Tv
+http://172.26.1.3:8089/amrbd/Asian-Tv/playlist.m3u8
+#EXTINF:-1,Deepto Tv
+http://172.26.1.3:8089/amrbd/Deepto-Tv/playlist.m3u8
+#EXTINF:-1,Massranga Tv
+http://172.26.1.3:8089/amrbd/Maasranga/playlist.m3u8
+#EXTINF:-1,Ntv
+http://172.26.1.3:8089/amrbd/NTV/playlist.m3u8
+#EXTINF:-1,Bangla Tv
+http://172.26.1.3:8089/amrbd/Bangla-Tv/playlist.m3u8
+#EXTINF:-1,Atn-Bangla
+http://172.26.1.3:8089/amrbd/Atn-Bangla/playlist.m3u8
+#EXTINF:-1,Nagorik Tv
+http://172.26.1.3:8089/amrbd/Nagorik-TV/playlist.m3u8
+#EXTINF:-1,Atn-News
+http://172.26.1.3:8888/load/atn_news/playlist.m3u8
+#EXTINF:-1,Somoy Tv
+http://172.26.1.3:8089/load/somoy_tv/playlist.m3u8
+#EXTINF:-1,Somoy Tv Sd
+http://172.26.1.3:8089/amrbd/Somoy-TV/playlist.m3u8
+#EXTINF:-1,Ekattor Tv
+http://172.26.1.3:8089/amrbd/Ekattor-tv/playlist.m3u8
+#EXTINF:-1,News 24
+http://172.26.1.3:8089/amrbd/News24bd/playlist.m3u8
+#EXTINF:-1,Channel 24
+http://172.26.1.3:8089/amrbd/Channel24/playlist.m3u8
+#EXTINF:-1,Independent Tv
+http://172.26.1.3:8089/amrbd/Independent-Tv/playlist.m3u8
+#EXTINF:-1,Jamuna Tv
+http://172.26.1.3:8089/amrbd/Jamuna-Tv/playlist.m3u8
+#EXTINF:-1,DBC News
+http://172.26.1.3:8089/amrbd/DBC-NEWS/playlist.m3u8
+#EXTINF:-1,Mohona Tv
+http://172.26.1.3:8089/amrbd/MohonaTV/playlist.m3u8
+#EXTINF:-1,Anando Tv
+http://172.26.1.3:8089/amrbd/anandotv/playlist.m3u8
+#EXTINF:-1,Satv
+http://172.26.1.3:8089/amrbd/SATV/playlist.m3u8
+#EXTINF:-1,Channel-i
+http://172.26.1.3:8089/amrbd/Channel-i/playlist.m3u8
+#EXTINF:-1,Bangla Vision
+http://172.26.1.3:8089/amrbd/BanglaVision/playlist.m3u8
+#EXTINF:-1,Desh Tv
+http://172.26.1.3:8089/amrbd/Desh-TV/playlist.m3u8
+#EXTINF:-1,Baishaki Tv
+http://172.26.1.3:8089/amrbd/Boishakhi/playlist.m3u8
+#EXTINF:-1,Ekushey-Tv
+http://172.26.1.3:8089/amrbd/Ekushey-TV/playlist.m3u8
+#EXTINF:-1,Rtv
+http://172.26.1.3:8089/amrbd/RTV/playlist.m3u8
+#EXTINF:-1,My Tv
+http://172.26.1.3:8089/amrbd/MyTV/playlist.m3u8
+#EXTINF:-1,Zee Bangla
+http://172.26.1.3:8089/amrbd/ZeeBanglaHD/playlist.m3u8
+#EXTINF:-1,Star Jalsha Hd
+http://172.26.1.3:8089/amrbd/Star-Jalsha/playlist.m3u8
+#EXTINF:-1,Star Jalsha Sd
+http://172.26.1.3:8089/load/star_jalsha+/playlist.m3u8
+#EXTINF:-1,Colors Bangla
+http://172.26.1.3:8089/amrbd/colorsbangla/playlist.m3u8
+#EXTINF:-1,Zee Bangla Cinema
+http://172.26.1.3:8089/amrbd/ZeeBanglacinema/playlist.m3u8
+#EXTINF:-1,Jalsha movies 
+http://172.26.1.3:8089/amrbd/Jalshamovies/playlist.m3u8
+#EXTINF:-1,Bijoy tv
+http://172.26.1.3:8089/load/bijoy_tv/playlist.m3u8
+#EXTINF:-1,Bongo Bd
+http://172.26.1.3:8089/load/bongo_bd/playlist.m3u8
+#EXTINF:-1,Colors Bangla
+http://172.26.1.3:8089/amrbd/colors-b-cinema/playlist.m3u8
+#EXTINF:-1,Sony Aath
+http://172.26.1.3:8089/amrbd/Sonyaath/playlist.m3u8
+#EXTINF:-1,Gaan Bangla
+http://172.26.1.3:8089/amrbd/GaanBangla/playlist.m3u8
+#EXTINF:-1,Sun Bangla
+http://172.26.1.3:8089/amrbd/Sun-Bangla/playlist.m3u8
+#EXTINF:-1,Sangeet Bangla
+http://172.26.1.3:8089/amrbd/Sangeet-Bangla/playlist.m3u8
+#EXTINF:-1,Atn Music Tv
+http://172.26.1.3:8089/load/atn_music/playlist.m3u8
+#EXTINF:-1,Enter 10 bangla 
+http://172.30.30.30/hls/4036.m3u8
+#EXTINF:-1,Gtv
+http://172.26.1.3:8089/amrbd/Gazi-Tv/playlist.m3u8
+#EXTINF:-1,Tsports
+http://172.26.1.3:8089/jamio/tsportsbd//playlist.m3u8
+#EXTINF:-1,Zee cinema hd
+http://172.26.1.3:8089/amrbd/ZeeCinemaHD/playlist.m3u8
+#EXTINF:-1,Nick Bangla
+http://172.26.1.3:8089/load/nick_bangla/playlist.m3u8
+#EXTINF:-1,makkah tv
+http://172.26.1.3:8089/premium/makkah/playlist.m3u8
+#EXTINF:-1,Madina tv
+http://172.26.1.3:8089/nimble_live/madina/playlist.m3u8
+#EXTINF:-1,colors bangla cinema
+http://172.30.30.30/hls/5033.m3u8
+#EXTINF:-1,Star bangla 
+http://172.30.30.30/hls/5006.m3u8
+#EXTINF:-1,ABP
+http://172.26.1.3:8089/load/abp/playlist.m3u8
+#EXTINF:-1,Al-jazeera news
+http://172.26.1.3:8089/load/al_jazeera_news/playlist.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://172.26.1.3:8089/amrbd/BBC-World/playlist.m3u8
+#EXTINF:-1,Cnn Hd
+http://172.26.1.3:8089/load/cnn-hd/playlist.m3u8
+#EXTINF:-1,Dw
+http://172.26.1.3:8089/hls/dw_tv/playlist.m3u8
+#EXTINF:-1,Today India
+http://172.26.1.3:8089/load/india_today/playlist.m3u8
+#EXTINF:-1,Ndtv
+http://172.26.1.3:8089/load/ndtv/playlist.m3u8
+#EXTINF:-1,Times Now
+http://172.26.1.3:8089/load/times_now/playlist.m3u8
+#EXTINF:-1,Fox news
+http://172.26.1.3:8089/playlist480p.m3u8/fox_news/playlist.m3u8
+#EXTINF:-1,Mtv
+http://172.26.1.3:8089/amrbd/Mtv/playlist.m3u8
+#EXTINF:-1,9xm
+http://172.26.1.3:8089/amrbd/9XM/playlist.m3u8
+#EXTINF:-1,9x jalwa
+http://172.26.1.3:8888/load/9x_jalwa/playlist.m3u8
+#EXTINF:-1,Masti Music
+http://172.26.1.3:8089/amrbd/Masti-Music/playlist.m3u8
+#EXTINF:-1,Zoom
+http://172.26.1.3:8089/load/zoom/playlist.m3u8
+#EXTINF:-1,Star Plus
+http://172.26.1.3:8089/amrbd/Star-Plus/playlist.m3u8
+#EXTINF:-1,Sony Hd
+http://172.26.1.3:8089/amrbd/Sony-Hd/playlist.m3u8
+#EXTINF:-1,Zeetv Hd
+http://172.26.1.3:8089/amrbd/Zee-Hd/playlist.m3u8
+#EXTINF:-1,Astro Cricket 
+http://172.26.1.3:8089/load/astrocricket/playlist.m3u8
+#EXTINF:-1,Astro super sport 4
+http://172.26.1.3:8089/load/Astro_Super_Sports_4/playlist.m3u8
+#EXTINF:-1,Star Sports 1 Hd
+http://172.26.1.3:8089/amrbd/Star-Sports-1/playlist.m3u8
+#EXTINF:-1,Star sports 2 Hd
+http://172.26.1.3:8089/amrbd/Star-Sports-2/playlist.m3u8
+#EXTINF:-1,star sports select 1 Hd
+http://172.26.1.3:8089/amrbd/select1/playlist.m3u8
+#EXTINF:-1,star sports select 2 hd
+http://172.26.1.3:8089/amrbd/select2/playlist.m3u8
+#EXTINF:-1,sony ten 1 hd
+http://172.26.1.3:8089/amrbd/Ten1/playlist.m3u8
+#EXTINF:-1,sony ten 2 hd
+http://172.26.1.3:8089/amrbd/Ten2/playlist.m3u8
+#EXTINF:-1,Sony ten 3 hd
+http://172.26.1.3:8089/amrbd/Ten3/playlist.m3u8
+#EXTINF:-1,sony six hd
+http://172.26.1.3:8089/jamio/sonysix//playlist.m3u8
+#EXTINF:-1,Ten spots 
+http://172.26.1.3:8089/nimble_live/tensports/playlist.m3u8
+#EXTINF:-1,Ptv sports 
+http://172.26.1.3:8089/amrbd/PTV-Sports/playlist.m3u8
+#EXTINF:-1,A sports hd
+http://172.26.1.3:8089/load/asports/playlist.m3u8
+#EXTINF:-1,Bt sports 2
+http://172.26.1.3:8089/load/BT_sports2_int/playlist.m3u8
+#EXTINF:-1,Astro super sport
+http://172.26.1.3:8089/load/Astro_Super_Sports_4/playlist.m3u8
+#EXTINF:-1,Geo Super
+http://172.26.1.3:8089/bangla/geo_super/playlist.m3u8
+#EXTINF:-1,Astro super sport 3
+http://172.26.1.3:8089/load/Astro_Super_Sport_3/playlist.m3u8
+#EXTINF:-1,sky sports football
+http://172.26.1.3:8089/nimble_live/skyfootball/playlist.m3u8
+#EXTINF:-1,Sky sports cricket 
+http://172.26.1.3:8089/nimble_live/skycricket/playlist.m3u8
+#EXTINF:-1,Wwe hd
+http://172.26.1.3:8089/load/wwehd/playlist.m3u8
+#EXTINF:-1,& pictures
+http://172.26.1.3:8089/amrbd/And-Pictures/playlist.m3u8
+#EXTINF:-1,star gold
+http://172.26.1.3:8089/amrbd/StarGold/playlist.m3u8
+#EXTINF:-1,Zee cinema hd
+http://172.26.1.3:8089/amrbd/ZeeCinemaHD/playlist.m3u8
+#EXTINF:-1,sony max hd
+http://172.26.1.3:8089/amrbd/Sony-Max/playlist.m3u8
+#EXTINF:-1,sony sab hd
+http://172.26.1.3:8089/bangla/sony_sab_hd/playlist.m3u8
+#EXTINF:-1,ary digital
+http://172.26.1.3:8089/load/arydigital/playlist.m3u8
+#EXTINF:-1,Humtv
+http://172.26.1.3:8089/load/humtv/playlist.m3u8
+#EXTINF:-1,Aplus
+http://172.26.1.3:8089/load/aplus/playlist.m3u8
+#EXTINF:-1,sony pix hd
+http://172.26.1.3:8089/amrbd/SonyPix/playlist.m3u8
+#EXTINF:-1,mn plus
+http://172.26.1.3:8089/amrbd/MN-Plus/playlist.m3u8
+#EXTINF:-1,Mnx
+http://172.26.1.3:8089/amrbd/MNX/playlist.m3u8
+#EXTINF:-1,star movies hd
+http://172.26.1.3:8089/amrbd/Star-Movies/playlist.m3u8
+#EXTINF:-1,Sky movies
+http://172.26.1.3:8089/load/skymovselect/playlist.m3u8
+#EXTINF:-1,bbc earth
+http://172.26.1.3:8089/amrbd/Bbc-Earth/playlist.m3u8
+#EXTINF:-1,National Geo hd
+http://172.26.1.3:8089/amrbd/National-Geo-Hd/playlist.m3u8
+#EXTINF:-1,animal plant 
+http://172.26.1.3:8089/load/animal_planet_hd/playlist.m3u8
+#EXTINF:-1,Discovery tv
+http://172.26.1.3:8089/amrbd/Discovery-Tv/playlist.m3u8
+#EXTINF:-1,discovery history 
+http://172.26.1.3:8089/load/discovery_history/playlist.m3u8
+#EXTINF:-1,discovery science
+http://172.26.1.3:8089/load/discovery_science/playlist.m3u8
+#EXTINF:-1,history tv
+http://172.26.1.3:8089/nimble_live/history/playlist.m3u8
+#EXTINF:-1,tlc world 
+http://172.26.1.3:8089/amrbd/TLC-World/playlist.m3u8
+#EXTINF:-1,Discovery kids
+http://172.26.1.3:8089/load/discoverykids/playlist.m3u8
+#EXTINF:-1,dave ava
+http://172.26.1.3:8089/bangla/dave_ava/playlist.m3u8
+#EXTINF:-1,cartoon network 
+http://172.26.1.3:8089/amrbd/Cartoon-Network/playlist.m3u8
+#EXTINF:-1,pogo
+http://172.26.1.3:8089/load/pogo/playlist.m3u8
+#EXTINF:-1,star gold hd
+http://172.30.30.30/hls/5028.m3u8
+#EXTINF:-1,star life
+http://172.30.30.30/hls/5074.m3u8
+#EXTINF:-1,star sports 3
+http://172.30.30.30/hls/5019.m3u8
+#EXTINF:-1,star jalsha hd
+http://172.30.30.30/hls/5053.m3u8
+#EXTINF:-1,Zee Bangla Hd
+http://172.30.30.30/hls/5048.m3u8
