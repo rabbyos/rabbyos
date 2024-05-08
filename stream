@@ -1,3 +1,9 @@
+#EXTINF:-1 ,UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 ,Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
+
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/v83qjZB8/zee-action.png",Zee Action
 
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.imgur.com/dd8VLUN.jpg",Bollywood Classic
