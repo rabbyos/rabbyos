@@ -1,3 +1,25 @@
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Live Tv",SONY MAX HD
+http://103.107.79.87:8080/CH8108HD08/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="Live Tv",Zee Cinema HD
+http://103.107.79.87:8080/CH8109HD02/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png",Zee Anmol
+http://170.254.18.107/ZEECINEMA/index.m3u8
+
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png",Zee Anmol Cinema
+
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/wTgPj599/image.jpg",Zee News
+
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/4yhj7Tz5/Zee-Hindustan1.jpg",Zee Hindustan 
+
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/ZYs328jF/Zee-Cinemalu.png",Zee Cinemalu
+http://4ksuper.live:80/live/0b14WRvtZckx/oW40Zf4h4t/155912.m3u8
+
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/v83qjZB8/zee-action.png",Zee Action
+
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.imgur.com/dd8VLUN.jpg",Bollywood Classic
+
 #EXTINF:-40 tvg-logo="https://i.ibb.co/Z166/202401-0335.png"group-title="INDIAN BANGLA CHANNEL", STAR JALSA
 https://sonyliv.arcreation.xyz/live-tv/base.php?id=11952
 
