@@ -1,6 +1,45 @@
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/PFSVZD1/Star-Jalsha-logo.jpg" group-title="SUNPLEX",STAR JALSHA
-http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+#EXTINF:-40 tvg-logo="https://i.ibb.co/Z166/202401-0335.png"group-title="INDIAN BANGLA CHANNEL", STAR JALSA
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11952
 
+#EXTINF:-41 tvg-logo="https://i.ibb.co/Vj0Z/202402-0828.png"group-title="INDIAN BANGLA CHANNEL", STAR JALSA HD
+http://xtv.ooo:8080/Sehrish/12345/245898
+
+#EXTINF:-42 tvg-logo="https://i.ibb.co/FBcL/202430-2246.png"group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA
+
+
+#EXTINF:-43 tvg-logo="https://i.ibb.co/CJWb/202430-2246.png"group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA HD
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-44 tvg-logo="https://i.ibb.co/Sd10/202430-2257.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA
+https://sonyliv.arcreation.xyz/live-tv/base.php?id=11946
+
+#EXTINF:-45 tvg-logo="https://i.ibb.co/PgPm/202430-2258.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA HD
+http://xtv.ooo:8080/hunzaii/445566/245895
+
+#EXTINF:-46 tvg-logo="https://i.ibb.co/VxM2/202430-2245.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA CINEMA
+http://xtv.ooo:8080/Sehrish/12345/245895
+
+#EXTINF:-47 tvg-logo="https://i.ibb.co/bsr2/202430-2038.png"group-title="INDIAN BANGLA CHANNEL", SONY AATH
+http://xtv.ooo:8080/Sehrish/12345/245893
+
+#EXTINF:-50 tvg-logo="https://i.ibb.co/bXGzq/202430-2252.png"group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA CINEMA
+http://xtv.ooo:8080/Sehrish/12345/245897
+
+#EXTINF:-51 tvg-logo="https://i.ibb.co/H7XLf/202430-2300.png"group-title="INDIAN BANGLA CHANNEL", ENTEER TEN BANGLA
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-52 tvg-logo="https://i.ibb.co/hyXg/202430-2231.png"group-title="INDIAN BANGLA CHANNEL", SUN BANGLA
+http://xtv.ooo:8080/Sehrish/12345/245906
+
+#EXTINF:-53 tvg-logo="https://i.ibb.co/3v0d/202430-2230.png"group-title="INDIAN BANGLA CHANNEL", AAKASH AATH
+http://xtv.ooo:8080/Sehrish/12345/245928EXTINF:-53 tvg-logo="https://i.ibb.co/3v0d/202430-2230.png"group-title="INDIAN BANGLA CHANNEL", AAKASH AATH
+http://xtv.ooo:8080/Sehrish/12345/245928
+
+#EXTINF:-54 tvg-logo="https://i.ibb.co/PMms/202430-2234.png"group-title="INDIAN BANGLA CHANNEL", SANAND TV
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+
+#EXTINF:-55 tvg-logo="https://i.ibb.co/SKrt/202430-2235.png"group-title="INDIAN BANGLA CHANNEL", GOLDMINES BANGLA
+http://xtv.ooo:8080/Sehrish/12345/245893
 
 #EXTINF:-1,Star Jalsha
 https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
