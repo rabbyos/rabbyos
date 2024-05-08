@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/PFSVZD1/Star-Jalsha-logo.jpg" group-title="SUNPLEX",STAR JALSHA
+http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+
+
 #EXTINF:-1,Star Jalsha
 https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
 
