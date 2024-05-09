@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-name="SETMAX HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="",SETMAX HD
-http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Movies" tvg-id="Sony_Max_HD" tvglogo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.j io.com/dare_images/images/Sony_Max_HD.png", Sony Max HD -JTV LQ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Max_HD/Sony_Max_HD_800.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
