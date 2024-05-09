@@ -1,6 +1,8 @@
+#EXTINF:-1,ZEE cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
-#EXTINF:-40 tvg-logo="https://i.ibb.co/Z166/202401-0335.png"group-title="INDIAN BANGLA CHANNEL", STAR JALSA
-https://sonyliv.arcreation.xyz/live-tv/base.php?id=11952
+#EXTINF:-1,ZEE BOLLYWOOD
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
 #EXTINF:-41 tvg-logo="https://i.ibb.co/Vj0Z/202402-0828.png"group-title="INDIAN BANGLA CHANNEL", STAR JALSA HD
 http://xtv.ooo:8080/Sehrish/12345/245898
