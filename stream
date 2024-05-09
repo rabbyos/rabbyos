@@ -1,9 +1,35 @@
-#EXTINF:-1,Zee Cinema
-http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
+#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/Y9cb0Z8L/20240407-201715.png",Discovery Multi
+https://freeott.site/discovery/Discovery_Channel.m3u8
 
-#EXTINF:-1,Set Max
-http://tv.aliflailabd.com:8989/setmax/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/rptz8ycH/20240407-164927.png",Sony Max FHD 
+http://89.187.177.137:8081/SONYMAX/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/rptz8ycH/20240407-164927.png",Sony Max FHD 
+http://xtv.ooo:8080/adnankb2006/86057314/66180 
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/rptz8ycH/20240407-164927.png",Sony Max FHD 
+http://xtv.ooo:8080/adnankb2006/86057314/109957
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/rptz8ycH/20240407-164927.png",Sony Max FHD 
+http://195.26.87.217/live.ts?channelId=185&uid=7435&deviceMac=00:1A:79:51:4B:3A 
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/rptz8ycH/20240407-164927.png",Sony Max SD
+http://103.107.79.87:8080/CH8108SD08/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7Y9R8nhJ/20240407-170257.png",Zee Cinema FHD
+http://103.107.79.87:8080/CH8109HD02/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7Y9R8nhJ/20240407-170257.png",Zee Cinema FHD 
+http://103.107.79.87:8080/CH8109HD02/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7Y9R8nhJ/20240407-170257.png",Zee Cinema FHD
+http://xtv.ooo:8080/adnankb2006/86057314/221261 
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7Y9R8nhJ/20240407-170257.png",Zee Cinema FHD 
+http://xtv.ooo:8080/adnankb2006/86057314/109958 
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7Y9R8nhJ/20240407-170257.png",Zee Cinema FHD 
+http://xtv.ooo:8080/adnankb2006/86057314/206308
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
