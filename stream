@@ -1,3 +1,7 @@
+#EXTINF:-1 tvg-name="SETMAX HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="",SETMAX HD
+http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
