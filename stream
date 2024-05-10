@@ -189,13 +189,18 @@ https://myflixbd.com/0.m3u8
 http://tv5.hoichoi24.com/1123/tracks-v1a1/index.m3u8
 https://freeiptv25.netlify.app/live/bdix/app/Mohona.m3u8
 
+#EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png",Bijoy Tv
+http://cdn01.palki.tv/live/BijoyTV-M/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/RFWN6GL6/BIJOY-TV-Logo-BD.png",Bijoy Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/chunks.m3u8
 http://xtv.ooo:8080/667861/336612/245946
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay News
 http://tv5.hoichoi24.com/1111/tracks-v1a1/index.m3u8
-https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=somoy_news
+
+#EXTINF:-1, tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png" group-title="Live Tv",Somoy Tv
+http://103.151.60.214:7444/1111/video.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent 
 https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
