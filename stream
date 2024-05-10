@@ -229,6 +229,9 @@ https://mtlivestream.site/asian/ytlive/index.m3u8
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 
+EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/KzZQbtLb/Jo7wzmn.png",Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/VLmm2D0q/images-5-20.jpg",Gaan Bangla
 http://tv5.hoichoi24.com/1110/tracks-v1a1/index.m3u8
 https://himel-op.top/portal/puk.m3u8?id=11895
