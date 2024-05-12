@@ -1,0 +1,156 @@
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",GtV
+http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",T Sports
+http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Ten 1
+http://172.20.2.5:8082/Ten1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Ten 2
+http://172.20.2.5:8082/Ten2/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Ten 3
+http://172.20.2.5:8082/Special-TV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Star Sports 1
+http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Star Sports 2
+http://172.20.2.5:8082/Star-Sports-2/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Star Select 1
+http://172.20.2.5:8082/Star-Select-1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Star Select 2
+http://172.20.2.5:8082/Star-Select-2/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Colors Bangla
+http://172.20.2.5:8082/colorsbangla/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Zee Bangla Cinema
+http://172.20.2.5:8082/ZeeBanglacinema/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Sony Aath
+http://172.20.2.5:8082/Sonyaath/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Star Jalsha
+http://172.20.2.5:8082/Star-Jalsha/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Zee Bangla HD
+http://172.20.2.5:8082/ZeeBanglaHD/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Jalsha Movies
+http://172.20.2.5:8082/Jalshamovies/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",DBC News
+http://172.20.2.5:8082/DBC-NEWS/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Ekattor TV
+http://172.20.2.5:8082/Ekattor-tv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",ATN News
+http://172.20.2.5:8082/Atn-News/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Independent TV
+http://172.20.2.5:8082/Independent-Tv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Somoy TV
+http://172.20.2.5:8082/Somoy-TV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",News24 BD
+http://172.20.2.5:8082/News24bd/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Channel 24
+http://172.20.2.5:8082/Channel24/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",ATN Bangla
+http://172.20.2.5:8082/ATN-Bangla/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Channel i
+http://172.20.2.5:8082/Channel-i/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Ekushey TV
+http ://172.20.2.5:8082/Ekushey-TV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",NTV
+http://172.20.2.5:8082/Ntv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",RTV
+http://172.20.2.5:8082/RTV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",SATV
+http://172.20.2.5:8082/SATV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",BanglaVision
+http://172.20.2.5:8082/BanglaVision/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Boishakhi TV
+http://172.20.2.5:8082/Boishakhi/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Gaan Bangla
+http://172.20.2.5:8082/GaanBangla/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Mohona TV
+http://172.20.2.5:8082/MohonaTV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",MyTV
+http://172.20.2.5:8082/MyTV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Nagorik TV
+http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Anando TV
+http://172.20.2.5:8082/anandotv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",And Pictures
+http://172.20.2.5:8082/And-Pictures/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Sony Pix
+http://172.20.2.5:8082/SonyPix/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Sony Max
+http://172.20.2.5:8082/Sony-Max/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Colors India
+http://172.20.2.5:8082/colorsindia/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Sony SAB
+http://172.20.2.5:8082/Sony_Sab/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Sony TV HD
+http://172.20.2.5:8082/SonyTVHD/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Star Gold
+http://172.20.2.5:8082/StarGold/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Zee Cinema HD
+http://172.20.2.5:8082/ZeeCinemaHD/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Zee HD
+http://172.20.2.5:8082/Zee-Hd/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",9XM
+http://172.20.2.5:8082/9XM/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Discovery TV
+http://172.20.2.5:8082/Discovery-Tv/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Nat Geo
+http://172.20.2.5:8082/Nat-Geo/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",BBC Earth
+http://172.20.2.5:8082/Bbc-Earth/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",TLC World
+http://172.20.2.5:8082/TLC_World/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",BBC World
+http://172.20.2.5:8082/BBC_World/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Al Jazeera
+http://172.20.2.5:8082/Aljazeera/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png" group-title="BdixTVLive",Nick
+http://172.20.2.5:8082/nike/index.fmp4.m3u8
