@@ -42,20 +42,44 @@ http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-41 tvg-logo="https://i.ibb.co/Vj0Z/202402-0828.png"group-title="INDIAN BANGLA CHANNEL", STAR JALSA HD
 http://xtv.ooo:8080/Sehrish/12345/245898
 
+
+
+
+
 #EXTINF:-42 tvg-logo="https://i.ibb.co/FBcL/202430-2246.png"group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA
+
+
+
+
+
 
 
 #EXTINF:-43 tvg-logo="https://i.ibb.co/CJWb/202430-2246.png"group-title="INDIAN BANGLA CHANNEL", ZEE BANGLA HD
 http://xtv.ooo:8080/Sehrish/12345/245893
 
+
+
+
+
 #EXTINF:-44 tvg-logo="https://i.ibb.co/Sd10/202430-2257.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA
 https://sonyliv.arcreation.xyz/live-tv/base.php?id=11946
+
+
+
+
 
 #EXTINF:-45 tvg-logo="https://i.ibb.co/PgPm/202430-2258.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA HD
 http://xtv.ooo:8080/hunzaii/445566/245895
 
+
+
+
+
 #EXTINF:-46 tvg-logo="https://i.ibb.co/VxM2/202430-2245.png"group-title="INDIAN BANGLA CHANNEL", COLORS BANGLA CINEMA
 http://xtv.ooo:8080/Sehrish/12345/245895
+
+
+
 
 #EXTINF:-47 tvg-logo="https://i.ibb.co/bsr2/202430-2038.png"group-title="INDIAN BANGLA CHANNEL", SONY AATH
 http://xtv.ooo:8080/Sehrish/12345/245893
@@ -66,8 +90,15 @@ http://xtv.ooo:8080/Sehrish/12345/245897
 #EXTINF:-51 tvg-logo="https://i.ibb.co/H7XLf/202430-2300.png"group-title="INDIAN BANGLA CHANNEL", ENTEER TEN BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
+
+
+
+
+
 #EXTINF:-52 tvg-logo="https://i.ibb.co/hyXg/202430-2231.png"group-title="INDIAN BANGLA CHANNEL", SUN BANGLA
 http://xtv.ooo:8080/Sehrish/12345/245906
+
+
 
 #EXTINF:-53 tvg-logo="https://i.ibb.co/3v0d/202430-2230.png"group-title="INDIAN BANGLA CHANNEL", AAKASH AATH
 http://xtv.ooo:8080/Sehrish/12345/245928EXTINF:-53 tvg-logo="https://i.ibb.co/3v0d/202430-2230.png"group-title="INDIAN BANGLA CHANNEL", AAKASH AATH
@@ -79,17 +110,49 @@ http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-55 tvg-logo="https://i.ibb.co/SKrt/202430-2235.png"group-title="INDIAN BANGLA CHANNEL", GOLDMINES BANGLA
 http://xtv.ooo:8080/Sehrish/12345/245893
 
+
+
+
+
+
+
 #EXTINF:-1,Star Jalsha
 https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
+
+
+
+
+
+
+
+#EXTINF:
+
+
 
 #EXTINF:-1,Star Jalsha VIP
 http://176.119.29.52/live.ts?channelId=116&deviceMac=00:1A:79:0A:CA:4F
 
+
+
+
+
+
 #EXTINF:-1,Jalsha Movies VIP
 http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="IQRA" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="ISLAMIC", ION TV
 https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/9gffd60.png",Makkah Tv
 https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
