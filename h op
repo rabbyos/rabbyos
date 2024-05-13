@@ -1,0 +1,198 @@
+
+[{"name":"JioCinema Match1","link":"https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m1_190124/mobile_master.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhBGqzAaBdMDFsh59HD2X1z45ECTdDm0zk4RC808lpYHY5jwWlLlmqPfY&s=10","origin":"","referrer":"","cookie":""},{"name":"JioCinema Match2","link":"https://prod-ent-live-gm.jiocinema.com/hls/live/2099110/hd_akamai_merged_avc_eng_sa20_m2_190124/mobile_master.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhBGqzAaBdMDFsh59HD2X1z45ECTdDm0zk4RC808lpYHY5jwWlLlmqPfY&s=10","origin":"","referrer":"","cookie":""},{"name":"Antarjal(2023) PREMIUM","link":"https://1rdk.short.gy/vodmprod-cdn.toffeelive.com/Antarjal(2023)/Himel-Op.m3u8","logo":"https://images.toffeelive.com/images/program/260700/logo/720x404/player_poster_web_924929001703093558.png","origin":"https:\/\/bldcmprod-cdn.toffeelive.com","referrer":"https:\/\/bldcmprod-cdn.toffeelive.com","userAgent":"Mozilla/5.0 (Linux; Android 9; Mi Note 3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.116 Mobile Safari/537.36","cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly92b2RtcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1735058211:KeyName=prod_vod:Signature=P8Mu8XRPBJZlxNC-tCaAkIe-R2g6bfQb-2cWGjZrYK6WzvfkoyWc5IqcNVqFRcON6Ihk_j8KA6yiwizRLGskDQ"},{"name":"Karagar S01(2023)","link":"https://1rdk.short.gy/Karagar-S01/Himel-Op.mkv","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMvZsGlK_elArdNR3DzPuI8h5Sh57UFtsLEw&usqp=CAU","origin":"","referrer":"","cookie":""},{"name":"Karagar S02(2023)","link":"https://1rdk.short.gy/Karagar-S02/Himel-Op.mkv","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7_WrezLDtpuzi4o2WoJQdiMg5OkBttJyQA&usqp=CAU","origin":"","referrer":"","cookie":""},{"name":"Virus S01(2023)","link":"https://1rdk.short.gy/Virus-S01/Himel-Op.mkv","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Z9XGdI0Xma-8c3MYdd7iRSBgSQwX-jz3AQ&usqp=CAU","origin":"","referrer":"","cookie":""},{"name":"Operation S
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",
+  "name": "Bein sports 1",
+  "link": "https://webudit.webhd.ru/lb/premium91/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png",
+  "name": "Bein sports 1 Eng",
+  "link": "https://webudit.webhd.ru/lb/premium61/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/5/50/Logo_bein_sports_max_1.png",
+  "name": "Bein sports max 1",
+  "link": "https://webudit.webhd.ru/lb/premium296/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",
+  "name": "Bein sports 2",
+  "link": "https://webudit.webhd.ru/lb/premium92/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png",
+  "name": "Bein sports 2 Eng",
+  "link": "https://webudit.webhd.ru/lb/premium90/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png",
+  "name": "Bein sports max 2",
+  "link": "https://webudit.webhd.ru/lb/premium297/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png",
+  "name": "Bein sports 3",
+  "link": "https://webudit.webhd.ru/lb/premium93/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/tr/e/e3/BeIN_SPORTS_Max_HD_3_2018_logo1.jpg",
+  "name": "Bein sports max 3",
+  "link": "https://webudit.webhd.ru/lb/premium298/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png",
+  "name": "Bein sports 4",
+  "link": "https://webudit.webhd.ru/lb/premium94/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2fGiP-1nEFlsOGeEzwnYmNNf603bn0EGDdg&usqp=CAU",
+  "name": "Bein sports max 4",
+  "link": "https://webudit.webhd.ru/lb/premium299/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/tr/b/bd/BeIN_SPORTS_HD_5_2018_logo.jpg",
+  "name": "Bein sports 5",
+  "link": "https://webudit.webhd.ru/lb/premium95/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1fGrJejHFQEvfXugvxj-FE0BauVn3A3CatQ&usqp=CAU",
+  "name": "Bein sports 6",
+  "link": "https://webudit.webhd.ru/lb/premium96/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},{
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4rjD1o12vLUXj-JZpQEr-93h3VyCcQqsFQ&usqp=CAU",
+  "name": "Bein sports 7",
+  "link": "https://webudit.webhd.ru/lb/premium97/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",
+  "name": "Astro SuperSport 1",
+  "link": "https://webudit.webhd.ru/lb/premium123/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",
+  "name": "Astro SuperSport 2",
+  "link": "https://webudit.webhd.ru/lb/premium124/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",
+  "name": "Astro SuperSport 3",
+  "link": "https://webudit.webhd.ru/lb/premium125/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",
+  "name": "Astro SuperSport 4",
+  "link": "https://webudit.webhd.ru/lb/premium126/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+},
+{
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",
+  "name": "Astro SuperSport 5",
+  "link": "https://webudit.webhd.ru/lb/premium124/index.m3u8?|Referer=https://weblivehdplay.ru/",
+  "origin": "",
+  "referrer": "",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36",
+  "cookie": "",
+  "drmScheme": "widevine",
+  "drmLicense": "DRM"
+}]
