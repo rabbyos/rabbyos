@@ -1,4 +1,4 @@
-#EXTM3U8
+#EXTM3U
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/Y9cb0Z8L/20240407-201715.png",Discovery Multi
 https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/rptz8ycH/20240407-164927.png",Sony Max FHD 
@@ -51,8 +51,6 @@ http://xtv.ooo:8080/Sehrish/12345/245928
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-55 tvg-logo="https://i.ibb.co/SKrt/202430-2235.png"group-title="INDIAN BANGLA CHANNEL", GOLDMINES BANGLA
 http://xtv.ooo:8080/Sehrish/12345/245893
-
-#EXTM3U
 #EXTINF:-1,Star Jalsha
 https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
 #EXTINF:-1,Star Jalsha VIP
