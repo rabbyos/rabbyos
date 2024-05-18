@@ -56,7 +56,7 @@ http://xtv.ooo:8080/Sehrish/12345/245893
 #EXTINF:-1,Star Jalsha
 https://freeiptv25.netlify.app/live/bdix/app/StarJalshaHD.m3u8
 #EXTINF:-1,Star Jalsha VIP
-http://176.119.29.52/live.ts?channelId=116&deviceMac=00:1A:79:0A:CA:4F.m3u8
+http://176.119.29.52/live.ts?channelId=116&deviceMac=00:1A:79:0A:CA:4F
 #EXTINF:-1,Jalsha Movies VIP
 http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
 #EXTINF:-1 tvg-id="" tvg-name="IQRA" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="ISLAMIC", ION TV
