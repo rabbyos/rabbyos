@@ -159,6 +159,13 @@ http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 http://tv5.hoichoi24.com/1136/tracks-v1a1/index.m3u8
 http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png",Desh tv
+http://cdn01.palki.tv/live/DeshTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", Channel 9
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+
+
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI",Asian TV
 http://tv5.hoichoi24.com/1139/tracks-v1a1/index.m3u8
 https://mtlivestream.site/asian/ytlive/index.m3u8
@@ -341,12 +348,22 @@ https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f07913
 https://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 
 
-
-
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/vZc6kZRJ/Sananda-TV-Logo.jpg",Sananda TV
 https://fr.tvanondo.online/sananda/video.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/9QfZFpLp/1128-bollywood-clasic.jpg", Bollywood Classic 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/SRyj1S5r/bollywood-hd.jpg",Bollywood HD 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/SRyj1S5r/bollywood-hd.jpg",Bollywood FHD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/KzmBgP5J/Bollywood-Prime-thumbnail.png",Bollywood Prime 
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/qRxKtdV2/20240407-210013.png",Colors Cineplex Boyhood
+https://keralamaxtv.com/vt/stream.m3u8?id=Colors_Cineplex_Bollywood
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/qRxKtdV2/20240407-210013.png",MTV_Beats_HD
+https://keralamaxtv.com/vt/stream.m3u8?id=MTV_Beats_HD
 
