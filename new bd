@@ -368,3 +368,11 @@ https://keralamaxtv.com/vt/stream.m3u8?id=Colors_Cineplex_Bollywood
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/qRxKtdV2/20240407-210013.png",MTV_Beats_HD
 https://keralamaxtv.com/vt/stream.m3u8?id=MTV_Beats_HD
 
+#EXTINF:-1 tvg-logo='https://i.ibb.co/NsVXMH9/IMG-20240126-094527.png' group-title='MUSIC CHANNELS', SANGEET BANGLA https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8 #EXTINF:-1 tvg-logo='https://i.ibb.co/hR9CK7Q/IMG-20240126-094603.png' group-title='MUSIC CHANNELS', MUSIC INDIA https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8 #EXTINF:-1 group-title='MUSIC CHANNELS' tvg-logo='https://i.ibb.co/wKPkb8s/IMG-20240129-070202.png',9XM https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8 #EXTINF:-1 tvg-logo='https://i.ibb.co/MVtcdVM/IMG-20240126-094633.png' group-title='MUSIC CHANNELS', 9X TASHAN https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8 #EXTINF:-1 tvg-logo='https://i.ibb.co/G7TdMTC/IMG-20240126-121922.jpg' group-title='MUSIC CHANNELS',Zoom https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+
+
+#EXTINF:-1 tvg-logo='https://i.ibb.co/2PzGpKf/IMG-20240126-095218.png' group-title='MUSIC CHANNELS', AB MASTIII https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8 #EXTINF:-1 tvg-logo='https://i.ibb.co/hKPkY4G/IMG-20240126-095345.png'group-title='MUSIC CHANNELS', SHOW BOX https://epiconvh.s.llnwi.net/showbox/master.m3u8 #EXTINF:-1 tvg-logo='https://i.ibb.co/Dwy8VQN/IMG-20240126-095458.png' group-title='MUSIC CHANNELS', 9X JHAKAAS https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8 #
+
+
+
+
