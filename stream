@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCm1CdviW48s_oegYKFfdpUWvkBZXb8CciKGn7cf2UXA&s" group-title="Entertainment", Star Gold HD
+http://xtv.ooo:8080/live/logixs1176/logixs7562/109959.ts
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/Y9cb0Z8L/20240407-201715.png",Discovery Multi
 https://freeott.site/discovery/Discovery_Channel.m3u8
@@ -218,13 +220,14 @@ https://himel-op.top/portal/puk.m3u8?id=11895
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 https://himel-op.top/portal/hexa.m3u8?id=256
 
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
-https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
-http://103.151.60.214:7444/1102/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Entertainment", Gazi TV
+http://starshare.live:8080/live/T20C227070225533/202210886677/767.ts
 
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
-http://bdstreamhub.atwebpages.com/T-sports.m3u8
-http://103.151.60.214:7444/1101/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports Channels", Star Sports 3
+http://opplex.tv:8080/live/2312211/1616616/167577.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports Channels", T Sports HD
+http://starshare.live:8080/live/T20C227070225533/202210886677/52500.ts
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 https://bdixtv247.techpriyo.com/api/jadootv/jado.php?id=nagorik_tv
