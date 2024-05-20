@@ -1,5 +1,6 @@
 #EXTM3U:-
 
+#EXTINF:-1 tvg-id='82' tvg-logo='https://i.ibb.co/qM59dhq/IMG-20240320-113834.jpg' group-title='BANGLADESHI CHANNELS',Alpha Tv Canada https://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8 #EXTINF:-1 group-title='BANGLADESHI CHANNELS' tvg-logo='https://i.ibb.co/WP3KHjZ/IMG-20240320-114453.jpg',AB TV https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony Max [FHD]
 https://allinonereborn.tech/opplex.php?id=66180
