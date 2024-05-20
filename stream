@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7xZ6Xpuwkkb7_WmEzUZxQNomWiEfsHp5gcoKevMujAw&s" group-title="Entertainment", Star Jalsha HD
+http://opplex.tv:8080/live/2312211/1616616/245898.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCm1CdviW48s_oegYKFfdpUWvkBZXb8CciKGn7cf2UXA&s" group-title="Entertainment", Star Gold HD
 http://xtv.ooo:8080/live/logixs1176/logixs7562/109959.ts
 
