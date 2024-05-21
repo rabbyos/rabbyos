@@ -406,3 +406,28 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/106133.ts
 #https://pos.bongohub.pw/mac.m3u8?id=11064
 http://xtv.ooo:8080/live/RiyazMPT/433833/112972.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports Channels", Star Sports 1 English HD
+http://starshare.live:8080/live/T20C227070225533/202210886677/124281.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0yA8k0MWyewq3TFIUINM32cbc266NygS2TD5qZqoRw&s" group-title="Sports Channels", Star Sports 1 Hindi HD
+http://opplex.tv:8080/live/2312211/1616616/167573.ts
+
+
+#EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports Channels", Star Sports 2 HD
+http://opplex.tv:8080/live/2312211/1616616/167576.ts
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXHfSJ-c93O7x4E7uYJTdy5R0zf8OAp4rfq_HF0fXIMw&s" group-title="Entertainment", Jalsha Movies
+http://starshare.live:8080/live/T20C227070225533/202210886677/98884.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids", Nick
+http://45.137.206.58:29820/ghLs2zdZSnFvTT000031b73936578b60223d9ba5fe706f5a8a7bde686e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony Ten 1
+http://starshare.live:8080/live/T20C227070225533/202210886677/154.ts
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Ten 5
+http://starshare.live:8080/live/T20C227070225533/202210886677/17565.ts
+
+
+
