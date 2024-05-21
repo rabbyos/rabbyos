@@ -136,9 +136,9 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 http://tv5.hoichoi24.com/1132/tracks-v1a1/index.m3u8
 https://myflixbd.com/0.m3u8
 
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
-http://tv5.hoichoi24.com/1123/tracks-v1a1/index.m3u8
-https://freeiptv25.netlify.app/live/bdix/app/Mohona.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona TV
+http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
+
 
 #EXTINF:-1 group-title="Live Tv" tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png",Bijoy Tv
 http://cdn01.palki.tv/live/BijoyTV-M/tracks-v2a1/mono.m3u8
