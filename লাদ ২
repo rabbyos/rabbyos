@@ -197,6 +197,7 @@ http://opplex.tv:8080/live/2312211/1616616/167577.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports Channels", T Sports HD
 http://starshare.live:8080/live/T20C227070225533/202210886677/52500.ts
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=rtsyXO0y24SZZVtmqVpA0g&expires=1716594277&user=ff39d05fef0749028389f28943b73363
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/9QfZFpLp/1128-bollywood-clasic.jpg", Bollywood Classic 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
@@ -236,14 +237,14 @@ http://starshare.live:8080/live/T20C227070225533/202210886677/124281.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0yA8k0MWyewq3TFIUINM32cbc266NygS2TD5qZqoRw&s" group-title="Sports Channels", Star Sports 1 Hindi HD
 http://opplex.tv:8080/live/2312211/1616616/167573.ts
-
+https://bajimath.com/jilla/stream.m3u8?chunks=5c3383084f6cb4f977e60295cb858e6d57f35078cf47792bbaca771bbb038b9cc89aaf8f501c694cbd45bcf8a793feed1eda951af8e736e3b57bd590ec35ca6c3ea5e0b1bbb25d1b0a0634b147f9f10fdf5cd295a9bf37f8b044796abc1be849dc96313e4208236e9277707d72568268f44d962ea5b72ece1dd2eb51ee4e798c8016399a85c7ffa260717debc8c4bd7b
 
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports Channels", Star Sports 2 HD
 http://opplex.tv:8080/live/2312211/1616616/167576.ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXHfSJ-c93O7x4E7uYJTdy5R0zf8OAp4rfq_HF0fXIMw&s" group-title="Entertainment", Jalsha Movies
-http://starshare.live:8080/live/T20C227070225533/202210886677/98884.ts
+https://livebunny.b-cdn.net/jalshamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids", Nick
 http://45.137.206.58:29820/ghLs2zdZSnFvTT000031b73936578b60223d9ba5fe706f5a8a7bde686e/index.m3u8
