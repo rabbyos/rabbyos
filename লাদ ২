@@ -5,16 +5,19 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/245989.ts
 #http://xtv.ooo:8080/Sehrish/12345/245889
 #https://himel-op.top/portal/ditto.m3u8?id=753
 #http://195.26.87.217/live.ts?channelId=44150&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7Y9R8nhJ/20240407-170257.png",Zee Cinema FHD
-http://xtv.ooo:8080/adnankb2006/86057314/221261
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Whu8gP5HVklGFfaA-QEUr68B8ffdIBnGc4IEqFXjCg&s" group-title="Entertainment", Zee Cinema
+http://opplex.tv:8080/live/2312211/1616616/221261.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Entertainment", Sony Pix
+http://opplex.tv:8080/live/121151412/644261812/66224.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" group-title="Entertainment", Sony Max
+http://opplex.tv:8080/live/2312211/1616616/221259.ts
 
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-logo=https://rkbdmoza.xyz/wp-theme/stream.m3u8?chunks=4f37b6b8860740991d0e8d044066977e5414f10d4dedbf3b7de48e669f4fc8fd45cf56f9695b2f5408c6d1d7fc6e8f5e41925d7f2fe834fed465eaeb3f714f9eef216cf68f2f5671e68eaf28abf36e98f796803fea29f8e94c4627aca9637dc3604cca73fbbc1055dda2231fbf51341659bacccb0e25bc9d612a31ea75ebab3eb3d40c56321266094acd9bd8795f19ac20fa5d1113c535ad260ce265f03967a0a222ceae129b6a7d678c1cc032847df3e06289fee6fcf9c0e4967154fa7c5d71c3108aff5c74b0a76baac23f6f863c642d96160662d20a5e133b8d10184143e83c37d5912500c90f9c73922ed77ca706d232614ddb24f0df4630a7a9fa3ccbc8d1c5c648717be0358ad7841dde94734ac18c011acea84180c8319724c3796864149ed1bf70964bc3efa8aed0c7da96a388844738bfeda87782621512301430f9da13ea66592fa1861541aaea6ee0475e50ea4249149ca86ad6117b711de16b6bd11a816a59191409ae897b02dcaf269a
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona TV
 http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7Y9R8nhJ/20240407-170257.png",Zee Cinema FHD 
-http://xtv.ooo:8080/adnankb2006/86057314/109958 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7Y9R8nhJ/20240407-170257.png",Zee Cinema FHD 
-http://xtv.ooo:8080/adnankb2006/86057314/206308
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",The Movie Club
@@ -67,11 +70,13 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,iON TV UK [Jagobd]
 https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://static.epg.best/in/SonyMax.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Sony Max [FHD]
-https://allinonereborn.tech/opplex.php?id=66180
+
 
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | ENTERTAINMENT", IN | & Pictures [FHD]
 https://allinonereborn.tech/opplex.php?id=66183
+
+#EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/104466738.cms" group-title="Entertainment", Zee Bangla
+http://opplex.tv:8080/live/2312211/1616616/245893.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7xZ6Xpuwkkb7_WmEzUZxQNomWiEfsHp5gcoKevMujAw&s" group-title="Entertainment", Star Jalsha HD
 http://opplex.tv:8080/live/2312211/1616616/245898.ts
@@ -81,15 +86,7 @@ http://xtv.ooo:8080/live/logixs1176/logixs7562/109959.ts
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/Y9cb0Z8L/20240407-201715.png",Discovery Multi
 https://freeott.site/discovery/Discovery_Channel.m3u8
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/rptz8ycH/20240407-164927.png",Sony Max FHD 
-http://xtv.ooo:8080/adnankb2006/86057314/109957
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/rptz8ycH/20240407-164927.png",Sony Max FHD 
-http://195.26.87.217/live.ts?channelId=185&uid=7435&deviceMac=00:1A:79:51:4B:3A 
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7Y9R8nhJ/20240407-170257.png",Zee Cinema FHD 
-http://103.107.79.87:8080/CH8109HD02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/7Y9R8nhJ/20240407-170257.png",Zee Cinema FHD
-http://xtv.ooo:8080/adnankb2006/86057314/221261
 
 #EXTINF:-1,JagoNews24 TV [Jagobd]
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
