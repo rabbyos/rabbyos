@@ -253,3 +253,35 @@ http://starshare.live:8080/live/T20C227070225533/202210886677/17565.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8Ex39hGjdgzPY05MsPLajf7y312w5RtJA0ZwryXWg4u_ZSfT59rRc902bcbsO5Eh6O2JS_mUvQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Star Jalsha
 http://opplex.tv:8080/live/2312211/1616616/245898.ts
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)", Sony Ten 2 (4K)
+https://allinonereborn.tech/opplex.php?id=109984
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)", Sony Ten 3 (4K)
+https://allinonereborn.tech/opplex.php?id=109985
+
+#EXTINF:-1 tvg-id="starworldhd.in" tvg-logo="http://openboxv8s.com/india/star_world_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD", STAR WORLD (4K)
+https://allinonereborn.tech/opplex.php?id=109971
+
+#EXTINF:-1 tvg-id="starpremierehd.in" tvg-logo="http://openboxv8s.com/india/star_world_premiere_hd_in.jpg" group-title="INDIAN | 4K ULTRA HD", STAR WORLD PREM (4K)
+https://allinonereborn.tech/opplex.php?id=109972
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="http://openboxv8s.com/india/star_movies_in_hd.jpg" group-title="INDIAN | 4K ULTRA HD", STAR MOVIES (4K)
+https://allinonereborn.tech/opplex.php?id=109970
+#EXTINF:-1 tvg-id="utvhd.in" tvg-logo="noimage.png" group-title="INDIAN | 4K ULTRA HD", UTV (4K)
+https://allinonereborn.tech/opplex.php?id=109956
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-logo="https://static.epg.best/sg/ZeeTV.sg.png" group-title="INDIAN | ENTERTAINMENT", IN | Zee TV [FHD]
+https://allinonereborn.tech/opplex.php?id=66163
+#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="https://static.epg.best/gb/Colors.uk.png" group-title="INDIAN | ENTERTAINMENT", IN | Colors [FHD]
+https://allinonereborn.tech/opplex.php?id=66168
+
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://static.epg.best/in/StarBharat.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Bharat
+https://allinonereborn.tech/opplex.php?id=221255
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" group-title="INDIAN | ENTERTAINMENT", IN | Star Gold Select
+https://allinonereborn.tech/opplex.php?id=221257
+#EXTINF:-1 tvg-id="IND: Box Cinema FHD" tvg-logo="http://boxcinemedia.com/assets/img/logo.png" group-title="INDIAN | ENTERTAINMENT", IND: Box Cinema FHD
+https://allinonereborn.tech/opplex.php?id=206313
+
+
+
+
