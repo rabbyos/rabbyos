@@ -191,9 +191,8 @@ http://starshare.live:8080/live/T20C227070225533/202210886677/767.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports Channels", Star Sports 3
 http://opplex.tv:8080/live/2312211/1616616/167577.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports Channels", T Sports HD
-http://starshare.live:8080/live/T20C227070225533/202210886677/52500.ts
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=rtsyXO0y24SZZVtmqVpA0g&expires=1716594277&user=ff39d05fef0749028389f28943b73363
+#EXTINF:-1,TSPORTS
+https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/9QfZFpLp/1128-bollywood-clasic.jpg", Bollywood Classic 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
