@@ -1,5 +1,5 @@
-#EXTM3U
 #EXTM3U8
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=362e7cda610177dd0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
@@ -79,8 +79,6 @@ https://allinonereborn.tech/opplex.php?id=66183
 
 #EXTINF:-1 tvg-logo="https://etimg.etb2bimg.com/photo/104466738.cms" group-title="Entertainment", Zee Bangla
 http://opplex.tv:8080/live/2312211/1616616/245893.ts
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8Ex39hGjdgzPY05MsPLajf7y312w5RtJA0ZwryXWg4u_ZSfT59rRc902bcbsO5Eh6O2JS_mUvQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Star Jalsha
 http://opplex.tv:8080/live/2312211/1616616/245898.ts
 
