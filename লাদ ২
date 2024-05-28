@@ -17,6 +17,12 @@ http://opplex.tv:8080/live/121151412/644261812/66224.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" group-title="Entertainment", Sony Max
 http://opplex.tv:8080/live/2312211/1616616/221259.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZNZFn73807_y0gperdrAv273ElXT0o3dtkYCWV_4Fdw&s" group-title="Entertainment", Jalsha Movies
+http://starshare.live:8080/live/T20C227070225533/202210886677/98884.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Colors Bangla
+http://opplex.tv:8080/live/2312211/1616616/245895.ts
+
 
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-logo=https://rkbdmoza.xyz/wp-theme/stream.m3u8?chunks=4f37b6b8860740991d0e8d044066977e5414f10d4dedbf3b7de48e669f4fc8fd45cf56f9695b2f5408c6d1d7fc6e8f5e41925d7f2fe834fed465eaeb3f714f9eef216cf68f2f5671e68eaf28abf36e98f796803fea29f8e94c4627aca9637dc3604cca73fbbc1055dda2231fbf51341659bacccb0e25bc9d612a31ea75ebab3eb3d40c56321266094acd9bd8795f19ac20fa5d1113c535ad260ce265f03967a0a222ceae129b6a7d678c1cc032847df3e06289fee6fcf9c0e4967154fa7c5d71c3108aff5c74b0a76baac23f6f863c642d96160662d20a5e133b8d10184143e83c37d5912500c90f9c73922ed77ca706d232614ddb24f0df4630a7a9fa3ccbc8d1c5c648717be0358ad7841dde94734ac18c011acea84180c8319724c3796864149ed1bf70964bc3efa8aed0c7da96a388844738bfeda87782621512301430f9da13ea66592fa1861541aaea6ee0475e50ea4249149ca86ad6117b711de16b6bd11a816a59191409ae897b02dcaf269a
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona TV
