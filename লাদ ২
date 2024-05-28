@@ -23,6 +23,9 @@ https://allinonereborn.tech/opplex1.php?id=66185
 
 #EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="ENTERTAINMENT",Zee Cinema USA
 https://allinonereborn.tech/opplex1.php?id=206268
+#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="IND: DHINCHAAK" tvg-logo="http://b1g.fun/logos2/dhinchaak2.jpg" group-title="ENTERTAINMENT",DHINCHAAK
+https://allinonereborn.tech/opplex1.php?id=374980
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Whu8gP5HVklGFfaA-QEUr68B8ffdIBnGc4IEqFXjCg&s" group-title="Entertainment", Zee Cinema
@@ -60,6 +63,8 @@ https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s" group-title="Entertainment", Nagorik TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
+#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="IN: Khushboo Bangla" tvg-logo="" group-title="INDIAN ALL",Khushboo Bangla
+https://allinonereborn.tech/opplex1.php?id=355551
 
 #EXTINF:-1,RTA SPORTS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
@@ -266,9 +271,9 @@ https://bajimath.com/jilla/stream.m3u8?chunks=5c3383084f6cb4f977e60295cb858e6d57
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports Channels", Star Sports 2 HD
 http://opplex.tv:8080/live/2312211/1616616/167576.ts
 
+#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="IN: Jalsha Movies FHD" tvg-logo="" group-title="INDIAN ALL",Jalsha Movies FHD
+https://allinonereborn.tech/opplex1.php?id=355579
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXHfSJ-c93O7x4E7uYJTdy5R0zf8OAp4rfq_HF0fXIMw&s" group-title="Entertainment", Jalsha Movies
-https://livebunny.b-cdn.net/jalshamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids", Nick
 http://45.137.206.58:29820/ghLs2zdZSnFvTT000031b73936578b60223d9ba5fe706f5a8a7bde686e/index.m3u8
