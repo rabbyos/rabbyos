@@ -1,5 +1,11 @@
-#EXTM3U8
 #EXTM3U
+#EXTINF:-1 tvg-id="ts632" group-title="Movies" tvg-name="Star Movies HD" tvg-logo="https://i.postimg.cc/WpxKWWB0/image.jpg",Star Movies HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+#EXTINF:-1 tvg-id="64" tvg-logo="https://tatalogo.pages.dev/64.png" group-title="Movies",Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+#EXTINF:-1 tvg-id="ts267" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",&pictures HD
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://its-nayeemparvez.xyz/thunder-streamz/playlist.m3u8?id=362e7cda610177dd0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
@@ -23,6 +29,13 @@ http://opplex.tv:8080/live/2312211/1616616/221259.ts
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-logo=https://rkbdmoza.xyz/wp-theme/stream.m3u8?chunks=4f37b6b8860740991d0e8d044066977e5414f10d4dedbf3b7de48e669f4fc8fd45cf56f9695b2f5408c6d1d7fc6e8f5e41925d7f2fe834fed465eaeb3f714f9eef216cf68f2f5671e68eaf28abf36e98f796803fea29f8e94c4627aca9637dc3604cca73fbbc1055dda2231fbf51341659bacccb0e25bc9d612a31ea75ebab3eb3d40c56321266094acd9bd8795f19ac20fa5d1113c535ad260ce265f03967a0a222ceae129b6a7d678c1cc032847df3e06289fee6fcf9c0e4967154fa7c5d71c3108aff5c74b0a76baac23f6f863c642d96160662d20a5e133b8d10184143e83c37d5912500c90f9c73922ed77ca706d232614ddb24f0df4630a7a9fa3ccbc8d1c5c648717be0358ad7841dde94734ac18c011acea84180c8319724c3796864149ed1bf70964bc3efa8aed0c7da96a388844738bfeda87782621512301430f9da13ea66592fa1861541aaea6ee0475e50ea4249149ca86ad6117b711de16b6bd11a816a59191409ae897b02dcaf269a
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona TV
 http://cdn01.palki.tv:80/live/MohonaTV-M/index.m3u8
+
+#EXTINF:-1 tvg-id="ts296" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v2/imageContent-11263-j9j1tch4-m5.png",BFLIX
+https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_472/output/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="ts1033" group-title="null" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png",Sports 18 - 1 HD
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
