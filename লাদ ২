@@ -253,7 +253,7 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/112972.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports Channels", Star Sports 1 English HD
 http://starshare.live:8080/live/T20C227070225533/202210886677/124281.ts
-
+#http://starshare.live:8080/live/007/007/98864.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0yA8k0MWyewq3TFIUINM32cbc266NygS2TD5qZqoRw&s" group-title="Sports Channels", Star Sports 1 Hindi HD
 http://opplex.tv:8080/live/2312211/1616616/167573.ts
 https://bajimath.com/jilla/stream.m3u8?chunks=5c3383084f6cb4f977e60295cb858e6d57f35078cf47792bbaca771bbb038b9cc89aaf8f501c694cbd45bcf8a793feed1eda951af8e736e3b57bd590ec35ca6c3ea5e0b1bbb25d1b0a0634b147f9f10fdf5cd295a9bf37f8b044796abc1be849dc96313e4208236e9277707d72568268f44d962ea5b72ece1dd2eb51ee4e798c8016399a85c7ffa260717debc8c4bd7b
