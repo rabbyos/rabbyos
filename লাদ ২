@@ -93,9 +93,15 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,iON TV UK [Jagobd]
 https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="IN: Colors Bangla Cinema" tvg-logo="" group-title="INDIAN ALL",Colors Bangla Cinema
-https://allinonereborn.tech/opplex1.php?id=356007
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" , Colors Bangla Cinema
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13888.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/F_P_BTyPBnghhz2sBd7o-TAEOUe13gq_sbNoWxanFDruYusno34NbIWzCyYSvGS_kaSUizkzgg=s900-c-k-c0x00ffffff-no-rj" , Sonic Bangla
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1345&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9F3Qdt_xLS63UROdf4leWQhrknaJ92URx0Q&s" , Nick Bangla
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1341&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="INDIAN | ENTERTAINMENT", IN | & Pictures [FHD]
@@ -209,8 +215,11 @@ http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 http://rajdhani.jaagobd.com/rajdhanitv/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1,ETV BANGLA
 http://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ICC%20Mens%20t20%20World%20Cup%202024.jpg"group-title="ICC Mens T20 World Cup 2024",Gazi TV HD
-http://starshare.live:8080/live/Sylvia/Sylvia/767.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T20 WC T Sports
+https://mominvaithanks.xyz/mominRocks/ts.php?id=live-02&e.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" , Sky Sports
+http://tv.cloudcdn.me/live.ts?channelId=281&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports Channels", Star Sports 3
 http://opplex.tv:8080/live/2312211/1616616/167577.ts
