@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTM3U8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
 #http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 http://xtv.ooo:8080/live/RiyazMPT/433833/245989.ts
@@ -51,7 +49,7 @@ http://103.149.142.133/0.m3u8
 https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOyaPeb-ankJDumI8zb_uaOvWgy7TrIAxr1qWhrtXNtQ&s" group-title="Entertainment", Nagorik TV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1717792009&md5=uJ2dfzlYRSbYUwRLoJ5euw&user=ff39d05fef0749028389f28943b73363
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1717794927&md5=6Ugdet6RXANHYzDq850uqw&user=ff39d05fef0749028389f28943b73363
 #EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="IN: Khushboo Bangla" tvg-logo="" group-title="INDIAN ALL",Khushboo Bangla
 https://allinonereborn.tech/opplex1.php?id=355551
 
