@@ -364,8 +364,8 @@ https://allinonereborn.tech/opplex1.php?id=221258
 https://rkbdmoza.xyz/wp-theme/stream.m3u8?chunks=8ef92859f8148fb7d639df2fe506155df9d303b97104a5b218c1b696c17c452c40246409cbc842188b6aaf5d027ce104b011af047807d1c9db92e340c6ed5085e88207d9da505481c04d0b82e452a06f3795fac97515bb994224aa0076d92636b6133d567d0764b23ad96557d766c57dbbea5fd6c66fd844c92500409073e633e8efc7601c1c697ba49084b3e394a6ca7236307737265560e6b6d0158e749958803d2d48459e322f1687af8f4724492589b09a55ee436e2f898fbc4010639e3fb92983e6f60bd31dcaa82b798ba772a821fe620f76048ae0eed15ee593826fd569f23c9849d6d266709109029471ee58a0ddc50cfe0ca8d04164dd1e6612b8bf
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
-http://starshare.live:8080/live/Sylvia/Sylvia/271038.m3u8
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bangla_Cinema_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="24585" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1335.jpg" group-title="INDIAN ENTERAINMENT",IN: STAR BHARAT_4K http://portal.code-crafters.app/app/play.m3u8?id=24585
+
 
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
