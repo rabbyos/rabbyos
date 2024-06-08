@@ -10,6 +10,9 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/245989.ts
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN CHANNEL", ZEE TV HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=217
 
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies Ts https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=198
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Whu8gP5HVklGFfaA-QEUr68B8ffdIBnGc4IEqFXjCg&s" group-title="Entertainment", Zee Cinema
 http://opplex.tv:8080/live/2312211/1616616/221261.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Entertainment", Sony Pix
