@@ -12,18 +12,18 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=217
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10427
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=8658
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Whu8gP5HVklGFfaA-QEUr68B8ffdIBnGc4IEqFXjCg&s" group-title="Entertainment", Zee Cinema
-http://opplex.tv:8080/live/2312211/1616616/221261.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Entertainment", Sony Pix
 http://opplex.tv:8080/live/121151412/644261812/66224.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" , Cartoon Network English
 http://starshare.live:8080/live/ashokkumar/ashokkumar/8.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" group-title="Entertainment", Sony Max
-http://opplex.tv:8080/live/2312211/1616616/221259.ts
-https://www.google.com/search?sca_esv=6b6df170a5c9891b&sca_upv=1&q=https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png+group-title%3D+Hindi+Movies+,+Sony+Max+HD+Ts+https://himel-&sa=X&ved=2ahUKEwittK6Qws-GAxXrwTgGHc2iATQQgwN6BAgGEAI&biw=424&bih=777&dpr=2.55
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies", Sony Max HD Ts
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZNZFn73807_y0gperdrAv273ElXT0o3dtkYCWV_4Fdw&s" group-title="Entertainment", Jalsha Movies
 http://starshare.live:8080/live/T20C227070225533/202210886677/98884.ts
 
