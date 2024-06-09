@@ -18,6 +18,8 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=198
 http://opplex.tv:8080/live/2312211/1616616/221261.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Entertainment", Sony Pix
 http://opplex.tv:8080/live/121151412/644261812/66224.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" , Cartoon Network English
+http://starshare.live:8080/live/ashokkumar/ashokkumar/8.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" group-title="Entertainment", Sony Max
 http://opplex.tv:8080/live/2312211/1616616/221259.ts
@@ -165,6 +167,8 @@ https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1,Rajdhani TV [Jagobd]
 https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" , Channel 9
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHFvvsB8IHNPZXyH1vSDNjyg/ts
 #EXTINF:-1,RTV HD [Jagobd]
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,SATV [Jagobd]
@@ -214,23 +218,13 @@ http://124.109.47.101/hls/stream1.m3u8
 http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
 #EXTINF:-1,Ekattor TV HD
 http://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
-#EXTINF:-1,BTV National
-http://cdn01.palki.tv/live/BTV-M/index.m3u8
-#EXTINF:-1,BTV World
-http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
-#EXTINF:-1,BTV Chottogram
-http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
-#EXTINF:-1,Sangsad Tv
-http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-logo="LOGO" group-title="𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗖𝗛𝗔𝗡𝗡𝗘𝗟", GAAN BANGLA HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/hey.m3u8?id=49319
 
 #EXTINF:-1,TBN 24
 http://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Channel 9
-http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
-#EXTINF:-1,Anando Tv
-http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+
 #EXTINF:-1,Rajdhani TV
 http://rajdhani.jaagobd.com/rajdhanitv/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1,ETV BANGLA
