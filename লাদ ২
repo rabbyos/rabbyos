@@ -354,12 +354,15 @@ http://opplex.tv:8080/live/2312211/1616616/167576.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids", Nick
 http://45.137.206.58:29820/ghLs2zdZSnFvTT000031b73936578b60223d9ba5fe706f5a8a7bde686e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports" group-title="",Sony Sports Ten 1 HD
+https://toxicify.pro/sliv/stream.php?id=sony-ten-1-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports" group-title="",Sony Sports Ten 2
+https://toxicify.pro/sliv/stream.php?id=sony-ten-2-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports" group-title="",Sony Sports Ten 3 HD
+https://toxicify.pro/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports" group-title="",Sony Sports Ten 5
+https://toxicify.pro/sliv/stream.php?id=sony-ten-5-hd&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Sports", Sony Ten 1
-http://starshare.live:8080/live/T20C227070225533/202210886677/154.ts
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Ten 5
-http://starshare.live:8080/live/T20C227070225533/202210886677/17565.ts
 #EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", HINDI HITS
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
