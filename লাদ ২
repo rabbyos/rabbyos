@@ -379,9 +379,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_20848
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png"group-title="Hindi Music",Zing
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zing_MOB/Fallback/index.m3u8
-#https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing.m3u8
-
+https://bajimath.com/jilla/stream.m3u8?chunks=5c3383084f6cb4f977e60295cb858e6d57f35078cf47792bbaca771bbb038b9c2acff2f072714d60811b322864f2de840443443cdbe569fecf731152bcaa6f191abb2526a74628dc68f2b82ff2182643f1c750e2205f9045149e189fd6c21145de9d8047c119cddcebe51bb181537083
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Hindi Music",B4U Music
 
 
