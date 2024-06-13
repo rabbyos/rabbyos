@@ -249,9 +249,10 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports Channels", Star Sports 3
 http://opplex.tv:8080/live/2312211/1616616/167577.ts
 #EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", T SPORTS 
-http://113.212.111.246:8080/hls/col12.m3u8
+https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
 
 #EXTINF:-1,TSPORTS
+http://113.212.111.246:8080/hls/col12.m3u8
 https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN 
