@@ -38,7 +38,7 @@ http://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=GVgEwSJI1_9cg
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
-http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+https://tplay.dinesh29.com.np/live/tataplay-universal/bflix/index.ts
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="", South Station
@@ -122,7 +122,20 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN CHANNEL", COLORS CINEPLEX
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=470
 #EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-chno="185" group-title="WioTV",And Pictures HD
-https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=185&e=.m3u8
+https://tplay.dinesh29.com.np/live/tataplay-universal/and-pictures-hd/index.ts
+
+#EXTINF:-1 tvg-id="ts175" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="MOVIES";Movies",Zee Bollywood
+https://tplay.dinesh29.com.np/live/tataplay-universal/zee-bollywood/index.ts
+#EXTINF:-1 tvg-id="ts1183" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="MOVIES";Movies",&Xplor HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/and-xplor-hd/index.ts
+
+#EXTINF:-1 tvg-id="ts1321" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATMOV_Thumbnail-v1/ATMOV_Thumbnail.png" group-title="MOVIES";Movies",ALL Time MOVIES
+https://tplay.dinesh29.com.np/live/tataplay-universal/all-time-movies/index.ts
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN CHANNEL", STAR BHARAT
