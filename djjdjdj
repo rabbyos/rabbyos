@@ -1,4 +1,59 @@
 #EXTM3U
+#EXTINF:-1, BANGLA VISION -JADOO
+http://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=zJsaR5caSCOYqihamGVE-Q&expires=1718459215&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  NAGORIK TV -JADOO
+http://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=GVgEwSJI1_9cgGTCMy-i5Q&expires=1718459495&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  CHANNEL 9 -JADOO
+http://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=EwujCFvRFBg6d7il_ACQ0w&expires=1718459604&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  CHANNEL 24-JADOO
+http://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=X2zO_TnOhodeI0D0T7tqqQ&expires=1718459663&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  DEEPTO TV-JADOO
+http://edge01.iptv.digijadoo.net/live/deepto_tv/playlist.m3u8?md5=lig5OeL-jmKQDxFTmPCZQA&expires=1718459735&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  DESH TV- JADOO
+http://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=QY1yTR8KBcO6OhQsWWTn7Q&expires=1718459796&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  DURONTO TV -JADOO
+http://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=YeMZeLP1Jx8UXHWQZmk7uw&expires=1718459870&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  EKATTOR TV-JADOO
+http://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=Rg4exqp5DyvwUeoQXgce_A&expires=1718459933&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1, INDEPENDENT TV-JADOO
+http://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=owfce9Sd0bsgaHf28nBN7g&expires=1718460090&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  MYTV -JADOO
+http://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=gxnUJWe1ZvHY5Z68KjppTA&expires=1718460178&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  MAASRANGA TV-JADOO
+http://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=JSfv-vFMQont9cBfUo9QAg&expires=1718460277&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  NEWS 24 -JADOO
+http://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=jwhbZn4FVtnH9DolfKbWbQ&expires=1718460457&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  SOMOY NEWS-JADOO
+http://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=02ExEaInejLGm_LDbZXf7g&expires=1718460562&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  TSPORTS -JADOO
+http://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=5krVCk3irRaPA27XY9dEnA&expires=1718460707&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1, NEXUS TV -JADOO
+http://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=A_Nk__bMLIktbZnboM-7rw&expires=1718460760&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1, SATV -JADOO
+http://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=zPTBgwTZnUOY10-Hhnmc1g&expires=1718460916&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1, JAMUNA TV-JADOO
+http://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=anSTuJ2OBB-G_d4n2F-MuQ&expires=1718460968&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1, RTV HD-JADOO
+http://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=DWWZLBGjsFLmzpzTWGbr8g&expires=1718461021&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1, NTV -JADOO
+http://edge01.iptv.digijadoo.net/live/ntv/playlist.m3u8?md5=XTzaLuvNqbYmB_XP5yfRKw&expires=1718461062&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1, ASIAN TV - JADOO
+http://edge01.iptv.digijadoo.net/live/asian_tv/playlist.m3u8?md5=e3BMJBajDhhjgvM93oE3Sg&expires=1718461242&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  BANGLA TV-JADOO
+http://edge01.iptv.digijadoo.net/live/bangla_tv/playlist.m3u8?md5=8mdJuUh7u4CrniTuOfxjgw&expires=1718461315&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  DBC NEWS- JADOO
+http://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=OPeGiCFSwTgsFv4LiJSDtA&expires=1718506136&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  EKUSHEY TV-JADOO
+http://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=b-wVrj9vXTZSKytmjDdD7w&expires=1718506351&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1, ATN BANGLA-JADOO
+http://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=FWfGLuxIgoI18cPqY7lmlQ&expires=1718506444&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  ATN NEWS-JADOO
+http://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=u62utjEEsCwNNbs2gzzu5Q&expires=1718506536&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1, BTV WORLD-JADOO
+http://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=3DdHNDiYVn1R4GtVcqXdCg&expires=1718506709&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  ZEE BANGLA-JADOO
+http://edge01.iptv.digijadoo.net/live/zee_bangla/playlist.m3u8?md5=clLHmyh8LRSbPxV_9mH5Mg&expires=1718506816&user=c15be118d93a464dabf77260596012cf
+
 #EXTINF:-1 tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-big-2.8c0bf75.png" group-title="Bangladeshi",Somoy Tv
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",Gazi Tv http://lifetvbd.xyz:8080/12345/12345/2798.m3u8 
 
