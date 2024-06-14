@@ -32,7 +32,7 @@ http://opplex.tv:8080/live/2312211/1616616/245895.ts
 
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-logo=https://rkbdmoza.xyz/wp-theme/stream.m3u8?chunks=4f37b6b8860740991d0e8d044066977e5414f10d4dedbf3b7de48e669f4fc8fd45cf56f9695b2f5408c6d1d7fc6e8f5e41925d7f2fe834fed465eaeb3f714f9eef216cf68f2f5671e68eaf28abf36e98f796803fea29f8e94c4627aca9637dc3604cca73fbbc1055dda2231fbf51341659bacccb0e25bc9d612a31ea75ebab3eb3d40c56321266094acd9bd8795f19ac20fa5d1113c535ad260ce265f03967a0a222ceae129b6a7d678c1cc032847df3e06289fee6fcf9c0e4967154fa7c5d71c3108aff5c74b0a76baac23f6f863c642d96160662d20a5e133b8d10184143e83c37d5912500c90f9c73922ed77ca706d232614ddb24f0df4630a7a9fa3ccbc8d1c5c648717be0358ad7841dde94734ac18c011acea84180c8319724c3796864149ed1bf70964bc3efa8aed0c7da96a388844738bfeda87782621512301430f9da13ea66592fa1861541aaea6ee0475e50ea4249149ca86ad6117b711de16b6bd11a816a59191409ae897b02dcaf269a
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",dish jalsha TV
-
+http://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=GVgEwSJI1_9cgGTCMy-i5Q&expires=1718459495&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN BANGLA CHANNEL", ENTEER TEN BANGLA 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -67,6 +67,9 @@ https://allinonereborn.tech/opplex1.php?id=355551
 
 #EXTINF:-1,RTA SPORTS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1,  MYTV -JADOO
+http://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=gxnUJWe1ZvHY5Z68KjppTA&expires=1718460178&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1,AB TV USA [Jagobd]
 https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
 #EXTINF:-1,Alpha TV Canada [Jagobd]
@@ -174,8 +177,10 @@ https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1,Rajdhani TV [Jagobd]
 https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" , Channel 9
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHFvvsB8IHNPZXyH1vSDNjyg/ts
+
+#EXTINF:-1,  CHANNEL 9
+http://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=EwujCFvRFBg6d7il_ACQ0w&expires=1718459604&user=c15be118d93a464dabf77260596012cf
+
 #EXTINF:-1,RTV HD [Jagobd]
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,SATV [Jagobd]
@@ -223,8 +228,12 @@ https://tv5.hoichoi24.com/1005/tracks-v1a1/mono.m3u8
 http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1,MADANI
 http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
-#EXTINF:-1,Ekattor TV HD
-http://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+#EXTINF:-1,  DESH TV- JADOO
+http://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=QY1yTR8KBcO6OhQsWWTn7Q&expires=1718459796&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  DURONTO TV -JADOO
+http://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=YeMZeLP1Jx8UXHWQZmk7uw&expires=1718459870&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  EKATTOR TV-JADOO
+http://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=Rg4exqp5DyvwUeoQXgce_A&expires=1718459933&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗖𝗛𝗔𝗡𝗡𝗘𝗟", GAAN BANGLA HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/hey.m3u8?id=49319
@@ -247,7 +256,8 @@ http://103.109.56.116/live/skyfeed1006/index.m3u8
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
 
 
-
+#EXTINF:-1,  TSPORTS -JADOO
+http://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=5krVCk3irRaPA27XY9dEnA&expires=1718460707&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports Channels", Star Sports 3
 http://opplex.tv:8080/live/2312211/1616616/167577.ts
 #EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", T SPORTS 
@@ -255,7 +265,6 @@ https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b0
 
 #EXTINF:-1,TSPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
-https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN 
 https://t.ly/Toffee-Match1-EN/Zubayer_Op.m3u8
