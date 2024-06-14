@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Kolkata Bangla",Sony Aath
-https://suport.top10wifibhaluka.com/wp-main/stream.php?id=sony-aath&e=.m3u8
-
+#EXTINF:-1 tvg-id="ts34" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Bengali;Entertainment",SONY AATH
+https://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts
 #EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://madplay.live/hls/jiotv/stream.php?id=685&e=.m3u8
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN CHANNEL", ZEE TV HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=217
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10427
+
+#EXTINF:-1 tvg-id="ts173" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png" group-title="Tataplay | English";Movies",Movies Now
+https://tplay.dinesh29.com.np/live/tataplay-universal/movies-now/index.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" group-title="Entertainment", Sony Max
 http://opplex.tv:8080/live/2312211/1616616/221259.ts
@@ -341,15 +343,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/KzmBgP5J/Bollywood-Prime-thumbnail.png",Bollywood Prime 
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/qRxKtdV2/20240407-210013.png",Colors Cineplex Boyhood
-https://keralamaxtv.com/vt/stream.m3u8?id=Colors_Cineplex_Bollywood
-#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-logo="https://i.postimg.cc/qRxKtdV2/20240407-210013.png",MTV_Beats_HD
-https://bajimath.com/jilla/stream.m3u8?chunks=5c3383084f6cb4f977e60295cb858e6d57f35078cf47792bbaca771bbb038b9ca43a5b60b38ad5ad13b2d73a09560737c076e33cf53b64a46e194b0ae6a03bcfab83f430188e4e3f84969c3baad3b06fef4c1b0499846dbd64ff842eb0feb968cedd6fb96d3853e4ac8959f06486c2a622fc0cbe6068a46b95248cc5b13fd479
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Kolkata Bangla Music",Sangeet Bangla
 #http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1 tvg-id="ts405" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Tataplay | Hindi";Music;HD",MTV Beats HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/mtv-beats-hd/index.ts
 
+#EXTINF:-1 tvg-id="ts236" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1018-j5nhzme0-v1/imageContent-1018-j5nhzme0-m1.png" group-title="Tataplay | Hindi";Music",MTV Beats
+https://tplay.dinesh29.com.np/live/tataplay-universal/mtv-beats/index.ts
+
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png" group-title="Tataplay | Hindi";Music",B4U Music
+https://tplay.dinesh29.com.np/live/tataplay-universal/b4u-music/index.ts
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg" group-title="Kolkata Bangla Music",Bangla Talkies
 https://bajimath.com/jilla/stream.m3u8?chunks=5c3383084f6cb4f977e60295cb858e6d57f35078cf47792bbaca771bbb038b9c17ef7036199332e1d16afbaf3e96d50af36b3d698a490e7b43d295bf3188269699bf2a1e67478712d800d9739f090e5ba5186f6b74f984a3286b8b68dc64a9a61c82451ec425bf784398c9cffac37820acf732de9187b05133c6671f99056016
