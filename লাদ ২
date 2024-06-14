@@ -1,11 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ts34" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Bengali;Entertainment",SONY AATH
 https://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo="https://madplay.live/hls/jiotv/stream.php?id=685&e=.m3u8
+
+
+#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo
+https://madplay.live/hls/jiotv/stream.php?id=685&e=.m3u8
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN CHANNEL", ZEE TV HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=217
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10427
+
+#EXTINF:-1 tvg-id="ts616" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Tataplay | English";Hindi;Documentary;Knowledge",History TV18 HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/history-tv18-hd/index.ts
+
+
+
 
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png" group-title="Tataplay | English";Movies",Movies Now
 https://tplay.dinesh29.com.np/live/tataplay-universal/movies-now/index.ts
@@ -409,11 +420,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", 9X JALWA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
+#EXTINF:-1 tvg-id="ts517" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="Tataplay | Hindi";Music",Zing
+https://tplay.dinesh29.com.np/live/tataplay-universal/zing/index.ts
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png"group-title="Hindi Music",Zing
-https://bajimath.com/jilla/stream.m3u8?chunks=5c3383084f6cb4f977e60295cb858e6d57f35078cf47792bbaca771bbb038b9c2acff2f072714d60811b322864f2de840443443cdbe569fecf731152bcaa6f191abb2526a74628dc68f2b82ff2182643f1c750e2205f9045149e189fd6c21145de9d8047c119cddcebe51bb181537083
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Hindi Music",B4U Music
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png"group-title="Hindi Music",MTV
