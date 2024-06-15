@@ -1,33 +1,69 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ts34" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="Bengali;Entertainment",SONY AATH
-#https://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts
+#EXTINF: -1 tvg-name="BTV CTG" tvg-logo="http://lifetvbd.xyz:8080/images/23e56b99f2ce68ff15d4a4598f71563a.png" group-title="Bangladesh", BTV CTG
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJR-X7uO0c3q7kyrPxIlKsUk/ts
+#EXTINF: -1 tvg-name="BTV HD" tvg-logo="http://lifetvbd.xyz:8080/images/229aa3197d43cabbd254ce8813d0c55b.png" group-title="Bangladesh", BTV HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQeW5Iv3vp_KEvWAn-YNFXs/ts
+#EXTINF: -1 tvg-name="BTV World" tvg-logo="http://lifetvbd.xyz:8080/images/289266f7ce6d6c550c0258f6d165dde7.png" group-title="Bangladesh", BTV World
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU-O9UCxjcb4T-KH9SRQ5TA/ts
+
+
+#EXTINF: -1 tvg-name="Sony Aath" tvg-logo="http://lifetvbd.xyz:8080/images/dd56b0fbab536cbc438ce3d2c37cfc7a.png" group-title="INDIA | Bangla", Sony Aath
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbQ-DjXPY6Q4av0AdQBp6_U/ts
+
+
+#EXTINF: -1 tvg-name="Colors Cineplex HD" tvg-logo="http://lifetvbd.xyz:8080/images/3c72e0fb843a57fb610b08c61650c0e3.png" group-title="INDIA | Movies", Colors Cineplex HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRZQJjyIwNhh6K8VSgs8j28/ts
+
+#EXTINF: -1 tvg-name="Star Gold Romance" tvg-logo="http://lifetvbd.xyz:8080/images/ab746f08acec0568b017f3b98cd4cdb4.png" group-title="INDIA | Movies", Star Gold Romance
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeFhuz73FtEj5JIXiK2uA-M/ts
+#EXTINF: -1 tvg-name="Star Gold Thrills" tvg-logo="http://lifetvbd.xyz:8080/images/4523ede2f652c681463765a870aa1962.png" group-title="INDIA | Movies", Star Gold Thrills
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdiN_mzPHiOC_Qw2qbrvAwc/ts
+#EXTINF: -1 tvg-name="Zee Action HD" tvg-logo="http://lifetvbd.xyz:8080/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="INDIA | Movies", Zee Action HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJe42Ton9ythGsUNOXXoOoIc/ts
+
+#EXTINF: -1 tvg-name="&Flix HD" tvg-logo="http://lifetvbd.xyz:8080/images/b9ddb18e473b2fab66f64f0c8e57c16f.png" group-title="English Movie", &Flix HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbmjB5HK2R4H2Q-dQh6l2o4/ts
+
+
 
 #EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo
 https://madplay.live/hls/jiotv/stream.php?id=685&e=.m3u8
 
 #EXTINF:-1 tvg-id="ts63" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Tataplay | Hindi";Entertainment;HD",Zee TV HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tv-hd/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQ9ZJQRhGSD9XEl16TO1XE0/ts
 
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Tataplay | Hindi";Entertainment;HD;Comedy",&tv HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/and-tv-hd/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJW4xusMYo-Dgn1ZyD6RdDJg/ts
 
-
+#EXTINF: -1 tvg-name="GoldMines" group-title="INDIA | Movies", GoldMines
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQIK35NjVOOaqDZGW-LyArk/ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10427
 
 #EXTINF:-1 tvg-id="ts616" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Tataplay | English";Hindi;Documentary;Knowledge",History TV18 HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/history-tv18-hd/index.ts
-
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQiZvaepDcQP4hOb7VTCnDU/ts
 
 
 
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png" group-title="Tataplay | English";Movies",Movies Now
-https://tplay.dinesh29.com.np/live/tataplay-universal/movies-now/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdhtZ3XnfL2NOcC7d602S-E/ts
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" group-title="Entertainment", Sony Max
 http://opplex.tv:8080/live/2312211/1616616/221259.ts
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=8658
+
+#EXTINF: -1 tvg-name="MNX" tvg-logo="http://lifetvbd.xyz:8080/images/f10ff07a032a806d0745d24b056f0c88.png" group-title="English Movie", MNX
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQNk4X6C5rbTtDtIpax7yS0/ts
+
+
+#EXTINF: -1 tvg-name="Miniplex HD" tvg-logo="http://lifetvbd.xyz:8080/images/61088ad4c6f26a19c891825dcd6fab07.png" group-title="INDIA | Movies", Miniplex HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRfuNVLt81NRpHkWp-0ltCA/ts
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Entertainment", Sony Pix
@@ -54,7 +90,7 @@ http://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=GVgEwSJI1_9cg
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
-https://tplay.dinesh29.com.np/live/tataplay-universal/bflix/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYdh9lMVivW2qyng3QtqT-w/ts
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="", South Station
@@ -64,7 +100,7 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Tataplay | Hindi";Entertainment;HD",Colors HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/colors-hd/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJYhtIIPDFdlXlmJxYMAkwCg/ts
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -141,18 +177,18 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN CHANNEL", COLORS CINEPLEX
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=470
 #EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-chno="185" group-title="WioTV",And Pictures HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/and-pictures-hd/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJVJf6DkWmJEzQhWsYsms400/ts
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="MOVIES";Movies",Zee Bollywood
 https://tplay.dinesh29.com.np/live/tataplay-universal/zee-bollywood/index.ts
 #EXTINF:-1 tvg-id="ts1183" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="MOVIES";Movies",&Xplor HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/and-xplor-hd/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQ7UjmIiGjFv-YWz1qC13S4/ts
 
-#EXTINF:-1 tvg-id="ts1321" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATMOV_Thumbnail-v1/ATMOV_Thumbnail.png" group-title="MOVIES";Movies",ALL Time MOVIES
-https://tplay.dinesh29.com.np/live/tataplay-universal/all-time-movies/index.ts
 
-#EXTINF:-1 tvg-id="ts1003" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72254-l6dn8nco-v3/imageContent-72254-l6dn8nco-m4.png" group-title="Tataplay | Hindi";Movies",Tata Play South Talkies
-https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-south-talkies/index.ts
+#EXTINF: -1 tvg-name="Sun Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/4c51104a81300a5af27174e46970d789.png" group-title="INDIA | Bangla", Sun Bangla
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfCj1gNzRBUfvxnyu-r_YQA/ts
+
+
 
 
 
@@ -161,7 +197,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-south-talkies/in
 https://tplay.dinesh29.com.np/live/tataplay-universal/star-bharat-hd/index.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Bangladeshi",Zee Bangla Hd Bd 
-https://tplay.dinesh29.com.np/live/tataplay-universal/zee-bangla-hd/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcHGZ57ETDdU60pYfAm8hmI/ts
 
 
 #EXTINF:-1 tvg-id="24605" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA",IN: ZEE BANGLA CINEMA_ 4K
@@ -171,14 +207,14 @@ http://opplex.tv:8080/live/2312211/1616616/245898.ts
 
 
 #EXTINF:-1 tvg-id="ts8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Tataplay | Hindi";Entertainment;HD",STAR Plus HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-plus-hd/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQmN9ZQFzKuwd5syMkmPoeY/ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCm1CdviW48s_oegYKFfdpUWvkBZXb8CciKGn7cf2UXA&s" group-title="Entertainment", Star Gold HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdHsKgMMYAYnbow8y-rzjW4/ts
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/Y9cb0Z8L/20240407-201715.png",Discovery Multi
 https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:-1 tvg-id="ts15" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="Tataplay | Hindi";Entertainment;HD",SET HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/set-hd/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJZE-L_amvz7RX9oGayNVlpM/ts
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗖𝗛𝗔𝗡𝗡𝗘𝗟", ASIAN TV HD
 https://mtlivestream.site/asian/ytlive/index.m3u8
@@ -402,16 +438,15 @@ https://bajimath.com/jilla/stream.m3u8?chunks=5c3383084f6cb4f977e60295cb858e6d57
 http://opplex.tv:8080/live/2312211/1616616/167576.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2560px-Nick.svg.png" group-title="Kids", Nick
-http://45.137.206.58:29820/ghLs2zdZSnFvTT000031b73936578b60223d9ba5fe706f5a8a7bde686e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%201.png"group-title="Sports" group-title="",Sony Sports Ten 1 HD
-https://toxicify.pro/sliv/stream.php?id=sony-ten-1-hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"group-title="Sports" group-title="",Sony Sports Ten 2
-https://toxicify.pro/sliv/stream.php?id=sony-ten-2-hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"group-title="Sports" group-title="",Sony Sports Ten 3 HD
-https://toxicify.pro/sliv/stream.php?id=sony-ten-3-hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"group-title="Sports" group-title="",Sony Sports Ten 5
-https://toxicify.pro/sliv/stream.php?id=sony-ten-5-hd&e=.m3u8
+#EXTINF: -1 tvg-name="Sony Ten 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/95e673577bb0726bba74cf538bcbd24c.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 1 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTEs_EjEZ7Yf_Jx02VSuj7g/ts
+#EXTINF: -1 tvg-name="Sony Ten 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/1ac33cea25728a9e5181c63cc5fefa78.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 2 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXvDSK9g6Fg9nbA6o2TcFQc/ts
+#EXTINF: -1 tvg-name="Sony Ten 3 HD" tvg-logo="http://lifetvbd.xyz:8080/images/7468071e59103c0ad9f97aaddb381ac8.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 3 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaBYUXiK8mknWGb7tRlSkQY/ts
+#EXTINF: -1 tvg-name="Sony Ten 5 HD" tvg-logo="http://lifetvbd.xyz:8080/images/26ee9f0a2b315f3bc627c93ba4a6e1d3.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 5 HD
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcjjo7uZvDRKzbwOzsHE1yk/ts
+
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", HINDI HITS
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -428,7 +463,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 #EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", 9X JALWA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-1 tvg-id="ts517" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="Tataplay | Hindi";Music",Zing
-https://tplay.dinesh29.com.np/live/tataplay-universal/zing/index.ts
+http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJUBBEF8qH4_eqk0uXhobouQ/ts
 
 
 
