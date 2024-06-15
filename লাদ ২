@@ -152,7 +152,8 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/and-xplor-hd/index.ts
 #EXTINF:-1 tvg-id="ts1321" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATMOV_Thumbnail-v1/ATMOV_Thumbnail.png" group-title="MOVIES";Movies",ALL Time MOVIES
 https://tplay.dinesh29.com.np/live/tataplay-universal/all-time-movies/index.ts
 
-
+#EXTINF:-1 tvg-id="ts1003" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72254-l6dn8nco-v3/imageContent-72254-l6dn8nco-m4.png" group-title="Tataplay | Hindi";Movies",Tata Play South Talkies
+https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-south-talkies/index.ts
 
 
 
