@@ -6,10 +6,10 @@ http://myst.viewcineplex.com:7171/star-jalsha/index.m3u8?token=0d9f505f9fdcaad57
 http://myst.viewcineplex.com:7171/sony-aath/index.m3u8?token=dc4c23133b763adb55120713893fb08a4c848644-7ff9f78e3d511418bdc7cb06a3ca51b3-1718606480-1718595680
 
 #EXTINF: -1 tvg-name="Zee Action HD" tvg-logo="http://lifetvbd.xyz:8080/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="INDIA | Movies", Zee Action HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJe42Ton9ythGsUNOXXoOoIc/ts
+
 
 #EXTINF: -1 tvg-name="&Flix HD" tvg-logo="http://lifetvbd.xyz:8080/images/b9ddb18e473b2fab66f64f0c8e57c16f.png" group-title="English Movie", &Flix HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbmjB5HK2R4H2Q-dQh6l2o4/ts
+
 
 
 
@@ -23,7 +23,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tv-hd/index.ts
 https://tplay.dinesh29.com.np/live/tataplay-universal/and-tv-hd/index.ts
 
 #EXTINF: -1 tvg-name="GoldMines" group-title="INDIA | Movies", GoldMines
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQIK35NjVOOaqDZGW-LyArk/ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10427
 
@@ -54,7 +54,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/mn-hd/index.ts
 
 
 #EXTINF: -1 tvg-name="Miniplex HD" tvg-logo="http://lifetvbd.xyz:8080/images/61088ad4c6f26a19c891825dcd6fab07.png" group-title="INDIA | Movies", Miniplex HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRfuNVLt81NRpHkWp-0ltCA/ts
+
 
 
 
