@@ -1,23 +1,10 @@
 #EXTM3U
-#EXTINF: -1 tvg-name="BTV CTG" tvg-logo="http://lifetvbd.xyz:8080/images/23e56b99f2ce68ff15d4a4598f71563a.png" group-title="Bangladesh", BTV CTG
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJR-X7uO0c3q7kyrPxIlKsUk/ts
-#EXTINF: -1 tvg-name="BTV HD" tvg-logo="http://lifetvbd.xyz:8080/images/229aa3197d43cabbd254ce8813d0c55b.png" group-title="Bangladesh", BTV HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJQeW5Iv3vp_KEvWAn-YNFXs/ts
-#EXTINF: -1 tvg-name="BTV World" tvg-logo="http://lifetvbd.xyz:8080/images/289266f7ce6d6c550c0258f6d165dde7.png" group-title="Bangladesh", BTV World
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJU-O9UCxjcb4T-KH9SRQ5TA/ts
-
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8Ex39hGjdgzPY05MsPLajf7y312w5RtJA0ZwryXWg4u_ZSfT59rRc902bcbsO5Eh6O2JS_mUvQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Star Jalsha
+http://myst.viewcineplex.com:7171/star-jalsha/index.m3u8?token=0d9f505f9fdcaad57a3fde0c424fa4c6f5dcc05f-9914ea7109fb236df6ff604ec8bf41e1-1718607348-1718596548
 
 #EXTINF: -1 tvg-name="Sony Aath" tvg-logo="http://lifetvbd.xyz:8080/images/dd56b0fbab536cbc438ce3d2c37cfc7a.png" group-title="INDIA | Bangla", Sony Aath
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJbQ-DjXPY6Q4av0AdQBp6_U/ts
+http://myst.viewcineplex.com:7171/sony-aath/index.m3u8?token=dc4c23133b763adb55120713893fb08a4c848644-7ff9f78e3d511418bdc7cb06a3ca51b3-1718606480-1718595680
 
-
-#EXTINF: -1 tvg-name="Colors Cineplex HD" tvg-logo="http://lifetvbd.xyz:8080/images/3c72e0fb843a57fb610b08c61650c0e3.png" group-title="INDIA | Movies", Colors Cineplex HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJRZQJjyIwNhh6K8VSgs8j28/ts
-
-#EXTINF: -1 tvg-name="Star Gold Romance" tvg-logo="http://lifetvbd.xyz:8080/images/ab746f08acec0568b017f3b98cd4cdb4.png" group-title="INDIA | Movies", Star Gold Romance
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJeFhuz73FtEj5JIXiK2uA-M/ts
-#EXTINF: -1 tvg-name="Star Gold Thrills" tvg-logo="http://lifetvbd.xyz:8080/images/4523ede2f652c681463765a870aa1962.png" group-title="INDIA | Movies", Star Gold Thrills
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJdiN_mzPHiOC_Qw2qbrvAwc/ts
 #EXTINF: -1 tvg-name="Zee Action HD" tvg-logo="http://lifetvbd.xyz:8080/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="INDIA | Movies", Zee Action HD
 http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJe42Ton9ythGsUNOXXoOoIc/ts
 
@@ -53,11 +40,11 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.t
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" group-title="Entertainment", Sony Max
-http://opplex.tv:8080/live/2312211/1616616/221259.ts
+http://myst.viewcineplex.com:7171/Sony-max-hd/index.m3u8?token=2543ddf18f06385c7ce491d6be5fd22d2949e404-9f0705058c7c50c915bd0a613567a5f0-1718606681-1718595881
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=8658
+http://myst.viewcineplex.com:7171/zee-cinema-hd/index.m3u8?token=065577c66abea80b4d59b529ecc7c552010d6024-0e041303bca1d069172c89916908b133-1718606780-1718595980
 
 #EXTINF: -1 tvg-name="MNX" tvg-logo="http://lifetvbd.xyz:8080/images/f10ff07a032a806d0745d24b056f0c88.png" group-title="English Movie", MNX
 https://tplay.dinesh29.com.np/live/tataplay-universal/mnx-hd/index.ts
@@ -85,7 +72,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
 http://myst.viewcineplex.com:7171/jalsha-movies/tracks-v1a1/mono.m3u8?token=0800f1deef1dcce9792ce0f7d28ce435d7987051-08655a66524582b48f8e425081bb1d67-1718398642-1718387842
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Colors Bangla
-http://opplex.tv:8080/live/2312211/1616616/245895.ts
+http://myst.viewcineplex.com:7171/colors-bangla/index.m3u8?token=13f8cb5cb416aef2399d081b59d7ca858078a594-4374e88d7d8c2d8b2edf434023f15d66-1718607448-1718596648
 
 
 #EXTINF:-1 tvg-id="utvmovies.in" tvg-logo=https://rkbdmoza.xyz/wp-theme/stream.m3u8?chunks=4f37b6b8860740991d0e8d044066977e5414f10d4dedbf3b7de48e669f4fc8fd45cf56f9695b2f5408c6d1d7fc6e8f5e41925d7f2fe834fed465eaeb3f714f9eef216cf68f2f5671e68eaf28abf36e98f796803fea29f8e94c4627aca9637dc3604cca73fbbc1055dda2231fbf51341659bacccb0e25bc9d612a31ea75ebab3eb3d40c56321266094acd9bd8795f19ac20fa5d1113c535ad260ce265f03967a0a222ceae129b6a7d678c1cc032847df3e06289fee6fcf9c0e4967154fa7c5d71c3108aff5c74b0a76baac23f6f863c642d96160662d20a5e133b8d10184143e83c37d5912500c90f9c73922ed77ca706d232614ddb24f0df4630a7a9fa3ccbc8d1c5c648717be0358ad7841dde94734ac18c011acea84180c8319724c3796864149ed1bf70964bc3efa8aed0c7da96a388844738bfeda87782621512301430f9da13ea66592fa1861541aaea6ee0475e50ea4249149ca86ad6117b711de16b6bd11a816a59191409ae897b02dcaf269a
@@ -326,77 +313,25 @@ http://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 http://rajdhani.jaagobd.com/rajdhanitv/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1,ETV BANGLA
 http://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T20 WC T Sports
-https://mominvaithanks.xyz/mominRocks/ts.php?id=live-02&e.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" , Sky Sports
 http://tv.cloudcdn.me/live.ts?channelId=281&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtxSW4E0BEhj1UDKM2KgvzPFfyCBtq6D-Bg&s" , Gazi TV
-http://103.109.56.116/live/skyfeed1006/index.m3u8
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
+http://myst.viewcineplex.com:7171/GAZI/index.m3u8?token=da40e41274c3dabea4c5c54fefa05c75efaa8f44-612d3cfddfbe9515315e02ac80785858-1718606839-1718596039
 
 
-#EXTINF:-1,  TSPORTS -JADOO
-http://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=5krVCk3irRaPA27XY9dEnA&expires=1718460707&user=c15be118d93a464dabf77260596012cf
+
+#EXTINF:-1,  TSPORTS
+http://myst.viewcineplex.com:7171/t-sports/index.m3u8?token=129fb5ac9eb97733426e3b30b4b33b656872bdf6-e0800758c0d5ca2fd05833317af4daca-1718606993-1718596193
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports Channels", Star Sports 3
 http://opplex.tv:8080/live/2312211/1616616/167577.ts
-#EXTINF:-1 tvg-logo="LOGO" group-title="SPORTS CHANNEL", T SPORTS 
-https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
+
 
 #EXTINF:-1,TSPORTS
 http://113.212.111.246:8080/hls/col12.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Zubayer Op",Toffee EN 
-https://t.ly/Toffee-Match1-EN/Zubayer_Op.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Zubayer Op",Toffee BN 
-https://t.ly/Toffee-Match1-BN/Zubayer_Op.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png" group-title="Zubayer Op",Toffee EN 2 
-https://t.ly/Toffee-Match2-EN/Zubayer_Op.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_415428001717680117.png" group-title="Zubayer Op",Toffee BN 2 
-https://t.ly/Toffee-Match2-BN/Zubayer_Op.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="Zubayer Op",Super Sport Cricket 
-http://public.iptv18.tech/push.php?id=23949
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD
-http://public.iptv18.tech/push.php?id=22149
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 Hindi HD
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24542
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket HD
-http://public.iptv18.tech/tata.php?id=12169
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Cricket FHD
-http://public.iptv18.tech/push.php?id=24017
-
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Zubayer Op",Sky Cricket HD
-http://public.iptv18.tech/push.php?id=5770
-
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Zubayer Op",Sky Cricket FHD
-http://public.iptv18.tech/push.php?id=23946
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20240205190515" group-title="Zubayer Op",Astro Cricket 
-http://public.iptv18.tech/push.php?id=18458
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Zubayer Op",Fox Cricket HD
-http://public.iptv18.tech/push.php?id=24016
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 1 HD 2
-http://public.iptv18.tech/tata.php?id=12148
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Zubayer Op",Star Sports 2 HD
-http://public.iptv18.tech/push.php?id=7458
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="Zubayer Op",Willow Extra FHD
-http://public.iptv18.tech/push.php?id=22153
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Jxz6MAa3fFM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCniKESeivK0fSvwb0C3RWaJS3VBg" group-title="Zubayer Op",Ten Sports HD
-http://public.iptv18.tech/push.php?id=22158
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Zubayer Op",PTV Sports HD
 http://public.iptv18.tech/push.php?id=23935
@@ -440,24 +375,24 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 http://xtv.ooo:8080/live/RiyazMPT/433833/112972.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports Channels", Star Sports 1 English HD
-http://starshare.live:8080/live/T20C227070225533/202210886677/124281.ts
-#http://starshare.live:8080/live/007/007/98864.m3u8
+http://myst.viewcineplex.com:7171/star-sports-1/index.m3u8?token=779a5f6be2c890c4624f94be6e636cf8c515bb13-9a5508683713077ad1f007a4a677bca8-1718607219-1718596419
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0yA8k0MWyewq3TFIUINM32cbc266NygS2TD5qZqoRw&s" group-title="Sports Channels", Star Sports 1 Hindi HD
-http://opplex.tv:8080/live/2312211/1616616/167573.ts
-https://bajimath.com/jilla/stream.m3u8?chunks=5c3383084f6cb4f977e60295cb858e6d57f35078cf47792bbaca771bbb038b9cc89aaf8f501c694cbd45bcf8a793feed1eda951af8e736e3b57bd590ec35ca6c3ea5e0b1bbb25d1b0a0634b147f9f10fdf5cd295a9bf37f8b044796abc1be849dc96313e4208236e9277707d72568268f44d962ea5b72ece1dd2eb51ee4e798c8016399a85c7ffa260717debc8c4bd7b
+
+
 
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports Channels", Star Sports 2 HD
-http://opplex.tv:8080/live/2312211/1616616/167576.ts
+http://myst.viewcineplex.com:7171/star-sports-2/index.m3u8?token=6957b6399bcf39cf63d71aaf6d3aaa291599b63f-ac2129bc94310a9a526df4b285d818f1-1718607262-1718596462
 
 
 #EXTINF: -1 tvg-name="Sony Ten 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/95e673577bb0726bba74cf538bcbd24c.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 1 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJTEs_EjEZ7Yf_Jx02VSuj7g/ts
+http://myst.viewcineplex.com:7171/sony-ten-1-hd/index.m3u8?token=9d8e749787284b3c95125387209bc41439f9c306-2a2ce380ff89a0ca18ee02c55df0f0a1-1718607044-1718596244
 #EXTINF: -1 tvg-name="Sony Ten 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/1ac33cea25728a9e5181c63cc5fefa78.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 2 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJXvDSK9g6Fg9nbA6o2TcFQc/ts
+http://myst.viewcineplex.com:7171/sony-ten-2-hd/index.m3u8?token=0b92e67230deaeb76179df972e4bc7b0e094ba93-b47acab03bd191906cdb5d656ca4f1a8-1718607135-1718596335
 #EXTINF: -1 tvg-name="Sony Ten 3 HD" tvg-logo="http://lifetvbd.xyz:8080/images/7468071e59103c0ad9f97aaddb381ac8.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 3 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJaBYUXiK8mknWGb7tRlSkQY/ts
+
 #EXTINF: -1 tvg-name="Sony Ten 5 HD" tvg-logo="http://lifetvbd.xyz:8080/images/26ee9f0a2b315f3bc627c93ba4a6e1d3.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 5 HD
-http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJcjjo7uZvDRKzbwOzsHE1yk/ts
+http://myst.viewcineplex.com:7171/sony-ten5/index.m3u8?token=bee00336f5a75c9845d44e90865f2c93793e3aea-26fcb123edeed143be519bc4ccd2d2c3-1718607174-1718596374
 
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", HINDI HITS
