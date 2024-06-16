@@ -75,8 +75,7 @@ http://myst.viewcineplex.com:7171/jalsha-movies/tracks-v1a1/mono.m3u8?token=0800
 http://myst.viewcineplex.com:7171/colors-bangla/index.m3u8?token=13f8cb5cb416aef2399d081b59d7ca858078a594-4374e88d7d8c2d8b2edf434023f15d66-1718607448-1718596648
 
 
-#EXTINF:-1 A Sports
-http://myst.viewcineplex.com:7171/la-liga/index.m3u8?token=d6a1d084f65f77b1fb4ab5714a7d25c259ac214e-df1b2823482ca1f92f5907b538a5810c-1718607749-1718596949
+
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN BANGLA CHANNEL", ENTEER TEN BANGLA 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
@@ -110,8 +109,8 @@ https://tv5.hoichoi24.com/1102/index.m3u8
 #EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="" tvg-name="IN: Khushboo Bangla" tvg-logo="" group-title="INDIAN ALL",Khushboo Bangla
 https://allinonereborn.tech/opplex1.php?id=355551
 
-#EXTINF:-1,RTA SPORTS
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1,A SPORTS
+http://myst.viewcineplex.com:7171/la-liga/index.m3u8?token=d6a1d084f65f77b1fb4ab5714a7d25c259ac214e-df1b2823482ca1f92f5907b538a5810c-1718607749-1718596949
 
 #EXTINF:-1,  MYTV -JADOO
 http://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=gxnUJWe1ZvHY5Z68KjppTA&expires=1718460178&user=c15be118d93a464dabf77260596012cf
