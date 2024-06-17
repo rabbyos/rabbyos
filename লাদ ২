@@ -40,11 +40,11 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.t
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" group-title="Entertainment", Sony Max
-http://myst.viewcineplex.com:7171/Sony-max-hd/index.m3u8?token=2543ddf18f06385c7ce491d6be5fd22d2949e404-9f0705058c7c50c915bd0a613567a5f0-1718606681-1718595881
+http://myst.viewcineplex.com:7171/Sony-max-hd/index.m3u8?token=0bb9afc55ec5b90f5eaf0d863a143914806eb2d0-b57defc04e559316ea228992fa4122fe-1718649466-1718638666
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
-http://myst.viewcineplex.com:7171/zee-cinema-hd/index.m3u8?token=065577c66abea80b4d59b529ecc7c552010d6024-0e041303bca1d069172c89916908b133-1718606780-1718595980
+http://myst.viewcineplex.com:7171/zee-cinema-hd/index.m3u8?token=8f0f061a245a793c6d0a6f2dd33467ca41f6c85c-bd6dd03980c9d5c6358c4b60a49d4824-1718649653-1718638853
 
 #EXTINF: -1 tvg-name="MNX" tvg-logo="http://lifetvbd.xyz:8080/images/f10ff07a032a806d0745d24b056f0c88.png" group-title="English Movie", MNX
 https://tplay.dinesh29.com.np/live/tataplay-universal/mnx-hd/index.ts
