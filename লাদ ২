@@ -8,10 +8,11 @@ http://myst.viewcineplex.com:7171/sony-aath/index.m3u8?token=dc4c23133b763adb551
 #EXTINF: -1 tvg-name="Zee Action HD" tvg-logo="http://lifetvbd.xyz:8080/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="INDIA | Movies", Zee Action HD
 
 
+#EXTINF:-1,Sananda TV
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16533.ts
 
 
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="zeecinemaindiahd.in" tvg-name="IND: Zee Cinema USA" tvg-logo
-https://madplay.live/hls/jiotv/stream.php?id=685&e=.m3u8
+
 
 #EXTINF:-1 tvg-id="ts63" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Tataplay | Hindi";Entertainment;HD",Zee TV HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tv-hd/index.ts
@@ -96,6 +97,10 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/colors-hd/index.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ9VSvBwVCj8h8GCTEBeNYwhNUUyAyY_B3FwSqLj_XGw&s",Desh Bidesh TV
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="Unknown", Deshi TV
@@ -115,6 +120,9 @@ https://allinonereborn.tech/opplex1.php?id=355551
 
 #EXTINF:-1,A SPORTS
 http://myst.viewcineplex.com:7171/la-liga/index.m3u8?token=d6a1d084f65f77b1fb4ab5714a7d25c259ac214e-df1b2823482ca1f92f5907b538a5810c-1718607749-1718596949
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="http://doyeltv.com/wp-content/uploads/2023/08/Doyel-TV-Logo.png",Doyel TV
+http://lifetvbd.xyz:8080/live/6262758855/6262758855/8753.ts
+
 
 #EXTINF:-1,  MYTV -JADOO
 http://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=gxnUJWe1ZvHY5Z68KjppTA&expires=1718460178&user=c15be118d93a464dabf77260596012cf
@@ -456,8 +464,7 @@ http://portal.code-crafters.app/app/play.m3u8?id=24585
 #EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 
-#EXTINF:-1,Sananda TV
-https://fr.tvanondo.online/sananda/video.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
 
