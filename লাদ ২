@@ -124,8 +124,15 @@ http://myst.viewcineplex.com:7171/la-liga/index.m3u8?token=d6a1d084f65f77b1fb4ab
 http://lifetvbd.xyz:8080/live/6262758855/6262758855/8753.ts
 
 
-#EXTINF:-1,  MYTV -JADOO
-http://edge01.iptv.digijadoo.net/live/my_tv/playlist.m3u8?md5=gxnUJWe1ZvHY5Z68KjppTA&expires=1718460178&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  MYTV 
+http://lifetvbd.xyz:8080/live/3363696/3363696/43.ts
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAf4HGUnC88BUazkFSPCr5R04CPNiknUrHg&usqp=CAU",Bangla21 Tv
+https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDI0IDc6MTk6MjggQU0maGFzaF92YWx1ZT1KSDdnU3B6Z05hdlp5ZmFDOVRDaWpRPT0mdmFsaWRtaW51dGVzPTQw
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",Nobanno TV
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cmtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDI0IDI6NTA6MjAgUE0maGFzaF92YWx1ZT1PeGNVNExZMWVWWVJKazN6VC9iWEJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="http://live.probashinews24.tv/images/logo.png",Probashi Tv
+http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF:-1,AB TV USA [Jagobd]
 https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
 #EXTINF:-1,Alpha TV Canada [Jagobd]
@@ -193,7 +200,8 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/tata-play-south-talkies/in
 #EXTINF: -1 tvg-name="Sun Bangla" tvg-logo="http://lifetvbd.xyz:8080/images/4c51104a81300a5af27174e46970d789.png" group-title="INDIA | Bangla", Sun Bangla
 http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJfCj1gNzRBUfvxnyu-r_YQA/ts
 
-
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqG3yBIlXqLMpw8rgS_AynI4fGWfll0bHVGIoO2e3TVUC9nTiwo5bLiyQ&s=10",Star Gold Romance
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/3436.ts
 
 
 
@@ -207,7 +215,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-bangla-hd/index.ts
 
 
 #EXTINF:-1 tvg-id="24605" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA",IN: ZEE BANGLA CINEMA_ 4K
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/2351.ts
+http://lifetvbd.xyz:8080/live/3363696/3363696/7.ts
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8Ex39hGjdgzPY05MsPLajf7y312w5RtJA0ZwryXWg4u_ZSfT59rRc902bcbsO5Eh6O2JS_mUvQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Star Jalsha
 http://opplex.tv:8080/live/2312211/1616616/245898.ts
 
@@ -241,7 +249,7 @@ https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1,Millennium TV USA [Jagobd]
 https://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF:-1,Mohona TV [Jagobd]
-https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+http://tv.digitalview.live:8080/live/tawhidbdix2/478506788/396.ts
 #EXTINF:-1,Movie Bangla [Jagobd]
 https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1,NAN TV [Jagobd]
@@ -258,12 +266,12 @@ https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 
 #EXTINF:-1,  CHANNEL 9
-http://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=EwujCFvRFBg6d7il_ACQ0w&expires=1718459604&user=c15be118d93a464dabf77260596012cf
+http://46.250.234.136:8080/3363696/3363696/493
 
 #EXTINF:-1,RTV HD [Jagobd]
 https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,SATV [Jagobd]
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+http://lifetvbd.xyz:8080/live/3363696/3363696/40.ts
 #EXTINF:-1,Somoy TV [Jagobd]
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,The Channel TV [Jagobd]
@@ -300,19 +308,19 @@ https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 
 #EXTINF:-1,ARY DIGITAL
 https://tv5.hoichoi24.com/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SPORTS 18 KHEL
+#EXTINF:-1,Duronto
 https://tv5.hoichoi24.com/1005/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,AUR LIFE TV-PK
 http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1,MADANI
 http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
-#EXTINF:-1,  DESH TV- JADOO
-http://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=QY1yTR8KBcO6OhQsWWTn7Q&expires=1718459796&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  DESH TV
+http://lifetvbd.xyz:8080/live/6262758855/6262758855/80.ts
 #EXTINF:-1,  DURONTO TV -JADOO
 http://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=YeMZeLP1Jx8UXHWQZmk7uw&expires=1718459870&user=c15be118d93a464dabf77260596012cf
-#EXTINF:-1,  EKATTOR TV-JADOO
-http://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=Rg4exqp5DyvwUeoQXgce_A&expires=1718459933&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1,  EKATTOR TV
+http://lifetvbd.xyz:8080/live/3363696/3363696/318.ts
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗖𝗛𝗔𝗡𝗡𝗘𝗟", GAAN BANGLA HD
 https://himel-op.top/Join-Telegram-@HimelOP_Official/hey.m3u8?id=49319
