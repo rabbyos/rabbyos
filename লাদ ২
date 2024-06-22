@@ -6,13 +6,18 @@ http://myst.viewcineplex.com:7171/star-jalsha/index.m3u8?token=0d9f505f9fdcaad57
 http://myst.viewcineplex.com:7171/sony-aath/index.m3u8?token=dc4c23133b763adb55120713893fb08a4c848644-7ff9f78e3d511418bdc7cb06a3ca51b3-1718606480-1718595680
 
 #EXTINF: -1 tvg-name="&Flix HD" tvg-logo="http://lifetvbd.xyz:8080/images/b9ddb18e473b2fab66f64f0c8e57c16f.png" group-title="English Movie", &Flix HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
 
 #EXTINF: -1 tvg-name="Zee Action HD" tvg-logo="http://lifetvbd.xyz:8080/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="INDIA | Movies", Zee Action HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvrhqb6J3yGM6UXgkKeLRr0LB6n5s3akHapA&s",Goldmines
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4731.ts
+
+#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqe3t_iYl8oKacg-RP6L79x_yGzGkHCOGRg&s",Goldmines Movies
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13291.ts
+
+
 
 #EXTINF:-1,Sananda TV
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16533.ts
@@ -199,7 +204,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
 
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN CHANNEL", COLORS CINEPLEX
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
+
 #EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-chno="185" group-title="WioTV",And Pictures HD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
 
@@ -223,7 +228,7 @@ http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/3436.ts
 
 
 #EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Tataplay | Hindi";Entertainment;HD",Star Bharat HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-bharat-hd/index.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Bangladeshi",Zee Bangla Hd
 http://lifetvbd.xyz:8080/live/3363696/3363696/11.ts
@@ -236,14 +241,14 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/7.ts
 http://opplex.tv:8080/live/2312211/1616616/245898.ts
 
 #EXTINF:-1 tvg-id="ts1321" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATMOV_Thumbnail-v1/ATMOV_Thumbnail.png" group-title="Tataplay | Hindi";Movies",ALL Time MOVIES
-https://tplay.dinesh29.com.np/live/tataplay-universal/all-time-movies/index.ts
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4834.ts
 
 
 #EXTINF:-1 tvg-id="ts8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Tataplay | Hindi";Entertainment;HD",STAR Plus HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-plus-hd/index.ts
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCm1CdviW48s_oegYKFfdpUWvkBZXb8CciKGn7cf2UXA&s" group-title="Entertainment", Star Gold HD
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/1556.ts
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd/index.ts
+
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/Y9cb0Z8L/20240407-201715.png",Discovery Multi
 https://freeott.site/discovery/Discovery_Channel.m3u8
