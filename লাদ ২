@@ -166,8 +166,6 @@ http://46.250.234.136:8080/3363696/3363696/170
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/eptv.goomflix.xyz/logos-gf/tsports.png?w=640",T Sports
 http://46.250.234.136:8080/3363696/3363696/1678
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlu485EEixjld-Hdl9ylWq9Ouzp9oNEQkuPQ&usqp=CAU",G Tv
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=vB7YTz7WnU_thfAXpYX6hg&expires=1719032249&user=c15be118d93a464dabf77260596012cf
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgep8KnTlr0wQqJBkcYEL4NuR9XaKZzvca_rvcR4IesDx3MvpUHxWoks&s",channel 9
 http://46.250.234.136:8080/3363696/3363696/493
@@ -179,7 +177,7 @@ http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16510.ts
 http://46.250.234.136:8080/3363696/3363696/502
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBiLCO-M0O7QV4okY6QhRMhQ2FLUbT8NOGV_Bqkc8IkEN8W9A_J1ZgMg&s",Nagorik Tv
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=uhfuQYiy6oOfODAWgsxE2g&expires=1719032599&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=Tq_W97C7CP36mtnbQ4sYqQ&expires=1719144996&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSabCnWkpZ-Y9jYp8VxzZKabYNNwuDAXGejNY_SenBSIA&s",BTV
 http://xtv.ooo:8080/live/global/global/245922.ts
