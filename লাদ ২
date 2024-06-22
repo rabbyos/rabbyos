@@ -6,7 +6,7 @@ http://myst.viewcineplex.com:7171/star-jalsha/index.m3u8?token=0d9f505f9fdcaad57
 http://myst.viewcineplex.com:7171/sony-aath/index.m3u8?token=dc4c23133b763adb55120713893fb08a4c848644-7ff9f78e3d511418bdc7cb06a3ca51b3-1718606480-1718595680
 
 #EXTINF: -1 tvg-name="Zee Action HD" tvg-logo="http://lifetvbd.xyz:8080/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="INDIA | Movies", Zee Action HD
-
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Action_MOB/Fallback/index.m3u8
 
 #EXTINF:-1,Sananda TV
 http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16533.ts
@@ -18,7 +18,7 @@ http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16533.ts
 https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tv-hd/index.ts
 
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Tataplay | Hindi";Entertainment;HD;Comedy",&tv HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/and-tv-hd/index.ts
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_TV_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/200/62162_star-hd.jpg" group-title="English", Star Movies Select
 
@@ -92,7 +92,7 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Tataplay | Hindi";Entertainment;HD",Colors HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/colors-hd/index.ts
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
@@ -140,7 +140,7 @@ https://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="LOGO" group-title="𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛𝗜 𝗖𝗛𝗔𝗡𝗡𝗘𝗟", NTV
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 #EXTINF:-1,ATN Bangla [Jagobd]
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
 #EXTINF:-1,ATN Bangla UK [Jagobd]
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1,Bangla 24 Canada [Jagobd]
@@ -158,15 +158,15 @@ https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1,Channel Europe [Jagobd]
 https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
 #EXTINF:-1,DBC News [Jagobd]
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719055151/ei/z152ZsPAJcSAkucPy5SXyAM/ip/20.97.191.176/id/dlSqshkDaPY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8uTMaN_ZQRsARzQNQAKiyHd6I8uC7De8rIPpevDULJ3IXKuuNfzGdfY53Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgP7k0Sp-3DDcloIsgwMGzjvOxfSnLNIsOh0KBRS18jwkCIQDL3sHB3jBFmjlvFWQvisyNxzXJCwsiLa9muF0VIF3fAw%3D%3D/file/index.m3u8
 #EXTINF:-1,Deepto TV [Jagobd]
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1,Ekhon TV [Jagobd]
-https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719055151/ei/z152ZqSrBqaGkucPurGzkAk/ip/20.97.191.176/id/4etMOBpFCqM.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5NhOSgPKnGzxRkDR0LrZczvyH8vrbazlf_vXbWPVJhPewYe39Z3rg9PGqo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcx1AbJ3J0o1LzlqWhe1p3F84wiUQKRKmhGnMiOYAFXkCIENqq-Kvvmk8BPzUQSDhoewvlkZ8ilc2V-ciCcTYNjrl/file/index.m3u8
 #EXTINF:-1,Green TV [Jagobd]
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1,Independent TV [Jagobd]
-https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719055148/ei/zF52ZsaAAdiDkucPm_OI2A0/ip/20.97.191.176/id/vHEp6fM86qI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4JOGMHXke0TJrjvjxEBYocOhmrmhOUJRvCo0ZYKDatfFbrKy4y4wnZtMQ4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKBgxxxxKGABaunDf6AkWPTAZIWqpQTfRcbWil_KemUECIAMPJFoLnEtO5_bNdRVpLi6VDir3z92HT0pAviCCFlnN/file/index.m3u8
 #EXTINF:-1,iON TV UK [Jagobd]
 https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
 
@@ -183,9 +183,9 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
 
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN CHANNEL", COLORS CINEPLEX
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=470
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-chno="185" group-title="WioTV",And Pictures HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/and-pictures-hd/index.ts
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="MOVIES";Movies",Zee Bollywood
 https://tplay.dinesh29.com.np/live/tataplay-universal/zee-bollywood/index.ts
@@ -243,7 +243,7 @@ https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1,Jagoroni TV [Jagobd]
 https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
 #EXTINF:-1,Jamuna TV [Jagobd]
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719055147/ei/y152ZtrKBc2JkucP3eGzyAc/ip/20.97.191.176/id/KuHTg1STzvA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f01faprlyqPspQnY6sFFk3RaXxta_Qa7qwQ8-j6CnLe0rEGve68kd4Bqpx8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBEjhlsvpbK3bjdMuaP-NJE3Q3rG6IMu_DZHdI_JTSakCIQC-hCE6G4Hs7zVEquDVUpc0cpT1ad9bygFFBNNUOIsqkQ%3D%3D/file/index.m3u8
 #EXTINF:-1,JonmoBhumi TV [Jagobd]
 https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1,Millennium TV USA [Jagobd]
@@ -268,12 +268,12 @@ https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1,  CHANNEL 9
 http://46.250.234.136:8080/3363696/3363696/493
 
-#EXTINF:-1,RTV HD [Jagobd]
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1,RTV HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719055147/ei/y152ZqH-I62ykucPqZiKgAg/ip/20.97.191.176/id/pZvvue1gliw.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5ilCgUvswgZ4rsY7nBTO383m7g1C5UZ4c70YT_jZzxB5anqeX5e9PtOV8Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMv2q7OgOLyqXYVWaynSFXCsNtgvZJQ1IrFjoi8xi37oAiEAkVk4D4muvIPG3JT4nc4R8MJYrq3m7gqIO6j1LEW_svI%3D/file/index.m3u8
 #EXTINF:-1,SATV [Jagobd]
 http://lifetvbd.xyz:8080/live/3363696/3363696/40.ts
-#EXTINF:-1,Somoy TV [Jagobd]
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1,Somoy TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719055145/ei/yV52ZouJN-WCkucPwbeS2Ak/ip/20.97.191.176/id/mF6zTmiFaAs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7qQ7N0y-nyq0t2HYPoCaMAWyqrsEULvv_FznxXLTNSHc0JCwCX0UDf0bwA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJU1tqpb0dcWerfwQPYzJn40Wxj07PGL6fk763HOT1L9AiBhXW6Cl5o8CzyfgMZ95kdSJ3t6fD26xIMJqFBE0WC31Q%3D%3D/file/index.m3u8
 #EXTINF:-1,The Channel TV [Jagobd]
 https://livess.ncare.live/live-orgin/thechanneltv.stream/chunks.m3u8
 #EXTINF:-1,Time Television US [Jagobd]
