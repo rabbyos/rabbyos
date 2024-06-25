@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8Ex39hGjdgzPY05MsPLajf7y312w5RtJA0ZwryXWg4u_ZSfT59rRc902bcbsO5Eh6O2JS_mUvQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Star Jalsha
-http://myst.viewcineplex.com:7171/star-jalsha/index.m3u8?token=0d9f505f9fdcaad57a3fde0c424fa4c6f5dcc05f-9914ea7109fb236df6ff604ec8bf41e1-1718607348-1718596548
+f41e1-1718607348-1718596548
 
 #EXTINF: -1 tvg-name="Sony Aath" tvg-logo="http://lifetvbd.xyz:8080/images/dd56b0fbab536cbc438ce3d2c37cfc7a.png" group-title="INDIA | Bangla", Sony Aath
-http://myst.viewcineplex.com:7171/sony-aath/index.m3u8?token=dc4c23133b763adb55120713893fb08a4c848644-7ff9f78e3d511418bdc7cb06a3ca51b3-1718606480-1718595680
+
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png",Global Tv
 http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
@@ -66,7 +66,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10427
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMI9mhAWSRdeLXjaxzLtOZyDD59lpYRR4S2l_eJDEmg&s" group-title="Entertainment", Sony Max
-http://myst.viewcineplex.com:7171/Sony-max-hd/index.m3u8?token=0bb9afc55ec5b90f5eaf0d863a143914806eb2d0-b57defc04e559316ea228992fa4122fe-1718649466-1718638666
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
@@ -95,10 +95,10 @@ http://starshare.live:8080/live/ashokkumar/ashokkumar/8.ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD 
-http://myst.viewcineplex.com:7171/jalsha-movies/tracks-v1a1/mono.m3u8?token=0800f1deef1dcce9792ce0f7d28ce435d7987051-08655a66524582b48f8e425081bb1d67-1718398642-1718387842
+http://lifetvbd.xyz:8080/live/3363696/3363696/3628.ts
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Colors Bangla
-http://myst.viewcineplex.com:7171/colors-bangla/index.m3u8?token=13f8cb5cb416aef2399d081b59d7ca858078a594-4374e88d7d8c2d8b2edf434023f15d66-1718607448-1718596648
+http://lifetvbd.xyz:8080/live/3363696/3363696/121.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
