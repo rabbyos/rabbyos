@@ -120,13 +120,13 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/498.ts
 
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTw8PIEwjUdyZ23uWbWxSkOxmc_i8HdtIFTjQDJSlIMg&s",N Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/78.ts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719577641/ei/yVd-ZojiJ5WDkucPuuaA4A4/ip/20.55.118.241/id/VTzYFfYFgkg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9X_9mQmmNEzFgvcgj8M91WFfOo0KDFO0O8m0Y_hMGFzf7DvOaYFFw1jii8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKtt5U-pI7maTHus_9IwmW6x7Zoez_ixlWR2IhiZFXA4AiBn6T2ii6SzhKFFeIn0_uLP1b-HI2_9BO3vuLjH6jzcFQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla" group-title="",NTV UK
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Bangla" group-title="",RTV
-https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719577638/ei/xld-Zte7Ka6GkucPhoOaiA4/ip/20.55.118.241/id/2-WjxLR-75Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4B83Rvn9KB6DrElAYo6zc-6keUJpDGf_pb9r5TokdDXoYB5P26_dh-g9LE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANCNY6Tb8Uzrv4zfqHeTZWDx96KHWOuE11wGRk69q6V3AiEA0OJk9gPXTpZDyg_ITDMYAc-9thWTYtIVOk5R3Wu8stA%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla" group-title="",Deepto TV
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 
@@ -148,13 +148,13 @@ https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangla News" group-title="",Somoy TV
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719577637/ei/xVd-Zv-vBtC0kucPpbuzuAQ/ip/20.55.118.241/id/mF6zTmiFaAs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9Y5ud9ekjC-fs_mLngDfKE2sYYH2kqfGeGWV5duz8T1ssNguMkHBVEXA-g/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgILXcvG1jCMLAkjvyGXS3eHmd5RFSAbbondUAFrdLIvICIQCcuqcKZYYXMahBKUVTVWL5JBthBr4egs2KT_9l5DruCQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangla News" group-title="",Independent TV
-https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719577639/ei/x1d-Zv2IBYCKkucP9L-coAI/ip/20.55.118.241/id/fFuNOwOmCxw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw1BjXuhbAakycYxmjM6MFN6tdZ8DlwExXHrZWOK7Z8YXpRyw0SLk9Zz2ng/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANCQUakQsuNPnuvzhSO1du-iauqBbiDj69hnoZPL8H1iAiEA0SRE2uVFL1He_M2uInp_jQa-H1lmm-L1jGYCIcGc__A%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News" group-title="",Ekhone TV
-https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719577642/ei/yld-ZtiOBKyLkucPq_ON0AQ/ip/20.55.118.241/id/lrsZN0SKyNk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4R5En8vwzv8m-ADXoahYWn5iCiZfrylATiQSsffv6Iu4CUapl43YcicOno/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANoVp8jf2WgFsiakiK4wK9hKQQT1lHWQryO4wn7aennEAiAGNIyNDcZFEC-OtZYVlUqJlVM7Xz2dTdVhClvgvaLNog%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg"group-title="Jagobd" group-title="",Jago News 24
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TBN24.png" group-title="Bangla News",TBN 24 USA
@@ -227,7 +227,7 @@ http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1,COMILLA TV 24
 http://103.149.142.133/0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_GnazJyanMJD4819cCt09rPIJ0myoXBZqIRHjXgic_A&s" group-title="News", Channel I
-http://myst.viewcineplex.com:7171/Channel-i/index.m3u8?token=65a60a29bd29e7220d454dc21ac097233c86f44b-5aaf383eec2a84b04da690e63c84e5e1-1718607556-1718596756
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719577637/ei/xVd-ZuvtKfCzkucPhdOX2AQ/ip/20.55.118.241/id/8tvpdpYqSwg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8NCSXluTiQUzQkHs21p5Kk2DHn-TKBFWilVccNAAOu9b5Njq16kKM6OKFw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJTmhhowmPwHl6nfbd_NRLPpnJ4A1omSXi7hGo_QFD2vAiAaUtsV0-yDoQSOpmW5CNddWMxw1y4o9DHJo9kV3xfKCw%3D%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" , Nagorik TV
