@@ -14,7 +14,8 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FTsPoV3OV4Tas7Efx2op1C4lilKyxYkcJx-rCg1f9HeXOQvRIjH8NXurrA&s",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 
-
+#EXTINF:-1 group-title="Bangla",Gaan Bangla 
+http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
@@ -59,7 +60,8 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10427
 
 
 
-
+#EXTINF:-1 group-title="ENGLISH Movies",HBO
+http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png" group-title="Tataplay | English";Movies",Movies Now
 http://myst.viewcineplex.com:7171/Movies-now/tracks-v1a1/mono.m3u8?token=63709f980c5cc3e31f473e6ab74b497cd82d635d-f0897707ab4863fcd1e54c530c4f6b9a-1719354429-1719343629
 #EXTINF:-1 tvg-id="ts12" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Thumbnail-v2/ZACINE_Thumbnail.png" group-title="Tataplay | Hindi";Hindi Movies",Zee Anmol Cinema 2
@@ -99,7 +101,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Colors Bangla
-https://its-nayeemparvez.xyz/bdcast/hls/index.m3u8?id=128c3o95
+http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
 https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -113,8 +115,8 @@ http://46.250.234.136:8080/3363696/3363696/493
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv
 https://its-nayeemparvez.xyz/bdcast/hls/cdn_ytl.m3u8?chunks=78d18fd599267401865056d9776415d62270dfd141dc99d9a8175309ef58ca5f14aebbe8ac0bac5df64eacc9ee3640e47c9b0a5a9a419b7b3139ad89baa9942f29528ebc17de027c4a7fe97275e496f4324910f7b577569bd7888d2ed65b92b470a95c1c1f9fd87e8ebe30f2d46c095454a4a39dfc98ffb3440dd438f25e447dc5f185274287ca53d98ccd122d892ebbdd91431c247acbc88dc13d8354fd42b2238ac9f189c946733119465742858c8475142d2be1f35b032c4d593937cabf9ae9199c8333d125207d39609ca48bec1308ac381d3b04b62c103240cea35815bc3ce323bd77f1337512c73df4792ceedf107b63a357ff58e541562e687fc26c821bcef655aae2b2d26842c4ef42889840ae2553eeb04b1b678d5c94b3e3b8248029ae54eb454769c101cd5b7ab0fc4f68180b9f17f0be1552e67fd12ceac80e8994e20fbf1f11bc627fbbea21327bfddf22cfa2013eadeab1c9a40b986191f0c9eb370ee84f07acb1404ec83933cafbab100d78b3d0938ac8e0d13f2829aeb34a58b664a377632d2d78c766a4b1eb80a0beead050d542db912f3c82d0cb4ca0fb62853963c3c595ed1405707ff9b8a221fef8d4bac82f44a60719ba91b6c43c7bc88b8f4fa30d6249e9d5fb875aadab9656d354c62da09bc167193a6ceded8533b4084b62257c1004fe207663b47a66f57c38eb5b9f5833f55fc750d9ea71936ab7a3ba1f3689c9f19aa3e4a00255b1d8f4be6be80f3fcf649a62cb7f2a4bd2122aa6867664c45d2b4e1b408a52d6cf57c8f457ca66662f623006efa01aaac4db88b606ce840f31c42a5ac5b5c12b7013d1157fc2bbf741669f1a3bb77ce6c059c33d71098ec4ea78d5b84b62df880e625187949fce4abd10b8c629bfd541d0affa4fe472f62afc844c268fa75da36f09c99a094ddd1f4b5f6096e514c9a2a14bde93b121939d1958790b37dacd8b79b64f6e80680d301a862bc1a1636cdafaeba82d419663ee977f12da4b0270fdbfcad2b968425502d53262eee61328cdf8f9bbf0c965e6b7543c7b9dbea135f9840ea1a7335a023e841347443579544e378a5ccb785384c1a3b76864e830e7843fc0174969a2dbca575e4a7811fe13d760dfa549583ddd9c183c2fe44b62c2a2c0cf4ffbca3f619aa86c1a237c8ce60c6b71ca791c857e3e6ec1367c2bc08d6f0d4850ef7022311298fe7781d8518ff128f54cbc43c9c1b47247bc1d43ac0f93ae8bc33d1802619ca374fbcf736ff25c2a59f8cfd1eee24641f52c71aaf5e1032eaf4d7388260ac5f040a08126fe4174366bbe674307f96ea16df1e6d452e707fa0b975851d7e783187decdae9bc7e49bf9317541490d0d612ee1459acb4a4b85dd0cd742003fe8380404aca7fdcc9a8d4e2a81e9cf5503df4786b6ed1f7efae0b162665885ec4014ae0511ec5d84e50d8f5ea321060e0b87963c284f51a444bc58e75391f07bda37ab47ec81ec923010f6764960ac68f9c98e19b630823f12414b3
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/ekattor-tv-live-vipotv.png",71 Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/318.ts
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/ekattor-tv-live-vipotv.png",Ekattor Tv
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png",Bijoy Tv
@@ -123,13 +125,13 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/498.ts
 
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTw8PIEwjUdyZ23uWbWxSkOxmc_i8HdtIFTjQDJSlIMg&s",N Tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719753460/ei/lAaBZo-BMLK1kucPkO2oyAg/ip/20.81.159.50/id/VTzYFfYFgkg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f75rkCRWvutu7Uuu8QK-ltnWyIHA1JFucylgjmcslFLNlOmMcDrPfqF1QC0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALTOHF0aJBWcAOMPnv5LF4Q7LOD52NQsv7rs2kAcL3iHAiABA355x73gsfwK6V6SlDi6TEajoSvrGDOMNA1pt4p0jw%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla UK
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="Bangla" group-title="",NTV UK
 https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Bangla" group-title="",RTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1719577638/ei/xld-Zte7Ka6GkucPhoOaiA4/ip/20.55.118.241/id/2-WjxLR-75Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4B83Rvn9KB6DrElAYo6zc-6keUJpDGf_pb9r5TokdDXoYB5P26_dh-g9LE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANCNY6Tb8Uzrv4zfqHeTZWDx96KHWOuE11wGRk69q6V3AiEA0OJk9gPXTpZDyg_ITDMYAc-9thWTYtIVOk5R3Wu8stA%3D/file/index.m3u8
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"group-title="Bangla" group-title="",Deepto TV
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 
@@ -177,10 +179,13 @@ https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/EkusheyTv-live-vipotv.png",Ekushey Tv
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/playlist.m3u8?md5=QAoplHpIYkqi_x-DL_rM7g&expires=1719203553&user=c15be118d93a464dabf77260596012cf
+https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona tv
-http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=9592&deviceMac=00:1A:79:82:85:F0
+http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Bangla",Maasranga 
+https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="" group-title="Live Tv" tvg-logo="https://i.postimg.cc/287QXZ3y/received-290233916344055.jpg",Rajdhani TV
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/mono.m3u8
@@ -249,7 +254,7 @@ http://lifetvbd.xyz:8080/live/6262758855/6262758855/8753.ts
 
 
 #EXTINF:-1,  MYTV 
-http://lifetvbd.xyz:8080/live/3363696/3363696/43.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=106&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGAf4HGUnC88BUazkFSPCr5R04CPNiknUrHg&usqp=CAU",Bangla21 Tv
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bangla21tv000889956-sg.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDI0IDc6MTk6MjggQU0maGFzaF92YWx1ZT1KSDdnU3B6Z05hdlp5ZmFDOVRDaWpRPT0mdmFsaWRtaW51dGVzPTQw
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png",Nobanno TV
@@ -264,6 +269,11 @@ https://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="", tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Live Tv",ATN Islamic
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/mono.m3u8
+#EXTINF:-1 group-title="Bangla",Ananda TV 
+https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla",Nexus TV
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+
 
 
 
@@ -432,24 +442,28 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports Channels", Star Sports 1 English HD
 http://myst.viewcineplex.com:7171/star-sports-1/index.m3u8?token=5b3768ba20ed5d6ac75cfe36905b8ec04f00793e-7c778fe6731455ff727e12de0f11e8a7-1719743405-1719732605
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0yA8k0MWyewq3TFIUINM32cbc266NygS2TD5qZqoRw&s" group-title="Sports Channels", Star Sports 1 Hindi HD
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0yA8k0MWyewq3TFIUINM32cbc266NygS2TD5qZqoRw&s" group-title="Sports Channels", Star Sports 3
+http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports Channels", Star Sports 2 HD
 http://myst.viewcineplex.com:7171/star-sports-2/index.m3u8?token=6957b6399bcf39cf63d71aaf6d3aaa291599b63f-ac2129bc94310a9a526df4b285d818f1-1718607262-1718596462
+#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
 
 
 #EXTINF: -1 tvg-name="Sony Ten 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/95e673577bb0726bba74cf538bcbd24c.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 1 HD
-http://myst.viewcineplex.com:7171/sony-ten-1-hd/index.m3u8?token=9d8e749787284b3c95125387209bc41439f9c306-2a2ce380ff89a0ca18ee02c55df0f0a1-1718607044-1718596244
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 tvg-name="Sony Ten 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/1ac33cea25728a9e5181c63cc5fefa78.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 2 HD
-http://myst.viewcineplex.com:7171/sony-ten-2-hd/index.m3u8?token=0b92e67230deaeb76179df972e4bc7b0e094ba93-b47acab03bd191906cdb5d656ca4f1a8-1718607135-1718596335
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 tvg-name="Sony Ten 3 HD" tvg-logo="http://lifetvbd.xyz:8080/images/7468071e59103c0ad9f97aaddb381ac8.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 3 HD
-
-
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#EXTINF:-1 group-title="Sports",Sony ten 4
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF: -1 tvg-name="Sony Ten 5 HD" tvg-logo="http://lifetvbd.xyz:8080/images/26ee9f0a2b315f3bc627c93ba4a6e1d3.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 5 HD
-http://myst.viewcineplex.com:7171/sony-ten5/index.m3u8?token=bee00336f5a75c9845d44e90865f2c93793e3aea-26fcb123edeed143be519bc4ccd2d2c3-1718607174-1718596374
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies" group-title="",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies" group-title="",Star Movies HD UK
