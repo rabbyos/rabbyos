@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 xui-id="448" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJ7BiweE6UkYO1qnLnIvA_6/ts
+#EXTINF:-1 xui-id="449" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA HD
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnIs2aF9iMtR0JNriv0qqQE2/ts
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8Ex39hGjdgzPY05MsPLajf7y312w5RtJA0ZwryXWg4u_ZSfT59rRc902bcbsO5Eh6O2JS_mUvQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Star Jalsha
 http://myst.viewcineplex.com:7171/star-jalsha/tracks-v1a1/mono.m3u8?token=a5ec536c48512b02f7e69074bba4b2beaeda6c2f-215d6e7e3b2be35c309b17635611872e-1719354264-1719343464
 
