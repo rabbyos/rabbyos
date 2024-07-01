@@ -1,5 +1,4 @@
-#EXTM3U
-
+#EXTKODIDROP
 #EXTINF:-1 xui-id="68561" tvg-id="" tvg-name="ALL TIME MOVIE" tvg-logo="https://img.freepik.com/premium-vector/movie-television-logo-template-design_316488-619.jpg?w=2000" group-title="IND | Movies",ALL TIME MOVIE
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSjuxdT2rhzGzKOAprcXLmXP/ts
 #EXTINF:-1 xui-id="18826" tvg-id="SONY MAX HD" tvg-name="SONY MAX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGkHahFKWa7bCrEHQW5cpD_N58LHXNnooPcINmYzIxrjQ.png" group-title="IND | Movies",SONY MAX HD
