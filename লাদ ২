@@ -289,8 +289,10 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
 
 #EXTINF:-1 xui-id="539" tvg-id="1sports" tvg-name="&FLIX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGN9ffUoc8dFEefuWA11KHREuiZ0gJVTL7nk4m93ljXXw.png" group-title="Hollywood Movies",&FLIX HD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_gcNZB7gaOsBGXRyqYHkzO8/ts
-#EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN CHANNEL", COLORS CINEPLEX HD
-http://46.250.237.254:8080/auth/vWLjOtjLGts_rnpzP2iQMMuJnm8s1I2Q1-AE8M63ENS7JtOOLCXukuakaodjTSlAu_vXrtnautqBOeXwWzHjWHs4-lMbhkYASuep-yJ8MpMRH2HFVVwkz_YgSpd9JKDsETgSHepd4q7vfC-bl3R5QfdGNuxu39eUkScKQ0V-mTrf1uswAV1-icRKqA04GPFrtvI230MD35bvZ1luV3PwKcgh8rlytL1FKY29RnAF4G8xLlRmqpn8dZI9AOrBvH8e6UrbTBO5sX8roY8MmkS_8et62LDGQ6YWb_2oi1wFRlWWCduRYsqjR_UzorybzB02WZKMUV4lXU4p5m1u-cxBZ8lbOysbQwzn_5L1toCbuyb3IfVng0iKkpkqC31rBZ_naXqCwFAQrBtNZNVKkH7xnQrJudsDG60WZgvv8-5lnTy8u_u9P2slUOWPTMGOGrTQoQCgmGrDnF0vriDkW6_gKT6TQlzIxcYzrjB70cNgVlsyjG1o0C6c88ytuVYKBhqWo3VLoy9p4nrwImBF7kHVLmUsPOoJuk0-U6caheDV1gmFsAeqUc67PImzalyB6aiTKDnId8BJk4XI0kQb7t_7yXPXQJQrtW88vI22uiDlAuZx6yDTDeRA1F66AeDPmek3fqwaOg8jxmihk6MWB_iQKsylq0eeAgMbnksas8ZQyBn6Nu53KSkHXKVbH_J8y0ctzHXkqKykn9kX8kimN-h8DdT4-WCBnq3nppp1p1JsY4o
+#EXTINF:-1 xui-id="515" tvg-id="Colors Cineplex HD" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG1fjPmWPZblfw3KwqIpPMZgce1NzDXo5f-XGbAqLDmMA.png" group-title="IND | Movies",COLORS CINEPLEX HD
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_iqe15R2FOQJtjO4HpqfhTy/ts
+
+
 #EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-chno="185" group-title="WioTV",And Pictures HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/and-pictures-hd/index.ts
 
