@@ -24,12 +24,12 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSh
 #EXTINF:-1 xui-id="1703" tvg-id="Colors Cineplex Superhits" tvg-name="COLORS CINEPLEX SUPERHIT" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRVam--vG6O0P5-QnpdHNNlowl7XXILS1d3QojVHl5iCMypYHCLb_CX0cj8HjZNGiE.png" group-title="IND | Movies",COLORS CINEPLEX SUPERHIT
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwpfvCt5eajBvq0r18_2m_X4/ts
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Pictures_HD_MOB/Fallback/index.m3u8
+https://dai.google.com/ssai/event/MhaQnX2fRNCTN-9HcFBb2A/master.m3u8
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jb9Co1onW0uDbPh1vRM8PU/ts
+
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_g8eTJyhdtQ01m5UdRM0SaE/ts
+https://dai.google.com/ssai/event/WD6N_iiuSUqC8b4VbJtzjA/master.m3u8
 #EXTINF:-1 xui-id="41285" tvg-id="Goldmines" tvg-name="GOLDMINE" tvg-logo="" group-title="IND | Movies",GOLDMINE
 http://xtv.ooo:8080/live/865@moiz/2015486520/112972.m3u8
 #EXTINF:-1 xui-id="2173" tvg-id="" tvg-name="GOLDMINE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dT-IaO-mthwA3g5nYjMsQeTUjWVehg8qvGtMnp3vWQEAQ.png" group-title="IND | Movies",GOLDMINE BOLLYWOOD
@@ -105,10 +105,10 @@ https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
 
 #EXTINF:-1 tvg-id="ts63" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Tataplay | Hindi";Entertainment;HD",Zee TV HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/109950.m3u8
-
+#http://xtv.ooo:8080/live/865@moiz/2015486520/109950.m3u8
+https://dai.google.com/ssai/event/ACMbQPITRvKQ46rSG8AUNw/master.m3u8
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Tataplay | Hindi";Entertainment;HD;Comedy",&tv HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/66172.m3u8
+https://dai.google.com/ssai/event/gsfwKz83TGOa7Mv-RswgaA/master.m3u8
 
 
 
@@ -133,8 +133,8 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.t
 http://myst.viewcineplex.com:7171/Sony-max-hd/tracks-v1a1/mono.m3u8?token=46b22860694f31d8a2d43eb1621c6f44c256af06-fdff520bdf7a8721f05e7a2db7993076-1719354161-1719343361
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
-https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
-
+#https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
+https://dai.google.com/ssai/event/W499Tna_T1y9td-jD7bw_w/master.m3u8
 #EXTINF: -1 tvg-name="MNX" tvg-logo="http://lifetvbd.xyz:8080/images/f10ff07a032a806d0745d24b056f0c88.png" group-title="English Movie", MNX
 https://tplay.dinesh29.com.np/live/tataplay-universal/mnx/index.ts
 
@@ -351,7 +351,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_gcNZB7gaOsBGXRyqYHkzO8/ts
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="MOVIES";Movies",Zee Bollywood
-https://tplay.dinesh29.com.np/live/tataplay-universal/zee-bollywood/index.ts
+https://dai.google.com/ssai/event/tbJ9dC2cQYikWpc_5upSMw/master.m3u8
 #EXTINF:-1 tvg-id="ts1183" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="MOVIES";Movies",&Xplor HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/and-xplor-hd/index.ts
 
