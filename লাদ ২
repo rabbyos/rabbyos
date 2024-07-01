@@ -20,17 +20,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=7245&deviceMac=00:1A:79:B0:A9:
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
 
-#EXTINF: -1 tvg-name="&Flix HD" tvg-logo="http://lifetvbd.xyz:8080/images/b9ddb18e473b2fab66f64f0c8e57c16f.png" group-title="English Movie", &Flix HD
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
 
 #EXTINF: -1 tvg-name="Zee Action HD" tvg-logo="http://lifetvbd.xyz:8080/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="INDIA | Movies", Zee Action HD
-
+http://46.250.237.254:8080/auth/3taazec11EB9kix_dbwXzVyHiy_v8b_jTBzXgpj64kZFU4dF_C-14RYaTM7MdhR90nDHpYV2OK533w3F5O-V2WknJ-ndCrW1GERwGbw8SIY0lMA-Hm5Whb10dAhJUjW4IitQQC9W3HT2hy9ThE9s0egnYG1CMDU4nkIuv3C6lFJ-_L-sJrRkE-t9TZYSoFG30UEZWga9vb_8PxZDH3UAubp70IT9w8j3pughZ9ZrP4Ea5B2JOc4vHPk5e3wJNtD5s52wPhBKDc53O20cLjkDw54Za4ny8yc_4_JSLWf5PKZV_pMQp3iBqMlRls6vXAB9bAM5IE_pI8ncRtcZKfE6IUsUWliwJXtB2_SivVQ4_1zybjzEQbeiC1iu_cURCCCtjnle1zmQDdKvKtj0hZRUcp4Z7Hw06Us4rUqxbdXAVLXX7cPRxztkC8gT8cvtvqNBa5bAw60ny-aQOrU_zE16ggQkVR8W0L5NMoBah1QnPdEOGwmZ0CLyL96lArkGvKOLfZX9cwNiG9hpCpIY-bJ80G2po50u95hFo44HfXnwHdarUhf6s5aZ6OIZE7vUlSm9zQq3dt4CRN9jIqy8d39Sjk6Z-0gWX4UOcRUO7v3Pkp7IFcGR0cw09fWbGj0hLUD7bxltiaFD6BZtTofnRasV1K0ATPNBkRToHj1w_WGIwFBkDIxMERT4k0ynrcKXlkVz-BNH0qnpT7hUUWo00eg3M-g75OMvadMMUNAIvHgJwHc
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvrhqb6J3yGM6UXgkKeLRr0LB6n5s3akHapA&s",Goldmines
-https://tplay.dinesh29.com.np/live/tataplay-universal/goldmines/index.ts
+http://103.147.169.52:8080/auth/m3k3fkRh9pHElw2ZkL3c9_uZuSXhvovEzDX8e5MnMbexzAgEv4rqwgBUGbNnch-yPZjhCn6LMGITJwtDZCDQFTMUiKa-SmLn3mLSir6oG4bPKojvS_6FErfwowQ83prENNE_tX1BKjvhXftmz7w7ukNnKdr0hC7UMGvd3HL1BStvfyxGNNNAlvbjg4PqcINfqkS-EJVk0rRbk6Kpx6hp2HjIHwUQcMZv7MDwh-DXaDXf5KPK5hj-mC_iA8Bz8Ff8pO1qZt2VrUSgKuPagbZYlq6uKOa5mNGpw9qy8yG4V9I2wb7FN8gORVbHU8B8IUAtH2LMxA7kFAvoROzaB7YVwUjzzaJeuUOn8Cu_tWsQXzfcl3N6UHoG-9MuFMiGX2pWToqctHe7NYFyf8ysYdZQ4ZMe0cSn76A7DMc-8gzYwvEoXGPqIbq7gLswfjUPF00rsIYgUqfpUDpE5AnK6TiZrSm-k--ODOUa2b_EE4qqyKYuOMjCDOgBUE2KszT9qX2kbzt0DS1sNraTn7AyzNEcbXEefapmVwJUnX-ZuL6TLqKmXIxVGRX0TxhhguBo5gBC8kLBXBlj78Kh0HhvmtfAnlzcIy7zpxLOU1vwysmHLFQDVAkO08h4LRwNMdXJ5uXG1oSXJP-niHtSgxQazoRtchlsHENrkkXxastJNvkWWx6I94NYpNhtK3DlxZRp4PobFIp_r4OmtUOzXg_OISxkQElwArxBS13I5oud1u-uWN0
 
 #EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqe3t_iYl8oKacg-RP6L79x_yGzGkHCOGRg&s",Goldmines Movies
-
+http://cdn7.digitalviewtv.xyz:8080/auth/cJ8QH9483Bys4FkQNbsqz0BAnzVNvjUQpcbHDoCRMy-8Vw-b8HVzhRtWcAyPVHvixZaft48Vk1RWa4Aaxyn1l7bRnOHNe0dTZJFVgsO74qv-rJlYDWrjfJzrXVkmYqzGHtJWXSe5JI9m0hbsCWtfiVHdbb7Xj8ctTuaxH-86S4LzKmzHFLsCUhPtAeYy0LgtBKSBxtzSYDf5m09uokc8y1-_z7-kp99nbs6--VUfwQ_O9Flv6tW1jTWIn6d0rSAY-Xw3jXcSyeQohcKGUb2YMg8wjt_ayqWyydR52J-Yjgghfd3X-o0R_FcXGydTQMWnf1JUz8ZxjJhHd8WGKIaOgstHka0I-GoK40O3HBkgMNr5am0KqJQeb3IaiKpUztVpsThkx5WPFfqjVQ-5Gr58CNReZ3FIHgYgwBZGCRliSvqHAbxxsiBZJkIoOkRI6F6DGYX0mM2x7vo1pw6yLnsO1O_xiigSV1mJONkziPpcmWFUOPgFW9wFNu6d7FT3VPcdCPeiBzXsUog4At-vp2GMJ0atgh3E555Jp0l4P8bVpSceqjQHEZEEZDi2y__jnbEdrD2QO9ROZzD1O55ezJQoenuCePfbZ9VG-MNHgiuxmTufFkOKQYuCXn-Xl7K_t8G5NLZ51glGs4aaCMX9xhEiW6yKq_alzARQ3CvZRVFNFS9yWe63G60WHXc26WAv8_OZOgTcPmIdlrj-rrBJCCHLwC2yXCmf3HHH6Jca-OKPi8E
 
 
 
@@ -89,7 +88,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/mn-hd/index.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Entertainment", Sony Pix
-https://tplay.dinesh29.com.np/live/tataplay-universal/sony-pix-hd/index.ts
+http://46.250.237.254:8080/auth/iqy5creUzvM4nNG5XJ71gejaVe1c4FpM6gdSVryjdlV8krx-lJyF9eRnRHS3VR8vr-T8waqpYmeFG6-xqJkAhce-L2FCe6NthqnItnbt03Qafgm7fa_Ii69ZXbR_Tv4Y9TkoJGRl81HrbzKRrtUSsZwS1CsaKUihEHbLQIqDkIKEVbnkHGf-INffB5hrQLcVdcx1z0PjXw6K2jhnY3Tjo4FXR_hfNZn1wG7LYKQ4m5VR2n_G4Wu5tV0pQGFMjxSof82yy8kEfN1oAL7SrctPscTJs2Ewv5Hj0_nqc2KXuCjnEPBNFPenBUcTZTTRqH66N5-TY_Y_ao5-R10aKaS4O2E85NI9PIXMs0qhDZLqS6Mc0kOTqq3gNrY32iYckdcrhcaCNR8hmlqtm6a6BQ7j_UM3FFSc9HNHmyQEISh-068FUPzectlfV5TbdKATIAUlqzJZNipcgX_068LldbiDu2iyQtepctZR8bguAmgvMoDQflqsfeWhcBWk9vyXFIr0ttt87Gzk-FighRba6g_Xya5-Meu31W1nb3YWJNbrdOMGZYuQk4VAwZNqQztKzmTjKWzHYfFFb1YVuD2kIR64hi8ceP_VwRnLurSL9LuemkTRGo-_AL-MNOcrEhTtVddpfd-gy6iuX2EH88fuSqtY3yYPNfVo2xe_qYuKfmuArVkL-p5l1BhC7GXqS0CUOzhGto5yx786ZM5QP8qIKI0bEber3y1ULEdNf38jD42cFJk
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" , Cartoon Network English
 http://starshare.live:8080/live/ashokkumar/ashokkumar/8.ts
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies", Sony Max HD(c)
@@ -288,9 +287,10 @@ https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1341&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsha HD(c)
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
 
-
+#EXTINF:-1 xui-id="539" tvg-id="1sports" tvg-name="&FLIX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGN9ffUoc8dFEefuWA11KHREuiZ0gJVTL7nk4m93ljXXw.png" group-title="Hollywood Movies",&FLIX HD
+http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_gcNZB7gaOsBGXRyqYHkzO8/ts
 #EXTINF:-1 tvg-logo="LOGO" group-title="INDIAN CHANNEL", COLORS CINEPLEX HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/colors-cineplex-hd/index.ts
+http://46.250.237.254:8080/auth/vWLjOtjLGts_rnpzP2iQMMuJnm8s1I2Q1-AE8M63ENS7JtOOLCXukuakaodjTSlAu_vXrtnautqBOeXwWzHjWHs4-lMbhkYASuep-yJ8MpMRH2HFVVwkz_YgSpd9JKDsETgSHepd4q7vfC-bl3R5QfdGNuxu39eUkScKQ0V-mTrf1uswAV1-icRKqA04GPFrtvI230MD35bvZ1luV3PwKcgh8rlytL1FKY29RnAF4G8xLlRmqpn8dZI9AOrBvH8e6UrbTBO5sX8roY8MmkS_8et62LDGQ6YWb_2oi1wFRlWWCduRYsqjR_UzorybzB02WZKMUV4lXU4p5m1u-cxBZ8lbOysbQwzn_5L1toCbuyb3IfVng0iKkpkqC31rBZ_naXqCwFAQrBtNZNVKkH7xnQrJudsDG60WZgvv8-5lnTy8u_u9P2slUOWPTMGOGrTQoQCgmGrDnF0vriDkW6_gKT6TQlzIxcYzrjB70cNgVlsyjG1o0C6c88ytuVYKBhqWo3VLoy9p4nrwImBF7kHVLmUsPOoJuk0-U6caheDV1gmFsAeqUc67PImzalyB6aiTKDnId8BJk4XI0kQb7t_7yXPXQJQrtW88vI22uiDlAuZx6yDTDeRA1F66AeDPmek3fqwaOg8jxmihk6MWB_iQKsylq0eeAgMbnksas8ZQyBn6Nu53KSkHXKVbH_J8y0ctzHXkqKykn9kX8kimN-h8DdT4-WCBnq3nppp1p1JsY4o
 #EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-chno="185" group-title="WioTV",And Pictures HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/and-pictures-hd/index.ts
 
@@ -330,13 +330,13 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/7.ts
 https://tplay.dinesh29.com.np/live/tataplay-universal/star-jalsha-hd/index.ts
 
 #EXTINF:-1 tvg-id="ts1321" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ATMOV_Thumbnail-v1/ATMOV_Thumbnail.png" group-title="Tataplay | Hindi";Movies",ALL Time MOVIES
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4834.ts
+http://103.147.169.52:8080/auth/DtDOlcTHXK7EKDf-WkqwGU4gvvbeYBIHl23jXqLYVlsRLWChAhR2j5j0lWxiYj83eKqZoJTT7WPmRSI9HZQCXY_IF_UhHDGfgrxekqvWMFdt4J2mpJMssUszeESp_9cOWq8LBqwN8Omi0h1pmGpN2niWT68Tkcb6F5KDmhjjCwijw_jC_nShlYZM4p0qe5JnlnREQcSAwhMyNjZpT_xkHZh_Rubd1HePIOQDHOOkf3MJxC4Z6mvWbJBK4RE6mgW96xbLwYaalrP8X0sZIaM2STxeuBNWSrz7mOXRkNMU4Cxodr5GNLNuS-_zw9kB9hTlq2AjSLSC9Ib0WF6z657k95r9lq29jrw_jFcoq8Yesxz0tEuIqRmyXuId9L-QuoWwGCwQI1wyC1I9nAX4P4ONWFIGzbQN4t552lPv2LV-A0ypw8ZwcMwburNUnN3dvVgTmXr0dL76ehWs9v-6BWXRct0pylqIwDHRuQMnKHehH5K_MgeuMg1JbScGEsa2G3g1dyK3TNTFWVnSF5-FvLwpLFHeR5IXDWvFI-BQ5fgpYgZyFUaAc-fdsgSglIS3eD-EF-yusGYaVul6Hr2dIINCTScMGpHwJXX22ozmQirTY6ITKC2J9VM7aRpQf0exp__v8jkT0I3y2EbI86qOZwcZyU4pxZUJq9yaBTulR3Y2i3f-T_txr3wKtJAJTysDdUEDsJcPI71qEXYu0SeM2wTnhAFObe-bn4lLoUQqa2lsYRU
 
 
 #EXTINF:-1 tvg-id="ts8" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Tataplay | Hindi";Entertainment;HD",STAR Plus HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/star-plus-hd/index.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCm1CdviW48s_oegYKFfdpUWvkBZXb8CciKGn7cf2UXA&s" group-title="Entertainment", Star Gold HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/star-gold-hd/index.ts
+http://cdn7.digitalviewtv.xyz:8080/auth/ECSbhAc4Q9tXMHBSEAlm14PeYNfgnnebGzJbektCdm4XgOwoe6F4yNMfx7ta8t1LIVYEQShHKTfZLvrHl9fTKB16BsdJFvuIzKBDbsutP-cjMsyUnOXmmzjEJd4iiMD0XrhzfmyHtgY2idmwNpELmmqYek5GIsFgsGsemiIlpu3rW93rPSyHbu0vHIAL_H9HbMNiFWFnH0AT83T2HY-KZhPk42gEo7eaRC0lHLWA54Jcgsha7ea3Vw4tno-h5PKMGGZkAX7XcL4m7uBcYvSU2M9l-IuTc4tCXvc8JlOZfazKT8G4s8qWATPWg-JDvf3eeDKRKl4y--_YoBTbTc9UrBOdEPPEdXLRPOebiotxFLnfYIzA6SY4ktKhp52Ihikqz4eQAaXB7tSYNEjtpawYeuG1QeyKQa5INe9Gt5fTZ58jItJSbyzxB2GIMf6wdTnHxz11Itu0w06Qi3xE1cykO3foIVj2yMfQYnLDOS2FVUj3XQy34CpTuD3wuxL0kwt_PzZdnL2FT3AKMO5Te4iOXiiR9WdJP6_WL6UeU33taavDwGzk6MwVR5rgdQNPsvqVM00YxmPR2j1qlKexNDNBO_T0Z7iYGYVGVGs3B12TIHOyTCceRYQO0DLTiGNYwu_SdFjv7BdPZXKDUCopvtejIrrLTYaN4w-gn0lsAAfXi8p2qz1T9GTX8Wyk2SWwMzMm0rKGo12s-BmAjPJv9c_-MlpTygTj7fk2J_jfaRBmkeA
 
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/Y9cb0Z8L/20240407-201715.png",Discovery Multi
@@ -433,7 +433,7 @@ http://103.120.172.74:4300
 #http://148.113.5.31:8106/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/4491.ts
+http://lb8.bdplay.xyz:8080/UniVision10/764664676455/4491?token=TRAOWEBQQAIaVlJTDFcHAVMFW10DVQVdAQFfWgJWAQkGBVYKAgFTXg9HHUFLFhFSVFg9UVERDQwECQgVE0ZLXERtD10RAkALDlAHWhpOQUNcWAcaDwIACQkICAwGCw0VFEIPXRECQAkNUQVVDlJBGxdQGkxQQVlZXG9dXEdaW1wUCAhMX1ROGlcLbgddDwJZURdYGgURGxpZQ0kbC11NVVoeRFtaTBBZTAATWRpTUQ8EF04aVlxCVkRCQBsLEW1qFB5EXEtMB1ZLDF4NGlhBQ0YXThpcQGhKVUNNS1RSVVxEEFwbAxpOGlUESTxbDQ1ZUFYWUVpdRBoKEgsJEx8aVFlcD01cSj1IUQETWRpTVwACBlUaSA==
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", MON TV BANGLA
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
