@@ -26,10 +26,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSh
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwpfvCt5eajBvq0r18_2m_X4/ts
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hH5vSMQM0-xrccTHORaxa8/ts
-#EXTINF:-1 xui-id="41526" tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0As_j95IuNlTX7Nud8ybfm1mKFHkVj0jIurqmNkb_qw.png" group-title="IND | Movies",ZEE CINEMA HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnI15ccgFxjgeCH8jjpEH2Oh/ts
-#EXTINF:-1 xui-id="697" tvg-id="Zee Anmol Cinema" tvg-name="ZEE ANMOL CINEMA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfEnmSph_-hmx6sFBKBFaBZLlgObRGBRO9FAVoEQ5N4n1Q.png" group-title="IND | Movies",ZEE ANMOL CINEMA
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSh3GRJDvyoDF96vfXZqN2TG/ts
+
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jb9Co1onW0uDbPh1vRM8PU/ts
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
@@ -40,78 +37,21 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJ
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1tKMFzUtC1kJgAgUEnszkJO/ts
 #EXTINF:-1 xui-id="696" tvg-id="Goldmines" tvg-name="GOLDMINE MOVIE" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGFcfn_FG8mKnR1U0NKJK5TrnNQWtqIVGS3WgVNKJ8RkA.png" group-title="IND | Movies",GOLDMINE MOVIE
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgyGZ6mvYrKZkLH-Hd_sEEb/ts
-#EXTINF:-1 xui-id="504" tvg-id="B4U Movies" tvg-name="B4U MOVIES" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHOH1pL2f1btAevb5DZTMTINWWnqtGHlp-dM254jnh5aw.png" group-title="IND | Movies",B4U MOVIES
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_iwuf4-hB1K3-uQ7M7zCPge/ts
-#EXTINF:-1 xui-id="509" tvg-id="Bollywood Premiere" tvg-name="BOLLYWOOD PRIME" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JHqjFbCEQrfcPItuGg4rV6rby-nTuPj7J_8QIVwR4UEiC602nhQcg2_yesMi5ZTEyw.png" group-title="IND | Movies",BOLLYWOOD PRIME
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hm-HwtW-3W_ODCl4voYJVX/ts
-#EXTINF:-1 xui-id="707" tvg-id="BollywoodP" tvg-name="BOLLYWOOD HD" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JFr7PM-JqWJZ7ZCFd1usD0dyYoBs9G8tiIPXSAobYWHb.png" group-title="IND | Movies",BOLLYWOOD HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerl3qXbYLWyRZoprxezwJqTA6fFmKwjP6KQbYxty5QMe_/ts
-#EXTINF:-1 xui-id="488" tvg-id="" tvg-name="BOLLYWOOD CLASSIC HD" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JBIAQV_tinij6HuqIKXefystqZR6BEWFxo6qRuhI8QKqnSDDVsRcuJU6iyCWmFDDZA.png" group-title="IND | Movies",BOLLYWOOD CLASSIC HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnK5PoiQCF9PS59nump89zON/ts
-#EXTINF:-1 xui-id="513" tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGYn1tglPwAxKOcQeYpQeLsGwNhTagfGzeAV9jj0RTvhA.png" group-title="IND | Movies",BFLIX MOVIES
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_iB9bID6Z3b2PRhrohROzwJ/ts
-#EXTINF:-1 xui-id="2494" tvg-id="" tvg-name="BBO HD" tvg-logo="http://tv.digitalview.live:8080/images/6DJcH9So8dma-2vFaUXP2Tn0WGIBcM9yzNABkxPEtjATu-tTiLChA5jYVrj99Tzb-N_5vsBUlk-rt4hydtApPU5oiC1bL0aCENrsvUkHuTc.png" group-title="IND | Movies",BBO HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1tpU1T4qEZJTCWslZs579jo/ts
-#EXTINF:-1 xui-id="677" tvg-id="Segmented Chn 9" tvg-name="ENTER 10" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHWY5lnc8DzVRgCHoS9MyyOEU_-_l4OwAILsJZLztXjag.png" group-title="IND | Movies",ENTER 10
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSin0wBUy3c6CVBz9AHC4sD1/ts
+
 #EXTINF:-1 xui-id="507" tvg-id="&flix" tvg-name="MBC BOLLYWOOD HD" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JAadNY5rNFfNo_BIO8sfm8XmnYWGEtKTKWYANU6eTwYo.png" group-title="IND | Movies",MBC BOLLYWOOD HD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hXGzqyqMHvso6qw8vz0zoN/ts
 #EXTINF:-1 xui-id="510" tvg-id="" tvg-name="SHEMAROO BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JIX3-KmAem6bs0JaUhMemfDr-azY9m5pNQJIX2_jKtMp3qYDCOktV8vRZqZzmaK_5w.png" group-title="IND | Movies",SHEMAROO BOLLYWOOD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hUs2xDKUqHCOl5Dfvbl7BJ/ts
-#EXTINF:-1 xui-id="514" tvg-id="" tvg-name="CINEMA TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinema_tv_in.png" group-title="IND | Movies",CINEMA TV
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_j6Qfl6SivxTaMFEfeURaC2/ts
-#EXTINF:-1 xui-id="512" tvg-id="" tvg-name="WOW CINEMA" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JINQl4AKoBsEPjMDnenbKZUNrVfBIfyPtNyn80ZElttC.png" group-title="IND | Movies",WOW CINEMA
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_i6G56qhHcOBm43viQroEr3/ts
-#EXTINF:-1 xui-id="511" tvg-id="" tvg-name="MAHA MOVIE" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maha_movie_in.png" group-title="IND | Movies",MAHA MOVIE
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_j_8RKQ6vXB4t9UQGjxC23L/ts
-#EXTINF:-1 xui-id="2328" tvg-id="" tvg-name="MANORANJAN GRAND" tvg-logo="https://www.lyngsat.com/logo/tv/mm/manoranjan-grand-in.png" group-title="IND | Movies",MANORANJAN GRAND
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1uAGR1CDfzAxJl2J7z5gsbD/ts
-#EXTINF:-1 xui-id="18342" tvg-id="MUSIND" tvg-name="MUSIC INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KgUcxbg3Tc3DR956JhsXvJtZHJrwGQyOOA&usqp=CAU" group-title="IND | Music",MUSIC INDIA
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwpBVf30WiobCixX7vZ6FsWw/ts
-#EXTINF:-1 xui-id="525" tvg-id="9XM" tvg-name="9XM" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHIobON91A14to8P-epYpCWY-ISSG2h1xzBZSoQRRJ8NQ.png" group-title="IND | Music",9XM
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_gEM3l8HOZOfH2NtrM1ghmQ/ts
-#EXTINF:-1 xui-id="519" tvg-id="9X Jalwa" tvg-name="9X JALWA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfECMN7FB_nEQh4_POIJKP0cBBqY8Dl1ovFKe8zl-nbNYA.png" group-title="IND | Music",9X JALWA
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hmqdbj_AWq6Jh4BE8x3l40/ts
-#EXTINF:-1 xui-id="18830" tvg-id="" tvg-name="9x JHAKAAS" tvg-logo="http://tv.digitalview.live:8080/images/-UzrQm8ZA0lgTPU6an1oGIquKpO0lC-Soap6LitAcgBkSK2cWKjOHASsghlZvkD2jHUDaQyjoM0yswHNR8AdjA.jpg" group-title="IND | Music",9x JHAKAAS
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwqD1uwfnmToQOAs83cdAvR7/ts
-#EXTINF:-1 xui-id="522" tvg-id="MTV Beats HD" tvg-name="MTV BEATS HD" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JGeZsYpf_aYhZgFiVYDY2XuGHmG5kneQUuU1F44pUR8d.png" group-title="IND | Music",MTV BEATS HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_giXeCzGXo4UIJBArv5k71S/ts
-#EXTINF:-1 xui-id="683" tvg-id="MTV HD" tvg-name="MTV HD +" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFaZ0lnS8f92qzB82ZPD0t4GEFzTbrg_P7nLo2Q1QriZA.png" group-title="IND | Music",MTV HD +
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrShYqVG9m82ltt5NDF_-cTuq/ts
-#EXTINF:-1 xui-id="16817" tvg-id="" tvg-name="8XM HD" tvg-logo="http://tv.digitalview.live:8080/images/8339_JHVtCbXb8PaGNo18F35rTe370WNzlgcJG5JD5BMghF2MBz737i1Sx20r3Bp4BPgWomDlB-E_65qU5y2tw.jpg" group-title="IND | Music",8XM HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwplh2rh6RZcZvQZu9z_g9Db/ts
-#EXTINF:-1 xui-id="18693" tvg-id="" tvg-name="9X TASHAN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZTa1jczNwLSGROOaAES1SvsDxPB2N3MSy5sxVJ1qg=s900-c-k-c0x00ffffff-no-rj" group-title="IND | Music",9X TASHAN
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwpX0VcUkyIsqAvSlPnscnht/ts
-#EXTINF:-1 xui-id="521" tvg-id="Mastiii" tvg-name="MASTIII" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfF4rh2e7hWyCIHHku-aEZU_jh13HnB6FZjRUPIbdaEVsQ.png" group-title="IND | Music",MASTIII
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hE6nHXwFHH_LXJE9aBOkd8/ts
-#EXTINF:-1 xui-id="530" tvg-id="B4U Music" tvg-name="B4U MUSIC" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfE1AfBi13XM1kzmktGucgiB5NrwgLhNyMthyEUOWmN6zA.png" group-title="IND | Music",B4U MUSIC
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_iB52nm0NXl99I1ZNyw6IlE/ts
-#EXTINF:-1 xui-id="518" tvg-id="Zoom" tvg-name="ZOOM" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfEPXC8WZBGSZB3tGt_8JfEpLNjnxRtERNOr41C8dE8YjA.png" group-title="IND | Music",ZOOM
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_iLldmKpEXwJSTByU8vxI3P/ts
-#EXTINF:-1 xui-id="520" tvg-id="Zing" tvg-name="ZING" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfEGfaW_nS_kuyMTHtttf8CutIP396_KRCg2ikOUx6jXQg.png" group-title="IND | Music",ZING
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_gEHglzDBigNCI67Zf0gtHR/ts
-#EXTINF:-1 xui-id="531" tvg-id="" tvg-name="E 24" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JLAmLEnX_0k7xGfAtDI7DBWzkDTgtWxbArZesgwLISTT.png" group-title="IND | Music",E 24
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_iirzTcZ1ubku0E-kiRXu4u/ts
-#EXTINF:-1 xui-id="516" tvg-id="" tvg-name="SHOWBOX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/showbox-in.png" group-title="IND | Music",SHOWBOX
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_g_Uo7-EX5xrB8kh9KXweUR/ts
-#EXTINF:-1 xui-id="676" tvg-id="" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="https://i.postimg.cc/SNg3WR7t/boogle-bollywood.png" group-title="IND | Music",BOOGLE BOLLYWOOD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgSXsAIfrBPXognhKifm0Z9/ts
-#EXTINF:-1 xui-id="524" tvg-id="" tvg-name="DESHI CHANNEL" tvg-logo="https://i.postimg.cc/4dQkjTjK/deshi-channe-L.png" group-title="IND | Music",DESHI CHANNEL
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_iYwjFS7Ry43gZD97TY3rTk/ts
-#EXTINF:-1 xui-id="527" tvg-id="" tvg-name="DABANGG TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dabangg_in.png" group-title="IND | Music",DABANGG TV
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jv8mNmZebJQ1HqQN_RvuV7/ts
+
+
 #EXTINF:-1 xui-id="535" tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH4OZYz2xLMIEAJhz_sQD33JqpFyErFcEF9LwBw0XxGWg.png" group-title="Hollywood Movies",SONY PIX HD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jkuPXoE8Ygssc3klpxRhCJ/ts
-#EXTINF:-1 xui-id="539" tvg-id="1sports" tvg-name="&FLIX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGN9ffUoc8dFEefuWA11KHREuiZ0gJVTL7nk4m93ljXXw.png" group-title="Hollywood Movies",&FLIX HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_gcNZB7gaOsBGXRyqYHkzO8/ts
+
 #EXTINF:-1 xui-id="685" tvg-id="STAR Movies Select HD" tvg-name="STAR MOVIES SELECT HD" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JGFIabrdf1oQUjuUT-lEmwu0pN4QMnRE1zWOgEIvH7_JiFUPbmtp7qt2toC-JokvAg.png" group-title="Hollywood Movies",STAR MOVIES SELECT HD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgpLm2hTb14IEu-qgdhAfM4/ts
 #EXTINF:-1 xui-id="541" tvg-id="STAR Movies HD" tvg-name="STAR MOVIES HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHAJM8NepUfwlZtcOMgvosqSrSOxxJjjyKVeABj3cOD-A.png" group-title="Hollywood Movies",STAR MOVIES HD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_j824ePAwINsaZduLEoG5Rv/ts
-#EXTINF:-1 xui-id="538" tvg-id="Movies Now HD" tvg-name="MOVIES NOW HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHgEAeICWpCcSGfzBLpscQY6kJMDNr4SEO81DX7vzDWLQ.png" group-title="Hollywood Movies",MOVIES NOW HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_gyZ0oYhggFagV50Ckkf0lz/ts
-#EXTINF:-1 xui-id="534" tvg-id="Romedy Now" tvg-name="ROMEDY NOW" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHLQlyzC-2rDf3L5MhgyBWa7yjshq7vluLeOyWk_x3yHg.png" group-title="Hollywood Movies",ROMEDY NOW
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_j4vzMwpWLJXZBLr3jtCSbk/ts
+
 #EXTINF:-1 xui-id="634" tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JF-djbE2DtdLd9E5SzBCGZYjz9nLQborLHb4o0S0-C3q.png" group-title="Hollywood Movies",MNX HD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgHI7OO8EzyGiXasOzVcO0v/ts
 #EXTINF:-1 xui-id="536" tvg-id="AXNHDK" tvg-name="AXN HD" tvg-logo="http://fanc.tmsimg.com/assets/s101811_ll_h3_ab.png" group-title="Hollywood Movies",AXN HD
@@ -126,14 +66,6 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_h
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgLKZI8Zy4O9MweM14zWYMs/ts
 #EXTINF:-1 xui-id="542" tvg-id="" tvg-name="LOTUS MACAU" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JDtKU9WG0_aOuRnMhc3n7DqEFuWqOULkwwW5seg6hvEP.png" group-title="Hollywood Movies",LOTUS MACAU
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hjwdfr-fRGExO_Dn-ZPc8J/ts
-#EXTINF:-1 xui-id="553" tvg-id="" tvg-name="DUBAI ONE" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHuIJcaQDGe3B15N34lnwaZ36qeaLnLO5JDZoipaFKQ1Q.png" group-title="Hollywood Movies",DUBAI ONE
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_glcPJkM4D6bff5Agwy3PcP/ts
-#EXTINF:-1 xui-id="552" tvg-id="" tvg-name="ACTION HOLLYWOOD" tvg-logo="https://i.postimg.cc/25VG0xDB/action-hollywood.png" group-title="Hollywood Movies",ACTION HOLLYWOOD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jbIjTnuOeA37Wn-SyAguvk/ts
-#EXTINF:-1 xui-id="557" tvg-id="" tvg-name="MOVIE SPHERE" tvg-logo="https://i.postimg.cc/DwsL0Yn6/movies-spire.png" group-title="Hollywood Movies",MOVIE SPHERE
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_ihqW-CTvOCMHK48d-AAKPu/ts
-#EXTINF:-1 xui-id="678" tvg-id="" tvg-name="AMC" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHVHkW5nu2MBCY0aKyV1HwQOHZXqJ1eVlnBlZF4oGbT7w.png" group-title="Hollywood Movies",AMC
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSj9wPoKZVRSSIg0z0JtYQGD/ts
 
 
 
@@ -167,14 +99,6 @@ https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
 
-#EXTINF: -1 tvg-name="Zee Action HD" tvg-logo="http://lifetvbd.xyz:8080/images/0455a50f7c3e8c24914521bbaae2fc8f.png" group-title="INDIA | Movies", Zee Action HD
-http://46.250.237.254:8080/auth/3taazec11EB9kix_dbwXzVyHiy_v8b_jTBzXgpj64kZFU4dF_C-14RYaTM7MdhR90nDHpYV2OK533w3F5O-V2WknJ-ndCrW1GERwGbw8SIY0lMA-Hm5Whb10dAhJUjW4IitQQC9W3HT2hy9ThE9s0egnYG1CMDU4nkIuv3C6lFJ-_L-sJrRkE-t9TZYSoFG30UEZWga9vb_8PxZDH3UAubp70IT9w8j3pughZ9ZrP4Ea5B2JOc4vHPk5e3wJNtD5s52wPhBKDc53O20cLjkDw54Za4ny8yc_4_JSLWf5PKZV_pMQp3iBqMlRls6vXAB9bAM5IE_pI8ncRtcZKfE6IUsUWliwJXtB2_SivVQ4_1zybjzEQbeiC1iu_cURCCCtjnle1zmQDdKvKtj0hZRUcp4Z7Hw06Us4rUqxbdXAVLXX7cPRxztkC8gT8cvtvqNBa5bAw60ny-aQOrU_zE16ggQkVR8W0L5NMoBah1QnPdEOGwmZ0CLyL96lArkGvKOLfZX9cwNiG9hpCpIY-bJ80G2po50u95hFo44HfXnwHdarUhf6s5aZ6OIZE7vUlSm9zQq3dt4CRN9jIqy8d39Sjk6Z-0gWX4UOcRUO7v3Pkp7IFcGR0cw09fWbGj0hLUD7bxltiaFD6BZtTofnRasV1K0ATPNBkRToHj1w_WGIwFBkDIxMERT4k0ynrcKXlkVz-BNH0qnpT7hUUWo00eg3M-g75OMvadMMUNAIvHgJwHc
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvrhqb6J3yGM6UXgkKeLRr0LB6n5s3akHapA&s",Goldmines
-http://103.147.169.52:8080/auth/m3k3fkRh9pHElw2ZkL3c9_uZuSXhvovEzDX8e5MnMbexzAgEv4rqwgBUGbNnch-yPZjhCn6LMGITJwtDZCDQFTMUiKa-SmLn3mLSir6oG4bPKojvS_6FErfwowQ83prENNE_tX1BKjvhXftmz7w7ukNnKdr0hC7UMGvd3HL1BStvfyxGNNNAlvbjg4PqcINfqkS-EJVk0rRbk6Kpx6hp2HjIHwUQcMZv7MDwh-DXaDXf5KPK5hj-mC_iA8Bz8Ff8pO1qZt2VrUSgKuPagbZYlq6uKOa5mNGpw9qy8yG4V9I2wb7FN8gORVbHU8B8IUAtH2LMxA7kFAvoROzaB7YVwUjzzaJeuUOn8Cu_tWsQXzfcl3N6UHoG-9MuFMiGX2pWToqctHe7NYFyf8ysYdZQ4ZMe0cSn76A7DMc-8gzYwvEoXGPqIbq7gLswfjUPF00rsIYgUqfpUDpE5AnK6TiZrSm-k--ODOUa2b_EE4qqyKYuOMjCDOgBUE2KszT9qX2kbzt0DS1sNraTn7AyzNEcbXEefapmVwJUnX-ZuL6TLqKmXIxVGRX0TxhhguBo5gBC8kLBXBlj78Kh0HhvmtfAnlzcIy7zpxLOU1vwysmHLFQDVAkO08h4LRwNMdXJ5uXG1oSXJP-niHtSgxQazoRtchlsHENrkkXxastJNvkWWx6I94NYpNhtK3DlxZRp4PobFIp_r4OmtUOzXg_OISxkQElwArxBS13I5oud1u-uWN0
-
-#EXTINF:-1 group-title="Bollywood Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCqe3t_iYl8oKacg-RP6L79x_yGzGkHCOGRg&s",Goldmines Movies
-http://cdn7.digitalviewtv.xyz:8080/auth/cJ8QH9483Bys4FkQNbsqz0BAnzVNvjUQpcbHDoCRMy-8Vw-b8HVzhRtWcAyPVHvixZaft48Vk1RWa4Aaxyn1l7bRnOHNe0dTZJFVgsO74qv-rJlYDWrjfJzrXVkmYqzGHtJWXSe5JI9m0hbsCWtfiVHdbb7Xj8ctTuaxH-86S4LzKmzHFLsCUhPtAeYy0LgtBKSBxtzSYDf5m09uokc8y1-_z7-kp99nbs6--VUfwQ_O9Flv6tW1jTWIn6d0rSAY-Xw3jXcSyeQohcKGUb2YMg8wjt_ayqWyydR52J-Yjgghfd3X-o0R_FcXGydTQMWnf1JUz8ZxjJhHd8WGKIaOgstHka0I-GoK40O3HBkgMNr5am0KqJQeb3IaiKpUztVpsThkx5WPFfqjVQ-5Gr58CNReZ3FIHgYgwBZGCRliSvqHAbxxsiBZJkIoOkRI6F6DGYX0mM2x7vo1pw6yLnsO1O_xiigSV1mJONkziPpcmWFUOPgFW9wFNu6d7FT3VPcdCPeiBzXsUog4At-vp2GMJ0atgh3E555Jp0l4P8bVpSceqjQHEZEEZDi2y__jnbEdrD2QO9ROZzD1O55ezJQoenuCePfbZ9VG-MNHgiuxmTufFkOKQYuCXn-Xl7K_t8G5NLZ51glGs4aaCMX9xhEiW6yKq_alzARQ3CvZRVFNFS9yWe63G60WHXc26WAv8_OZOgTcPmIdlrj-rrBJCCHLwC2yXCmf3HHH6Jca-OKPi8E
-
 
 
 #EXTINF:-1,Sananda TV
@@ -191,7 +115,6 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-tv-hd/index.ts
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Tataplay | Hindi";Entertainment;HD;Comedy",&tv HD
 https://tplay.dinesh29.com.np/live/tataplay-universal/and-tv-hd/index.ts
 
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/200/62162_star-hd.jpg" group-title="English", Star Movies Select
 
 
 
@@ -231,8 +154,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/mn-hd/index.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Entertainment", Sony Pix
-http://46.250.237.254:8080/auth/iqy5creUzvM4nNG5XJ71gejaVe1c4FpM6gdSVryjdlV8krx-lJyF9eRnRHS3VR8vr-T8waqpYmeFG6-xqJkAhce-L2FCe6NthqnItnbt03Qafgm7fa_Ii69ZXbR_Tv4Y9TkoJGRl81HrbzKRrtUSsZwS1CsaKUihEHbLQIqDkIKEVbnkHGf-INffB5hrQLcVdcx1z0PjXw6K2jhnY3Tjo4FXR_hfNZn1wG7LYKQ4m5VR2n_G4Wu5tV0pQGFMjxSof82yy8kEfN1oAL7SrctPscTJs2Ewv5Hj0_nqc2KXuCjnEPBNFPenBUcTZTTRqH66N5-TY_Y_ao5-R10aKaS4O2E85NI9PIXMs0qhDZLqS6Mc0kOTqq3gNrY32iYckdcrhcaCNR8hmlqtm6a6BQ7j_UM3FFSc9HNHmyQEISh-068FUPzectlfV5TbdKATIAUlqzJZNipcgX_068LldbiDu2iyQtepctZR8bguAmgvMoDQflqsfeWhcBWk9vyXFIr0ttt87Gzk-FighRba6g_Xya5-Meu31W1nb3YWJNbrdOMGZYuQk4VAwZNqQztKzmTjKWzHYfFFb1YVuD2kIR64hi8ceP_VwRnLurSL9LuemkTRGo-_AL-MNOcrEhTtVddpfd-gy6iuX2EH88fuSqtY3yYPNfVo2xe_qYuKfmuArVkL-p5l1BhC7GXqS0CUOzhGto5yx786ZM5QP8qIKI0bEber3y1ULEdNf38jD42cFJk
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" , Cartoon Network English
 http://starshare.live:8080/live/ashokkumar/ashokkumar/8.ts
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies", Sony Max HD(c)
@@ -433,12 +355,6 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
 
 #EXTINF:-1 xui-id="539" tvg-id="1sports" tvg-name="&FLIX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGN9ffUoc8dFEefuWA11KHREuiZ0gJVTL7nk4m93ljXXw.png" group-title="Hollywood Movies",&FLIX HD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_gcNZB7gaOsBGXRyqYHkzO8/ts
-#EXTINF:-1 xui-id="515" tvg-id="Colors Cineplex HD" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG1fjPmWPZblfw3KwqIpPMZgce1NzDXo5f-XGbAqLDmMA.png" group-title="IND | Movies",COLORS CINEPLEX HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_iqe15R2FOQJtjO4HpqfhTy/ts
-
-
-#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" tvg-chno="185" group-title="WioTV",And Pictures HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/and-pictures-hd/index.ts
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="MOVIES";Movies",Zee Bollywood
 https://tplay.dinesh29.com.np/live/tataplay-universal/zee-bollywood/index.ts
@@ -573,17 +489,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Hindi",Star Plus HD
-http://103.120.172.74:4300
-#http://xtv.ooo:8080/live/RiyazMPT/433833/66208.ts
-#http://148.113.5.31:8106/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold 2
-http://lb8.bdplay.xyz:8080/UniVision10/764664676455/4491?token=TRAOWEBQQAIaVlJTDFcHAVMFW10DVQVdAQFfWgJWAQkGBVYKAgFTXg9HHUFLFhFSVFg9UVERDQwECQgVE0ZLXERtD10RAkALDlAHWhpOQUNcWAcaDwIACQkICAwGCw0VFEIPXRECQAkNUQVVDlJBGxdQGkxQQVlZXG9dXEdaW1wUCAhMX1ROGlcLbgddDwJZURdYGgURGxpZQ0kbC11NVVoeRFtaTBBZTAATWRpTUQ8EF04aVlxCVkRCQBsLEW1qFB5EXEtMB1ZLDF4NGlhBQ0YXThpcQGhKVUNNS1RSVVxEEFwbAxpOGlUESTxbDQ1ZUFYWUVpdRBoKEgsJEx8aVFlcD01cSj1IUQETWRpTVwACBlUaSA==
 
 #EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", MON TV BANGLA
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Movies",Goldmines
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports Channels", Star Sports 1 English HD
 http://myst.viewcineplex.com:7171/star-sports-1/index.m3u8?token=5b3768ba20ed5d6ac75cfe36905b8ec04f00793e-7c778fe6731455ff727e12de0f11e8a7-1719743405-1719732605
