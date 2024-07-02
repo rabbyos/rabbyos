@@ -19,7 +19,8 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnK
 #EXTINF:-1 xui-id="2172" tvg-id="Star Gold Romance" tvg-name="STAR GOLD ROMANCE" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRYkmtQTrB6qP9c7Vl93Lh-APZpkLwj9Vlpok6OIJ_-aA.png" group-title="IND | Movies",STAR GOLD ROMANCE
 http://xtv.ooo:8080/live/865@moiz/2015486520/66186.m3u8
 #EXTINF:-1 xui-id="515" tvg-id="Colors Cineplex HD" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG1fjPmWPZblfw3KwqIpPMZgce1NzDXo5f-XGbAqLDmMA.png" group-title="IND | Movies",COLORS CINEPLEX HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/206310.m3u8
+http://45.11.57.74:80/live/865@moiz/2015486520/206310.m3u8?token=GhMNBEZcR1gRVgJcAFQBUFNSVw8DVlkEVwMEBgpdAFcEAFdSB1cDUwJEGBoXEhZRBVtrXgVGAgJSUAQFAxQUFhJUFzpcUEdYEVEEDlBUVhZIFEBeDAEaClJKFURaXBRZQwlWUwUWSUBWHkBdFggFWDtSUUEIB10SWAhCWF8UFAwPbgEAWFULBhFcFglGSkZdF0YWDQ8RVFxORFVdR0pXFwQTX0cGDVNXEUoWWwsTCkAWTxYNQyZ8Ek5EUkxHXVgQCF4LRw8WCFFGXhYURg8XaxZTR0MTAVldBxQVDhEIFE9DXAQdalcKDF0DV0wNCQpHRgwWBkNIGl0NCF5AXEppEwhVR18XDF1QBURJ
+#http://xtv.ooo:8080/live/865@moiz/2015486520/206310.m3u8
 #EXTINF:-1 xui-id="691" tvg-id="Colors Cineplex Bollywood" tvg-name="COLORS CINEPLEX BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG1fjPmWPZblfw3KwqIpPMZ48Wtu8BOHVcJbbc14G5OsqiUjBIqhq0Gfp2vxi01Ygo.png" group-title="IND | Movies",COLORS CINEPLEX BOLLYWOOD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 xui-id="1703" tvg-id="Colors Cineplex Superhits" tvg-name="COLORS CINEPLEX SUPERHIT" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRVam--vG6O0P5-QnpdHNNlowl7XXILS1d3QojVHl5iCMypYHCLb_CX0cj8HjZNGiE.png" group-title="IND | Movies",COLORS CINEPLEX SUPERHIT
