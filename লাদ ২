@@ -456,6 +456,7 @@ http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/16538.ts
 http://176.119.29.52/live.ts?channelId=237&uid=783&deviceMac=00:1A:79:02:38:C6
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtxSW4E0BEhj1UDKM2KgvzPFfyCBtq6D-Bg&s" , Gazi TV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
 http://myst.viewcineplex.com:7171/GAZI/index.m3u8?token=da40e41274c3dabea4c5c54fefa05c75efaa8f44-612d3cfddfbe9515315e02ac80785858-1718606839-1718596039
 
 
