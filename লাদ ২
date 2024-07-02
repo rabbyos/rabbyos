@@ -23,7 +23,8 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/206310.m3u8
 #EXTINF:-1 xui-id="691" tvg-id="Colors Cineplex Bollywood" tvg-name="COLORS CINEPLEX BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG1fjPmWPZblfw3KwqIpPMZ48Wtu8BOHVcJbbc14G5OsqiUjBIqhq0Gfp2vxi01Ygo.png" group-title="IND | Movies",COLORS CINEPLEX BOLLYWOOD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 xui-id="1703" tvg-id="Colors Cineplex Superhits" tvg-name="COLORS CINEPLEX SUPERHIT" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRVam--vG6O0P5-QnpdHNNlowl7XXILS1d3QojVHl5iCMypYHCLb_CX0cj8HjZNGiE.png" group-title="IND | Movies",COLORS CINEPLEX SUPERHIT
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwpfvCt5eajBvq0r18_2m_X4/ts
+http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwpfvCt5eajBvq0r18_2m_X4/ts
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 https://dai.google.com/ssai/event/MhaQnX2fRNCTN-9HcFBb2A/master.m3u8
 
