@@ -2,7 +2,7 @@
 #EXTINF:-1 xui-id="68561" tvg-id="" tvg-name="ALL TIME MOVIE" tvg-logo="https://img.freepik.com/premium-vector/movie-television-logo-template-design_316488-619.jpg?w=2000" group-title="IND | Movies",ALL TIME MOVIE
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSjuxdT2rhzGzKOAprcXLmXP/ts
 #EXTINF:-1 xui-id="18826" tvg-id="SONY MAX HD" tvg-name="SONY MAX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGkHahFKWa7bCrEHQW5cpD_N58LHXNnooPcINmYzIxrjQ.png" group-title="IND | Movies",SONY MAX HD
-
+http://xtv.ooo:8080/live/865@moiz/2015486520/66179.m3u8
 #EXTINF:-1 xui-id="493" tvg-id="SONY MAX 2" tvg-name="SONY MAX 2" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGkHahFKWa7bCrEHQW5cpD_Nad4aWHe-Pq_HEHnbx7NgA.png" group-title="IND | Movies",SONY MAX 2
 
 #EXTINF:-1 xui-id="494" tvg-id="Sony Wah" tvg-name="SONY WAH" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHxYow9Rk5HDOUEa876vaIVA-_o5Q32gTr2dZx96yduiQ.png" group-title="IND | Movies",SONY WAH
@@ -127,7 +127,7 @@ http://myst.viewcineplex.com:7171/Movies-now/tracks-v1a1/mono.m3u8?token=63709f9
 #EXTINF:-1 tvg-id="ts12" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Thumbnail-v2/ZACINE_Thumbnail.png" group-title="Tataplay | Hindi";Hindi Movies",Zee Anmol Cinema 2
 https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Hindi",SONY MAX HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/66179.m3u8
 http://103.120.172.74:1150
 
