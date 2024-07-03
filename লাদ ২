@@ -54,9 +54,9 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3
 #EXTINF:-1 xui-id="537" tvg-id="MN+ HD" tvg-name="MN + HD" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JJCP6iPaOr9wu1PU40fkCBt7YdN8_VuVS4QoTJCD5o1h.png" group-title="Hollywood Movies",MN + HD
 
 #EXTINF:-1 xui-id="540" tvg-id="Zee Cafe HD" tvg-name="ZEE CAFE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHn0x7v4aR2x5UNbVs4fGbK5iiR1bk8UM0sjqT5n_LM4g.png" group-title="Hollywood Movies",ZEE CAFE HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_hrHTcW3QSZwuavWQ4Cpn-I/ts
+
 #EXTINF:-1 xui-id="692" tvg-id="Colors Infinity HD" tvg-name="COLORS INFINITY HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH3k4K_1JD8j466UJLJ-NDI1dJa8H-6uICsIiYMB87bPA.png" group-title="Hollywood Movies",COLORS INFINITY HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgLKZI8Zy4O9MweM14zWYMs/ts
+
 #EXTINF:-1 xui-id="542" tvg-id="" tvg-name="LOTUS MACAU" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JDtKU9WG0_aOuRnMhc3n7DqEFuWqOULkwwW5seg6hvEP.png" group-title="Hollywood Movies",LOTUS MACAU
 
 
@@ -167,7 +167,7 @@ http://xtv.ooo:8080/4855413/5488711/245900
 http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
-
+http://xtv.ooo:8080/4855413/5488711/245909
 #https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF: -1 tvg-name="BD-LOC: ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="BANGLADESH", BD-LOC: ATN News
 http://xtv.ooo:8080/4855413/5488711/245905
@@ -208,7 +208,8 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Bangla" group-title="",Banglavision
-https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=IZwpAMv5f6VfQg0KlkzU4A&expires=1720210867&user=c15be118d93a464dabf77260596012cf
+
+
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Bangla" group-title="",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -226,7 +227,8 @@ https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/CxXG6ZRV/20240407-215447.png", JAMUNA TV 
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+http://xtv.ooo:8080/4855413/5488711/245917
+#https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.ggpht.com/uhGad55HCzzfNO4xSj91zoWBWnfKAFTmv4ibYFsJNhRPFmakBmB47HgNdDyLsmuLY67VAi3fRg=s88-c-k-c0x00ffffff-no-rj",News24
 https://edge01.iptv.digijadoo.net/live/news_24_hd/playlist.m3u8?md5=TU6tHGgWX0SX1WhK1cj9XQ&expires=1720150230&user=c15be118d93a464dabf77260596012cf
@@ -240,7 +242,7 @@ https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangla News" group-title="",Somoy TV
-http://103.147.169.52:8080/auth/k-XLdMcl76JZGMrsAgu6WqhOX88yOy8uQoHDM_5vijVKgwfgRASQJx8R4T81wBwwsmTR2huzVRfOkHL_dWQzl3M73yvX70TiqI6VnuD7xx-G1oXZ5CvU-OUwnjBIWkOepTay-Hqugo5z-fWjq4XXr9AzIfnav9-1OLgG3HuqPtChwVHQuTa6W07v9MLfEA006Dup4wtbbjpLtUIybXWMjJFKhLsrpfT4NSGbYY43rVpW0V6L3mA_JJ5kuwwNkmnQ6pEiRXhdYE-t2vs6sxKqJsZG-sJER2j2D28dLl4seBwrN1GDMcvBa13g6vB_jnhKcq7C4K4R7DxoqNc_in_RfUpWL8VMoNL9yTsew8qFvXYLEQbRp8fYoJHyeorFJIVlasYS1VU1pgClrDpahsavZSHX0_h5lI1WN_qDUQofGjT-4LQ__t1RrUxEoZwKoGJ7H_9xef3gfUoCHQvMR8CrrTbFZ8-g5MyFed0dW_JTCrQitC66JALfvb20JKBvYMFT4GOcHSoVvhJmLh2dV0vyuy0uCbFjBGyGV4L0JrdDH4syLiwQyjqQ3HmrgG5kaSG43WCTVa9ljQZz6aH2-ulvWniAoHws7gelQoz7q4YsS1EQTXE1a4YD1q6vpz864x-FFIBO86l44oeZSzHyooLqyXAVPB2b5vEd5KP4p7bzbOz5Sw5UDObc6BX1OI4GNxiQ6vqambBFCc80h7erPnHd5PMBWzv7rVuVIUl9lTZ2RdU
+http://xtv.ooo:8080/4855413/5488711/245925
 #https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangla News" group-title="",Independent TV
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
