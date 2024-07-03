@@ -19,7 +19,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnK
 #EXTINF:-1 xui-id="2172" tvg-id="Star Gold Romance" tvg-name="STAR GOLD ROMANCE" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRYkmtQTrB6qP9c7Vl93Lh-APZpkLwj9Vlpok6OIJ_-aA.png" group-title="IND | Movies",STAR GOLD ROMANCE
 http://xtv.ooo:8080/live/865@moiz/2015486520/66186.m3u8
 #EXTINF:-1 xui-id="515" tvg-id="Colors Cineplex HD" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG1fjPmWPZblfw3KwqIpPMZgce1NzDXo5f-XGbAqLDmMA.png" group-title="IND | Movies",COLORS CINEPLEX HD
-http://45.11.57.74:80/live/865@moiz/2015486520/206310.m3u8?token=GhMNBEZcR1gRVgJcAFQBUFNSVw8DVlkEVwMEBgpdAFcEAFdSB1cDUwJEGBoXEhZRBVtrXgVGAgJSUAQFAxQUFhJUFzpcUEdYEVEEDlBUVhZIFEBeDAEaClJKFURaXBRZQwlWUwUWSUBWHkBdFggFWDtSUUEIB10SWAhCWF8UFAwPbgEAWFULBhFcFglGSkZdF0YWDQ8RVFxORFVdR0pXFwQTX0cGDVNXEUoWWwsTCkAWTxYNQyZ8Ek5EUkxHXVgQCF4LRw8WCFFGXhYURg8XaxZTR0MTAVldBxQVDhEIFE9DXAQdalcKDF0DV0wNCQpHRgwWBkNIGl0NCF5AXEppEwhVR18XDF1QBURJ
+http://212.46.43.93/4855413/5488711/206315?token=GhMNBEZcR1gRUwJbAlACBAYHVwFUUw8FUFUHAgoJBgcFUlEBAQFXVFZEGBoXEhZRBVtrXgVGAgJSUAQFBhQUFhJUFzpcUEdYEV4AC1xfVhZIFEBeDAEaClNRBQQDCwdQVQRJR0VdAUAJRAUKVFNWFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVQFQDhYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZSVwxQDxZK
 #http://xtv.ooo:8080/live/865@moiz/2015486520/206310.m3u8
 #EXTINF:-1 xui-id="691" tvg-id="Colors Cineplex Bollywood" tvg-name="COLORS CINEPLEX BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG1fjPmWPZblfw3KwqIpPMZ48Wtu8BOHVcJbbc14G5OsqiUjBIqhq0Gfp2vxi01Ygo.png" group-title="IND | Movies",COLORS CINEPLEX BOLLYWOOD
 https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
@@ -46,9 +46,6 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSg
 #EXTINF:-1 xui-id="535" tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH4OZYz2xLMIEAJhz_sQD33JqpFyErFcEF9LwBw0XxGWg.png" group-title="Hollywood Movies",SONY PIX HD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jkuPXoE8Ygssc3klpxRhCJ/ts
 
-#EXTINF:-1 xui-id="685" tvg-id="STAR Movies Select HD" tvg-name="STAR MOVIES SELECT HD" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JGFIabrdf1oQUjuUT-lEmwu0pN4QMnRE1zWOgEIvH7_JiFUPbmtp7qt2toC-JokvAg.png" group-title="Hollywood Movies",STAR MOVIES SELECT HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgpLm2hTb14IEu-qgdhAfM4/ts
-#EXTINF:-1 xui-id="541" tvg-id="STAR Movies HD" tvg-name="STAR MOVIES HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHAJM8NepUfwlZtcOMgvosqSrSOxxJjjyKVeABj3cOD-A.png" group-title="Hollywood Movies",STAR MOVIES HD
 
 #EXTINF:-1 xui-id="536" tvg-id="AXNHDK" tvg-name="AXN HD" tvg-logo="http://fanc.tmsimg.com/assets/s101811_ll_h3_ab.png" group-title="Hollywood Movies",AXN HD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_i5DKSvyodIGqyKzC-sPn0n/ts
@@ -117,7 +114,7 @@ https://dai.google.com/ssai/event/gsfwKz83TGOa7Mv-RswgaA/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10427
+http://212.46.43.93/4855413/5488711/109970?token=GhMNBEZcR1gRV1ELXVNRVwVUUQ4EBglWBABRVgtcU1FRU1VdBgxSBgREGBoXEhZRBVtrXgVGAgFSXw4DAxQUFhJUFzpcUEdYEV4AC1xfVhZIFEBeDAEaClNRBQQDCwdRUwlJR0VdAUAJRAEOVVZQFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVgxSBBYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZSVwBUBhZK
 
 #EXTINF:-1 tvg-id="ts616" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Tataplay | English";Hindi;Documentary;Knowledge",History TV18 HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/206294.m3u8
@@ -396,7 +393,7 @@ https://its-nayeemparvez.xyz/bdcast/hls/index.m3u8?id=zz43df6d
 
 
 #EXTINF:-1 tvg-id="ts244" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Tataplay | Hindi";Entertainment;HD",Star Bharat HD
-
+http://45.11.57.74/4855413/5488711/66171?token=GhMNBEZcR1gRUwRbVwMBB11VVQVVBg4GB1dRAwoAAVpXVANTUwMBVAtEGBoXEhZRBVtrXgVGAgZUVwAFHxpDEARDOgxRFl9AC1IHAF1URhhGQl1aBEYCAVVUBwQACQZQUR1HFVxQR1gRVw0LVlNGGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAkZSUAJQFBgVAgtNXhYUThYJGnQnQx1HAE1AAAxAD1tWRlxGQBcUGBUIF2dCBxVDRlZZWwYTE19HBRZJQF4HTGcHCQpaAVVAXg4KSxJYRAYWHxpbDA9YEQpHaxULV0QOGlVXUA1GSw==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Bangladeshi",Zee Bangla Hd
 http://lifetvbd.xyz:8080/live/3363696/3363696/11.ts
