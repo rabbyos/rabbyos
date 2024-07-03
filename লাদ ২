@@ -5,7 +5,7 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSj
 http://xtv.ooo:8080/4855413/5488711/66179
 
 #EXTINF:-1 xui-id="493" tvg-id="SONY MAX 2" tvg-name="SONY MAX 2" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGkHahFKWa7bCrEHQW5cpD_Nad4aWHe-Pq_HEHnbx7NgA.png" group-title="IND | Movies",SONY MAX 2
-
+https://yg51.000webhostapp.com/share.php?id=973
 #EXTINF:-1 xui-id="494" tvg-id="Sony Wah" tvg-name="SONY WAH" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHxYow9Rk5HDOUEa876vaIVA-_o5Q32gTr2dZx96yduiQ.png" group-title="IND | Movies",SONY WAH
 http://xtv.ooo:8080/4855413/5488711/112979
 #EXTINF:-1 xui-id="495" tvg-id="STAR GOLD HD" tvg-name="STAR GOLD HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFeZUppq0HVNKb2W-2pyhxR0DpE3rxDpy4bb2TX4MZ8x6Ox6MihXvzfQvavjeENo88.png" group-title="IND | Movies",STAR GOLD HD
@@ -38,7 +38,7 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/112972.m3u8
 #EXTINF:-1 xui-id="2173" tvg-id="" tvg-name="GOLDMINE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dT-IaO-mthwA3g5nYjMsQeTUjWVehg8qvGtMnp3vWQEAQ.png" group-title="IND | Movies",GOLDMINE BOLLYWOOD
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1tKMFzUtC1kJgAgUEnszkJO/ts
 #EXTINF:-1 xui-id="696" tvg-id="Goldmines" tvg-name="GOLDMINE MOVIE" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGFcfn_FG8mKnR1U0NKJK5TrnNQWtqIVGS3WgVNKJ8RkA.png" group-title="IND | Movies",GOLDMINE MOVIE
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSgyGZ6mvYrKZkLH-Hd_sEEb/ts
+https://yg51.000webhostapp.com/share.php?id=77143
 
 
 
@@ -313,8 +313,8 @@ http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1,COMILLA TV 24
 http://103.149.142.133/0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_GnazJyanMJD4819cCt09rPIJ0myoXBZqIRHjXgic_A&s" group-title="News", Channel I
-https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=tpiFn1s-cg4GhXpue8yHzQ&expires=1720150777&user=c15be118d93a464dabf77260596012cf
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+https://yg51.000webhostapp.com/share.php?id=34665
+#https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" ,Btv
@@ -375,7 +375,7 @@ https://jiotv.nayeemparvez.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="MOVIES";Movies",Zee Bollywood
 
 #EXTINF:-1 tvg-id="ts1183" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="MOVIES";Movies",&Xplor HD
-
+https://yg51.000webhostapp.com/share.php?id=20648
 
 #EXTINF:-1 tvg-id="ts486" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43899-jyofyk1s-v4/imageContent-43899-jyofyk1s-m4.png" group-title="Hindi;Movies",Tata Play Bollywood Premiere
 
