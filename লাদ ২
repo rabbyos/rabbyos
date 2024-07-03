@@ -168,7 +168,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9
 http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
-https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+http://103.147.169.52:8080/auth/BMZ13aj_ODHwGXpsMtu_UsQbKqYvqQeV1a7UJYxADVd-1oKpeWnHHs4VNvOTxfdQrT2w33V0CeuWFKv-Gfl4w73nB_dDKmiWi4m8M5ejDuPlNmq-CE_KE7HHbxu4jobahEh-ga18Q2izbyPzmHPMlRkciSJx4rmLvVJcJ_R53A7FBWI9tf7hHVIjI2rRjmwDE-J3vU8EmIC_IONJ6fDQISw-RvQKias-EXTznCe5SAZdEqf4p0Ewhyi0vmHx9XPSrqvZ07zMupPCsgjJq2bmtTnYvlkmu6gKigbSR3bgENE4jWq4xRq42_NEniI3Vsjp0YqszwcrYYCH4JINn2EIushBDl4ySca_bg22MDcHgPLsxUX-N_Plaj-4xXlcJLqw0a0H9qjW_gfA3SDHouMWl-feZxFHaHgSyzrs-WwqkQToNtcdvVZ7G_iSFPR3R8ZRQRC1WbR97pHH8jR9cnFDQkfs1Zt5RhQQUu0zOd_6CfSJ9DXPsRz_cBrnfDGCm9NrZXF8cAGDRSFCqmP7CkjhbjmEPmGLQxaVY4I_-cdKo0L5UIyzljbV8AXRm-mdrw101huJTw5Zs3BqMw2cF93un4DW6050R3UPCzrVDVf84pR45o9xWWyvHtse9OixLfPcjYS4BTU-HebOR1YFv1yN6XrQRsjdACSw_nQ3jiaDMOIoQOKHPQap-Df-tF1GWQJi3uAYOi_kdxH-UadXUmPgR6kjizGxlxGmNFbj2iWoLgw
+#https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgep8KnTlr0wQqJBkcYEL4NuR9XaKZzvca_rvcR4IesDx3MvpUHxWoks&s",channel 9
@@ -239,7 +240,8 @@ https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangla News" group-title="",Somoy TV
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+http://103.147.169.52:8080/auth/k-XLdMcl76JZGMrsAgu6WqhOX88yOy8uQoHDM_5vijVKgwfgRASQJx8R4T81wBwwsmTR2huzVRfOkHL_dWQzl3M73yvX70TiqI6VnuD7xx-G1oXZ5CvU-OUwnjBIWkOepTay-Hqugo5z-fWjq4XXr9AzIfnav9-1OLgG3HuqPtChwVHQuTa6W07v9MLfEA006Dup4wtbbjpLtUIybXWMjJFKhLsrpfT4NSGbYY43rVpW0V6L3mA_JJ5kuwwNkmnQ6pEiRXhdYE-t2vs6sxKqJsZG-sJER2j2D28dLl4seBwrN1GDMcvBa13g6vB_jnhKcq7C4K4R7DxoqNc_in_RfUpWL8VMoNL9yTsew8qFvXYLEQbRp8fYoJHyeorFJIVlasYS1VU1pgClrDpahsavZSHX0_h5lI1WN_qDUQofGjT-4LQ__t1RrUxEoZwKoGJ7H_9xef3gfUoCHQvMR8CrrTbFZ8-g5MyFed0dW_JTCrQitC66JALfvb20JKBvYMFT4GOcHSoVvhJmLh2dV0vyuy0uCbFjBGyGV4L0JrdDH4syLiwQyjqQ3HmrgG5kaSG43WCTVa9ljQZz6aH2-ulvWniAoHws7gelQoz7q4YsS1EQTXE1a4YD1q6vpz864x-FFIBO86l44oeZSzHyooLqyXAVPB2b5vEd5KP4p7bzbOz5Sw5UDObc6BX1OI4GNxiQ6vqambBFCc80h7erPnHd5PMBWzv7rVuVIUl9lTZ2RdU
+#https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangla News" group-title="",Independent TV
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Bangla News" group-title="",Ekhone TV
