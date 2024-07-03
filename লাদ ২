@@ -2,12 +2,12 @@
 #EXTINF:-1 xui-id="68561" tvg-id="" tvg-name="ALL TIME MOVIE" tvg-logo="https://img.freepik.com/premium-vector/movie-television-logo-template-design_316488-619.jpg?w=2000" group-title="IND | Movies",ALL TIME MOVIE
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSjuxdT2rhzGzKOAprcXLmXP/ts
 #EXTINF:-1 xui-id="18826" tvg-id="SONY MAX HD" tvg-name="SONY MAX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGkHahFKWa7bCrEHQW5cpD_N58LHXNnooPcINmYzIxrjQ.png" group-title="IND | Movies",SONY MAX HD
-http://46.250.237.254:8080/auth/oCm6KM0Uz096_hEnFKkd25_dB9UmT1iKCGkJmxIsil8QoJc9ZCMHBj460Vv01O_3QXwtEFUmsuRmmOVajjIiJW0Iqtp_mK79lvF1DMaCiDiDBZCiYo3JN_tmHWiJbxw9EGwOVVxfi5u61yIZWEo_0cX2kK5S-CS84hYHlBx6WzzxhnxcIriMAig8E9fn1VVGP6idxvIQHydwowgfZk60yT9oSwt40J5hG-Z3bEogtX8D_32kqSHRmqQF2qyWHw5N3u4JfsqtWY3-SHF4LSz6TEFNVKSQcrcdaKfxWp9l9snHYQ76JXcJC2amdelvwwbUUlRmJ0x9IGfi_8Z-vaix1X_sNnXGzZq0BqPosTxPuMiKgAuFCeH0bXSoIB8h2zbBngttHzF1smywl_ZC-x16GPPnGcGuISF52LpfOaUZ5gFrLqFExbEORDta8QX_6M0yktHv5xG86js587_k59hkv3qyoM7VsH7gNMrPSvStYlzPif3q3TQxMwRLmA9OdzK7Wg-ETze3WFfSeNWLdWv3yNJ8mhwRdT9zr2h7Uoj92yY_UBwgW-F9QIQnCXAnfvx-VDjtxX3T9q3XB6X10E6qcWklZ1afLj7ELiNSZxN16SAdppO-i4jEPNphBN_EuDjmM5iGeo5GQBauNUHkpDYF4zJJYz4ElJkxGFaucR8xsIw1PWbqC2hUGImr_jmMlnMwYbSFSGesX6Okh4J5babzYMMboWe8hoNuhrV6ry7bBbY
-http://xtv.ooo:8080/live/865@moiz/2015486520/66179.m3u8
+http://xtv.ooo:8080/4855413/5488711/66179
+
 #EXTINF:-1 xui-id="493" tvg-id="SONY MAX 2" tvg-name="SONY MAX 2" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGkHahFKWa7bCrEHQW5cpD_Nad4aWHe-Pq_HEHnbx7NgA.png" group-title="IND | Movies",SONY MAX 2
 
 #EXTINF:-1 xui-id="494" tvg-id="Sony Wah" tvg-name="SONY WAH" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHxYow9Rk5HDOUEa876vaIVA-_o5Q32gTr2dZx96yduiQ.png" group-title="IND | Movies",SONY WAH
-http://xtv.ooo:8080/live/865@moiz/2015486520/112979.m3u8
+http://xtv.ooo:8080/4855413/5488711/112979
 #EXTINF:-1 xui-id="495" tvg-id="STAR GOLD HD" tvg-name="STAR GOLD HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFeZUppq0HVNKb2W-2pyhxR0DpE3rxDpy4bb2TX4MZ8x6Ox6MihXvzfQvavjeENo88.png" group-title="IND | Movies",STAR GOLD HD
 http://xtv.ooo:8080/live/865@moiz/2015486520/109959.m3u8
 #EXTINF:-1 xui-id="633" tvg-id="Star Gold 2" tvg-name="STAR GOLD 2" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFeZUppq0HVNKb2W-2pyhxRPyClDWb4TEZ4QVtsVNQ_zA.png" group-title="IND | Movies",STAR GOLD 2
@@ -22,9 +22,9 @@ http://xtv.ooo:8080/4855413/5488711/66186
 http://212.46.43.93/4855413/5488711/206315?token=GhMNBEZcR1gRUwJbAlACBAYHVwFUUw8FUFUHAgoJBgcFUlEBAQFXVFZEGBoXEhZRBVtrXgVGAgJSUAQFBhQUFhJUFzpcUEdYEV4AC1xfVhZIFEBeDAEaClNRBQQDCwdQVQRJR0VdAUAJRAUKVFNWFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVQFQDhYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZSVwxQDxZK
 #http://xtv.ooo:8080/live/865@moiz/2015486520/206310.m3u8
 #EXTINF:-1 xui-id="691" tvg-id="Colors Cineplex Bollywood" tvg-name="COLORS CINEPLEX BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG1fjPmWPZblfw3KwqIpPMZ48Wtu8BOHVcJbbc14G5OsqiUjBIqhq0Gfp2vxi01Ygo.png" group-title="IND | Movies",COLORS CINEPLEX BOLLYWOOD
-https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+http://xtv.ooo:8080/4855413/5488711/112983
 #EXTINF:-1 xui-id="1703" tvg-id="Colors Cineplex Superhits" tvg-name="COLORS CINEPLEX SUPERHIT" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRVam--vG6O0P5-QnpdHNNlowl7XXILS1d3QojVHl5iCMypYHCLb_CX0cj8HjZNGiE.png" group-title="IND | Movies",COLORS CINEPLEX SUPERHIT
-http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://xtv.ooo:8080/4855413/5488711/66199
 #http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwpfvCt5eajBvq0r18_2m_X4/ts
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 https://dai.google.com/ssai/event/MhaQnX2fRNCTN-9HcFBb2A/master.m3u8
@@ -32,7 +32,7 @@ https://dai.google.com/ssai/event/MhaQnX2fRNCTN-9HcFBb2A/master.m3u8
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
 
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-https://dai.google.com/ssai/event/WD6N_iiuSUqC8b4VbJtzjA/master.m3u8
+http://xtv.ooo:8080/4855413/5488711/66191
 #EXTINF:-1 xui-id="41285" tvg-id="Goldmines" tvg-name="GOLDMINE" tvg-logo="" group-title="IND | Movies",GOLDMINE
 http://xtv.ooo:8080/live/865@moiz/2015486520/112972.m3u8
 #EXTINF:-1 xui-id="2173" tvg-id="" tvg-name="GOLDMINE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dT-IaO-mthwA3g5nYjMsQeTUjWVehg8qvGtMnp3vWQEAQ.png" group-title="IND | Movies",GOLDMINE BOLLYWOOD
@@ -284,7 +284,7 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
-https://tplay.dinesh29.com.np/live/tataplay-universal/bflix/index.ts
+http://xtv.ooo:8080/4855413/5488711/104190
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="", South Station
