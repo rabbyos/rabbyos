@@ -69,9 +69,10 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYers_YNWaYFSmUuuDoWiFRrSg
 
 
 #EXTINF:-1 xui-id="448" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA
-http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-http://xtv.ooo:8080/live/865@moiz/2015486520/245898.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://xtv.ooo:8080/4855413/5488711/245898
+#http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
+
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8Ex39hGjdgzPY05MsPLajf7y312w5RtJA0ZwryXWg4u_ZSfT59rRc902bcbsO5Eh6O2JS_mUvQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Star Jalsha
 http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e4213295cf7105f6e7c721956967b50b
@@ -159,15 +160,17 @@ http://starshare.live:8080/live/ashokkumar/ashokkumar/8.ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD 
-http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://xtv.ooo:8080/4855413/5488711/245900
+#http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Colors Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla" group-title="",ATN Bangla
-http://103.147.169.52:8080/auth/BMZ13aj_ODHwGXpsMtu_UsQbKqYvqQeV1a7UJYxADVd-1oKpeWnHHs4VNvOTxfdQrT2w33V0CeuWFKv-Gfl4w73nB_dDKmiWi4m8M5ejDuPlNmq-CE_KE7HHbxu4jobahEh-ga18Q2izbyPzmHPMlRkciSJx4rmLvVJcJ_R53A7FBWI9tf7hHVIjI2rRjmwDE-J3vU8EmIC_IONJ6fDQISw-RvQKias-EXTznCe5SAZdEqf4p0Ewhyi0vmHx9XPSrqvZ07zMupPCsgjJq2bmtTnYvlkmu6gKigbSR3bgENE4jWq4xRq42_NEniI3Vsjp0YqszwcrYYCH4JINn2EIushBDl4ySca_bg22MDcHgPLsxUX-N_Plaj-4xXlcJLqw0a0H9qjW_gfA3SDHouMWl-feZxFHaHgSyzrs-WwqkQToNtcdvVZ7G_iSFPR3R8ZRQRC1WbR97pHH8jR9cnFDQkfs1Zt5RhQQUu0zOd_6CfSJ9DXPsRz_cBrnfDGCm9NrZXF8cAGDRSFCqmP7CkjhbjmEPmGLQxaVY4I_-cdKo0L5UIyzljbV8AXRm-mdrw101huJTw5Zs3BqMw2cF93un4DW6050R3UPCzrVDVf84pR45o9xWWyvHtse9OixLfPcjYS4BTU-HebOR1YFv1yN6XrQRsjdACSw_nQ3jiaDMOIoQOKHPQap-Df-tF1GWQJi3uAYOi_kdxH-UadXUmPgR6kjizGxlxGmNFbj2iWoLgw
-#https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
+#https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF: -1 tvg-name="BD-LOC: ATN News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="BANGLADESH", BD-LOC: ATN News
+http://xtv.ooo:8080/4855413/5488711/245905
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgep8KnTlr0wQqJBkcYEL4NuR9XaKZzvca_rvcR4IesDx3MvpUHxWoks&s",channel 9
 http://46.250.234.136:8080/3363696/3363696/493
