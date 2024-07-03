@@ -462,6 +462,7 @@ http://myst.viewcineplex.com:7171/GAZI/index.m3u8?token=da40e41274c3dabea4c5c54f
 
 
 #EXTINF:-1,  TSPORTS
+http://himelop-back.ddns.net:8080/hls/col12.m3u8
 http://myst.viewcineplex.com:7171/t-sports/index.m3u8?token=129fb5ac9eb97733426e3b30b4b33b656872bdf6-e0800758c0d5ca2fd05833317af4daca-1718606993-1718596193
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports Channels", Star Sports select 1
 http://myst.viewcineplex.com:7171/star-sports-select-1/index.m3u8?token=ad86df7260f7b3a89a76fb8c8d15cc84cd995c90-553d5429e40410e008d205c47a2ab5f2-1719743020-1719732220
