@@ -251,7 +251,7 @@ https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS" group-title="",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Bangla News" group-title="",Somoy TV
-http://103.109.56.116/live/skyfeed1014/index.m3u8
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@somoynews360
 #http://xtv.ooo:8080/4855413/5488711/245925
 #https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangla News" group-title="",Independent TV
@@ -260,6 +260,10 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg"group-title="Jagobd" group-title="",Jago News 24
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg",Channel 24
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwm5KYiY6FKR1Git8mzDl0rbdASBm4M_QR8qoT8pLyFw&s",DBC News
 https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=Dsdx0dQP-WkG22Pdzbh3XQ&expires=1720150137&user=c15be118d93a464dabf77260596012cf
@@ -337,7 +341,7 @@ https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=XNhiwY4V7fqnZ
 https://allinonereborn.tech/opplex1.php?id=355551
 
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=eFD4aOreznQJtX00LGBv3A&expires=1720210191&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=07zaacSK7VlYzAMr8sZxAw&expires=1720511944&user=c15be118d93a464dabf77260596012cf
 
 
 #EXTINF:-1,A SPORTS
@@ -366,7 +370,8 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 
 https://livess.ncare.live/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla",Nexus TV
-https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+#https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 
 
 
