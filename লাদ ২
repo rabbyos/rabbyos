@@ -27,7 +27,8 @@ http://xtv.ooo:8080/4855413/5488711/112983
 http://xtv.ooo:8080/4855413/5488711/66199
 #http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYervaywCkMX5sUgVW6v2v4xwpfvCt5eajBvq0r18_2m_X4/ts
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
-https://dai.google.com/ssai/event/MhaQnX2fRNCTN-9HcFBb2A/master.m3u8
+http://xtv.ooo:8080/4855413/5488711/66181
+#https://dai.google.com/ssai/event/MhaQnX2fRNCTN-9HcFBb2A/master.m3u8
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
 
@@ -135,7 +136,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.t
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
 #https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
-https://dai.google.com/ssai/event/W499Tna_T1y9td-jD7bw_w/master.m3u8
+http://xtv.ooo:8080/4855413/5488711/206308
 #EXTINF: -1 tvg-name="MNX" tvg-logo="http://lifetvbd.xyz:8080/images/f10ff07a032a806d0745d24b056f0c88.png" group-title="English Movie", MNX
 https://tplay.dinesh29.com.np/live/tataplay-universal/mnx/index.ts
 
