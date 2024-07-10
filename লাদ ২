@@ -1,6 +1,11 @@
 #EXTM3U8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ruposhi Bangla" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/efbf1281a279adb1706414fb5d6ebc0d.png" group-title="India",IN: Ruposhi Bangla
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/247527
+#EXTINF:-1 tvg-id="" tvg-name="IN: Utsav Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a65ad5eaab77bbe22fac0884eb1a7774.png" group-title="India ➾ LifeStyle",IN: Utsav Plus
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/60347
 #EXTINF:-1 xui-id="68561" tvg-id="" tvg-name="ALL TIME MOVIE" tvg-logo="https://img.freepik.com/premium-vector/movie-television-logo-template-design_316488-619.jpg?w=2000" group-title="IND | Movies",UTSAV GOLD
-http://51.159.97.122/4855413/5488711/221257?token=GhMNBEZcR1gRAwBZV19UDVYFBwAAVV1SUFdTDQALDwFZBQdWDQRdVgdEGBoXEhZRBVtrXgVGAgJQVwUBBBQUFhJUFzpcUEdYEV4AC1xfVhZIFEBeDAEaClNRBQQDAANXUQJJR0VdAUAJRAcMVFFcDVIUGBUEHExVEAhWWGxcUxUIUgBHD1oQDl9KFlcKOQBRCVdaU0NeGgBAShVdQEgUWQ9ECQkZFgcLRxRVTAFEXhZSAAUHQ0gaUw0TWUBBQRRZQ3MhRxkWABpHA1pLDQkKFl4UQERDSBpZETlFUUBMRAYAXAAXFw5HUhFKFlUFHjtXC1haUgIQUV8MFRUOEQkUT0NcCgtcQAoQbBZdXEZcRgdXBAMAUlQaTQ==
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82623
 #EXTINF:-1 xui-id="18826" tvg-id="SONY MAX HD" tvg-name="SONY MAX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGkHahFKWa7bCrEHQW5cpD_N58LHXNnooPcINmYzIxrjQ.png" group-title="IND | Movies",SONY MAX HD
 http://xtv.ooo:8080/4855413/5488711/221259
 
@@ -31,7 +36,7 @@ http://xtv.ooo:8080/4855413/5488711/66181
 #https://dai.google.com/ssai/event/MhaQnX2fRNCTN-9HcFBb2A/master.m3u8
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
-
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1351
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
 http://xtv.ooo:8080/4855413/5488711/66191
 #EXTINF:-1 xui-id="41285" tvg-id="Goldmines" tvg-name="GOLDMINE" tvg-logo="" group-title="IND | Movies",GOLDMINE
@@ -40,7 +45,8 @@ http://xtv.ooo:8080/live/865@moiz/2015486520/112972.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerhzjI0iZMQl5M87TOinjv1tKMFzUtC1kJgAgUEnszkJO/ts
 #EXTINF:-1 xui-id="696" tvg-id="Goldmines" tvg-name="GOLDMINE MOVIE" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGFcfn_FG8mKnR1U0NKJK5TrnNQWtqIVGS3WgVNKJ8RkA.png" group-title="IND | Movies",GOLDMINE MOVIE
 https://yg51.000webhostapp.com/share.php?id=77143
-
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee World" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/355170886aae937e99453a9e20caf655.png" group-title="India ➾ Movie",IN: Zee World
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/172264
 
 
 
@@ -583,7 +589,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ts517" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="Tataplay | Hindi";Music",Zing
-https://tplay.dinesh29.com.np/live/tataplay-universal/zing/index.ts
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1347
 
 
 
