@@ -177,7 +177,104 @@ http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:B0:A9:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png" group-title="BDIX CHANNELS", GREEN TV
 http://103.109.56.116/live/skyfeed1011/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_bangla
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png", ATN News
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_news
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png", Al Jazeera English HD
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=al_jazeera
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png", Ananda TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ananda_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png", Arirang
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=arirang
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png", Asian Tv
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=asian_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png", BBC Lifestyle
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bbc_lifestyle
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png", BBC World
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bbc_world
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png", BTV World
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=btv_world
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png", Bangla TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bangla_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png", Bangla Vision
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bangla_vision
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png", Bijoy TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bijoy_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png", Boishakhi Tv
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=boishakhi_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png", CBEEBIES Asia
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=cbeebies_asia
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png", CGTN News
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=cgtn_news
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png", CNN
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=cnn
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png", Channel 24
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_24
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png", Channel 9
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_9
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png", Channel I
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_i
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png", DBC News
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=dbc_news
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dw.png", DW
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=dw
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png", Deepto TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=deepto_tv
 
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png",Desh TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=desh_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png", Duronto TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=duronto_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png", Ekattor TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekattor_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png", Ekushey TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekushey_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png", Fox Action Movies
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=fox_action_movies_hd
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/france24_français.png", France 24 Français
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=france24_francais
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png", Gaan Bangla
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gaan_bangla
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png", Gazi TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png", Independent TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=independent_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png", Jamuna TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=jamuna_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png", MACAU Lotus
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=macau_lotus
+
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png", MY TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=my_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png", Maasranga
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=maasranga
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png", NHK World
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nhk_world
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png", NTV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ntv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png", Nagorik TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png", News 24 HD
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=news_24_hd
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png", Nexus TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nexus_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png", Quran TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=quran_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rt_english.png", RT English
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=rt_english
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png", RTV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=rtv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png", SA TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sa_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sangsad_tv.png", Sangsad Bangladesh TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sangsad_tv
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png", Somoy News
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=somoy_news
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sunnah_tv.png", Sunnah TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sunnah_tv
 
 
 
