@@ -177,104 +177,27 @@ http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:B0:A9:
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png" group-title="BDIX CHANNELS", GREEN TV
 http://103.109.56.116/live/skyfeed1011/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_bangla.png", ATN Bangla
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_bangla
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png", ATN News
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_news
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png", Al Jazeera English HD
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=al_jazeera
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ananda_tv.png", Ananda TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ananda_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/arirang.png", Arirang
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=arirang
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/asian_tv.png", Asian Tv
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=asian_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_lifestyle.png", BBC Lifestyle
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bbc_lifestyle
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bbc_world.png", BBC World
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bbc_world
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/btv_world.png", BTV World
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=btv_world
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_tv.png", Bangla TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bangla_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png", Bangla Vision
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bangla_vision
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bijoy_tv.png", Bijoy TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bijoy_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/boishakhi_tv.png", Boishakhi Tv
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=boishakhi_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cbeebies_asia.png", CBEEBIES Asia
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=cbeebies_asia
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cgtn_news.png", CGTN News
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=cgtn_news
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/cnn.png", CNN
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=cnn
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_24.png", Channel 24
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_24
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_9.png", Channel 9
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_9
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/channel_i.png", Channel I
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_i
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dbc_news.png", DBC News
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=dbc_news
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/dw.png", DW
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=dw
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/deepto_tv.png", Deepto TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=deepto_tv
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Somoy TV News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720703995/ei/m4ePZtWYAqns2_gP8biM8AI/ip/172.183.82.145/id/2z9NHPNf838.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAbBOfSiOoWY-sbUeR0KnlLo_2hpxtFe0wVkCW0Mm_IxaSHF86tkfkQhW0U4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRqHbBh0RipOW5F9gHqwwamQlPzYmcSdR4w2_szOutxACIQCyn6_UKujflznECMiMtD8-_ngDL7WRHe4QSKR0wOvhUw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/Fw5RlqUOn5ulbepVY8VU7BfJOc2E3_FqTuAJiSsgqAkeYWwF7_8QQjsbtvTAHpQGskYIh--WrQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Channel I
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720703995/ei/m4ePZv7AI-bClu8Ppu67gA8/ip/172.183.82.145/id/8tvpdpYqSwg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51198106/txs/51198104%2C51198105%2C51198106%2C51198107%2C51198108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAQp2BQeQLAr1c2Cr-IRkyrokmt7A8K-r7SOiOlbXwXXEOF_DCtkCZSSUU3g/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANYrxajDMAraTJV-7bQ6R1lbPhlUg_yOUKNtYqJ28TjkAiActHR8u41_r9vcZZFrZakZyaVXOIJSX8IHtcpZyz22Dg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0MjdgkrP1eId4ysNshsCnnnlzd2j1xHYecd9XqbVRDhs=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Jamuna TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720703996/ei/nIePZu_cBJSMir4Plvoo/ip/172.183.82.145/id/Bv70kJKau8Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bASnE1ZodEGiAuN80-pgKCLmMPMq2GjsWEfkFXc01qC60zKdr4St7WAMdoTU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJlO59dpmNfTjdNSVcHOu5nqssTX8C_c8FOVpCt8Vs_hAiAWTzPaOxupoQXAOgjasXMIZv25vQYr0y2FZriGzHDQZg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/SN5R2c_9uZrppnfXYz5NCXtsSMgYCHhV5hmUkoX8HR7aTY2zHPnzBY8mDJsG27Ip_O9d7tqRCw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Rtv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720703996/ei/nIePZtSaJMOL2_gP34qj2AI/ip/172.183.82.145/id/BF98Pai9PR0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51198108/txs/51198104%2C51198105%2C51198106%2C51198107%2C51198108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bATBpaepLBtSVbq5S-QHg5ZRVB-ffDLo3Zwa3oONVYvsXfwSG8BNuFK8GaVM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAML6oTJd9Dk4WdFfrsM56lMdnZfsJqfvwttJGbmqqPb2AiBO59DfOISW0FmC4idyGIre8FHj1jcj5DqHRwzmjDqDRg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/5J5NFuXWxr4iUv3nxWF0genblTzZ8wU5N9NjxvZdOKkGs1U3Y_KqrojCJ5Id4N9pFeIZ3uyCKkk=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Independent Television
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720703997/ei/nYePZrKaBvvJybgPt9Oa0A8/ip/172.183.82.145/id/urczBBUS_RQ.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZF7x7X7z_jKnN5uEnSERBm-d1DC3g29LCqw5SxMoxeK0GaFaZxkwgUkZ7U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKXwLl3KhQO70G4t9m43d-ckKErWUEVs9t7sQziKFrNgAiEAtAe4pE7q2TaREnfFHWKt0jSeQ1wVtna2TQgSluPC9UQ%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/KoJ2pT4X6j0kPf8g8MRv5MaRVR_ZRW18Fyb_U0U7azCr10kQEtpY5GIz3M9GZ0ZQazfGaP9I=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Ekattor Television
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720703997/ei/nYePZornINbeir4PjOygIA/ip/172.183.82.145/id/6veeIS4Be5U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAQW9niyH6MbmMawEMZNULHNKRz21jzy-SzCWxNLudml6ZOC8HwFkbM8BuKg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJ7zeEUOuC88-Uj_hJ0GEhHf-GvQ0jI1LIEACR2I84pAAiBM_Ef9S2PIi_Njzi9LALZ726BEtjaxF2IgQCWZwY6Qeg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Channel 24
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720703999/ei/n4ePZuPsBb2oir4P4NyQ0A8/ip/172.183.82.145/id/SZhBiPcy59g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51219771/txs/51191460%2C51191461%2C51191462%2C51219771/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAWelJwaODGwcYLw0qcVwWuLNon9mkO6ZMjfB6C-aztstLWj5Y91wrsw9M_o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIt_VSEZwtnLUeAC4DO0Bk368dIYSMVIc8ylNwwxcoXvAiBZe2aAaZghXWTePQRNQi9ppgjzO67HhXmy9T_XRECl8Q%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/eqxKhU9ty3Kr1CsG8bYcsAvXzEItOmE4qMxydBPg0i6w1jBiAiz6dJjnggYXz9mJQ1R05ZGv=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Ntv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720703999/ei/n4ePZrz_ILb9ir4P37SJkQI/ip/172.183.82.145/id/oMHLnU-wQ8A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAc_PEi4jvExrwbEGmBtJZR7CNsi7UJimn3JbIqlZA1HInVQ6ZEsJ7fv0piU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMABuoVZDGjCQZ9kKcqcBqUkPgrOJW25yZSebXd10HsSAiEA2YAg15uzcAssJqw3Lv1CYtyIk6_sLfFZvSzYJBfOv3w%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/oG8z-BPo2bbfUxta79CTDiK0PLBJMp329D0v3aJTT44F8YAP1SwYBfL9pC2fTVljqkdlHMZUOpw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Ekhon
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720704000/ei/oIePZr_wAvONybgPsaipiAE/ip/172.183.82.145/id/lrsZN0SKyNk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAUQGYfPaJQ7eEmVyTc7XO7id59a_BHdPZG8yuGwbryv44wxO_KXCPcSAPIU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSIKiJmQkbKF-j1lXUh9Pa3vT1_IfpnjbAdaog8Ez1pcCIQDRt2NQCXewF2pKY_FnlJyHQQUb_kbNPpS-Gvq-MCq6GA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kH8ZRrqmyMFB8LuxDJL5OFx2M-hHRDgBZ8mg_tClpGxGQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DBC NEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720704000/ei/oIePZrDoK9eyybgPoK2O4Ac/ip/172.183.82.145/id/MYVi_NKphds.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAVWPI-1o32LGDGxEICYlMaIiPRCGPjyoQuPmzR1Fn-HnIPT9IBVthORRPn0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZagqsE4Q7OBRgXkeJyl72K7m4SOlYoE9ASFnQLtIJNkCIQDJaakYfE8rigaZ-4E3VswlwOfsjtdK0S1G8jRV9YFrcw%3D%3D/file/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png",Desh TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=desh_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/duronto_tv.png", Duronto TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=duronto_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekattor_tv.png", Ekattor TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekattor_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ekushey_tv.png", Ekushey TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekushey_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/fox_action_movies_hd.png", Fox Action Movies
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=fox_action_movies_hd
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/france24_français.png", France 24 Français
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=france24_francais
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gaan_bangla.png", Gaan Bangla
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gaan_bangla
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png", Gazi TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png", Independent TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=independent_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png", Jamuna TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=jamuna_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/macau_lotus.png", MACAU Lotus
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=macau_lotus
-
-
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png", MY TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=my_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/maasranga.png", Maasranga
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=maasranga
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nhk_world.png", NHK World
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nhk_world
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/ntv.png", NTV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ntv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nagorik_tv.png", Nagorik TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/news_24_hd.png", News 24 HD
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=news_24_hd
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/nexus_tv.png", Nexus TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nexus_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/quran_tv.png", Quran TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=quran_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rt_english.png", RT English
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=rt_english
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/rtv.png", RTV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=rtv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png", SA TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sa_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sangsad_tv.png", Sangsad Bangladesh TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sangsad_tv
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png", Somoy News
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=somoy_news
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sunnah_tv.png", Sunnah TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sunnah_tv
 
 
 
