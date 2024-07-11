@@ -197,6 +197,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720703999/ei/n
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720704000/ei/oIePZr_wAvONybgPsaipiAE/ip/172.183.82.145/id/lrsZN0SKyNk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAUQGYfPaJQ7eEmVyTc7XO7id59a_BHdPZG8yuGwbryv44wxO_KXCPcSAPIU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgSIKiJmQkbKF-j1lXUh9Pa3vT1_IfpnjbAdaog8Ez1pcCIQDRt2NQCXewF2pKY_FnlJyHQQUb_kbNPpS-Gvq-MCq6GA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kH8ZRrqmyMFB8LuxDJL5OFx2M-hHRDgBZ8mg_tClpGxGQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DBC NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720704000/ei/oIePZrDoK9eyybgPoK2O4Ac/ip/172.183.82.145/id/MYVi_NKphds.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAVWPI-1o32LGDGxEICYlMaIiPRCGPjyoQuPmzR1Fn-HnIPT9IBVthORRPn0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZagqsE4Q7OBRgXkeJyl72K7m4SOlYoE9ASFnQLtIJNkCIQDJaakYfE8rigaZ-4E3VswlwOfsjtdK0S1G8jRV9YFrcw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Bangla" group-title="",Asian TV
+https://mtlivestream.site/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"group-title="Bangla" group-title="",Bangla TV Europe
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+
 
 
 
