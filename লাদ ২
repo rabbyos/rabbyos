@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="IN | DHINCHAAK HD" tvg-logo="http://filex.tv:8080/images/710ae7950a9c977637378286828b980a.png" group-title="INDIAN ➾ ENTERTAINMENT",IN | DHINCHAAK HD
+http://filex.tv:8080/Diamond@pk@321/4193525345453/51
 
 #EXTINF:-1 tvg-id="" tvg-name="IN: Ruposhi Bangla" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-06/efbf1281a279adb1706414fb5d6ebc0d.png" group-title="India",IN: Ruposhi Bangla
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/247527
@@ -7,7 +9,7 @@ http://iptvtree.net:8080/romaniamedia/8cc105f9f2/60347
 #EXTINF:-1 xui-id="68561" tvg-id="" tvg-name="ALL TIME MOVIE" tvg-logo="https://img.freepik.com/premium-vector/movie-television-logo-template-design_316488-619.jpg?w=2000" group-title="IND | Movies",UTSAV GOLD
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/82623
 #EXTINF:-1 xui-id="18826" tvg-id="SONY MAX HD" tvg-name="SONY MAX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGkHahFKWa7bCrEHQW5cpD_N58LHXNnooPcINmYzIxrjQ.png" group-title="IND | Movies",SONY MAX HD
-http://51.159.15.56/4855413/5488711/66180?token=GhMNBEZcR1gRVAdaBgNRDVNUBQVUVVtUV1IFUQMMBVZRA1dUAAZRVgREGBoXEhZRBVtrXgVGAgZUVw8EHxpDEARDOgxRFl9AC1IHAF1URhhGQl1aBEYCAVVUBwIKCQNaVB1HFVxQR1gRUgMLUURIFgFOQFITCllcPQJSQlpbU0FbXxAJWRhHDV05UF0JBwpQRgwWBkNIGlkRFhUOXU1aD00TBwxBRgQWVkQOGldUXQFGGhZUDhFWRBAfFQ4RenJBTRMAHUFRCxFaCVoaXkQQR0YaFl4SO0pVERJFUVJVUxFDC0dVFxhHD1Iea1sLCApRB0JdWA8XGgpAVxUYEVVZDQhFChdqRAwGEVwWDVFfUQxGSw==
+http://filex.tv:8080/Diamond@pk@321/4193525345453/33
 
 #EXTINF:-1 xui-id="493" tvg-id="SONY MAX 2" tvg-name="SONY MAX 2" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfGkHahFKWa7bCrEHQW5cpD_Nad4aWHe-Pq_HEHnbx7NgA.png" group-title="IND | Movies",SONY MAX 2
 https://yg51.000webhostapp.com/share.php?id=973
@@ -18,9 +20,9 @@ http://212.46.43.31/4855413/5488711/66178?token=GhMNBEZcR1gRAFEBAQIFBVZVUFQDVVxU
 #EXTINF:-1 xui-id="633" tvg-id="Star Gold 2" tvg-name="STAR GOLD 2" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFeZUppq0HVNKb2W-2pyhxRPyClDWb4TEZ4QVtsVNQ_zA.png" group-title="IND | Movies",STAR GOLD 2
 http://51.159.98.123/4855413/5488711/106133?token=GhMNBEZcR1gRXwRbAQJQVlAHUQACAFoBUwUGBwJeA1MEBAEDVw0BBgREGBoXEhZRBVtrXgVGAgFSUAYHABQUFhJUFzpcUEdYEV4AC1xfVhZIFEBeDAEaClNRBQQFAQdTUwFJR0VdAUAJRAYAU19UFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EXANVFBgVAgtNXhYUThYJGnQnQx1HAE1AAAxAD1tWRlxGQBcUGBUIF2dCBxVDRlZZWwYTE19HBRZJQF4HTGcHCQpaAVVAXg4KSxJYRAYWHxpbDA9YEQpHaxULV0QOGlZWVQdQFEk=
 #EXTINF:-1 xui-id="497" tvg-id="Star Gold Select HD" tvg-name="STAR GOLD SELECT HD" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JDGk0FqyzQcJ9VDFu4npqlc7MO8zquahGnyOtvjNwDt5QTt2YYPBgzbUY45mbyhDZg.png" group-title="IND | Movies",STAR GOLD SELECT HD
-http://51.159.105.171/4855413/5488711/66176?token=GhMNBEZcR1gRUw1aUVcCUgUHA1VYVlsIUlRSDVddDgEEVwZTAgZcBldEGBoXEhZRBVtrXgVGAgZUVwACHxpDEARDOgxRFl9AC1IHAF1URhhGQl1aBEYCAVVUBwIKCA9QUx1HFVxQR1gRVwwNUVVGGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVFGFBILFUcWCVZDDw0dRwdcQBcDRwMWAkZTVQBcFBgVAgtNXhYUThYJGnQnQx1HAE1AAAxAD1tWRlxGQBcUGBUIF2dCBxVDRlZZWwYTE19HBRZJQF4HTGcHCQpaAVVAXg4KSxJYRAYWHxpbDA9YEQpHaxULV0QOGlNTXABGSw==
+http://filex.tv:8080/Diamond@pk@321/4193525345453/28
 #EXTINF:-1 xui-id="498" tvg-id="Star Gold Thrills" tvg-name="STAR GOLD THRILLS" tvg-logo="http://tv.digitalview.live:8080/images/QCqX5p5x3Y181Q8jwb82JCr04UvXcq14UaKPN3RxNQ3JSHzy8Vp2EZkpFYr0qXJivd-c-L3h-bLp5moUa3NRAw.png" group-title="IND | Movies",STAR GOLD THRILLS
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnK6z9P-rftESs4Av4aU6DWI/ts
+http://filex.tv:8080/Diamond@pk@321/4193525345453/189473
 #EXTINF:-1 xui-id="2172" tvg-id="Star Gold Romance" tvg-name="STAR GOLD ROMANCE" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRYkmtQTrB6qP9c7Vl93Lh-APZpkLwj9Vlpok6OIJ_-aA.png" group-title="IND | Movies",STAR GOLD ROMANCE
 http://51.159.15.56/4855413/5488711/66186?token=GhMNBEZcR1gRUQ0NVF4FV1AHBgdTUFkCVQVTDFYMD1BYAgBTUwUAVwJEGBoXEhZRBVtrXgVGAgZUVw8CHxpDEARDOgxRFl9AC1IHAF1URhhGQl1aBEYCAVVUBwIKCQZbWB1HFVxQR1gRVAMMV1BGGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAkZXVw1XFBgVAgtNXhYUThYJGnQnQx1HAE1AAAxAD1tWRlxGQBcUGBUIF2dCBxVDRlZZWwYTE19HBRZJQF4HTGcHCQpaAVVAXg4KSxJYRAYWHxpbDA9YEQpHaxULV0QOGlFTVQdGSw==
 #EXTINF:-1 xui-id="515" tvg-id="Colors Cineplex HD" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG1fjPmWPZblfw3KwqIpPMZgce1NzDXo5f-XGbAqLDmMA.png" group-title="IND | Movies",COLORS CINEPLEX HD
@@ -141,8 +143,7 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.t
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
-#https://dai.google.com/ssai/event/XUmyfp_MQk2H_cTDIvz6aA/master.m3u8
-http://51.159.97.122/4855413/5488711/221261?token=GhMNBEZcR1gRAABeBlRdA1NQAFRSB10JUwUOVQReBlQFCFQDBg1TWwFEGBoXEhZRBVtrXgVGAgJQVwUCAhQUFhJUFzpcUEdYEV4AC1xfVhZIFEBeDAEaClNRBQQFAQZbVwhJR0VdAUAJRAcNVV5dDEYaFlIZEF1CDAdba1ddQAoCVEdfW0EJDh9EW1Y7AgFZBVhQFVtGCBJORF5HQxoMDRRdCUkXVgwWQQdAXUZcRgdRDgIVTUZbXxcIQ0ZKGgxBI3VHSRdRHRZWCEdRCwhGDkZCRxVNRlFDPRRSR0dKUwIMVBdHDxZVQB9EWVkcOQdbClhRVBUNV14RRA0WAhoaQQxeCwxBWxc9Qw9QGl5EVwdWAQMFVUZF
+http://filex.tv:8080/Diamond@pk@321/4193525345453/37
 #EXTINF: -1 tvg-name="MNX" tvg-logo="http://lifetvbd.xyz:8080/images/f10ff07a032a806d0745d24b056f0c88.png" group-title="English Movie", MNX
 https://tplay.dinesh29.com.np/live/tataplay-universal/mnx/index.ts
 
