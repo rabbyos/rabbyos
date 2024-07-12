@@ -178,21 +178,28 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerlPW5Oi9PL5ti_PXxkv6MP3
 http://103.109.56.116/live/skyfeed1011/index.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgep8KnTlr0wQqJBkcYEL4NuR9XaKZzvca_rvcR4IesDx3MvpUHxWoks&s",channel 9
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gAdK30W5ckj9e4BaTF8wnqg/ts
+https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=STpWDyJcGRwzU1_YJaE7ww&expires=1720848316&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9gznpcRF67C1f_PLBNaETO6F_KDkObwEuBzrLEy2WQ&s",Desh tv
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnJzgVgH6uepxMTvbtsWEavx/ts
+https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=4VgSiyFJojHbzTtmEZ1PlA&expires=1720848423&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Dipto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?stime=20240703165125&etime=20240703170125&encoded=0606db5e65d929202a183
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",Bangla Vison
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJVmhl5zUfb6bwc3yfKFEmQ/ts
+https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=ZqAHr4mbMdU_yTQPGyIZ4A&expires=1720848136&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png ", BOISHAKHI
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/playlist.m3u8?md5=CTyU8FpsCn5OGfql48M5Sg&expires=1720848159&user=d477246e9e724f81a011b847457e71c4
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrnB2jd613xx1IAMPXi1TTNAu1bdkB-i02v9kxqqeN0A&s",Atn Bangla
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gABN1ENgUhd66dw0rFd-Aug/ts
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2YC1BUCcKUL_MYCNZjmoJnD3ZYFXSA2qm_g&s",nexus tevision
-https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=HoVfCJFqqeqIglI0IGWKTw&expires=1720847945&user=d477246e9e724f81a011b847457e71c4
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", ATN NEWS
+https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=n4_wd2RD4jD7zgWIhxTtiQ&expires=1720847979&user=d477246e9e724f81a011b847457e71c4
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2YC1BUCcKUL_MYCNZjmoJnD3ZYFXSA2qm_g&s",nexus tevision
+https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=KOPZ7XJj2FpdNxuCivRaDA&expires=1720848853&user=d477246e9e724f81a011b847457e71c4
+
+#EXTINF:-1 group-title="JADOO" tvg-logo=" ", SATV
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=uODtYFkLYIU3hkAnLuxqcA&expires=1720848918&user=d477246e9e724f81a011b847457e71c4
 
 
 
@@ -200,7 +207,7 @@ https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Somoy TV News
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/Fw5RlqUOn5ulbepVY8VU7BfJOc2E3_FqTuAJiSsgqAkeYWwF7_8QQjsbtvTAHpQGskYIh--WrQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Channel I
-https://ythls.armelin.one/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=BqMziZ11MJlSfwt0qBzsTw&expires=1720848342&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0MjdgkrP1eId4ysNshsCnnnlzd2j1xHYecd9XqbVRDhs=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Jamuna TV
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News" tvg-logo="https://yt3.googleusercontent.com/SN5R2c_9uZrppnfXYz5NCXtsSMgYCHhV5hmUkoX8HR7aTY2zHPnzBY8mDJsG27Ip_O9d7tqRCw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Rtv
@@ -298,7 +305,7 @@ http://103.149.142.133/0.m3u8
 
 
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=3906aJj7luZaBS8ZjA57UQ&expires=1720512415&user=c15be118d93a464dabf77260596012cf
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=MuSKPlmdsRAsuHkEJZo-qQ&expires=1720848810&user=d477246e9e724f81a011b847457e71c4
 
 
 #EXTINF:-1,A SPORTS
