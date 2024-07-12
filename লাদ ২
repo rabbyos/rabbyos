@@ -185,6 +185,10 @@ https://edge01.iptv.digijadoo.net/live/desh_tv/playlist.m3u8?md5=4VgSiyFJojHbzTt
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?stime=20240703165125&etime=20240703170125&encoded=0606db5e65d929202a183
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
 https://mytvbangla.com/0.m3u8
+
+#EXTINF: -1 tvg-name="Millennium TV" tvg-logo="http://lifetvbd.xyz:8080/images/4cf84bd868177e7a88172aa2b85595ae.png" group-title="Bangladesh", Millennium TV
+http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm7zEq8HVU54HykfbSaQMTZzk/ts
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png",Bangla Vison
 https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=ZqAHr4mbMdU_yTQPGyIZ4A&expires=1720848136&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1 group-title="JADOO" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png ", BOISHAKHI
@@ -281,7 +285,8 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="", South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="BD: KHUSHBOO TV BANGLA" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d60bd7b.png" group-title="BENGALI" ,BD: KHUSHBOO TV BANGLA
+http://lifetvbd.xyz:8080/live/3363696/3363696/14.ts
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
