@@ -26,8 +26,8 @@ http://filex.tv:8080/Diamond@pk@321/4193525345453/189473
 #EXTINF:-1 xui-id="2172" tvg-id="Star Gold Romance" tvg-name="STAR GOLD ROMANCE" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dRYkmtQTrB6qP9c7Vl93Lh-APZpkLwj9Vlpok6OIJ_-aA.png" group-title="IND | Movies",STAR GOLD ROMANCE
 http://51.159.15.56/4855413/5488711/66186?token=GhMNBEZcR1gRUQ0NVF4FV1AHBgdTUFkCVQVTDFYMD1BYAgBTUwUAVwJEGBoXEhZRBVtrXgVGAgZUVw8CHxpDEARDOgxRFl9AC1IHAF1URhhGQl1aBEYCAVVUBwIKCQZbWB1HFVxQR1gRVAMMV1BGGEZTTEMEFlZRDjlTUUVRVQZDCwsQWVhJQFwIa1wBCwVaABQOFVBGFBILFUcWCVZDDw0dRwdcQBcDRwMWAkZXVw1XFBgVAgtNXhYUThYJGnQnQx1HAE1AAAxAD1tWRlxGQBcUGBUIF2dCBxVDRlZZWwYTE19HBRZJQF4HTGcHCQpaAVVAXg4KSxJYRAYWHxpbDA9YEQpHaxULV0QOGlFTVQdGSw==
 #EXTINF:-1 xui-id="515" tvg-id="Colors Cineplex HD" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG1fjPmWPZblfw3KwqIpPMZgce1NzDXo5f-XGbAqLDmMA.png" group-title="IND | Movies",COLORS CINEPLEX HD
-http://filex.tv:8080/Diamond@pk@321/4193525345453/43
-#http://212.46.43.93/4855413/5488711/206315?token=GhMNBEZcR1gRUwJbAlACBAYHVwFUUw8FUFUHAgoJBgcFUlEBAQFXVFZEGBoXEhZRBVtrXgVGAgJSUAQFBhQUFhJUFzpcUEdYEV4AC1xfVhZIFEBeDAEaClNRBQQDCwdQVQRJR0VdAUAJRAUKVFNWFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVQFQDhYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZSVwxQDxZK
+http://212.46.43.93/4855413/5488711/206315?token=GhMNBEZcR1gRUwJbAlACBAYHVwFUUw8FUFUHAgoJBgcFUlEBAQFXVFZEGBoXEhZRBVtrXgVGAgJSUAQFBhQUFhJUFzpcUEdYEV4AC1xfVhZIFEBeDAEaClNRBQQDCwdQVQRJR0VdAUAJRAUKVFNWFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVQFQDhYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZSVwxQDxZK
+http://212.46.43.93/4855413/5488711/206315?token=GhMNBEZcR1gRUwJbAlACBAYHVwFUUw8FUFUHAgoJBgcFUlEBAQFXVFZEGBoXEhZRBVtrXgVGAgJSUAQFBhQUFhJUFzpcUEdYEV4AC1xfVhZIFEBeDAEaClNRBQQDCwdQVQRJR0VdAUAJRAUKVFNWFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVQFQDhYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZSVwxQDxZK
 #http://xtv.ooo:8080/live/865@moiz/2015486520/206310.m3u8
 #EXTINF:-1 xui-id="691" tvg-id="Colors Cineplex Bollywood" tvg-name="COLORS CINEPLEX BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfG1fjPmWPZblfw3KwqIpPMZ48Wtu8BOHVcJbbc14G5OsqiUjBIqhq0Gfp2vxi01Ygo.png" group-title="IND | Movies",COLORS CINEPLEX BOLLYWOOD
 http://xtv.ooo:8080/4855413/5488711/112983
@@ -109,6 +109,11 @@ https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
 
 
+
+#EXTINF:-1 xui-id="364" tvg-id="" tvg-name="Indian Bangla Movies hit" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie",Indian Bangla Movies hit
+http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm74XHP635EO_hlmSiS9Xnc6E/ts
+
+
 #EXTINF:-1,Sananda TV
 http://live.dataplayer.in:8080/live/rmmeghnatv.m3u8?hls_ctx=s3o5u428
 
@@ -146,11 +151,9 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.t
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
 http://filex.tv:8080/Diamond@pk@321/4193525345453/37
-#EXTINF: -1 tvg-name="MNX" tvg-logo="http://lifetvbd.xyz:8080/images/f10ff07a032a806d0745d24b056f0c88.png" group-title="English Movie", MNX
-https://tplay.dinesh29.com.np/live/tataplay-universal/mnx/index.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="INDIAN" ,Zee Cinema UK
+http://xtv.ooo:8080/52882216/581881255/206268
 
-#EXTINF:-1 tvg-id="ts210" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png" group-title="Tataplay | English";Movies;HD",MN+ HD
-https://tplay.dinesh29.com.np/live/tataplay-universal/mn-hd/index.ts
 
 
 #EXTINF: -1 tvg-name="Miniplex HD" tvg-logo="http://lifetvbd.xyz:8080/images/61088ad4c6f26a19c891825dcd6fab07.png" group-title="INDIA | Movies", Miniplex HD
