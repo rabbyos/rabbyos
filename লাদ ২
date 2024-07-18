@@ -40,9 +40,9 @@ http://filex.tv:8080/Diamond@pk@321/4193525345453/35
 #https://dai.google.com/ssai/event/MhaQnX2fRNCTN-9HcFBb2A/master.m3u8
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
-http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1351
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/Zeebollywood1.m3u8
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-http://xtv.ooo:8080/4855413/5488711/66191
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 #EXTINF:-1 xui-id="41285" tvg-id="Goldmines" tvg-name="GOLDMINE" tvg-logo="" group-title="IND | Movies",GOLDMINE
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm7waiAFKirTsawhiPAvQULXc/ts
 #EXTINF:-1 xui-id="2173" tvg-id="" tvg-name="GOLDMINE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dT-IaO-mthwA3g5nYjMsQeTUjWVehg8qvGtMnp3vWQEAQ.png" group-title="IND | Movies",GOLDMINE BOLLYWOOD
@@ -149,8 +149,10 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.t
 
 
 
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Zee Channels",Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/Zeecinemahd1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
-http://filex.tv:8080/Diamond@pk@321/4193525345453/37
+#http://filex.tv:8080/Diamond@pk@321/4193525345453/37
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="INDIAN" ,Zee Cinema UK
 http://xtv.ooo:8080/52882216/581881255/206268
 
