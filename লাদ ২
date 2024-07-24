@@ -93,10 +93,10 @@ https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.t
 
 
 
-#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Zee Channels",Zee Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/Zeecinemahd1.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Zee Channels",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/Zeecinema1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
-#http://filex.tv:8080/Diamond@pk@321/4193525345453/37
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/Zeecinemahd1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="INDIAN" ,Zee Cinema UK
 http://xtv.ooo:8080/52882216/581881255/206268
 
