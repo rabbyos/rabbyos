@@ -196,7 +196,8 @@ http://xtv.ooo:8080/88654455/97543255/245969
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangla", Independent TV
 http://xtv.ooo:8080/88654455/97543255/245916
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks&s=10" group-title="Bangla", Jamuna TV
-http://xtv.ooo:8080/88654455/97543255/245917
+http://113.212.111.246:8080/hls/col12.m3u8
+#http://xtv.ooo:8080/88654455/97543255/245917
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangla", DBC News
 http://xtv.ooo:8080/88654455/97543255/245914
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangla", Ekattor TV HD
