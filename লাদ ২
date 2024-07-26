@@ -36,7 +36,7 @@ http://xtv.ooo:8080/719865/988111/112973
 
 #EXTINF:-1 xui-id="448" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA
 http://10.21.56.46:9191/star-jalsha/tracks-v1a1/mono.m3u8?token=11c138dd1a9f588fd4cebd6a9f5a78feabced74c-2fba40caefcadd05244ef171ee819120-1722022105-1722011305
-http://103.109.56.116/live/funtime112/index.m3u8
+#http://103.109.56.116/live/funtime112/index.m3u8
 #http://xtv.ooo:8080/4855413/5488711/245898
 #http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
@@ -124,11 +124,12 @@ http://starshare.live:8080/live/ashokkumar/ashokkumar/8.ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD 
-http://xtv.ooo:8080/4855413/5488711/245900
-#http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://10.21.56.46:9191/jalsha-movies/tracks-v1a1/mono.m3u8?token=b28f871254e4403aed0cc19525fb3e17bd57fd5e-cbbb94350df7e478931d5e32ace933cc-1722022436-1722011636
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Colors Bangla
-http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://10.21.56.46:9191/colors-bangla/tracks-v1a1/mono.m3u8?token=09e3c3f7697fede5f4e53550624e804962e19ae4-dde1ecff5ef29d6087534553c2953748-1722022608-1722011808
+#http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2.png?w=640&ssl=1",Sa Tv
 https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8?md5=g7VpFiDP4_W8GNjwXwqQ8g&expires=1722084691&user=c15be118d93a464dabf77260596012cf
 
