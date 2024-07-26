@@ -197,16 +197,26 @@ https://edge01.iptv.digijadoo.net/live/bangla_vision/playlist.m3u8?md5=lrN3CaVPs
 
 
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/EkusheyTv-live-vipotv.png",Ekushey Tv
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/640px-Mohona_tv_Logo.svg.png",Mohona tv
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=165546&extension=ts&play_token=BN2l85mSNs
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2YC1BUCcKUL_MYCNZjmoJnD3ZYFXSA2qm_g&s",nexus tevision
+https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=q_OECa-TLDthvNUkeobQAA&expires=1722086078&user=c15be118d93a464dabf77260596012cf
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",My TV
+https://mytvbangla.com/0.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent tv
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=6HGh2oKyflLsd6OZkpiCfg&expires=1722086131&user=c15be118d93a464dabf77260596012cf
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchZAPCjHqBtrE_nsGQ5XGB-Bm9kelCvrcJYbKz1oYiQ&s",Jamuna Tv
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=jgU0K1snqcAw1nq0iADJtg&expires=1722086194&user=c15be118d93a464dabf77260596012cf
 
-
-
-
-
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrnB2jd613xx1IAMPXi1TTNAu1bdkB-i02v9kxqqeN0A&s",Atn Bangla
+https://edge01.iptv.digijadoo.net/live/atn_bangla/playlist.m3u8?md5=dwZaP9aBxlsz_7KfmhyxQA&expires=1722086236&user=c15be118d93a464dabf77260596012cf
 
 
 
@@ -244,10 +254,43 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="null" group-title="Unknown", Deshi TV
 http://208.86.19.13:81/514.stream/index.m3u8
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEwYrr5aZFWD2N3t_cWC883r1A07dCYahWDevFDZXABGM-X4yV3ut-G4_&s=10",Atn Bangla Uk
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225722&extension=ts&play_token=wXBPmXIB0c
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp9JCLpWcLDnzsCtn0_3wIb7KhzrHg40CJOWN65CRVZ-9AY70gGh9wjfo&s",Atn News
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gPzP84Bq7_OqDyCUNlwhXuk/ts
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDDMcfn6uRmjT1SLgfxdnXNZ6VycMsSuW9Fw&s",Atn Music
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:AE:69:8E&stream=225724&extension=ts&play_token=pHJZJDmkj1
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",channel I
+https://edge01.iptv.digijadoo.net/live/channel_i/playlist.m3u8?md5=gjkamIRS7Lm3z4hviA0BgQ&expires=1722086295&user=c15be118d93a464dabf77260596012cf
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Bangla tv
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8?sessId=1516619
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmuyF72SaPzg7AReWJbFRMZKWkXOWywCusQ&s",Bangla Tv Europe
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/0_1/index.m3u8?sessId=1516654
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl51CN0odcPjCA1PcX8M3ze0WhK4R44ID3Ew&s",Magic bangla tv
+http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1428315036.m3u8
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8HCmRXIV5i61tWmlMRBrt-Aq-SL_snYkK6zORy=s900-c-k-c0x00ffffff-no-rj",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1,COMILLA TV 24
 http://103.149.142.133/0.m3u8
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAIaotMhEqM8tP4kd1sFNx4jt0WqqlP-Na71qNgOP-Q&s",Channel S
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.chsuk.tv/img/cateringcircle.png",Channel S UK
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://i0.wp.com/tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg?w=640&ssl=1",Durantoo Tv
+https://edge01.iptv.digijadoo.net/live/duronto_tv/playlist.m3u8?md5=HtGtKQjh0GQzideX6L_Zfw&expires=1721451533&user=c15be118d93a464dabf77260596012cf
+
+#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
+https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
 
 
 #EXTINF:-28 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA",NAGORIK TV HD
