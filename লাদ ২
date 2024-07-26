@@ -35,9 +35,10 @@ http://xtv.ooo:8080/719865/988111/112972
 http://xtv.ooo:8080/719865/988111/112973
 
 #EXTINF:-1 xui-id="448" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA
+http://10.21.56.46:9191/star-jalsha/tracks-v1a1/mono.m3u8?token=11c138dd1a9f588fd4cebd6a9f5a78feabced74c-2fba40caefcadd05244ef171ee819120-1722022105-1722011305
 http://103.109.56.116/live/funtime112/index.m3u8
 #http://xtv.ooo:8080/4855413/5488711/245898
-http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
 
