@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
-http://xtv.ooo:8080/719865/988111/109957
+
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
 http://stream.iqflix.net:27872/play/a075/index.m3u8
 #http://xtv.ooo:8080/719865/988111/109959 
@@ -15,14 +15,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/Zeebollywood1
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://xtv.ooo:8080/719865/988111/66176
+
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" tvg-id="stargoldhd.in" ,IND: Star Gold 2
-http://xtv.ooo:8080/719865/988111/106133
+
 
 
 
 #EXTINF:-1 xui-id="535" tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH4OZYz2xLMIEAJhz_sQD33JqpFyErFcEF9LwBw0XxGWg.png" group-title="Hollywood Movies",SONY PIX HD
-http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_jkuPXoE8Ygssc3klpxRhCJ/ts
+
 
 
 
@@ -33,9 +33,9 @@ http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYerq2WuAGmvGS7e3jmzn02-_j
 
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg" ,IN: GOLDMINES
-http://xtv.ooo:8080/719865/988111/112972
+
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png" ,IN: GOLDMINES BOLLYWOOD
-http://xtv.ooo:8080/719865/988111/112973
+
 
 #EXTINF:-1 xui-id="448" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA
 http://stream.iqflix.net:27872/play/a032/index.m3u8
@@ -55,7 +55,7 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
 https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.rtvmusic.com/assets/frontEnd/img/logo.png",Rtv Music
-https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
+
 
 
 
