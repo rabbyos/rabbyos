@@ -84,18 +84,18 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/Andtvhd1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies
-http://212.46.43.93/4855413/5488711/109970?token=GhMNBEZcR1gRV1ELXVNRVwVUUQ4EBglWBABRVgtcU1FRU1VdBgxSBgREGBoXEhZRBVtrXgVGAgFSXw4DAxQUFhJUFzpcUEdYEV4AC1xfVhZIFEBeDAEaClNRBQQDCwdRUwlJR0VdAUAJRAEOVVZQFkgUUU8VAUpeAwpoUFZOXwAEE18LQFgJThEJWmcAAwlVClIWDUNVGhxAD0REEQJYFg1dSUdXXREQUhJRGl5EVgxSBBYbQwdXRQwSRU0RAhQhJRNJR1BMEQddFV1XCkReFhBFFhtDDUtvEANEQEFdVw4EQ0dfFwRHThELVUA7BQtaClNXQwgLVkNAXBUFERQUDg5fDBFaRjoSWgIWAkZSVwBUBhZK
+
 
 #EXTINF:-1 tvg-id="ts616" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Tataplay | English";Hindi;Documentary;Knowledge",History TV18 HD
-http://xtv.ooo:8080/live/865@moiz/2015486520/206294.m3u8
+
 
 
 #EXTINF:-1 group-title="ENGLISH Movies",HBO
-http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
 #EXTINF:-1 tvg-id="ts173" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png" group-title="Tataplay | English";Movies",Movies Now
-http://myst.viewcineplex.com:7171/Movies-now/tracks-v1a1/mono.m3u8?token=63709f980c5cc3e31f473e6ab74b497cd82d635d-f0897707ab4863fcd1e54c530c4f6b9a-1719354429-1719343629
+
 #EXTINF:-1 tvg-id="ts12" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Thumbnail-v2/ZACINE_Thumbnail.png" group-title="Tataplay | Hindi";Hindi Movies",Zee Anmol Cinema 2
-https://tplay.dinesh29.com.np/live/tataplay-universal/zee-anmol-cinema-2/index.ts
+
 
 
 
@@ -105,7 +105,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/Zeecinema1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Hindi Movies", Zee Cinema HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/Zeecinemahd1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="INDIAN" ,Zee Cinema UK
-http://xtv.ooo:8080/52882216/581881255/206268
+
 
 
 
@@ -117,7 +117,7 @@ http://xtv.ooo:8080/52882216/581881255/206268
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" , Cartoon Network English
-http://starshare.live:8080/live/ashokkumar/ashokkumar/8.ts
+
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies", Sony Max HD(c)
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies", Sony Max HD Ts
