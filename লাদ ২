@@ -41,9 +41,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 http://stream.iqflix.net:27872/play/a032/index.m3u8
 #http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e4213295cf7105f6e7c721956967b50b
 #http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-
-
-
+#EXTINF:-1  tvg-name="UTSAV GOLD UK 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/4228.jpg" group-title="HINDI",UTSAV GOLD UK 4K cc
+https://port.yuvraj49.in/jbe/index.m3u8?id=4228
+#EXTINF:-1  tvg-name="STAR GOLD 2 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/247.jpg" group-title="HINDI",STAR GOLD 2 4K
+https://port.yuvraj49.in/jbe/index.m3u8?id=247
+#EXTINF:-1  tvg-name="MINIPLEX 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/224.jpg" group-title="HINDI",MINIPLEX 4K
+https://port.yuvraj49.in/jbe/index.m3u8?id=224
 
 #EXTINF: -1 tvg-name="Sony Aath" tvg-logo="http://lifetvbd.xyz:8080/images/dd56b0fbab536cbc438ce3d2c37cfc7a.png" group-title="INDIA | Bangla", Sony Aath
 http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=7245&deviceMac=00:1A:79:B0:A9:0C
