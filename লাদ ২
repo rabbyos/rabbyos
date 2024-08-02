@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPjjDGKA1tlQIjbvGL_hi_m4mEr2O0krQh3IubM6w0tg&s" group-title="Hindi Entertainment", The Moive Club
+https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+
+
+
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
 http://stream.iqflix.net:27872/play/a073/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
