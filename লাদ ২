@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="0-9-bigganga" tvg-name="Zee Anmol Cinema 2" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigganga/list/270x152/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" tvg-chno="0-9-bigganga" group-title="",Zee Anmol Cinema 2
 https://mrking.site/Ozee/stream.m3u8?id=0-9-bigganga
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.png" tvg-chno="0-9-209" group-title="",&xplorHD
+https://mrking.site/Ozee/stream.m3u8?id=0-9-209
 
 
 
