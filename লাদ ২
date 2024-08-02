@@ -3,6 +3,8 @@
 https://mrking.site/Ozee/stream.m3u8?id=0-9-bigganga
 #EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.png" tvg-chno="0-9-209" group-title="",&xplorHD
 https://mrking.site/Ozee/stream.m3u8?id=0-9-209
+#EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/270x152/1170x658withlogo596214b303fa477e9eb584d1814d1c4c.png" tvg-chno="0-9-zing" group-title="",Zing
+https://mrking.site/Ozee/stream.m3u8?id=0-9-zing
 
 
 
@@ -321,8 +323,6 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ts517" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png" group-title="Tataplay | Hindi";Music",Zing
-http://iptvtree.net:8080/romaniamedia/8cc105f9f2/1347
 
 
 
