@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPjjDGKA1tlQIjbvGL_hi_m4mEr2O0krQh3IubM6w0tg&s" group-title="Hindi Entertainment", The Moive Club
-https://i.mjh.nz/SamsungTVPlus/INBD21000016Y.m3u8
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-name="Zee Anmol Cinema 2" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigganga/list/270x152/1170x65802779b8c9ffb451b8e8aea2958c9b3ff.png" tvg-chno="0-9-bigganga" group-title="",Zee Anmol Cinema 2
+https://mrking.site/Ozee/stream.m3u8?id=0-9-bigganga
 
 
 
