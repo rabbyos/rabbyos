@@ -6,6 +6,9 @@ https://mrking.site/Ozee/stream.m3u8?id=0-9-209
 #EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/270x152/1170x658withlogo596214b303fa477e9eb584d1814d1c4c.png" tvg-chno="0-9-zing" group-title="",Zing
 https://mrking.site/Ozee/stream.m3u8?id=0-9-zing
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/fTNvLyh9/Background-Eraser-20240628-123615121.png" group-title="Indian Cinema", Colors Cineplex HD 
+http://opplex.tv:8080/live/15155419/16175512/206310.ts
+
 
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
@@ -33,7 +36,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 #EXTINF:-1 xui-id="535" tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH4OZYz2xLMIEAJhz_sQD33JqpFyErFcEF9LwBw0XxGWg.png" group-title="Hollywood Movies",SONY PIX HD
 
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/506Tg34T/Star-Gold-Select.png" group-title="Indian Cinema", Star Gold Select HD
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
 
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/44wsV8nY/1722424854434.png" group-title="Indian Cinema", The Movie Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
 
 
@@ -67,6 +74,17 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangla", ATN News
 http://xtv.ooo:8080/88654455/97543255/245905
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladesh", RTV 
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451536.ts
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Jnh1nDX1/Background-Eraser-20240628-114738120.png" group-title="Bangladesh", SATV
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451573.ts
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png" group-title="Bangladesh", সময়
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@somoynews360&serial=1&e.m3u8
+
+
+
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hjtn78RX/Background-Eraser-20240628-100253285.png" group-title="Bangladesh", Asian TV
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451533.ts
@@ -116,6 +134,36 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451550.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladesh", এখন
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@ekhontv&serial=1&e.m3u8
 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png" group-title="Bangladesh", Global TV
+http://starshare.live:8080/live/irfan/irfan/4231.m3u8 
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" group-title="Bangladesh", Independent TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@IndependentTelevision&serial=1&e.m3u8
+
+#EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@JamunaTVbd&serial=1&e.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/6QzRkbFj/Mohona-tv-Logo-svg.png" group-title="Bangladesh", Mohona TV
+http://xtv.ooo:8080/live/shoukatali/1199292900/245920.m3u8 
+
+
+#EXTINF: -1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Bangladesh", Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Gp704rZk/Background-Eraser-20240628-105643059.png" group-title="Bangladesh", Masranga TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="Bangladesh", NTV 
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451563.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangladesh", Nexus TV
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451576.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladesh", নাগরিক TV
+https://evbr.short.gy/BDStreamHub/Nagorik_Tv.m3u
+
+#EXTINF: -1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladesh", News 24
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451544.ts
 
 
 
