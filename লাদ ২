@@ -67,48 +67,60 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangla", ATN News
 http://xtv.ooo:8080/88654455/97543255/245905
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangla", ATN Bangla
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDI0IDM6NDk6MDkgUE0maGFzaF92YWx1ZT1mZlpkY3k0Sy9IT0l6Z1d2djVnVnJ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangla", Asian TV
-https://mtlivestream.site/asian/ytlive/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangla", RTV HD
-http://xtv.ooo:8080/88654455/97543255/245911
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangla", Deepto TV
-http://xtv.ooo:8080/88654455/97543255/245927
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7djBVYwQQ8puRypJMIXDpMIydpp4-EHDddA&usqp=CAU" group-title="Bangla", SATV HD
-http://xtv.ooo:8080/88654455/97543255/245945
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Bangla", Bijoy TV
-http://xtv.ooo:8080/88654455/97543255/245946
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangla", Bangla TV
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/640px-Banglavision.svg.png" group-title="Bangla", Banglavision HD
-http://xtv.ooo:8080/88654455/97543255/245957
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Bangla", Ekushey TV
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/hjtn78RX/Background-Eraser-20240628-100253285.png" group-title="Bangladesh", Asian TV
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451533.ts
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/pT3MHHgC/Background-Eraser-20240628-152508647.png" group-title="Bangladesh", আনন্দ TV
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451532.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangladesh", ATN বাংলা
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451534.ts
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/R05tLFg1/Background-Eraser-20240628-101059334.png" group-title="Bangladesh", ATN News
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451535.ts
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/GhWPs51f/Background-Eraser-20240628-152646187.png" group-title="Bangladesh", Bijoy TV
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451574.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladesh", Bangla TV
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/BQPRVST7/Banglavision-svg.png" group-title="Bangladesh", Bangla Vision 
+http://lifetvbd.xyz:8080/live/3363696/3363696/86.ts
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/BvJS3LNn/Boishakhi-TV-logo-svg.png" group-title="Bangladesh", Boishakhi TV
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451539.ts
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png" group-title="Bangladesh", Channel 24
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451544.ts
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/bv33b9g2/Background-Eraser-20240628-152826227.png" group-title="Bangladesh", Channel I 
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451543.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh", Channel 9 
+http://lifetvbd.xyz:8080/live/3363696/3363696/493.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh", দীপ্ত TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png" group-title="Bangladesh", DBC News
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451547.ts
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangladesh", একুশে TV
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png" group-title="Bangla", Mohona TV HD
-http://xtv.ooo:8080/88654455/97543255/245920
-#EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/ytc/AIdro_kJxgorai5DB8f6Io1q4YqmJwjSlaehZaCKvzrk9-_sV1c=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla", CHANNEL 9
-http://xtv.ooo:8080/88654455/97543255/245902
-#EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/ytc/AIdro_nK6E0O1iBf74Zu4pTRFxqaAeBsPYcyDMskf2C9R3AXOwg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Bangla", CHANNEL S
-https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="Bangladesh", একাত্তর TV 
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451550.ts
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladesh", এখন
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@ekhontv&serial=1&e.m3u8
 
 
 
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangla", Somoy TV
-https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="Bangla", Channel 24
-http://xtv.ooo:8080/88654455/97543255/245969
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangla", Independent TV
-http://xtv.ooo:8080/88654455/97543255/245916
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_aZ_rjUjB05si3zA0ZSvJyev5I3UcMNKKJ5r2b3m3-ovDjrJ-Z49XYks&s=10" group-title="Bangla", Jamuna TV
-http://xtv.ooo:8080/88654455/97543255/245917
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangla", DBC News
-http://xtv.ooo:8080/88654455/97543255/245914
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/1200px-Ekattor_TV_logo.svg.png" group-title="Bangla", Ekattor TV HD
-http://xtv.ooo:8080/88654455/97543255/245915
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAI6G512VuoCSo7kyrHIJxnb8QvoNo7_PzMPLgvSCr9Q&s" group-title="Bangla", Nagorik Tv
-http://stream.iqflix.net:27872/play/a0n2/index.m3u8
+
+
 
 
 
