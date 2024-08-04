@@ -55,7 +55,8 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 #EXTINF:-1 xui-id="448" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA
-http://stream.iqflix.net:27872/play/a032/index.m3u8
+http://10.21.56.46:9191/star-jalsha/index.m3u8?token=902a09e94796f8f68cce90958652f78ed1d5931a-724a4da18c9849012a3c36d6d8e96a2c-1722847660-1722836860
+#http://stream.iqflix.net:27872/play/a032/index.m3u8
 #http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e4213295cf7105f6e7c721956967b50b
 #http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1  tvg-name="UTSAV GOLD UK 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/4228.jpg" group-title="HINDI",UTSAV GOLD UK 4K cc
@@ -241,7 +242,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/Zeecinemahd1.m
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD 
-http://10.21.56.46:9191/jalsha-movies/index.m3u8?token=feec4ce00e30c33dc97d7487d22733cfc520ee02-6a8e7275ce9119167bfb78c9c879cb81-1722202933-1722192133
+http://10.21.56.46:9191/jalsha-movies/tracks-v1a1/mono.m3u8?token=5f423fd7ca9b943b995b312bb8a7b508d2571bfa-d054d28518a33b38c37b91f2f5b393e8-1722847894-1722837094
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Colors Bangla
