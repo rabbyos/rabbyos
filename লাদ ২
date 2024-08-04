@@ -243,7 +243,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD 
 http://10.21.56.46:9191/jalsha-movies/tracks-v1a1/mono.m3u8?token=5f423fd7ca9b943b995b312bb8a7b508d2571bfa-d054d28518a33b38c37b91f2f5b393e8-1722847894-1722837094
-http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Colors Bangla
 http://10.21.56.46:9191/colors-bangla/tracks-v1a1/mono.m3u8?token=09e3c3f7697fede5f4e53550624e804962e19ae4-dde1ecff5ef29d6087534553c2953748-1722022608-1722011808
