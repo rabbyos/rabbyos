@@ -12,10 +12,12 @@ http://opplex.tv:8080/live/15155419/16175512/206310.ts
 
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
-https://port.yuvraj49.in/jbe/index.m3u8?id=219
+https://port.yuvraj49.in/xegd/master.m3u8?id=4705
+#https://port.yuvraj49.in/jbe/index.m3u8?id=219
 #http://stream.iqflix.net:27872/play/a073/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
-http://stream.iqflix.net:27872/play/a075/index.m3u8
+https://port.yuvraj49.in/xegd/master.m3u8?id=3594
+#http://stream.iqflix.net:27872/play/a075/index.m3u8
 #http://xtv.ooo:8080/719865/988111/109959 
 #EXTINF:-1 tvg-logo="http://stream.iqflix.net:27872/iqflix/tvg-logo/a0n0.png" group-title="03- Hindi",Star Gold Romance
 http://stream.iqflix.net:27872/play/a0n0/index.m3u8
@@ -38,6 +40,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/506Tg34T/Star-Gold-Select.png" group-title="Indian Cinema", Star Gold Select HD
+https://port.yuvraj49.in/xegd/master.m3u8?id=4062
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/44wsV8nY/1722424854434.png" group-title="Indian Cinema", The Movie Club
@@ -50,7 +53,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg" ,IN: GOLDMINES
-
+https://port.yuvraj49.in/xegd/master.m3u8?id=1668
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png" ,IN: GOLDMINES BOLLYWOOD
 
 
