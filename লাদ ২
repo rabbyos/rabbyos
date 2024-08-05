@@ -86,7 +86,8 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451536.ts
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451573.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png" group-title="Bangladesh", সময়
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@somoynews360&serial=1&e.m3u8
+https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=Q3P6bwmo4Fqp9mHqt8RZuQ&expires=1723065662&user=ef71b837ceef4cd18a6cf7069722d83d
+#https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@somoynews360&serial=1&e.m3u8
 
 
 
@@ -135,7 +136,8 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451547.ts
 https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="Bangladesh", একাত্তর TV 
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451550.ts
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=rNkwPH_xIz-Mq_BZFiuQEw&expires=1723065639&user=ef71b837ceef4cd18a6cf7069722d83d
+#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451550.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladesh", এখন
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@ekhontv&serial=1&e.m3u8
@@ -144,7 +146,8 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@ekhont
 http://starshare.live:8080/live/irfan/irfan/4231.m3u8 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" group-title="Bangladesh", Independent TV
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@IndependentTelevision&serial=1&e.m3u8
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=JJyOnhvlgOz_6fpHpIFrag&expires=1723065574&user=ef71b837ceef4cd18a6cf7069722d83d
+#https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@IndependentTelevision&serial=1&e.m3u8
 
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
 http://10.21.56.46:9191/jamuna-tv/tracks-v1a1/mono.m3u8?token=e8754d1a0ee214703b08abfd4fe41783fe2a0e51-433ba33e567c38eb82ee3512788e8c44-1722889381-1722878581
