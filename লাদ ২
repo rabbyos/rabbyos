@@ -30,7 +30,7 @@ https://port.yuvraj49.in/xegd/master.m3u8?id=3594
 #http://stream.iqflix.net:27872/play/a075/index.m3u8
 #http://xtv.ooo:8080/719865/988111/109959 
 #EXTINF:-1 tvg-logo="http://stream.iqflix.net:27872/iqflix/tvg-logo/a0n0.png" group-title="03- Hindi",Star Gold Romance
-http://stream.iqflix.net:27872/play/a0n0/index.m3u8
+
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/Andpictureshd1.m3u8
@@ -50,8 +50,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/506Tg34T/Star-Gold-Select.png" group-title="Indian Cinema", Star Gold Select HD
-https://port.yuvraj49.in/xegd/master.m3u8?id=4062
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
+
+
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/44wsV8nY/1722424854434.png" group-title="Indian Cinema", The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
@@ -63,9 +63,9 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="http://logo.opplextv.com/logo/goldmines.jpg" ,IN: GOLDMINES
-https://port.yuvraj49.in/xegd/master.m3u8?id=1668
-#EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png" ,IN: GOLDMINES BOLLYWOOD
 
+#EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png" ,IN: COLORS CINEPLEX HD
+http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 xui-id="448" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA
 http://10.21.56.46:9191/star-jalsha/index.m3u8?token=902a09e94796f8f68cce90958652f78ed1d5931a-724a4da18c9849012a3c36d6d8e96a2c-1722847660-1722836860
@@ -73,11 +73,15 @@ http://10.21.56.46:9191/star-jalsha/index.m3u8?token=902a09e94796f8f68cce9095865
 #http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e4213295cf7105f6e7c721956967b50b
 #http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1  tvg-name="UTSAV GOLD UK 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/4228.jpg" group-title="HINDI",UTSAV GOLD UK 4K cc
-https://port.yuvraj49.in/jbe/index.m3u8?id=4228
+
 #EXTINF:-1  tvg-name="STAR GOLD 2 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/247.jpg" group-title="HINDI",STAR GOLD 2 4K
-https://port.yuvraj49.in/jbe/index.m3u8?id=247
+
 #EXTINF:-1  tvg-name="MINIPLEX 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/224.jpg" group-title="HINDI",MINIPLEX 4K
-https://port.yuvraj49.in/jbe/index.m3u8?id=224
+
+#EXTINF: -1 tvg-name="Desh TV" tvg-logo="http://lifetvbd.xyz:8080/images/58e8bfe5c531cf1103b701b5f52e553c.png" group-title="Bangladesh", Desh TV
+http://lifetvbd.xyz:8080/live/3363696/3363696/80.ts
+
+
 
 #EXTINF: -1 tvg-name="Sony Aath" tvg-logo="http://lifetvbd.xyz:8080/images/dd56b0fbab536cbc438ce3d2c37cfc7a.png" group-title="INDIA | Bangla", Sony Aath
 http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -95,7 +99,8 @@ http://xtv.ooo:8080/88654455/97543255/245911
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/live-orgin/jagoronitv.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://ethnicmediagroup.co.uk/wp-content/uploads/2022/02/Untitled-design-24-1600x900.png",iON TV
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",MY TV
+http://xtv.ooo:8080/52882216/581881255/245964
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Jnh1nDX1/Background-Eraser-20240628-114738120.png" group-title="Bangladesh", SATV
 http://xtv.ooo:8080/88654455/97543255/245945
@@ -137,6 +142,8 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451544.ts
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/bv33b9g2/Background-Eraser-20240628-152826227.png" group-title="Bangladesh", Channel I 
 http://xtv.ooo:8080/52882216/581881255/245913
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451543.ts
+#EXTINF:-1 xui-id="364" tvg-id="" tvg-name="Indian Bangla Movies hit" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie",Indian Bangla Movies hit
+http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm74XHP635EO_hlmSiS9Xnc6E/ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh", Channel 9 
 http://lifetvbd.xyz:8080/live/3363696/3363696/493.ts
@@ -148,7 +155,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 http://xtv.ooo:8080/52882216/581881255/245914
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangladesh", একুশে TV
-https://ekusheyserver.com/etvlivesn.m3u8
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="Bangladesh", একাত্তর TV 
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=rNkwPH_xIz-Mq_BZFiuQEw&expires=1723065639&user=ef71b837ceef4cd18a6cf7069722d83d
@@ -193,6 +200,8 @@ http://xtv.ooo:8080/52882216/581881255/245939
 #EXTINF: -1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladesh", News 24
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451544.ts
 
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 
 
