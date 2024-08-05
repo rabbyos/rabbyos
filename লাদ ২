@@ -8,8 +8,18 @@
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/fTNvLyh9/Background-Eraser-20240628-123615121.png" group-title="Indian Cinema", Colors Cineplex HD 
 
+#EXTINF:-0 tvg-logo="https://media.licdn.com/dms/image/D5622AQEP42TrSTZe9A/feedshare-shrink_800/0/1694197197757?e=2147483647&v=beta&t=po0fbWVIZAVBRE2i3xIULMu2FVxDtMVP8CVNXQdgU_Y",Amar Bangla Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Bangla  
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg",Ntv Europe
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMjoyMzozNyBBTSZoYXNoX3ZhbHVlPVZJMlFLRnROeUNFaktkYlZPK1ZnYkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",Atn Bangla Uk
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
 http://humsab.xyz/IN_SonyMaxHD/index.m3u8?token=7c15c400a6f53847863903ee61a2399c
@@ -104,13 +114,13 @@ https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangladesh", ATN বাংলা
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451534.ts
+
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R05tLFg1/Background-Eraser-20240628-101059334.png" group-title="Bangladesh", ATN News
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451535.ts
+
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/GhWPs51f/Background-Eraser-20240628-152646187.png" group-title="Bangladesh", Bijoy TV
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451574.ts
+
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladesh", Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
@@ -135,7 +145,7 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/493.ts
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png" group-title="Bangladesh", DBC News
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451547.ts
+http://xtv.ooo:8080/52882216/581881255/245914
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangladesh", একুশে TV
 https://ekusheyserver.com/etvlivesn.m3u8
