@@ -89,7 +89,8 @@ http://xtv.ooo:8080/88654455/97543255/245945
 https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=Q3P6bwmo4Fqp9mHqt8RZuQ&expires=1723065662&user=ef71b837ceef4cd18a6cf7069722d83d
 #https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@somoynews360&serial=1&e.m3u8
 
-
+#EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/ytc/AIdro_nK6E0O1iBf74Zu4pTRFxqaAeBsPYcyDMskf2C9R3AXOwg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Bangla", CHANNEL S
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/hjtn78RX/Background-Eraser-20240628-100253285.png" group-title="Bangladesh", Asian TV
@@ -146,7 +147,7 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@ekhont
 http://starshare.live:8080/live/irfan/irfan/4231.m3u8 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" group-title="Bangladesh", Independent TV
-https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=JJyOnhvlgOz_6fpHpIFrag&expires=1723065574&user=ef71b837ceef4cd18a6cf7069722d83d
+http://xtv.ooo:8080/88654455/97543255/245916
 #https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@IndependentTelevision&serial=1&e.m3u8
 
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
