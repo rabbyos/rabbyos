@@ -119,7 +119,8 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451539.ts
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451544.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/bv33b9g2/Background-Eraser-20240628-152826227.png" group-title="Bangladesh", Channel I 
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451543.ts
+http://10.21.56.46:9191/Channel-i/tracks-v1a1/mono.m3u8?token=b314ccd2bb400896072afb4f42fdb56df8b24979-ce5222ef8c2a463e022bedb1117bc82e-1722889516-1722878716
+#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451543.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh", Channel 9 
 http://lifetvbd.xyz:8080/live/3363696/3363696/493.ts
@@ -146,7 +147,7 @@ http://starshare.live:8080/live/irfan/irfan/4231.m3u8
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@IndependentTelevision&serial=1&e.m3u8
 
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@JamunaTVbd&serial=1&e.m3u8
+http://10.21.56.46:9191/jamuna-tv/tracks-v1a1/mono.m3u8?token=e8754d1a0ee214703b08abfd4fe41783fe2a0e51-433ba33e567c38eb82ee3512788e8c44-1722889381-1722878581
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/6QzRkbFj/Mohona-tv-Logo-svg.png" group-title="Bangladesh", Mohona TV
 http://xtv.ooo:8080/live/shoukatali/1199292900/245920.m3u8 
@@ -159,7 +160,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="Bangladesh", NTV 
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451563.ts
+http://10.21.56.46:9191/ntv/tracks-v1a1/mono.m3u8?token=e82d04f58b55b427abb5ab2106568e54b50262c7-f89f86f77b6af11d6eb012f64d33e86e-1722889450-1722878650
+#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451563.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangladesh", Nexus TV
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451576.ts
