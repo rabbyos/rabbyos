@@ -165,8 +165,6 @@ https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=rNkwPH_xIz-M
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladesh", এখন
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@ekhontv&serial=1&e.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png" group-title="Bangladesh", Global TV
-http://starshare.live:8080/live/irfan/irfan/4231.m3u8 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" group-title="Bangladesh", Independent TV
 #http://xtv.ooo:8080/88654455/97543255/245916
@@ -186,8 +184,7 @@ http://alvetv.com/mbtv/8080/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="Bangladesh", NTV 
-http://10.21.56.46:9191/ntv/tracks-v1a1/mono.m3u8?token=e82d04f58b55b427abb5ab2106568e54b50262c7-f89f86f77b6af11d6eb012f64d33e86e-1722889450-1722878650
-#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451563.ts
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451563.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangladesh", Nexus TV
 
