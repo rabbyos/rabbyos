@@ -169,8 +169,8 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@ekhont
 http://starshare.live:8080/live/irfan/irfan/4231.m3u8 
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" group-title="Bangladesh", Independent TV
-http://xtv.ooo:8080/88654455/97543255/245916
-#https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@IndependentTelevision&serial=1&e.m3u8
+#http://xtv.ooo:8080/88654455/97543255/245916
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@IndependentTelevision&serial=1&e.m3u8
 
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
 http://10.21.56.46:9191/jamuna-tv/tracks-v1a1/mono.m3u8?token=e8754d1a0ee214703b08abfd4fe41783fe2a0e51-433ba33e567c38eb82ee3512788e8c44-1722889381-1722878581
