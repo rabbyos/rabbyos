@@ -26,7 +26,8 @@ http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02
 #http://humsab.xyz/IN_SonyMaxHD/index.m3u8?token=7c15c400a6f53847863903ee61a2399c
 #https://port.yuvraj49.in/xegd/master.m3u8?id=4705
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
-http://tv.indigotv.me:80/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:4A:02:91
+http://xtv.ooo:8080/live/shoukatali/1199292900/109959.m3u8
+#http://tv.indigotv.me:80/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:4A:02:91
 #http://xtv.ooo:8080/719865/988111/109959 
 #EXTINF:-1 tvg-logo="http://stream.iqflix.net:27872/iqflix/tvg-logo/a0n0.png" group-title="03- Hindi",Star Gold Romance
 
