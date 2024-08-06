@@ -29,7 +29,6 @@ http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02
 http://xtv.ooo:8080/live/shoukatali/1199292900/109959.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:4A:02:91
 #http://xtv.ooo:8080/719865/988111/109959 
-#EXTINF:-1 tvg-logo="http://stream.iqflix.net:27872/iqflix/tvg-logo/a0n0.png" group-title="03- Hindi",Star Gold Romance
 
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
@@ -42,17 +41,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
 #http://tv.indigotv.me:80/live.ts?channelId=197&uid=7245&deviceMac=00:1A:79:4A:02:91
-#EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" tvg-id="stargoldhd.in" ,IND: Star Gold 2
-
-
-
-
-#EXTINF:-1 xui-id="535" tvg-id="SONY PIX HD" tvg-name="SONY PIX HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH4OZYz2xLMIEAJhz_sQD33JqpFyErFcEF9LwBw0XxGWg.png" group-title="Hollywood Movies",SONY PIX HD
-
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/506Tg34T/Star-Gold-Select.png" group-title="Indian Cinema", Star Gold Select HD
-
-
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/44wsV8nY/1722424854434.png" group-title="Indian Cinema", The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
