@@ -61,11 +61,6 @@ http://10.21.56.46:9191/star-jalsha/index.m3u8?token=902a09e94796f8f68cce9095865
 #http://stream.iqflix.net:27872/play/a032/index.m3u8
 #http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e4213295cf7105f6e7c721956967b50b
 #http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF:-1  tvg-name="UTSAV GOLD UK 4K cc" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/4228.jpg" group-title="HINDI",UTSAV GOLD UK 4K cc
-
-#EXTINF:-1  tvg-name="STAR GOLD 2 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/247.jpg" group-title="HINDI",STAR GOLD 2 4K
-
-#EXTINF:-1  tvg-name="MINIPLEX 4K" tvg-logo="http://jiotv.be/stalker_portal/misc/logos/320/224.jpg" group-title="HINDI",MINIPLEX 4K
 
 #EXTINF: -1 tvg-name="Desh TV" tvg-logo="http://lifetvbd.xyz:8080/images/58e8bfe5c531cf1103b701b5f52e553c.png" group-title="Bangladesh", Desh TV
 http://lifetvbd.xyz:8080/live/3363696/3363696/80.ts
