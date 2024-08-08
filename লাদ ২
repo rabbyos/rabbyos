@@ -28,10 +28,12 @@ http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02
 #http://humsab.xyz/IN_SonyMaxHD/index.m3u8?token=7c15c400a6f53847863903ee61a2399c
 #https://port.yuvraj49.in/xegd/master.m3u8?id=4705
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
-http://xtv.ooo:8080/live/shoukatali/1199292900/109959.m3u8
+http://14.102.123.50:9080/play/a058
+#http://xtv.ooo:8080/live/shoukatali/1199292900/109959.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:4A:02:91
 #http://xtv.ooo:8080/719865/988111/109959 
-
+#EXTINF:-1,Star Gold 2
+http://14.102.123.50:9080/play/a05o
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/Andpictureshd1.m3u8
