@@ -61,6 +61,11 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png" ,IN: COLORS CINEPLEX HD
 http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
 
+#EXTINF:-1 ,STAR PLUS HD
+https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 xui-id="448" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA
 http://10.21.56.46:9191/star-jalsha/index.m3u8?token=902a09e94796f8f68cce90958652f78ed1d5931a-724a4da18c9849012a3c36d6d8e96a2c-1722847660-1722836860
 #http://stream.iqflix.net:27872/play/a032/index.m3u8
