@@ -169,7 +169,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 http://xtv.ooo:8080/52882216/581881255/245914
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangladesh", একুশে TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+https://ekusheyserver.com/etvlivesn.m3u8
+#https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="Bangladesh", একাত্তর TV 
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/playlist.m3u8?md5=rNkwPH_xIz-Mq_BZFiuQEw&expires=1723065639&user=ef71b837ceef4cd18a6cf7069722d83d
