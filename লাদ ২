@@ -110,12 +110,11 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FTsPoV3OV4Tas7Efx2op1C4lilKyxYkcJx-rCg1f9HeXOQvRIjH8NXurrA&s",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="Bangla", ATN BANGLA
+#EXTINF:-1,ATNBangla
 http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451534.ts
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladesh", RTV 
+#EXTINF:-1,RTV
 http://172.19.178.59:18190/SN-ST-TV-38/index.m3u8
-#http://xtv.ooo:8080/88654455/97543255/245911
 #EXTINF: -1 tvg-name="Jagoroni Tv" tvg-logo="http://lifetvbd.xyz:8080/images/5382bb90c9887fa0b1725bb01772a658.png" group-title="Bangladesh", Jagoroni Tv
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/live-orgin/jagoronitv.stream/chunks.m3u8
 #EXTINF:-0 tvg-logo="https://ethnicmediagroup.co.uk/wp-content/uploads/2022/02/Untitled-design-24-1600x900.png",iON TV
@@ -153,20 +152,16 @@ http://172.19.178.59:18190/SN-ST-TV-20/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
 #EXTINF:-1 ,Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/BQPRVST7/Banglavision-svg.png" group-title="Bangladesh", Bangla Vision 
+#EXTINF:-1,BanglaVision
 http://172.19.178.59:18190/SN-ST-TV-28/index.m3u8
-#http://lifetvbd.xyz:8080/live/3363696/3363696/86.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/BvJS3LNn/Boishakhi-TV-logo-svg.png" group-title="Bangladesh", Boishakhi TV
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451539.ts
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png" group-title="Bangladesh", Channel 24
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451544.ts
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/bv33b9g2/Background-Eraser-20240628-152826227.png" group-title="Bangladesh", Channel I 
+#EXTINF:-1,ChanneliHD 
 http://172.19.178.39:18190/JS-TV-07/index.m3u8
-#http://xtv.ooo:8080/52882216/581881255/245913
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451543.ts
 #EXTINF:-1 xui-id="364" tvg-id="" tvg-name="Indian Bangla Movies hit" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie",Indian Bangla Movies hit
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm74XHP635EO_hlmSiS9Xnc6E/ts
@@ -176,27 +171,17 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/493.ts
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh", দীপ্ত TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/640px-DBC_News_Logo.svg.png" group-title="Bangladesh", DBC News
+#EXTINF:-1,DBC News
 http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8
 #http://xtv.ooo:8080/52882216/581881255/245914
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangladesh", একুশে TV
+#EXTINF:-1,ETV
 http://172.19.178.59:18190/SN-ST-TV-26/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png" group-title="Bangladesh", একাত্তর TV 
+#EXTINF:-1,Ekattor TV
 http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451550.ts
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladesh", এখন
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@ekhontv&serial=1&e.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/440px-Independent_Television_Logo.svg.png" group-title="Bangladesh", Independent TV
-#http://xtv.ooo:8080/88654455/97543255/245916
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ytlive.php?m3u8=@IndependentTelevision&serial=1&e.m3u8
 
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
 http://10.21.56.46:9191/jamuna-tv/tracks-v1a1/mono.m3u8?token=e8754d1a0ee214703b08abfd4fe41783fe2a0e51-433ba33e567c38eb82ee3512788e8c44-1722889381-1722878581
@@ -220,13 +205,10 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451563.ts
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcCig8liSTxxTOglj7-IFmKKyTij_LSRCwA&s",Nandan Tv
 https://weblive.nandansyst.com/hls/nandan_src/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangladesh", নাগরিক TV
+#EXTINF:-1,Nagorik TV
 http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
-#http://xtv.ooo:8080/52882216/581881255/245939
-
 #EXTINF: -1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladesh", News 24
-http://lifetvbd.xyz:8080/live/3363696/3363696/502.ts
-#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451544.ts
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451544.ts
 
 #EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
