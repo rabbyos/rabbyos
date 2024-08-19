@@ -164,7 +164,7 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451539.ts
 https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd?%7CdrmScheme=clearkey&drmLicense=a27994921cec4ec692cb6a324574ea02:d32eec36fca8a1679a1ca5e420315a22
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png" group-title="Bangladesh", Channel 24
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451544.ts
+http://tv.cloudcdn.me/live.ts?channelId=87&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #EXTINF:-1,ChanneliHD 
 http://172.19.178.39:18190/JS-TV-07/index.m3u8
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451543.ts
