@@ -35,16 +35,15 @@ https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
-#http://14.102.123.50:9080/play/a042
-http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
+http://tv.cloudcdn.me/live.ts?channelId=186&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+#http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 #http://humsab.xyz/IN_SonyMaxHD/index.m3u8?token=7c15c400a6f53847863903ee61a2399c
 #https://port.yuvraj49.in/xegd/master.m3u8?id=4705
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
-#http://14.102.123.50:9080/play/a058
+http://tv.cloudcdn.me/live.ts?channelId=196&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #http://xtv.ooo:8080/live/shoukatali/1199292900/109959.m3u8
-http://tv.indigotv.me:80/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:4A:02:91
+#http://tv.indigotv.me:80/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:4A:02:91
 #http://xtv.ooo:8080/719865/988111/109959 
-#EXTINF:-1,Star Gold 2
 
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
@@ -55,7 +54,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/Zeebollywood1
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
+http://tv.cloudcdn.me/live.ts?channelId=197&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
 #http://tv.indigotv.me:80/live.ts?channelId=197&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 
