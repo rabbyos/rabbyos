@@ -107,6 +107,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=3623&deviceMac=00:1A:79:03:
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png",Global Tv
 http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
 
+#EXTINF:-1  group-title="Music", Gaan Bangla
+http://tv.cloudcdn.me/live.ts?channelId=97&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3FTsPoV3OV4Tas7Efx2op1C4lilKyxYkcJx-rCg1f9HeXOQvRIjH8NXurrA&s",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
