@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1,PeaceTV Bangla
+#EXTINF:-1,PEACETV BANGLA
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1,Quaran
 http://172.19.178.59:18190/SN-ST-TV-27/index.m3u8
 #EXTINF:-1,Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
