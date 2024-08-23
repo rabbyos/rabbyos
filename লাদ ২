@@ -112,8 +112,8 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/80.ts
 
 
 #EXTINF: -1 tvg-name="Sony Aath" tvg-logo="http://lifetvbd.xyz:8080/images/dd56b0fbab536cbc438ce3d2c37cfc7a.png" group-title="INDIA | Bangla", Sony Aath
-http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=3623&deviceMac=00:1A:79:03:ED:4F
-#http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm7-MC085glfloTPEZxnxa_Pw/ts
+
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png",Global Tv
 http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
 
