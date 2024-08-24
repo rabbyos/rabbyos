@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,SONY BANGLA
-http://198.51.100.100/hls/5052.m3u8
+
 #EXTINF:-1,PEACETV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1,Quaran
