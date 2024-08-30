@@ -9,7 +9,8 @@ http://172.19.178.59:18190/SN-ST-TV-27/index.m3u8
 #EXTINF:-1,Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="24605" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA",IN: ZEE BANGLA CINEMA_ 4K
-http://14.102.123.50:5001/live/685.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#http://14.102.123.50:5001/live/685.m3u8
 #EXTINF:-1,ZEE ANMOL CINEMA
 http://172.105.123.238:18002/play/a01f
 #EXTINF:-1,ZEE ANMOL CINEMA 2
