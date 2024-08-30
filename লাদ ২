@@ -10,7 +10,10 @@ http://172.19.178.59:18190/SN-ST-TV-27/index.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="24605" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA",IN: ZEE BANGLA CINEMA_ 4K
 http://14.102.123.50:5001/live/685.m3u8
-
+#EXTINF:-1,ZEE ANMOL CINEMA
+http://172.105.123.238:18002/play/a01f
+#EXTINF:-1,ZEE ANMOL CINEMA 2
+http://172.105.123.238:18002/play/a024
 #EXTINF:-1,ZING BD
 http://14.102.123.50:5001/live/585.m3u8
 #EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.png" tvg-chno="0-9-209" group-title="",PADMA
@@ -42,11 +45,10 @@ https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
-https://billing.tfms.xyz/http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
 #http://xtv.ooo:8080/live/874246786/743567899/66179.ts
 #http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm73IjnT9IcGU1i-NVQlVY3uE/ts
 #http://tv.indigotv.me:80/live.ts?channelId=185&uid=7245&deviceMac=00:1A:79:4A:02:91
-#http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
+http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
 http://tv.cloudcdn.me/live.ts?channelId=186&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
