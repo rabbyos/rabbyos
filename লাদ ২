@@ -57,7 +57,8 @@ http://tv.cloudcdn.me/live.ts?channelId=186&uid=15585&deviceMac=00:1A:79:D9:7F:B
 #http://humsab.xyz/IN_SonyMaxHD/index.m3u8?token=7c15c400a6f53847863903ee61a2399c
 #https://port.yuvraj49.in/xegd/master.m3u8?id=4705
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
-http://xtv.ooo:8080/live/15155419/16175512/66177.ts
+http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/1070
+#http://xtv.ooo:8080/live/15155419/16175512/66177.ts
 #http://tv.cloudcdn.me/live.ts?channelId=196&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #http://xtv.ooo:8080/live/shoukatali/1199292900/109959.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:4A:02:91
@@ -107,7 +108,7 @@ http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02
 http://217.20.112.199/starplushd/index.m3u8
 #https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STARJALSHA HD
-http://103.151.60.174/manikvai@hoichoi24.com
+http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/12979
 #EXTINF:-1 ,STARJALSHA
 http://10.21.56.46:9191/News-24/tracks-v1a1/mono.m3u8?token=6d529d144b53a7bc8abfe96c5e59906fa2a8ad0c-a5c272ffd9c3e42c94487f00d243ae77-1723775977-172
 #EXTINF:-1 ,STARJALSHA
@@ -128,7 +129,7 @@ http://livess.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
 
 
 #EXTINF: -1 tvg-name="Sony Aath" tvg-logo="http://lifetvbd.xyz:8080/images/dd56b0fbab536cbc438ce3d2c37cfc7a.png" group-title="INDIA | Bangla", Sony Aath
-http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/17005
 #http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm7-MC085glfloTPEZxnxa_Pw/ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png",Global Tv
