@@ -123,7 +123,7 @@ http://172.19.178.39:18190/JS-TV-08/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-name="Desh TV" tvg-logo="http://lifetvbd.xyz:8080/images/58e8bfe5c531cf1103b701b5f52e553c.png" group-title="Bangladesh", Desh TV
 http://livess.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
-#http://lifetvbd.xyz:8080/live/3363696/3363696/80.ts
+
 
 
 
