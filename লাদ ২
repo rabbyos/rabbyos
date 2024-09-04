@@ -104,7 +104,8 @@ http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 ,STAR PLUS HD
-https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
+http://217.20.112.199/starplushd/index.m3u8
+#https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STARJALSHA HD
 http://103.151.60.174/manikvai@hoichoi24.com
 #EXTINF:-1 ,STARJALSHA
