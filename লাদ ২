@@ -75,7 +75,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/Zeebollywood1
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://tv.cloudcdn.me/live.ts?channelId=197&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+http://starshare.live:8080/live/9826816920/8625825719/9376.ts
+#http://tv.cloudcdn.me/live.ts?channelId=197&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
 #http://tv.indigotv.me:80/live.ts?channelId=197&uid=7245&deviceMac=00:1A:79:4A:02:91
 
