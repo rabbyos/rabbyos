@@ -203,10 +203,13 @@ https://global.ncare.live/streams/jagoronitv.stream/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
 
 #EXTINF:-1,INDEPENDENT
-https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd?%7CdrmScheme=clearkey&drmLicense=a27994921cec4ec692cb6a324574ea02:d32eec36fca8a1679a1ca5e420315a22
+http://livess.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
+#https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd?%7CdrmScheme=clearkey&drmLicense=a27994921cec4ec692cb6a324574ea02:d32eec36fca8a1679a1ca5e420315a22
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png" group-title="Bangladesh", Channel 24
 http://tv.cloudcdn.me/live.ts?channelId=87&uid=15585&deviceMac=00:1A:79:D9:7F:BB
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-EKHON", EKHON TV HD
+http://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 #EXTINF:-1,ChanneliHD 
 http://172.19.178.39:18190/JS-TV-07/index.m3u8
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451543.ts
@@ -219,7 +222,8 @@ http://lifetvbd.xyz:8080/live/3363696/3363696/493.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh", দীপ্ত TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1,DBC News
-http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8
+http://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
+#http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8
 #http://xtv.ooo:8080/52882216/581881255/245914
 #EXTINF:-1,ETV
 http://172.19.178.59:18190/SN-ST-TV-26/index.m3u8
