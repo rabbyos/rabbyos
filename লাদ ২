@@ -59,11 +59,14 @@ http://tv.cloudcdn.me/live.ts?channelId=186&uid=15585&deviceMac=00:1A:79:D9:7F:B
 #http://humsab.xyz/IN_SonyMaxHD/index.m3u8?token=7c15c400a6f53847863903ee61a2399c
 #https://port.yuvraj49.in/xegd/master.m3u8?id=4705
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/1070
+http://tv.cloudcdn.me/live.ts?channelId=196&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #http://xtv.ooo:8080/live/15155419/16175512/66177.ts
 #http://tv.cloudcdn.me/live.ts?channelId=196&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #http://xtv.ooo:8080/live/shoukatali/1199292900/109959.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:4A:02:91
+
+#EXTINF:-1,IN: UTSAVGOLD
+http://tv.cloudcdn.me/live.ts?channelId=12358&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
 http://xtv.ooo:8080/live/15155419/16175512/106133.ts
