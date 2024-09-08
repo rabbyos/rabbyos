@@ -115,7 +115,7 @@ http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02
 http://217.20.112.199/starplushd/index.m3u8
 #https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STARJALSHA HD
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/12979
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 ,STARJALSHA
 http://10.21.56.46:9191/News-24/tracks-v1a1/mono.m3u8?token=6d529d144b53a7bc8abfe96c5e59906fa2a8ad0c-a5c272ffd9c3e42c94487f00d243ae77-1723775977-172
 #EXTINF:-1 ,STARJALSHA
