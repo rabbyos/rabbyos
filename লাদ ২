@@ -20,7 +20,8 @@ http://172.105.123.238:18002/play/a024
 http://14.102.123.50:5001/live/585.m3u8
 #EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.png" tvg-chno="0-9-209" group-title="",PADMA
 https://vstechs.in/live/Devine/index.m3u8
-
+#EXTINF:-1 ,TARATV
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 ,M BANGLATV
 http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1242415799.m3u8
 
