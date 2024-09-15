@@ -17,7 +17,7 @@ http://172.105.123.238:18002/play/a01f
 #EXTINF:-1,ZEE ANMOL CINEMA 2
 http://172.105.123.238:18002/play/a024
 #EXTINF:-1,ZING BD
-http://14.102.123.50:5001/live/585.m3u8
+http://tv.indigotv.me:80/live.ts?channelId=219&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.png" tvg-chno="0-9-209" group-title="",PADMA
 https://vstechs.in/live/Devine/index.m3u8
 #EXTINF:-1 ,TARATV
@@ -113,7 +113,8 @@ http://starshare.live:8080/live/9826816920/8625825719/4081.ts
 http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 ,STAR PLUS HD
-http://217.20.112.199/starplushd/index.m3u8
+http://119.156.26.155:8000/play/a06u/index.m3u8
+#http://217.20.112.199/starplushd/index.m3u8
 #https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STARJALSHA HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
