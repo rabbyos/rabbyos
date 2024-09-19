@@ -1,8 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="2" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="ZEE5", ZEE Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png"group-title="Kolkata Bangla",STAR JALSHA HD
+http://opplex.tv:8080/live/919990697539/9535126056/245898.ts
 #EXTINF:-1 ,STARJALSHA HD
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
+#http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 ,STARJALSHA
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 #http://10.21.56.46:9191/News-24/tracks-v1a1/mono.m3u8?token=6d529d144b53a7bc8abfe96c5e59906fa2a8ad0c-a5c272ffd9c3e42c94487f00d243ae77-1723775977-172
