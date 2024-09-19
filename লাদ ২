@@ -440,7 +440,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=7245&deviceMac=00:1A:79:B0:
 
 
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports Channels", Star Sports 2 HD
-http://103.109.56.116/live/skyfeed1003/index.m3u8
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451272.ts
 #EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
@@ -451,9 +451,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9
 #EXTINF: -1 tvg-name="Sony Ten 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/1ac33cea25728a9e5181c63cc5fefa78.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 tvg-name="Sony Ten 3 HD" tvg-logo="http://lifetvbd.xyz:8080/images/7468071e59103c0ad9f97aaddb381ac8.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 3 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451266.ts
 #EXTINF:-1 group-title="Sports",Sony ten 4
-http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451614.ts
 
 #EXTINF: -1 tvg-name="Sony Ten 5 HD" tvg-logo="http://lifetvbd.xyz:8080/images/26ee9f0a2b315f3bc627c93ba4a6e1d3.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 5 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -483,60 +483,4 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music",E24(BD)
-
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music",I Love U Music(BD)
-
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music",Bollywood Hungama
-u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music",8XM
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bindass.png"group-title="Hindi Music",Bindass
-
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="English Music",VH1 HD
-
-
-
-
-#EXTINF:-1 group-logo="https://sg-res.9appsdownloading.com/sg/res/jpg/aa/dd/650bef4a0ed53dedf6faecdfaa42-6vt1.jpg?x-oss-process=style/mq200" tvg-id="stargoldhd.in" tvg-name="IN | STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest?cb=20211216004428" group-title="ENTERTAINMENT",STAR GOLD THRILLS
-https://allinonereborn.tech/opplex1.php?id=221258
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Kolkata Bangla Movies",Colors Bangla Cinema
-#EXTINF:-1 tvg-id="24585" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/1335.jpg" group-title="INDIAN ENTERAINMENT",IN: STAR BHARAT_4K
-http://portal.code-crafters.app/app/play.m3u8?id=24585
-
-
-#EXTINF:-1 tvg-logo=""group-title="Kolkata Bangla Movies",Sun Bangla Cinema
-https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"group-title="Hindi Movies",Star Gold Select
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Pictures HD
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Hindi Movies",And Xplor HD
- 
-
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/gazi_tv.png", Gazi TV https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sports%2018.png"group-title="Sports",Sports 18 1 HD
-http://103.120.172.74:5500
-
-#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/y4byV4b/IMG-20240418-130458.jpg",UTV Cinema HD http://103.107.79.87:8080/CH8109HD01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/Yjh6pyC/IMG-20240418-130220.jpg",UTV Movies HD http://103.107.79.87:8080/CH8109HD05/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bKGy75K/IMG-20240126-121355.jpg" group-title="ENGLISH CHANNELS",Star Movies HD http://172.17.50.112/live/antbd1003/index.m3u8
 
