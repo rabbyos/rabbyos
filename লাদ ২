@@ -31,7 +31,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,PEACETV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1,IN: &XPLOR
-
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451314.ts
 
 #EXTINF:-1,Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -107,9 +107,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/Zeebollywood1
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://starshare.live:8080/live/9826816920/8625825719/9376.ts
 #http://tv.cloudcdn.me/live.ts?channelId=197&uid=15585&deviceMac=00:1A:79:D9:7F:BB
-#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
 #http://tv.indigotv.me:80/live.ts?channelId=197&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 
@@ -126,8 +125,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi Movies",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
-http://starshare.live:8080/live/9826816920/8625825719/4081.ts
-#http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 
 
@@ -144,18 +142,14 @@ http://119.156.26.155:8000/play/a06u/index.m3u8
 #https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-name="Desh TV" tvg-logo="http://lifetvbd.xyz:8080/images/58e8bfe5c531cf1103b701b5f52e553c.png" group-title="Bangladesh", Desh TV
-http://livess.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
+
 
 
 
 
 #EXTINF: -1 tvg-name="Sony Aath" tvg-logo="http://lifetvbd.xyz:8080/images/dd56b0fbab536cbc438ce3d2c37cfc7a.png" group-title="INDIA | Bangla", Sony Aath
-http://sysadminhost.net:8080/resplice/wdLIS4d9758INyuX/17005
-#http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm7-MC085glfloTPEZxnxa_Pw/ts
 
 #EXTINF:-1 group-title="bangladeshi" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png",Global Tv
-http://livess.ncare.live/live-orgin/Global-g.stream/playlist.m3u8
-#http://lifetvbd.xyz:8080/live/3363696/3363696/76.ts
 
 #EXTINF:-1  group-title="Music", Gaan Bangla
 http://tv.cloudcdn.me/live.ts?channelId=97&uid=15585&deviceMac=00:1A:79:D9:7F:BB
