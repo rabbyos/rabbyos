@@ -163,56 +163,74 @@ https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1,ATNBangla
 #http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451534.ts
-#EXTINF:-1,RTV
-http://livess.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
-#http://172.19.178.59:18190/SN-ST-TV-38/index.m3u8
-#EXTINF: -1 tvg-name="Jagoroni Tv" tvg-logo="http://lifetvbd.xyz:8080/images/5382bb90c9887fa0b1725bb01772a658.png" group-title="Bangladesh", Jagoroni Tv
-https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/live-orgin/jagoronitv.stream/chunks.m3u8
-#EXTINF:-0 tvg-logo="https://ethnicmediagroup.co.uk/wp-content/uploads/2022/02/Untitled-design-24-1600x900.png",iON TV
-https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Mytv_Bangladesh_Logo.png",MY TV
-http://172.19.178.59:18190/SN-ST-TV-32/index.m3u8
-#https://mytvbangla.com/0.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Jnh1nDX1/Background-Eraser-20240628-114738120.png" group-title="Bangladesh", SATV
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png" group-title="Bangladesh", সময়
-http://tv.cloudcdn.me/live.ts?channelId=115&uid=15585&deviceMac=00:1A:79:D9:7F:BB
-#http://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
-#http://172.19.178.39:18190/JS-TV-05/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://iv.melmac.space/ggpht/ytc/AIdro_nK6E0O1iBf74Zu4pTRFxqaAeBsPYcyDMskf2C9R3AXOwg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Bangla", CHANNEL S
-https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-ETENPRIME", E-TEN PRIME BANGLA
-http://livess.ncare.live/live-orgin/voicetv.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-BIJOY", BIJOY TV
-http://livess.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/hjtn78RX/Background-Eraser-20240628-100253285.png" group-title="Bangladesh", Asian TV
-
-#http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/pT3MHHgC/Background-Eraser-20240628-152508647.png" group-title="Bangladesh", আনন্দ TV
-
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png" group-title="Bangladesh", ATN বাংলা
-
+#EXTINF:-1 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="Nayeem's BDCast",Deepto TV HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="4ed08af5" tvg-name="Somoy News" tvg-logo="https://i.postimg.cc/4yvnV8sK/Somoy-TV.png" tvg-chno="2" group-title="Nayeem's BDCast",Somoy News
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=4ed08af5&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="ae559a27" tvg-name="ATN Bangla HD" tvg-logo="https://i.postimg.cc/NfXYJXPY/ATN-Bangla.png" tvg-chno="3" group-title="Nayeem's BDCast",ATN Bangla HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae559a27&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="e181c0f8" tvg-name="ATN Music" tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-TV.png" tvg-chno="4" group-title="Nayeem's BDCast",ATN Music
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=e181c0f8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="66c4b0b8" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/ncXG94c4/Asian-TV.png" tvg-chno="5" group-title="Nayeem's BDCast",Asian TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=66c4b0b8&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="01eabe3c" tvg-name="Bangla Vision HD" tvg-logo="https://i.postimg.cc/5y8VKjyM/Bangla-Vision.png" tvg-chno="6" group-title="Nayeem's BDCast",Bangla Vision HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=01eabe3c&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="08edaaca" tvg-name="ATN News" tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" tvg-chno="7" group-title="Nayeem's BDCast",ATN News
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=08edaaca&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="e0cfe755" tvg-name="Bioshakhi TV" tvg-logo="https://i.postimg.cc/SKfWWGk6/Boishakhi-TV.png" tvg-chno="8" group-title="Nayeem's BDCast",Bioshakhi TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="71ad885a" tvg-name="BTV World HD" tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" tvg-chno="9" group-title="Nayeem's BDCast",BTV World HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=71ad885a&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="ae7cdb8f" tvg-name="BTV Chattogram" tvg-logo="https://i.postimg.cc/pdQNbytW/BTV-Chattogram.png" tvg-chno="10" group-title="Nayeem's BDCast",BTV Chattogram
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=ae7cdb8f&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="4c45af5d" tvg-name="Sangsad Television" tvg-logo="https://i.postimg.cc/SQ2BkZ41/Sangsad-Television.png" tvg-chno="11" group-title="Nayeem's BDCast",Sangsad Television
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=4c45af5d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="85c43e1d" tvg-name="Channel 9 HD" tvg-logo="https://i.postimg.cc/SQYcd9Lz/Channel9.png" tvg-chno="12" group-title="Nayeem's BDCast",Channel 9 HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=85c43e1d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="c7608fa9" tvg-name="Channel 24" tvg-logo="https://i.postimg.cc/vmynH2Cr/BD-Channel24.png" tvg-chno="13" group-title="Nayeem's BDCast",Channel 24
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=c7608fa9&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="vdce53cs" tvg-name="Channel I HD" tvg-logo="https://i.postimg.cc/hPPcgLCX/Channel-I.png" tvg-chno="14" group-title="Nayeem's BDCast",Channel I HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=vdce53cs&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="19414441" tvg-name="DBC News 24/7" tvg-logo="https://i.postimg.cc/15JCh6T5/DBC-News.png" tvg-chno="15" group-title="Nayeem's BDCast",DBC News 24/7
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=19414441&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="649941fa" tvg-name="Desh TV Live" tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" tvg-chno="16" group-title="Nayeem's BDCast",Desh TV Live
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=649941fa&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="90d7bc25" tvg-name="Ekattor TV HD" tvg-logo="https://i.postimg.cc/YqRdQgzB/Ekattor-TV-HD.png" tvg-chno="17" group-title="Nayeem's BDCast",Ekattor TV HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=90d7bc25&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="6ed8e577" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/HnZB11xs/Ekushey-TV.png" tvg-chno="18" group-title="Nayeem's BDCast",Ekushey TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=6ed8e577&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="h8d56bee" tvg-name="Gaan Bangla" tvg-logo="https://i.postimg.cc/6pwDXnB8/Gaan-Bangla.png" tvg-chno="19" group-title="Nayeem's BDCast",Gaan Bangla
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=h8d56bee&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="89b4zb3d" tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/bNQwgx6r/Jamuna-TV.png" tvg-chno="20" group-title="Nayeem's BDCast",Jamuna TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=89b4zb3d&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="f190c3dt" tvg-name="Maasranga HD" tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png" tvg-chno="21" group-title="Nayeem's BDCast",Maasranga HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=f190c3dt&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="hhzi207e" tvg-name="Maasranga HD" tvg-logo="https://i.postimg.cc/mDvTm5xc/Maasranga.png" tvg-chno="22" group-title="Nayeem's BDCast",Maasranga HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=hhzi207e&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="70znfha3" tvg-name="News24 HD" tvg-logo="https://i.postimg.cc/vB3W9fCS/News24BD.png" tvg-chno="23" group-title="Nayeem's BDCast",News24 HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=70znfha3&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="adei2579" tvg-name="RTV HD" tvg-logo="https://i.postimg.cc/Qdvs8ztf/RTV-HD.png" tvg-chno="24" group-title="Nayeem's BDCast",RTV HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=adei2579&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="1938a86s" tvg-name="SATV" tvg-logo="https://i.postimg.cc/GtMwZ7VJ/SATV.png" tvg-chno="25" group-title="Nayeem's BDCast",SATV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="5149cfic" tvg-name="NTV" tvg-logo="https://i.postimg.cc/3NqfXPz6/NTV.png" tvg-chno="26" group-title="Nayeem's BDCast",NTV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="sllfd45v" tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/qB6YsGk3/Independent.png" tvg-chno="27" group-title="Nayeem's BDCast",Independent TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=sllfd45v&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="zns9eha2" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/DZTg115q/Ananda-TV.png" tvg-chno="28" group-title="Nayeem's BDCast",Ananda TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+#EXTINF:-1 tvg-id="cZtxlaRR" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/8P9Lhhzj/Mohona-TV.png" tvg-chno="29" group-title="Nayeem's BDCast",Mohona TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=cZtxlaRR&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/R05tLFg1/Background-Eraser-20240628-101059334.png" group-title="Bangladesh", ATN News
-http://172.19.178.59:18190/SN-ST-TV-20/index.m3u8
-
-
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladesh", Bangla TV
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
 #EXTINF:-1 ,Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1,BanglaVision
-http://livess.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
-#http://172.19.178.59:18190/SN-ST-TV-28/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/BvJS3LNn/Boishakhi-TV-logo-svg.png" group-title="Bangladesh", Boishakhi TV
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451539.ts
+#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451539.ts
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxKcBpyvbSgpH81q14vxwSCozfmQpZMUlAwQ&s",Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -223,43 +241,19 @@ https://global.ncare.live/streams/jagoronitv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/Wz6nC2qP/images-5-25.jpg",B24C
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
 
-#EXTINF:-1,INDEPENDENT
-http://livess.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
-#https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd?%7CdrmScheme=clearkey&drmLicense=a27994921cec4ec692cb6a324574ea02:d32eec36fca8a1679a1ca5e420315a22
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png" group-title="Bangladesh", Channel 24
-http://tv.cloudcdn.me/live.ts?channelId=87&uid=15585&deviceMac=00:1A:79:D9:7F:BB
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-EKHON", EKHON TV HD
-http://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
-#EXTINF:-1,ChanneliHD 
-http://172.19.178.39:18190/JS-TV-07/index.m3u8
-#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451543.ts
-#EXTINF:-1 xui-id="364" tvg-id="" tvg-name="Indian Bangla Movies hit" tvg-logo="http://lifetvbd.xyz:8080/images/a60b595d21c643e29f32a213fd8ae9de.png" group-title="24x7 Movie",Indian Bangla Movies hit
-http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm74XHP635EO_hlmSiS9Xnc6E/ts
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="Bangladesh", Channel 9 
-http://lifetvbd.xyz:8080/live/3363696/3363696/493.ts
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladesh", দীপ্ত TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1,DBC News
-http://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
-#http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8
-#http://xtv.ooo:8080/52882216/581881255/245914
 #EXTINF:-1,ETV
 http://172.19.178.59:18190/SN-ST-TV-26/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Ekattor TV
-http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
-#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451550.ts
+#http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451550.ts
 
 
 #EXTINF: -1 tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png" group-title="Bangladesh", Jamuna TV
 http://10.21.56.46:9191/jamuna-tv/tracks-v1a1/mono.m3u8?token=e8754d1a0ee214703b08abfd4fe41783fe2a0e51-433ba33e567c38eb82ee3512788e8c44-1722889381-1722878581
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/6QzRkbFj/Mohona-tv-Logo-svg.png" group-title="Bangladesh", Mohona TV
-http://xtv.ooo:8080/88654455/97543255/245920 
 
 
 #EXTINF: -1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Bangladesh", Movie Bangla
@@ -268,17 +262,8 @@ http://alvetv.com/mbtv/8080/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Gp704rZk/Background-Eraser-20240628-105643059.png" group-title="Bangladesh", Masranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png" group-title="Bangladesh", NTV 
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451563.ts
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangladesh", Nexus TV
 
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBcCig8liSTxxTOglj7-IFmKKyTij_LSRCwA&s",Nandan Tv
-https://weblive.nandansyst.com/hls/nandan_src/index.m3u8
-
-#EXTINF:-1,Nagorik TV
-http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangladesh", News 24
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451544.ts
 
