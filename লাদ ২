@@ -40,6 +40,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-id="24605" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA",IN: ZEE BANGLA CINEMA_ 4K
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #http://14.102.123.50:5001/live/685.m3u8
+#EXTINF:-1 ,ALL TIME MOVIES
+http://172.105.123.238:18002/play/a00i
 #EXTINF:-1,ZEE ANMOL CINEMA
 http://172.105.123.238:18002/play/a01f
 #EXTINF:-1,ZEE ANMOL CINEMA 2
@@ -65,8 +67,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg",Ntv Europe
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMjoyMzozNyBBTSZoYXNoX3ZhbHVlPVZJMlFLRnROeUNFaktkYlZPK1ZnYkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" , Colors Bangla Cinema
-http://14.102.123.50:5001/live/1657.m3u8
-#http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm7691YGvhKvMuACpbNR4TSgM/ts
+http://150.242.202.110:824/jiobe/live/8465.ts
+
+
 
 
 
