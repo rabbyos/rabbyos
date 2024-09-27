@@ -71,7 +71,8 @@ http://150.242.202.110:824/jiobe/live/8465.ts
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
-http://xtv.ooo:8080/live/414559860/69865599/66179.ts
+https://api.iptvbd.xyz/api/set_max_hd.m3u8
+#http://xtv.ooo:8080/live/414559860/69865599/66179.ts
 #http://xtv.ooo:8080/live/874246786/743567899/66179.ts
 #http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm73IjnT9IcGU1i-NVQlVY3uE/ts
 #http://tv.indigotv.me:80/live.ts?channelId=185&uid=7245&deviceMac=00:1A:79:4A:02:91
