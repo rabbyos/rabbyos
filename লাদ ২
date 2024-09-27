@@ -27,9 +27,6 @@ http://217.20.112.199/starjalshahd/index.m3u8
 
 #EXTINF:-1,RDCMOVIES
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5xeoDhoxuPbYpcfX4Hirl-c0yjqgThwW2w&s",NAN Tv
-#http://lifetvbd.xyz:8080/live/3363696/3363696/45.ts
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
 #EXTINF:-1,PEACETV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1,IN: &XPLOR
@@ -47,7 +44,7 @@ http://172.105.123.238:18002/play/a01f
 #EXTINF:-1,ZEE ANMOL CINEMA 2
 http://172.105.123.238:18002/play/a024
 #EXTINF:-1,ZING BD
-http://tv.indigotv.me:80/live.ts?channelId=219&uid=7245&deviceMac=00:1A:79:4A:02:91
+
 #EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.png" tvg-chno="0-9-209" group-title="",PADMA
 https://vstechs.in/live/Devine/index.m3u8
 #EXTINF:-1 ,TARATV
@@ -58,14 +55,11 @@ http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1242415799.m3u8
 
 #EXTINF:-0 tvg-logo="https://media.licdn.com/dms/image/D5622AQEP42TrSTZe9A/feedshare-shrink_800/0/1694197197757?e=2147483647&v=beta&t=po0fbWVIZAVBRE2i3xIULMu2FVxDtMVP8CVNXQdgU_Y",Amar Bangla Digital
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/pT3MHHgC/Background-Eraser-20240628-152508647.png" group-title="Bangladesh", আনন্দ TV
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451532.ts
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Bangla Movies",Amar Bangla  
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg",Ntv Europe
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny80LzIwMjQgMjoyMzozNyBBTSZoYXNoX3ZhbHVlPVZJMlFLRnROeUNFaktkYlZPK1ZnYkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" , Colors Bangla Cinema
 http://150.242.202.110:824/jiobe/live/8465.ts
 
@@ -73,18 +67,15 @@ http://150.242.202.110:824/jiobe/live/8465.ts
 
 
 
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",Atn Bangla Uk
-https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
-http://xtv.ooo:8080/live/Galaxy.2/4321/109957.m3u8
-#http://xtv.ooo:8080/live/414559860/69865599/66179.ts
+http://xtv.ooo:8080/live/414559860/69865599/66179.ts
 #http://xtv.ooo:8080/live/874246786/743567899/66179.ts
 #http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm73IjnT9IcGU1i-NVQlVY3uE/ts
 #http://tv.indigotv.me:80/live.ts?channelId=185&uid=7245&deviceMac=00:1A:79:4A:02:91
-#http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
 http://tv.cloudcdn.me/live.ts?channelId=186&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
