@@ -72,9 +72,9 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
-http://103.84.57.155:8000/play/a02b/index.m3u8
+#http://103.84.57.155:8000/play/a02b/index.m3u8
 #https://api.iptvbd.xyz/api/set_max_hd.m3u8
-#http://xtv.ooo:8080/live/414559860/69865599/66179.ts
+http://xtv.ooo:8080/live/414559860/69865599/66179.ts
 #http://xtv.ooo:8080/live/874246786/743567899/66179.ts
 #http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm73IjnT9IcGU1i-NVQlVY3uE/ts
 #http://tv.indigotv.me:80/live.ts?channelId=185&uid=7245&deviceMac=00:1A:79:4A:02:91
@@ -85,12 +85,12 @@ http://tv.cloudcdn.me/live.ts?channelId=186&uid=15585&deviceMac=00:1A:79:D9:7F:B
 #http://humsab.xyz/IN_SonyMaxHD/index.m3u8?token=7c15c400a6f53847863903ee61a2399c
 #https://port.yuvraj49.in/xegd/master.m3u8?id=4705
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
-http://103.84.57.155:8000/play/a09m/index.m3u8
+#http://103.84.57.155:8000/play/a09m/index.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
 #http://119.156.26.155:8000/play/a079/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=196&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451351.ts
-#http://xtv.ooo:8080/live/15155419/16175512/66177.ts
+http://xtv.ooo:8080/live/15155419/16175512/66177.ts
 #http://tv.cloudcdn.me/live.ts?channelId=196&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #http://xtv.ooo:8080/live/shoukatali/1199292900/109959.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:4A:02:91
