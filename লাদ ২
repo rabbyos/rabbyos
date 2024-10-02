@@ -7,7 +7,7 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD 
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451571.ts
 #http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/117.ts
-#EXTINF:-1 ,& XPLORE
+#EXTINF:-1 , &XPLORE
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/master.m3u8?hdntl=exp=1727943232~acl=%2f*~data=hdntl~hmac=1b5f0ab3f1ba52a85ed8b8a339b50e54a8c15dbb003951380bdb07cdcf6e1850
 
 
