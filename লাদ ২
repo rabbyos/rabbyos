@@ -248,19 +248,19 @@ https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 ,Jagoroni TV 
 https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjEyOjM4IFBNJmhhc2hfdmFsdWU9VTRFSVdhQjYyN0U4cTRLdnRXcVNNQT09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-1 ,JagoNews24 TV 
-
+https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjEyOjA5IFBNJmhhc2hfdmFsdWU9S3JhWmdvaXBlUEZtUFRvL082dWxRdz09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-1 ,Islam TV
-https://global.ncare.live/live-orgin/islamtv.stream/playlist.m3u8
+
 #EXTINF:-1 ,Iqra Bangla 
-https://global.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8 
+ 
 #EXTINF:-1 ,iON TV UK 
-https://global.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
+
 #EXTINF:-1 ,Independent TV 
-https://global.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
+https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjA5OjU2IFBNJmhhc2hfdmFsdWU9QnB3MFlOZ2Z1WWlmRzd2TFArcDJvUT09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-1 ,Green TV 
-https://global.ncare.live/live-orgin/greentv.stream/playlist.m3u8 
-#EXTINF:-1 ,DW News 
-https://global.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
+ 
+#EXTINF:-1 ,DESH TV
+https://app.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjU2OjE5IFBNJmhhc2hfdmFsdWU9cXA4VkUxd1NQbm5jTlZtNFdUZnJvdz09JnZhbGlkbWludXRlcz00MA==
 
 
 
@@ -270,7 +270,7 @@ https://iptvbd.live/metv1080/1080.m3u8
 #http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451534.ts
 #EXTINF:-1 tvg-id="1726ae10" tvg-name="Deepto TV HD" tvg-logo="https://i.postimg.cc/Jh8rc7Dn/Deepto-TV-HD.png" tvg-chno="1" group-title="Nayeem's BDCast",Deepto TV HD
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
+
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/BvJS3LNn/Boishakhi-TV-logo-svg.png" group-title="Bangladesh", Boishakhi TV
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451539.ts
@@ -380,8 +380,8 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=184
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Colors Bangla
-http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
-#http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+
+
 
 
 
@@ -392,21 +392,14 @@ http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/Y9cb0Z8L/20240407-201715.png",Discovery Multi
 https://freeott.site/discovery/Discovery_Channel.m3u8
-#EXTINF:-1 tvg-id="ts15" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43-j5fca4k0-v3/imageContent-43-j5fca4k0-m4.png" group-title="Tataplay | Hindi";Entertainment;HD",SET HD
-http://xtv.ooo:8080/4855413/5488711/66164
-#http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 
 
 
-#EXTINF:-1 group-title="bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl9-_kJo4_lHZZf8SVQWpKwiBYHlM3_8PDEw&s",Jonmobhumi Tv
-http://lifetvbd.xyz:8080/live/3363696/3363696/41.ts
 
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtxSW4E0BEhj1UDKM2KgvzPFfyCBtq6D-Bg&s" , Gazi TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=sH22ui4ZD52doRLI58lIEw&expires=1720209947&user=c15be118d93a464dabf77260596012cf
-#http://103.109.56.116/live/skyfeed1006/index.m3u8
 http://myst.viewcineplex.com:7171/GAZI/index.m3u8?token=da40e41274c3dabea4c5c54fefa05c75efaa8f44-612d3cfddfbe9515315e02ac80785858-1718606839-1718596039
 
 
