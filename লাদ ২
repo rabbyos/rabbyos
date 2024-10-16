@@ -17,8 +17,8 @@ http://172.16.29.34/ontest1/ontest1/252
 #EXTINF:-1 ,MATRIBHUMI TV
 http://103.101.197.10:8989/M_Movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD 
-http://172.16.29.34/ontest1/ontest1/387
-#http://172.19.178.39:18190/JS-TV-06/index.m3u8
+#http://172.16.29.34/ontest1/ontest1/387
+http://172.19.178.39:18190/JS-TV-06/index.m3u8
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451571.ts
 #http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/117.ts
 #EXTINF:-1 ,COLORS
