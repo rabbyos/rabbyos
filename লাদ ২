@@ -28,7 +28,8 @@ http://172.16.29.34/ontest1/ontest1/395
 #EXTINF:-1 ,STARJALSHA HD
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 ,STARJALSHA
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
+http://172.16.29.34/ontest1/ontest1/389.m3u8
+#https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 #http://10.21.56.46:9191/News-24/tracks-v1a1/mono.m3u8?token=6d529d144b53a7bc8abfe96c5e59906fa2a8ad0c-a5c272ffd9c3e42c94487f00d243ae77-1723775977-172
 #EXTINF:-1,StarJalshaHD
 http://172.19.178.39:18190/JS-TV-08/index.m3u8
