@@ -221,6 +221,68 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzCO6nUZdf53Bsy0Mzt6WU4/ts
 #EXTINF:-1 xui-id="221" tvg-id="" tvg-name="EKHON TV" tvg-logo="http://172.16.29.34:80/images/471c1b4ad65ee968648be0d2919ee8bb.png" group-title="WI-FI",EKHON TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2BVl1RSX4ezkUjtgNCVHQ4/ts
 
+#EXTINF:-1 xui-id="224" tvg-id="" tvg-name="EKATTOR TV HD" tvg-logo="http://172.16.29.34:80/images/7793eb7557348ffda0d98e9e35924069.png" group-title="WI-FI",EKATTOR TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6mXC-KJP5guDTqwni-oYlQ/ts
+
+#EXTINF:-1 xui-id="227" tvg-id="" tvg-name="GEENBAGLA HD" tvg-logo="http://172.16.29.34:80/images/d35dc529690d95f1324fa9462db9c574.png" group-title="WI-FI",GEENBAGLA HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA44mpc9cyqAjXz1_rFOqEqM/ts
+
+#EXTINF:-1 xui-id="230" tvg-id="BBCCANZ" tvg-name="BBC CBEEBIES HD" tvg-logo="http://172.16.29.34:80/images/f5247d743781c8a59b939386fbf73a37.png" group-title="WI-FI",BBC CBEEBIES HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA47gNSB7wvuox-RI3RUmV6Y/ts
+
+#EXTINF:-1 xui-id="233" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="http://172.16.29.34:80/images/29650b4644d2432208b187ccd72b1606.png" group-title="WI-FI",GAZI TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2fDdQrxKt12EKK2jKiKrEE/ts
+
+#EXTINF:-1 xui-id="236" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="http://172.16.29.34:80/images/1fb5c4bd977ef2cc69fc75d9b5092a58.png" group-title="WI-FI",INDEPENDENT TV
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwWYOuywRMd4zmlHoudETEg/ts
+
+#EXTINF:-1 xui-id="238" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="http://172.16.29.34:80/images/6716d9404342f060a17977a5698f57bc.png" group-title="WI-FI",JAMUNA TV
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8v8rN6kAVbK87DTHzy3yzo/ts
+
+#EXTINF:-1 xui-id="240" tvg-id="" tvg-name="MAASRANGA TV HD" tvg-logo="http://172.16.29.34:80/images/aef823c0eeb58a5006b2b1e7e6742028.png" group-title="WI-FI",MAASRANGA TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-0TKJRZGDHE1U_J1zGJ9fw/ts
+
+#EXTINF:-1 xui-id="243" tvg-id="" tvg-name="MADANI TV HD" tvg-logo="http://172.16.29.34:80/images/78e404460b5c4e47056e0fb91f7864eb.png" group-title="WI-FI",MADANI TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5Hn1AY_LhEjHmik0mHMNQA/ts
+
+#EXTINF:-1 xui-id="246" tvg-id="" tvg-name="MOHONA TV HD" tvg-logo="http://172.16.29.34:80/images/f339ab56d851384a34f7636767603337.png" group-title="WI-FI",MOHONA TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA-Jgkvv0oYFEL9ycpub2aOo/ts
+
+#EXTINF:-1 xui-id="249" tvg-id="MYTV" tvg-name="MYTV HD" tvg-logo="http://172.16.29.34:80/images/d204c836b9ea9122c6f76e81e13b16b3.png" group-title="WI-FI",MYTV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAw8nxtoUTKO6BvtfANcNQnY/ts
+
+#EXTINF:-1 xui-id="252" tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="http://172.16.29.34:80/images/f8b34cca59defb42a763c79310d405af.png" group-title="WI-FI",NAGORIK TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5xMq6_OPzwmpYbcr5_JZTc/ts
+
+#EXTINF:-1 xui-id="254" tvg-id="" tvg-name="NEWS24 HD" tvg-logo="http://172.16.29.34:80/images/5820f1a6d2f2cd14edea4d0830cc47ea.png" group-title="WI-FI",NEWS24 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9Yv552eH0A8e52Dqelg-fw/ts
+
+#EXTINF:-1 xui-id="257" tvg-id="NTVTR" tvg-name="NTV" tvg-logo="http://172.16.29.34:80/images/b61ac5df359816c92ad4d22ccf99fb9a.png" group-title="WI-FI",NTV
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwxSfKoy0_7iktrmK-OpMn0/ts
+
+#EXTINF:-1 xui-id="259" tvg-id="RTV1" tvg-name="RTV HD" tvg-logo="http://172.16.29.34:80/images/1bb19043bdfc9320efaf5be7ac0385d3.png" group-title="WI-FI",RTV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5kBeAE3PtthB0R-LRMYhNQ/ts
+
+#EXTINF:-1 xui-id="262" tvg-id="" tvg-name="SANGSAD BANGLADESH" tvg-logo="http://172.16.29.34:80/images/d9f9b552e95c153d867d9a419622783f.png" group-title="WI-FI",SANGSAD BANGLADESH
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_ghNoe1XFroPU8dqz1_DrI/ts
+
+#EXTINF:-1 xui-id="263" tvg-id="" tvg-name="SATV HD" tvg-logo="http://172.16.29.34:80/images/879b1f203354845a9550b7426e0ce5e5.png" group-title="WI-FI",SATV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8IBELmjBnqWoQV3Qjbzfps/ts
+
+#EXTINF:-1 xui-id="269" tvg-id="" tvg-name="SUN BANGLA" tvg-logo="http://172.16.29.34:80/images/3124a1c4b9de54fd117cdc79570f348e.png" group-title="WI-FI",SUN BANGLA
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA4yEOeIw8weNHIb2ooiEr4c/ts
+
+#EXTINF:-1 xui-id="271" tvg-id="ZBNGL" tvg-name="ZEE BANGLA HD" tvg-logo="http://172.16.29.34:80/images/8885263820cf7dc54d27cfaea14096de.png" group-title="WI-FI",ZEE BANGLA HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2J2ObuVcLYW5xvKgig9xEk/ts
+
+#EXTINF:-1 xui-id="279" tvg-id="" tvg-name="&PRIVE HD" tvg-logo="http://172.16.29.34:80/images/08d41c9dcdc3cd5f5074b748f4d8318e.png" group-title="WI-FI",&PRIVE HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3taxXXNZYOufkQNGg267hM/ts
+
+#EXTINF:-1 xui-id="281" tvg-id="GHANTA" tvg-name="24 GHANTA" tvg-logo="http://172.16.29.34:80/images/97061d9ac8e52ef390eb724b8be17d05.png" group-title="WI-FI",24 GHANTA
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyHpn-R4uLMN0SXhWgPmAiU/ts
+
+#EXTINF:-1 xui-id="282" tvg-id="" tvg-name="A SPORTS HD" tvg-logo="http://172.16.29.34:80/images/fa91b98285bba91a306d34e70af0e156.png" group-title="WI-FI",A SPORTS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1T9yO-JBU_w4AaSxGEvWi4/ts
 
 
 
