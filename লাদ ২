@@ -52,7 +52,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1,Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="24605" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA",IN: ZEE BANGLA CINEMA_ 4K
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #http://14.102.123.50:5001/live/685.m3u8
 #EXTINF:-1 ,ALL TIME MOVIES
 http://172.105.123.238:18002/play/a00i
@@ -126,9 +126,10 @@ http://172.16.29.34/ontest1/ontest1/404
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/Andpictureshd1.m3u8
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/Zeebollywood1.m3u8
+http://119.156.26.155:8000/play/a07q/index.m3u8
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/Zeebollywood1.m3u8
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
 http://172.16.29.34/ontest1/ontest1/385
 #http://tv.cloudcdn.me/live.ts?channelId=197&uid=15585&deviceMac=00:1A:79:D9:7F:BB
