@@ -8,6 +8,8 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1m-C_2EIhsZda2eN2z-yro/ts
 #EXTINF:-1 xui-id="387" tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="http://172.16.29.34:80/images/5dc5e1b1267daeeb265a10a7f85b81e7.png" group-title="WI-FI",JALSHA MOVIES HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5czJZdJL5NIAEXBZ-4lMb0/ts
 
+#EXTINF:-1 ,SRK TV
+https://cdn.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
 
 #EXTINF:-1 xui-id="362" tvg-id="ZEE" tvg-name="ZEE TV HD" tvg-logo="http://172.16.29.34:80/images/cce32ae945805ea8bb003500f80e4143.png" group-title="WI-FI",ZEE TV HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8_18-npr6LX9umQFmKTVRI/ts
