@@ -213,7 +213,7 @@ http://119.156.26.155:8000/play/a06u/index.m3u8
 
 
 #EXTINF: -1 tvg-name="Sony Aath" tvg-logo="http://lifetvbd.xyz:8080/images/dd56b0fbab536cbc438ce3d2c37cfc7a.png" group-title="INDIA | Bangla", Sony Aath
-http://172.16.29.34/auth/XiDPyAcU1n4qdNBJ3VKsbg-7LMcnb-1pEUmkYIdqyjVv79uscsFN1IVJRjkHOIwTxby6FXdZHW1Hnld-Ld9nJ2008CSZWlod9fIcAgPuqrSTn37E9GqKzcR1wzCTRDNBE99ghWa0lSybcjQuPn9HLLviAmVaK27tEvl8eaSs3UeQ4bTrSx-s-S7ewrK8y9Q6wb2MW8iICccUppO8EaXCCcTtEd9whiyMwd8gbmcQYuS-ZCUypSv3mmky1QGVbcKgIHl9onT9iJ94CMF54Kdl8D_5SFzjAvf2xDNxARqx5WjXKK-NNqp0XigL13xvdMcP3KnFmINVRt9NQnnKvAF0tO-_39mj6VtagqiWbb_WeTepTl7SfeKLKJrrjlsi4Czljx2W24r2Je3pqzRwKDWYI7mItNGVf2N4Ef70QeHqN8E8R5U8SUhrQwSRG-uEIQ-qSgessVtXjEvTgZWCBhvy4m8izKV91xnSLvHy5QCRXZe_-nAVyHKP8RYfEpjlm2INku-Q2cE-Jmjolq0pPrlhxRviivSfuuJeXKof1jqPxpriXZLq49cok_oCM3jW4NKtCWBv-ss2-XCMLaCuYgO6UGIL5SJltjKtVrsUiWTbn0GOcCgeKflOLYNlYB08vUnA
+http://172.20.2.5:8082/SONY-ART/preview.mp4?token=bb4dbd660f72a03ed5cef3184c384f42c6aa5277-a533e9e57ce37b3a961f2d95d2c56679-1729990404-1729979604
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 
 #EXTINF:-1  group-title="Music", Gaan Bangla
