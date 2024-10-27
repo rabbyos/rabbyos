@@ -61,13 +61,13 @@ http://172.16.29.34/ontest1/ontest1/39
 #EXTINF:-1 ,HITS ACTIVE
 http://103.124.251.164:28015/play/a03c/index.m3u8
 #EXTINF:-1 ,STARJALSHA HD
-http://172.20.2.5:8082/STAR-JALSHA/index.m3u8?token=45929ebe868477c860a10e57e9090563e8b9816c-d45c9ab15433b3cfcb16e119846a1668-1729990162-1729979362
+http://172.16.29.34/ontest1/ontest1/389.m3u8
 #http://103.124.251.164:28015/play/a009/index.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 ,STARJALSHA
-http://10.21.56.46:9191/star-jalsha/tracks-v1a1/mono.m3u8?token=ad783bddc57e01b293ba0a410f3638bfe64c3538-2c9496c08ea01207822d701d327344d5-1729671997-1729661197
-#http://172.16.29.34/ontest1/ontest1/389.m3u8
-#https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
+#http://10.21.56.46:9191/star-jalsha/tracks-v1a1/mono.m3u8?token=ad783bddc57e01b293ba0a410f3638bfe64c3538-2c9496c08ea01207822d701d327344d5-1729671997-1729661197
+
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 #http://10.21.56.46:9191/News-24/tracks-v1a1/mono.m3u8?token=6d529d144b53a7bc8abfe96c5e59906fa2a8ad0c-a5c272ffd9c3e42c94487f00d243ae77-1723775977-172
 #EXTINF:-1,StarJalshaHD
 http://172.19.178.39:18190/JS-TV-08/index.m3u8
