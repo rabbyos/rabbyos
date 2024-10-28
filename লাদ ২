@@ -199,7 +199,8 @@ http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="http://logo.opplextv.com/logo/GOLDMINESBOLLYWOOD.png" ,IN: COLORS CINEPLEX HD
-http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
+https://neestreamtv.com/jcinema/stream.m3u8?id=3774155|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0
+#http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 ,STAR PLUS HD
 http://119.156.26.155:8000/play/a06u/index.m3u8
