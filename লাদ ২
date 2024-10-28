@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 xui-id="360" tvg-id="ZCIN" tvg-name="ZEE CINEMA HD" tvg-logo="http://172.16.29.34:80/images/67791a41dd062f2f7d4fec7e09229813.png" group-title="WI-FI",ZEE CINEMA HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz1WRBGWiIKzdeGYg5OfcuY/ts
+#EXTINF:-1,ZEE CINEMA
+https://la.drmlive.au/tp/zee-zeecinema.m3u8
+
 
 #EXTINF:-1 ,B4U KADAK
 https://cdn2.pishow.tv/live/160/160_1.m3u8
@@ -158,6 +161,14 @@ http://172.16.29.34/ontest1/ontest1/340
 http://xtv.ooo:8080/live/15155419/16175512/106133.ts
 
 
+
+#EXTINF:-1,& XPLORER HD
+https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
+
+#EXTINF:-1,& PICTURES
+https://la.drmlive.au/tp/zee-pictures.m3u8
+
+
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 http://172.16.29.34/ontest1/ontest1/404
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/Andpictureshd1.m3u8
@@ -166,6 +177,7 @@ http://172.16.29.34/ontest1/ontest1/404
 http://119.156.26.155:8000/play/a07q/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/Zeebollywood1.m3u8
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
+https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
 http://172.16.29.34/ontest1/ontest1/385
@@ -583,7 +595,8 @@ https://cdn2.pishow.tv/live/160/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music" group-title="",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Mastii Music
-https://cdn2.pishow.tv/live/136/master.m3u8
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
+#https://cdn2.pishow.tv/live/136/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Show Box
