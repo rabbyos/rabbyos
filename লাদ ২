@@ -54,11 +54,9 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 
 
 #EXTINF:-1 ,STARJALSHA HD
-https://nayeemparvez.online/hub-bdix/master.m3u8?id=StarJalsha|Referer=https://xnxx.com/
-#http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
+http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
 #EXTINF:-1 ,Jalsha
-http://103.205.133.71/StarJalshaFHD/tracks-v1a1/mono.m3u8
-
+http://172.20.2.5:8082/STAR-JALSHA/index.m3u8?token=359350736b5ac297f34fd4a64a5d7294f6f1f51e-e8dbda59c3b80a983f15c257c6aee318-1730899137-1730888337
 #http://103.124.251.164:28015/play/a009/index.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 ,STARJALSHA
