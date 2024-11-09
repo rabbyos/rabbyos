@@ -175,8 +175,10 @@ https://la.drmlive.au/tp/zee-pictures.m3u8
 #EXTINF:-1,UTSAV PLUS
 http://gcp-dash.ngslbs.com/TVD044/index.mpd
 
-#EXTINF:-1,Utsab Gold
+#EXTINF:-1,Gold Romance
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTING:-1,UTSAV GOLD
+http://gcp-dash.ngslbs.com/TVD030/index.mpd
 
 #EXTINF:-1,Sony
 http://gcp-dash.ngslbs.com/TVD048/index.mpd
