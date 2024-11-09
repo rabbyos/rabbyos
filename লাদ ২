@@ -55,10 +55,9 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 
 #EXTINF:-1 ,STARJALSHA HD
 http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
-#http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
+
 #EXTINF:-1 ,Jalsha
-http://172.20.2.5:8082/STAR-JALSHA/index.m3u8?token=359350736b5ac297f34fd4a64a5d7294f6f1f51e-e8dbda59c3b80a983f15c257c6aee318-1730899137-1730888337
-#http://103.124.251.164:28015/play/a009/index.m3u8
+http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 ,STARJALSHA
 http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8
@@ -70,9 +69,7 @@ https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 
 
 #EXTINF:-1 xui-id="448" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA HD
-http://bd.ottbd.online:2082/live/rozario859/01327184859/24129.m3u8
-#http://172.19.178.39:18190/JS-TV-08/index.m3u8
-http://217.20.112.199/starjalshahd/index.m3u8
+http://172.19.178.39:18190/JS-TV-08/index.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e4213295cf7105f6e7c721956967b50b
 #http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
@@ -140,8 +137,7 @@ http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #http://humsab.xyz/IN_SonyMaxHD/index.m3u8?token=7c15c400a6f53847863903ee61a2399c
 #https://port.yuvraj49.in/xegd/master.m3u8?id=4705
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
-http://172.20.2.5:8082/STAR-GOLD/tracks-v1a1/mono.m3u8?token=551accc82fa43984329e7dac27ccd435821db383-181181affb16e76e5dfe547e25775efb-1730898868-1730888068
-#http://172.16.29.34/ontest1/ontest1/340
+http://172.16.29.34/ontest1/ontest1/340
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd
 #http://119.156.26.155:8000/play/a079/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=196&uid=6469&deviceMac=00:1A:79:B7:2F:EA
@@ -162,7 +158,14 @@ https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 
 #EXTINF:-1,& PICTURES
 https://la.drmlive.au/tp/zee-pictures.m3u8
+#EXTINF:-1,UTSAV PLUS
+http://gcp-dash.ngslbs.com/TVD044/index.mpd
 
+#EXTINF:-1,Utsab Gold
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sony
+http://gcp-dash.ngslbs.com/TVD048/index.mpd
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
@@ -196,39 +199,8 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
-#EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors HD
-https://neestreamtv.com/jcinema/stream.m3u8?id=3694429|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3774155" tvg-name="Colors Cineplex HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGVhcyZK/Colors-Cineplex-HD.png" tvg-chno="3774155" group-title="",Colors Cineplex HD
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774155|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3774152" tvg-name="Comedy Central HD" tvg-language="English" tvg-country="IN" tvg-logo="https://i.postimg.cc/2j9jRNj4/Comedy-Central-HD.png" tvg-chno="3774152" group-title="",Comedy Central HD
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774152|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3774153" tvg-name="MTV Beats HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/HnrgsjWb/MTV-Beats-HD.png" tvg-chno="3774153" group-title="",MTV Beats HD
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774153|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3774147" tvg-name="Nickelodeon HD+" tvg-language="English" tvg-country="IN" tvg-logo="https://i.postimg.cc/Gpzt48Rf/Nickelodeon-HDPlus.png" tvg-chno="3774147" group-title="",Nickelodeon HD+
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774147|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3774149" tvg-name="Nickelodeon Sonic" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/25N91yGn/Sonic-Nickelodeon.png" tvg-chno="3774149" group-title="",Nickelodeon Sonic
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774149|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3774142" tvg-name="Nick Jr." tvg-language="English" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqfN1DW0/Nick-Jr.png" tvg-chno="3774142" group-title="",Nick Jr.
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774142|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3774158" tvg-name="Colors Bangla HD" tvg-language="Bangla" tvg-country="IN" tvg-logo="https://i.postimg.cc/vTYpcTQ0/Colors-Bangla-HD.png" tvg-chno="3774158" group-title="",Colors Bangla HD
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774158|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3774157" tvg-name="Colors Super" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://i.postimg.cc/QMjkLTSY/Colors-Super.png" tvg-chno="3774157" group-title="",Colors Super
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774157|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3694635" tvg-name="Colors Rishtey" tvg-language="Gujarati" tvg-country="IN" tvg-logo="https://i.postimg.cc/6qZY6NZM/Colors-Rishtey.png" tvg-chno="3694635" group-title="",Colors Rishtey
-https://neestreamtv.com/jcinema/stream.m3u8?id=3694635|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3774150" tvg-name="Colors Infinity HD" tvg-language="English" tvg-country="IN" tvg-logo="https://i.postimg.cc/q7gcMTV2/Colors-Infinity-HD.png" tvg-chno="3774150" group-title="",Colors Infinity HD
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774150|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3845693" tvg-name="Colors Cineplex Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/d0xrFmLB/Colors-Cineplex-Bollywood.png" tvg-chno="3845693" group-title="",Colors Cineplex Bollywood
-https://neestreamtv.com/jcinema/stream.m3u8?id=3845693|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3479683" tvg-name="Colors Cineplex Superhits" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/7PzKVLv8/Colors-Cineplex-Superhits.png" tvg-chno="3479683" group-title="",Colors Cineplex Superhits
-https://neestreamtv.com/jcinema/stream.m3u8?id=3479683|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-#EXTINF:-1 tvg-id="3774151" tvg-name="MTV HD Plus" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/054snqcc/MTV-HD-Plus.png" tvg-chno="3774151" group-title="",MTV HD Plus
-https://neestreamtv.com/jcinema/stream.m3u8?id=3774151|Referer=https://neestreamtv.com/jcinema/&User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/60/&key=SportzX
-
-
-
-
-#    colors cineplrn http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
+#EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX
+http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 
 
