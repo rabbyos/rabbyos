@@ -54,7 +54,8 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 
 
 #EXTINF:-1 ,STARJALSHA HD
-http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
+http://10.99.99.99:8080/roarzone/bk/30/tracks-v1a1/mono.m3u8?token=ea41f4c33f9df918904ceae77137b05e27d595ff-2ab6cf8526827596db4fcb8961c389f2-1731297308-1731275708
+#http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Jalsha
 http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
@@ -84,7 +85,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1,Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="24605" tvg-logo="http://dhoom4u.me/stalker_portal/misc/logos/320/" group-title="BANGLA",IN: ZEE BANGLA CINEMA_ 4K
-http://172.20.2.5:8082/ZEE-BANGLA-CINEMA/tracks-v1a1/mono.m3u8?token=67caa053b83b720b32c31663f8eb09f4dc6e74c5-7a8288ee685534e46ffa3a7042c0084a-1730899298-1730888498
+http://10.99.99.99:8080/roarzone/bk/29/tracks-v1a1/mono.m3u8?token=bfb31eeae8d596ae53db4a7b692ad6b3eb474103-7ff51c8ce05ea755898ea9c4e1bc8b59-1731297428-1731275828
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #http://14.102.123.50:5001/live/685.m3u8
 #EXTINF:-1 ,ALL TIME MOVIES
