@@ -180,8 +180,8 @@ https://la.drmlive.au/tp/zee-pictures.m3u8
 http://gcp-dash.ngslbs.com/TVD044/index.mpd
 
 #EXTINF:-1,Gold Romance
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTING:-1,UTSAV GOLD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8
+#EXTINF:-1,UTSAV GOLD
 http://gcp-dash.ngslbs.com/TVD030/index.mpd
 
 #EXTINF:-1,Sony
@@ -200,6 +200,7 @@ https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
 http://172.16.29.34/ontest1/ontest1/385
+#http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=197&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-SELECT-HD/live.mpd
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451268.ts
@@ -552,7 +553,55 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi Music",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 ,SPORTS 18 1
-http://172.16.29.34/ontest1/ontest1/336
+http://103.175.242.10:8080/sports18/index.m3u8
+#http://172.16.29.34/ontest1/ontest1/336
+#EXTINF:-1 ,SKY SPORTS CRICKET
+http://gcp-dash.ngslbs.com/TVD024/index.mpd
+
+#EXTINF:-1 ,TEN SPORTS
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
+#EXTINF:-1 ,CARTOON NETWORK
+https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+#EXTINF:-1 ,CARTOON NETWORK HD+
+http://103.110.110.11:8081/live/cartoon/playlist.m3u8
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
 
 
 
