@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ZEE CINEMA
+#http://bapatv.live:8080/zeecinema/index.m3u8
 https://la.drmlive.au/tp/zee-zeecinema.m3u8
 
 #EXTINF:-1,ZEE CINEMA HD
@@ -234,8 +235,8 @@ https://fifabd9-fun-tho5.spidy.online/VT/go.php?id=Colors_Cineplex_voot_MOB
 
 
 #EXTINF:-1 ,STAR PLUS HD
-http://119.156.26.155:8000/play/a06u/index.m3u8
-#http://217.20.112.199/starplushd/index.m3u8
+#http://119.156.26.155:8000/play/a06u/index.m3u8
+http://bapatv.live:8080/starplus/index.m3u8
 #https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
 
 
