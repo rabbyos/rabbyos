@@ -15,7 +15,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 
 #EXTINF:-1 ,9X JHAKKAS
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 ,STAR MOVIES
+http://103.175.242.10:8080/starmovies/index.m3u8
 #EXTINF:-1 ,
 #EXTINF:-1 ,
 #EXTINF:-1 ,
@@ -244,23 +245,26 @@ http://bapatv.live:8080/starplus/index.m3u8
 
 
 #EXTINF:-1 ,SONY AATH 
-https://toffee.iptvbd.xyz/api/sony_aath.m3u8
+http://bapatv.live:8080/sonyaath/index.m3u8
+#https://toffee.iptvbd.xyz/api/sony_aath.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 
 #EXTINF:-1  group-title="Music", Gaan Bangla
-http://tv.cloudcdn.me/live.ts?channelId=97&uid=15585&deviceMac=00:1A:79:D9:7F:BB
-
-
+http://103.175.242.10:8080/gaanbangla/index.m3u8
+#EXTINF:-1 ,GLOBAL
+http://103.175.242.10:8080/hls/globaltv/index.m3u8
 #EXTINF:-1 tvg-name="Anandatv" tvg-id="local_out/anandatv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21993649301.png", Anandatv
 http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Bijoytv" tvg-id="local_out/bijoytv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19637260041.png", Bijoytv
 http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
+#http://103.175.242.10:8080/hls/bijoy/index.m3u8
 #EXTINF:-1 tvg-name="Greentv" tvg-id="local_out/greentv" tvg-logo="https://i.ibb.co/RNMfMSz/green-tv-digital-logo-e-2147483647-v-beta-t-e13u-TEB4gj-Qa1o-Htunxrh0ow-TBt-Qhy1d-Rnf0g7-h2e8.jpg",Greentv
 http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Asiantv" tvg-id="local_out/asiantv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png",Asiantv
 http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnbangla" tvg-id="local_out/atnbangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",Atnbangla
-http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
+http://bapatv.live:8080/atnbangla/index.m3u8
+#http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnnews" tvg-id="local_out/atnnews" tvg-logo="https://yt3.googleusercontent.com/orKgO3oLUrLX5tIicxAzciYawyRQGmJnrnT9ixiHnSEaqPeIDar0Glk7dBpclUj8INXMwBrClw=s900-c-k-c0x00ffffff-no-rj",Atnnews
 http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Banglatv" tvg-id="local_out/banglatv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Banglatv
@@ -271,6 +275,7 @@ http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Channel24" tvg-id="local_out/channel24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png",Channel 24
 http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+#http://bapatv.live:8080/hls/channel24/index.m3u8
 #EXTINF:-1 tvg-name="Channel9" tvg-id="local_out/channel9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png",Channel 9
 http://103.163.247.39/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Channeli" tvg-id="local_out/channeli" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/82222195941.png",Channel i
@@ -315,11 +320,13 @@ http://103.163.247.39/local_out/ntv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Rtv" tvg-id="local_out/rtv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/b1bc9580f8e5d656e0eddd664e6c4830.png",Rtv
 http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Boishakhi" tvg-id="local_out/boishakhi" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/87695160791.png",Boishakhi
-http://103.163.247.39/local_out/boishakhi/video.m3u8?token=At5F1MFZYnciB3
+http://bapatv.live:8080/hls/boishakhi/index.m3u8
+#http://103.163.247.39/local_out/boishakhi/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Satv" tvg-id="local_out/satv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/76934174321.png", Satv
 http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Somoy TV" tvg-id="local_out/somoytv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/26708168621.png",Somoy TV
-http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+http://bapatv.live:8080/andpicture/index.m3u8
+#http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Tsports" tvg-id="local_out/tsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", T sports
 http://103.163.247.39/local_out/tsports/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="El Classico", EL CLASSICO 27 OCT
@@ -473,8 +480,8 @@ http://172.16.29.34/ontest1/ontest1/233
 http://172.16.29.34/ontest1/ontest1/181
 #http://10.21.56.46:9191/t-sports/index.m3u8?token=08aee99f69a04616c00e64b05bcf7a86fe64854c-7b21c92ba1a856749cffb545ffa393f3-1728981197-1728970397
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports Channels", Star Sports select 1
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports Channels", TSPORT
+http://bapatv.live:8080/tsports1/index.m3u8
 
 
 #EXTINF:-1,WILLOW
@@ -519,21 +526,25 @@ http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=7245&deviceMac=00:1A:79:B0:
 http://172.16.29.34/ontest1/ontest1/349
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451272.ts
 #EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-
+#http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://bapatv.live:8080/starsports2/index.m3u8
 
 
 #EXTINF: -1 tvg-name="Sony Ten 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/95e673577bb0726bba74cf538bcbd24c.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 1 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://bapatv.live:8080/sonyten1/index.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 tvg-name="Sony Ten 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/1ac33cea25728a9e5181c63cc5fefa78.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://bapatv.live:8080/sonyten2/index.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 tvg-name="Sony Ten 3 HD" tvg-logo="http://lifetvbd.xyz:8080/images/7468071e59103c0ad9f97aaddb381ac8.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 3 HD
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451266.ts
+
+#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451266.ts
 #EXTINF:-1 group-title="Sports",Sony ten 4
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451614.ts
 
 #EXTINF: -1 tvg-name="Sony Ten 5 HD" tvg-logo="http://lifetvbd.xyz:8080/images/26ee9f0a2b315f3bc627c93ba4a6e1d3.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 5 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+http://bapatv.live:8080/sonyten5/index.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"group-title="English Movies" group-title="",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="English Movies" group-title="",Star Movies HD UK
@@ -574,12 +585,14 @@ http://103.110.110.11:8081/live/cartoon/playlist.m3u8
 #EXTINF:-1 ,
 
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,COLORS
+http://bapatv.live:8080/colorshd/index.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 ,MOVIES NOW
+http://103.175.242.10:8080/moviesnow/index.m3u8
 
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,NET GEO
+http://103.175.242.10:8080/natgeo/index.m3u8
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,
