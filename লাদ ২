@@ -56,7 +56,8 @@ http://172.19.178.39:18190/JS-TV-06/index.m3u8
 
 
 #EXTINF:-1 ,STARJALSHA HD
-http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
+http://172.16.29.3:8080/hls/sjolshahd.m3u8
+#http://xtv.ooo:8080/live/Jawad1994/03112371534/245898.m3u8
 #http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Jalsha
