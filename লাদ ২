@@ -6,8 +6,8 @@ https://la.drmlive.au/tp/zee-zeecinema.m3u8
 #EXTINF:-1,ZEE CINEMA HD
 https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 
-#EXTINF:-1 ,B4U KADAK
-https://cdn2.pishow.tv/live/160/160_1.m3u8
+#EXTINF:-1 ,TOFFE MOVIES
+https://bdix-toffee.iptvbd.xyz/live.php?cid=99cf56ce2888&chunks=2a026f3eaafb2371e84e69d5c42f962a2da6ab7ee79a2a4b18192f2af375c4056b193a20d8a82c1221fb58a9ce97ee7894d92ca0a3eddfe9037bb6011d3205baa1e1405a0f39c73b5273b299d97b1c97496c7136eed3c156e0b3d4eca3114180
 
 
 #EXTINF:-1 ,9X TAHSAN
@@ -533,6 +533,7 @@ http://bapatv.live:8080/starsports2/index.m3u8
 
 #EXTINF: -1 tvg-name="Sony Ten 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/95e673577bb0726bba74cf538bcbd24c.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 1 HD
 http://bapatv.live:8080/sonyten1/index.m3u8
+#https://bdix-toffee.iptvbd.xyz/live.php?cid=43dcec1011e7&chunks=2ff4491ca3d6ba5096fa30e7e2cef85507d439e7a07b89d29e36e91f01a82dc38aa7f70213b3fd4e65893f2feb872782b767b9f6e4f08c15802bc6d1963c20342b3403d877949412de6727123186d39703e28f9195579f793ff85b5b523af691
 #http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF: -1 tvg-name="Sony Ten 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/1ac33cea25728a9e5181c63cc5fefa78.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 2 HD
 http://bapatv.live:8080/sonyten2/index.m3u8
