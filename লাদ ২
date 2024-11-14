@@ -152,7 +152,8 @@ http://172.20.3.1:8080/SonyMAXHD/tracks-v1a1/mono.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=185&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
-http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
+https://bdix-toffee.iptvbd.xyz/?play=b6192dbff21b
+#http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #https://toffee.iptvbd.xyz/api/sony_max.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=186&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
