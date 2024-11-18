@@ -193,7 +193,7 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8
 
 
 #EXTINF:-1,UTSAV GOLD
-http://23.227.130.34/UK_UTSAV_GOLD_HD/index.m3u8?token=c133d94f7d6a968ca2876cf030a0dc36
+https://allinonereborn.com/test/m3u.php?id=7488
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
