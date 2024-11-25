@@ -113,7 +113,8 @@ http://172.105.123.238:18002/play/a00z
 #EXTINF:-1,Goldmines Bollywood
 http://172.105.123.238:18002/play/a012
 #EXTINF:-1,RISHTEY CINEPLEX
-http://172.105.123.238:18002/play/a015
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
+#http://172.105.123.238:18002/play/a015
 #EXTINF:-1,Star Utsav Movies
 http://172.105.123.238:18002/play/a01n
 
@@ -230,8 +231,7 @@ https://port.denver1769.in/oplx7.php?tv=104190
 #http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
-https://allinonereborn.com/test/m3u.php?id=165
-#https://fifabd9-fun-tho5.spidy.online/VT/go.php?id=Colors_Cineplex_voot_MOB
+https://fifabd9-fun-tho5.spidy.online/VT/go.php?id=Colors_Cineplex_voot_MOB
 #http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 
