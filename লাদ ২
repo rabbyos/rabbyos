@@ -6,8 +6,8 @@ https://la.drmlive.au/tp/zee-zeecinema.m3u8
 #EXTINF:-1,ZEE CINEMA HD
 https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 
-#EXTINF:-1 ,TOFFE MOVIES
-https://bdix-toffee.iptvbd.xyz/live.php?cid=99cf56ce2888&chunks=2a026f3eaafb2371e84e69d5c42f962a2da6ab7ee79a2a4b18192f2af375c4056b193a20d8a82c1221fb58a9ce97ee7894d92ca0a3eddfe9037bb6011d3205baa1e1405a0f39c73b5273b299d97b1c97496c7136eed3c156e0b3d4eca3114180
+#EXTINF:-1 ,
+
 
 
 #EXTINF:-1 ,9X TAHSAN
@@ -15,8 +15,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
 
 #EXTINF:-1 ,9X JHAKKAS
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-#EXTINF:-1 ,STAR MOVIES
-http://103.175.242.10:8080/starmovies/index.m3u8
+#EXTINF:-1 ,
+
 #EXTINF:-1 ,NAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
 #EXTINF:-1 ,
