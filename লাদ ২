@@ -252,11 +252,12 @@ http://119.156.26.155:8000/play/a06u/index.m3u8
 https://linkchur.top/file/tf/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
 #https://toffee.iptvbd.xyz/api/sony_aath.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
-
+#EXTINF:-1,TEN PRIME
+https://app.ncare.live/live-orgin/tenprime.stream/playlist.m3u8
 #EXTINF:-1  group-title="Music", Gaan Bangla
 
 #EXTINF:-1 ,GLOBAL
-
+https://app.ncare.live/live-orgin/Global-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Anandatv" tvg-id="local_out/anandatv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21993649301.png", Anandatv
 http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Bijoytv" tvg-id="local_out/bijoytv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19637260041.png", Bijoytv
@@ -330,6 +331,8 @@ http://bapatv.live:8080/hls/boishakhi/index.m3u8
 #http://103.163.247.39/local_out/boishakhi/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Satv" tvg-id="local_out/satv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/76934174321.png", Satv
 http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/C68mTwM/ekattor-Farid.jpg" group-title="Bangladesh", Ekattor TV
+http://103.205.133.71/Ekattor456265/index.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" tvg-id="local_out/somoytv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/26708168621.png",Somoy TV
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Tsports" tvg-id="local_out/tsports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", T sports
