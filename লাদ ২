@@ -6,8 +6,8 @@ https://la.drmlive.au/tp/zee-zeecinema.m3u8
 #EXTINF:-1,ZEE CINEMA HD
 #https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,ZING
+http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115499.m3u8
 
 
 #EXTINF:-1 ,
@@ -167,6 +167,7 @@ http://103.205.133.71/SonyMaxFHD/index.m3u8
 http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
+#http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115669.m3u8
 #https://rolextv.asia:443/shafeeq0076/shafeeq0078/27133
 #http://109.61.81.147:2080/cdn2/4857/video.m3u8?token=4444
 #http://144.217.70.181:9587/hin2/STARGOLDUK/index.m3u8
@@ -178,7 +179,8 @@ http://172.16.29.34/ontest1/ontest1/340
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/97799
+http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115671.m3u8
+#https://rolextv.asia:443/shafeeq0076/shafeeq0078/97799
 #http://144.217.70.181:9587/hin2/STARGOLD2/index.m3u8
 
 
@@ -212,7 +214,8 @@ https://la.drmlive.au/tp/zee-zeeaction.m3u8
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
 #https://webott.viatv.com.np/v0t1/StarGoldSelectHD.stream/playlist.m3u8
-http://172.16.29.34/ontest1/ontest1/385
+http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115673.m3u8
+#http://172.16.29.34/ontest1/ontest1/385
 #http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=197&uid=7245&deviceMac=00:1A:79:4A:02:91
 
@@ -240,7 +243,7 @@ http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02
 
 
 #EXTINF:-1 ,STAR PLUS HD
-http://119.156.26.155:8000/play/a06u/index.m3u8
+http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115675.m3u8
 #http://bapatv.live:8080/starplus/index.m3u8
 #https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
 
