@@ -1,0 +1,62 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sports18.png", Sports 18
+http://cflare.mooo.com/test/sports18.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsp1.png", Star Sports 1
+http://cflare.mooo.com/test/starsp1.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsp2.png", Star Sports 2 
+http://cflare.mooo.com/test/starsp2.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsportssetec.jpg", Star Sports Select 1 
+http://cflare.mooo.com/test/starspsl1.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/starsps2.png", Star Sports Select 2 
+http://cflare.mooo.com/test/starspsl2.m3u8 
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten1.png", Sony Sports 1
+http://cflare.mooo.com/test/sonysp1.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten2.png", Sony Sports 2
+http://cflare.mooo.com/test/sonysp2.m3u8 
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/sonyten3.png", Sony Sports 3 
+http://cflare.mooo.com/test/sonysp3.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="http://toffe.top/images/Sony%20TEN%2051667728306.png", Sony Sports 5
+http://cflare.mooo.com/test/sonysp5.m3u8
+#EXTINF:-1 tvg-group="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNjhJ-xMHhzPeYDme7yYPdvHSjZ6EiaAfP1obrnBWjhESWQyGViV2xBIkp&s=10", Eurosports
+http://cflare.mooo.com/test/eurosports.m3u8 
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/starjalsha.png", Star Jalsha 
+http://cflare.mooo.com/test/starjalsha.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/colorsbn.png", Colors Bangla
+http://cflare.mooo.com/test/colorsbangla.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/colors.jpg", Colors
+http://cflare.mooo.com/test/colors.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png", Zee TV
+http://cflare.mooo.com/test/zeetv.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/zeecinema.jpg", Zee Cinema
+http://cflare.mooo.com/test/zeecinema.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlV9XWJCyWa4-fd46JwqZdJKWHHUPVMkEi2gtOKC2kbsOULNJC0P4lIao&s=10", And TV
+http://cflare.mooo.com/test/andtv.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/andpicture.png", And Pictures
+http://cflare.mooo.com/test/andpictures.m3u8 
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonyent.png", Set HD 
+http://cflare.mooo.com/test/sethd.m3u8 
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/starplus.png", Star Plus
+http://cflare.mooo.com/test/starplus.m3u8 
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/stargold.png", Star Gold
+http://cflare.mooo.com/test/stargold.m3u8
+#EXTINF:-1 tvg-group="Entertainment" tvg-logo="http://toffe.top/images/sonymax.jpg", Sony Max 
+http://cflare.mooo.com/test/sonymax.m3u8
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvlYMpr3oHun4Upw6fHxVOhzEJDEy9xSLJDv6zDatZ1GzRaySaGivXSRO1&s=10", Nick HD+
+http://cflare.mooo.com/test/nickhd.m3u8
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjS_FPfLIYGtA81h0IdTZVS2hS2ARYyaL4A&s", Nick 
+http://cflare.mooo.com/test/nick.m3u8 
+#EXTINF:-1 tvg-group="Kids" tvg-logo="http://toffe.top/images/nickjr.png", Nick jr
+http://cflare.mooo.com/test/nickjr.m3u8 
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpMCoR3VuXQCF0y_pAqLnCcoVE6fOJKAiLpw&s", Hungama 
+http://cflare.mooo.com/test/hungama.m3u8 
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp", Discovery Kids
+http://cflare.mooo.com/test/dk.m3u8 
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/discovery.png", Discovery 
+http://cflare.mooo.com/test/discovery.m3u8 
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNSuvvjyBkV7gROSbjyblBMSd2JHmFPhMb9tRdKIeWgi-jiFyrtWiiZNo&s=10", Discovery Science 
+http://cflare.mooo.com/test/science.m3u8
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/nationalgeo.png", National Geographic
+http://cflare.mooo.com/test/natgeo.m3u8
+#EXTINF:-1 tvg-group="Documentary" tvg-logo="http://toffe.top/images/natgeo.png", National Geographic Wild 
+http://cflare.mooo.com/test/natgeowild.m3u8
