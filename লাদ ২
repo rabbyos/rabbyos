@@ -161,11 +161,11 @@ http://103.205.133.71/SonyMaxFHD/index.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=185&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
-#https://bdix-toffee.iptvbd.xyz/live.php?cid=b6192dbff21b&chunks=366964c325116b7df210b19c072b064ca7f123def2cd79844cd740a5ca128f16f3e855814e435908641b9df427d0275f7ae7f3698ab45e9e5c2faee48ee97cda1aae1b437f593c1a6eed7834036a9499b3d67e815ab9a886acc504db476ada8e
+http://194.42.205.100:8070/romaniamedia/d1eca5410a/303614
 #https://linkchur.top/file/tf/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
 #http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #https://toffee.iptvbd.xyz/api/sony_max.m3u8
-http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
+#http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
 #http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115669.m3u8
