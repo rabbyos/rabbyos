@@ -564,10 +564,9 @@ https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Hindi Music" group-title="",Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi Music",Music India
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+http://103.146.100.7/C1645263A1D245C/1sFTVBSVCP/63403?token=SEReU0dfFg8WVQdQBwQAUg5RUQZQAFEKBAcHClcAXFJSV1MADFNXV1IWGxRGRUZWVl9tXVAWWA8AVgcAHREQR1YUaVtQFQ4XBQUDAAwHDAQVHhBAXVkHGwlTAAACClUDCl8DHhZHXVEWDhUCDQUAERsQV0xAURBXUg5oV1RFDFdWRAxcQVtYGRZbWWlRVFlSWVYQDhYEQBURC0RDEwkLQV8KGhBWXkBHVUBSFA8TBQQCBBAYFlcNTF0WRUoTCUd2d0QaEFFPQFBaR15ZWxMOEUNBEBgWXRFmQQdER0NWBFlWFBQIFgcWGRZZVk5qUltdWVdRQF1bDEoRWBUCEx9HWVwIX0ZbRWtFXVAVDBcFBgEEAhAYFkERXEE9XkMTCUcFA1UYAwYFGgcBBRkEBgQWTg==
 #EXTINF:-1 ,SPORTS 18 1
-http://103.175.242.10:8080/sports18/index.m3u8
-#http://172.16.29.34/ontest1/ontest1/336
+http://172.16.29.34/ontest1/ontest1/336
 #EXTINF:-1 ,SKY SPORTS CRICKET
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
 
@@ -581,14 +580,6 @@ http://103.110.110.11:8081/live/cartoon/playlist.m3u8
 #EXTINF:-1 ,
 
 
-#EXTINF:-1 ,COLORS
-http://bapatv.live:8080/colorshd/index.m3u8
-
-#EXTINF:-1 ,MOVIES NOW
-http://103.175.242.10:8080/moviesnow/index.m3u8
-
-#EXTINF:-1 ,NET GEO
-http://103.175.242.10:8080/natgeo/index.m3u8
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,
