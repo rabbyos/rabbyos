@@ -549,8 +549,8 @@ http://148.113.5.31:8106/play/a00o/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 ,B4U MUSIC
-https://cdn2.pishow.tv/live/160/master.m3u8
+#EXTINF:-1 ,MTV BEATS
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63571
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music" group-title="",9XM
 http://line.rs6ott.com/live/ae5d4c3c9212/06041c6c3379/280784.ts
