@@ -10,8 +10,8 @@ http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
 http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115499.m3u8
 
 
-#EXTINF:-1,  zee Bangla
-http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=12481&deviceMac=00:1A:79:6C:28:A1
+#EXTINF:-1,  Zee Bangla
+http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:73:A8:3B
 
 #EXTINF:-1 ,
 
@@ -51,20 +51,20 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD 
 #http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
 #http://172.16.29.34/ontest1/ontest1/387
-http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=12481&deviceMac=00:1A:79:6C:28:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=15760&deviceMac=00:1A:79:73:A8:3B
 #http://172.19.178.39:18190/JS-TV-06/index.m3u8
 #http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451571.ts
 #http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/117.ts
 
 
 #EXTINF:-1 ,STARJALSHA HD
-http://180.92.238.118:8080/starjalsha/tracks-v1a1/mono.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=15760&deviceMac=00:1A:79:73:A8:3B
 #http://172.16.29.3:8080/hls/sjolshahd.m3u8
 #http://suprino.xyz:80/PMF3J9X/BV7HG8H/76204
 #http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Jalsha
-http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=12481&deviceMac=00:1A:79:6C:28:A1
+http://180.92.238.118:8080/starjalsha/tracks-v1a1/mono.m3u8
 #http://103.175.242.10:8080/starjalsha/index.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 ,STARJALSHA
@@ -162,7 +162,7 @@ http://103.205.133.71/SonyMaxFHD/index.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=185&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
-http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=12481&deviceMac=00:1A:79:6C:28:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=15760&deviceMac=00:1A:79:73:A8:3B
 #https://linkchur.top/file/tf/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
 #http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8
 #https://toffee.iptvbd.xyz/api/sony_max.m3u8
@@ -172,7 +172,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=12481&deviceMac=00:1A:79:6C:2
 #http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115669.m3u8
 #https://rolextv.asia:443/shafeeq0076/shafeeq0078/27133
 #http://109.61.81.147:2080/cdn2/4857/video.m3u8?token=4444
-http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=12481&deviceMac=00:1A:79:6C:28:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15760&deviceMac=00:1A:79:73:A8:3B
 #http://172.16.29.34/ontest1/ontest1/340
 #http://119.156.26.155:8000/play/a079/index.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:4A:02:91
@@ -549,23 +549,23 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 ,MTV BEATS
-http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=12481&deviceMac=00:1A:79:6C:28:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=15760&deviceMac=00:1A:79:73:A8:3B
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63571
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music" group-title="",9XM
-http://tv.cloudcdn.me:80/live.ts?channelId=143&uid=12481&deviceMac=00:1A:79:6C:28:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=143&uid=15760&deviceMac=00:1A:79:73:A8:3B
 #http://line.rs6ott.com/live/ae5d4c3c9212/06041c6c3379/280784.ts
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Mastii Music
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
-#https://cdn2.pishow.tv/live/136/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Bollywood Hungama
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Hindi Music" group-title="",Zoom
-http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=12481&deviceMac=00:1A:79:6C:28:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=15760&deviceMac=00:1A:79:73:A8:3B
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi Music",Music India
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63403
+http://tv.cloudcdn.me:80/live.ts?channelId=175&uid=15760&deviceMac=00:1A:79:73:A8:3B
+#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63403
 #EXTINF:-1 ,SPORTS 18 1
 http://172.16.29.34/ontest1/ontest1/336
 #EXTINF:-1 ,SKY SPORTS CRICKET
