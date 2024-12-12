@@ -1,0 +1,133 @@
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/And%20Picture%201731407396.png",And Picture
+http://180.92.238.118:8080/andpicture/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Atn%20Bangla1731520005.png",Atn Bangla
+http://180.92.238.118:8080/atnbangla/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/ATN%20News1731520019.png",ATN News
+http://180.92.238.118:8080/atnnews/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Banglavision1731407320.png",Banglavision
+http://180.92.238.118:8080/banglavision/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Bein%20Sports%2011731077114.png",Bein Sports 1
+http://180.92.238.118:8080/bein1/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Boishakhi1731389791.png",Boishakhi
+http://180.92.238.118:8080/boishakhi/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/BTV1731308323.png",BTV
+http://180.92.238.118:8080/btv/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Cartoon%20Network1732882313.png",Cartoon Network
+http://180.92.238.118:8080/cn/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Channel%20i1731407855.png",Channel i
+http://180.92.238.118:8080/channeli/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Colors%20Bangla1731406802.png",Colors Bangla
+http://180.92.238.118:8080/colorsbangla/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Colors%20HD1731406975.png",Colors HD
+http://180.92.238.118:8080/colorshd/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/DBC%2021731466294.png",DBC 2
+http://180.92.238.118:8080/dbc2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/DBC%20News1731406699.png", News
+http://180.92.238.118:8080/dbc/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Deepto%20TV1730884108.png",Deepto TV
+http://180.92.238.118:8080/deepto/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Discovery1731407135.png",Discovery
+http://180.92.238.118:8080/discovery/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Dubai%20Sports1731465478.png", Sports
+http://180.92.238.118:8080/duabisports/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Dubai%20Sports21731465823.png",Dubai Sports2
+http://180.92.238.118:8080/dubaisports2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/DW%20News1731466569.png",DW News
+http://180.92.238.118:8080/dwnews/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Ekattor%20TV1731435020.png",Ekattor TV
+http://180.92.238.118:8080/ekattor/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Euro%20Sports1730729350.png",Euro Sports
+http://180.92.238.118:8080/eurosports/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Gaan%20Bangla1732894265.png",Gaan Bangla
+http://180.92.238.118:8080/gaanbangla/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/GTV%2011731039246.png", GTV1
+http://180.92.238.118:8080/gtv/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/GTV%2021730895387.png",GTV 2
+http://180.92.238.118:8080/gtv2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Independent%20TV1731406270.png",Independent TV
+http://180.92.238.118:8080/independent/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Jalsha%20Movies1732941103.png",Jalsha Movies
+http://180.92.238.118:8080/jalshamovies/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png",Jamuna TV
+http://180.92.238.118:8080/jamuna/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Maasranga1731406467.png",Maasranga
+http://180.92.238.118:8080/maasranga/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Masti1732894277.png",Masti
+http://180.92.238.118:8080/abmasti/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
+http://180.92.238.118:8080/metv/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",Movie Bangla
+http://180.92.238.118:8080/moviebangla/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Movies%20Now1730729140.png",Movies Now
+http://180.92.238.118:8080/moviesnow/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/17-%20My%20Tv1718990809.png",My Tv
+http://180.92.238.118:8080/mytv/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Nagorik%20Tv1725785084.png",Nagorik TV
+http://180.92.238.118:8080/nagorik/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Nick1731468472.png",Nick
+http://180.92.238.118:8080/nick/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/NTV1731389953.png",NTV
+http://180.92.238.118:8080/ntv/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Red%20Bull1731468749.png",Red Bull
+http://180.92.238.118:8080/redbull/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Rtv1731406387.png",Rtv
+http://180.92.238.118:8080/rtv/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/S%20Football1730992362.png",S Football
+http://180.92.238.118:8080/sfootball/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/S%20Premier%20League1733248311.png", Premier League
+http://180.92.238.118:8080/spremier/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sangeet%20Bangla1732880711.png",Sangeet Bangla
+http://180.92.238.118:8080/sbangla/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Somoy1731406328.png",Somoy
+http://180.92.238.118:8080/somoy/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Aath1731407792.png", Aath
+http://180.92.238.118:8080/sonyaath/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png",Sony Enter Ten
+http://180.92.238.118:8080/sonyentten/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max1731407620.png",Sony Max
+http://180.92.238.118:8080/sonymax/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Max%2021731072187.png", Max 2
+http://180.92.238.118:8080/sonymax2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Pix1731138518.png",Sony Pix
+http://180.92.238.118:8080/sonypix/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2011730721777.png",Sony Ten 1
+http://180.92.238.118:8080/sonyten1/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2021731408024.png",Sony Ten 2
+http://180.92.238.118:8080/sonyten2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
+http://180.92.238.118:8080/sonyten5/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sports%20181731138453.png", 18
+http://180.92.238.118:8080/sports18/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Gold1731407227.png",Star Gold
+http://180.92.238.118:8080/stargold/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Gold%20Thrill1730728943.png",Star Gold Thrill
+http://180.92.238.118:8080/stargoldthrill/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Gold21731407524.png", Gold2
+http://180.92.238.118:8080/stargold2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",Star Jalsha
+http://180.92.238.118:8080/starjalsha/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png",Star Movies
+http://180.92.238.118:8080/starmovies/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Plus1731424615.png", Plus
+http://180.92.238.118:8080/starplus/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Select11731408156.png",Star Select1
+http://180.92.238.118:8080/starselect1/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Select21731408458.png",Star Select2
+http://180.92.238.118:8080/starselect2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports%2011732941309.png", Sports 1
+http://180.92.238.118:8080/starsports1/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Star%20Sports21731408535.png",Star Sports2
+http://180.92.238.118:8080/starsports2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Sun%20Bangla1664976074.png",Sun Bangla
+http://180.92.238.118:8080/sunbangla/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/T%20sports11731393960.png",T sports1
+http://180.92.238.118:8080/tsports1/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/T%20sports21730895313.png",T sports2
+http://180.92.238.118:8080/tsports2/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Ten%20Sports1731469910.png",Ten Sports
+http://180.92.238.118:8080/tensports/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png",Zee Bangla
+http://180.92.238.118:8080/zeebangla/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla%20Cinema1731470057.png",Zee Bangla Cinema
+http://180.92.238.118:8080/zeebncinema/index.mpd
