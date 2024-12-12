@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Quran Tv
-http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=15760&deviceMac=00:1A:79:73:A8:3B
+http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1,ZEE CINEMA
 https://la.drmlive.au/tp/zee-zeecinema.m3u8
 #http://109.61.81.147:2080/cdn2/4865/video.m3u8?token=4444
@@ -275,7 +275,7 @@ http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Asiantv" tvg-id="local_out/asiantv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png",Asiantv
 http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnbangla" tvg-id="local_out/atnbangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",Atnbangla
-http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=12481&deviceMac=00:1A:79:6C:28:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=5353&deviceMac=00:1A:79:17:D4:65
 #http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnnews" tvg-id="local_out/atnnews" tvg-logo="https://yt3.googleusercontent.com/orKgO3oLUrLX5tIicxAzciYawyRQGmJnrnT9ixiHnSEaqPeIDar0Glk7dBpclUj8INXMwBrClw=s900-c-k-c0x00ffffff-no-rj",Atnnews
 http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
