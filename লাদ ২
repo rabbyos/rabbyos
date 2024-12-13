@@ -125,8 +125,7 @@ http://172.105.123.238:18002/play/a01n
 
 #EXTINF:-1,ZING BD
 
-#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/270x152/1170x658withlogo358457080.png" tvg-chno="0-9-209" group-title="",PADMA
-https://vstechs.in/live/Devine/index.m3u8
+
 #EXTINF:-1 ,TARATV
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 ,M BANGLATV
@@ -380,21 +379,6 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="English Movies",And Prive HD
-
-
-
-
-
-
 #EXTINF:-1,Sananda TV
 http://live.dataplayer.in:8080/live/rmmeghnatv.m3u8?hls_ctx=s3o5u428
 
@@ -407,56 +391,8 @@ http://live.dataplayer.in:8080/live/rmmeghnatv.m3u8?hls_ctx=s3o5u428
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/2560px-STAR_Movies_logo.svg.png" group-title="English Movies", Star Movies
 
 
-#EXTINF:-1 tvg-id="ts616" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Tataplay | English";Hindi;Documentary;Knowledge",History TV18 HD
-
-
-
-#EXTINF:-1 group-title="ENGLISH Movies",HBO
-
-#EXTINF:-1 tvg-id="ts173" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png" group-title="Tataplay | English";Movies",Movies Now
-
-#EXTINF:-1 tvg-id="ts12" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZACINE_Thumbnail-v2/ZACINE_Thumbnail.png" group-title="Tataplay | Hindi";Hindi Movies",Zee Anmol Cinema 2
-
-
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-name="Miniplex HD" tvg-logo="http://lifetvbd.xyz:8080/images/61088ad4c6f26a19c891825dcd6fab07.png" group-title="INDIA | Movies", Miniplex HD
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" , Cartoon Network English
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies", Sony Max HD(c)
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Hindi Movies", Sony Max HD Ts
-
-
-
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment", Colors Bangla
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Discovery" tvg-logo="https://i.postimg.cc/Y9cb0Z8L/20240407-201715.png",Discovery Multi
-https://freeott.site/discovery/Discovery_Channel.m3u8
 
 
 
@@ -465,16 +401,14 @@ https://freeott.site/discovery/Discovery_Channel.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtxSW4E0BEhj1UDKM2KgvzPFfyCBtq6D-Bg&s" , Gazi TV
-http://172.16.29.34/ontest1/ontest1/233
-#http://10.21.56.46:9191/GAZI/index.m3u8?token=a860132d61aeb4a9b8fadb32de2f693e26b2d2b4-69cfbebdb240cefc6adee039fb9b9a05-1728981188-1728970388
+#http://172.16.29.34/ontest1/ontest1/233
+http://10.21.56.46:9191/GAZI/index.m3u8?token=a860132d61aeb4a9b8fadb32de2f693e26b2d2b4-69cfbebdb240cefc6adee039fb9b9a05-1728981188-1728970388
 
 
 
 #EXTINF:-1,  TSPORTS
-http://172.16.29.34/ontest1/ontest1/181
-#http://10.21.56.46:9191/t-sports/index.m3u8?token=08aee99f69a04616c00e64b05bcf7a86fe64854c-7b21c92ba1a856749cffb545ffa393f3-1728981197-1728970397
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png" group-title="Sports Channels", TSPORT
+#http://172.16.29.34/ontest1/ontest1/181
+http://10.21.56.46:9191/t-sports/index.m3u8?token=08aee99f69a04616c00e64b05bcf7a86fe64854c-7b21c92ba1a856749cffb545ffa393f3-1728981197-1728970397
 
 
 
@@ -496,9 +430,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Kolkata Bangla Music",Sangeet Bangla
-#http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-
+http://tv.cloudcdn.me:80/live.ts?channelId=38893&uid=5353&deviceMac=00:1A:79:17:D4:65
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg" group-title="Kolkata Bangla Music",Bangla Talkies
 
 
