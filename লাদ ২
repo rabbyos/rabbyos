@@ -103,7 +103,8 @@ https://rolextv.asia:443/shafeeq0076/shafeeq0078/8578
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #http://14.102.123.50:5001/live/685.m3u8
 #EXTINF:-1 ,ALL TIME MOVIES
-http://172.105.123.238:18002/play/a00i
+https://tvs1.aynaott.com/Dhinchaak/index.m3u8?hdnts=st=1734260830~exp=1734263830~acl=/prantobhai/*~data=103.122.251.234-WEB~hmac=fbe0ce1fde83515782094b8ac608bcb3dfc7f462d49e0bbf7eee2c881c71ad4f
+#http://172.105.123.238:18002/play/a00i
 #EXTINF:-1,ZEE ANMOL CINEMA
 http://172.105.123.238:18002/play/a01f
 #EXTINF:-1,ZEE ANMOL CINEMA 2
@@ -112,9 +113,11 @@ http://172.105.123.238:18002/play/a024
 #EXTINF:-1,Cineplex Bollywood
 http://172.105.123.238:18002/play/a011
 #EXTINF:-1,GOLDMINES MOVIES
-http://172.105.123.238:18002/play/a01j
+https://tvs1.aynaott.com/GoldminesMovies/index.m3u8?hdnts=st=1734260830~exp=1734263830~acl=/prantobhai/*~data=103.122.251.234-WEB~hmac=fbe0ce1fde83515782094b8ac608bcb3dfc7f462d49e0bbf7eee2c881c71ad4f
+#http://172.105.123.238:18002/play/a01j
 #EXTINF:-1,Goldmines
-http://172.105.123.238:18002/play/a00z
+https://tvs1.aynaott.com/Goldmines/index.m3u8?hdnts=st=1734260830~exp=1734263830~acl=/prantobhai/*~data=103.122.251.234-WEB~hmac=fbe0ce1fde83515782094b8ac608bcb3dfc7f462d49e0bbf7eee2c881c71ad4f
+#http://172.105.123.238:18002/play/a00z
 #EXTINF:-1,Goldmines Bollywood
 http://172.105.123.238:18002/play/a012
 #EXTINF:-1,RISHTEY CINEPLEX
@@ -231,7 +234,8 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi Movies",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441460
+https://tvs1.aynaott.com/Bflix/index.m3u8?hdnts=st=1734260830~exp=1734263830~acl=/prantobhai/*~data=103.122.251.234-WEB~hmac=fbe0ce1fde83515782094b8ac608bcb3dfc7f462d49e0bbf7eee2c881c71ad4f
+#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441460
 #http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
