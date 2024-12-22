@@ -322,7 +322,8 @@ http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/maasrangatv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 tvg-name="Mohona TV HD" tvg-id="local_out/mohonatv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/200px-Mohona_tv_Logo.svg.png",Mohona TV HD
-http://103.163.247.39/local_out/mohonatv/video.m3u8?token=At5F1MFZYnciB3
+http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=7084&deviceMac=00:1A:79:99:1F:A8
+#http://103.163.247.39/local_out/mohonatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Mytv" tvg-id="local_out/mytv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54820410151.png",Mytv
 https://mytvbangla.com/0.m3u8
 #http://103.163.247.39/local_out/mytv/video.m3u8?token=At5F1MFZYnciB3
