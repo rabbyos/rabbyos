@@ -200,9 +200,7 @@ https://la.drmlive.au/tp/zee-pictures.m3u8
 
 
 #EXTINF:-1,UTSAV GOLD
-http://109.61.81.147:2080/cdn2/529/video.m3u8?token=4444
-#http://109.61.81.147:2080/cdn2/4871/video.m3u8?token=4444
-#http://109.61.81.147:2080/cdn2/4861/video.m3u8?token=4444
+http://xtv.ooo:8080/live/327424919/919424723/382221.ts
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
