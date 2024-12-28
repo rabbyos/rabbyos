@@ -60,7 +60,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=15760&deviceMac=00:1A:79:73:A
 
 
 #EXTINF:-1 ,STARJALSHA HD
-http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=15760&deviceMac=00:1A:79:73:A8:3B
+http://tv.cloudcdn.me/live.ts?channelId=116592&uid=10223&deviceMac=00:1A:79:07:07:43
+#http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=15760&deviceMac=00:1A:79:73:A8:3B
 #http://172.16.29.3:8080/hls/sjolshahd.m3u8
 #http://suprino.xyz:80/PMF3J9X/BV7HG8H/76204
 #http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
