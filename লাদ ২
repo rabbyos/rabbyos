@@ -172,13 +172,10 @@ http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1020708.ts
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
+#https://baskardo.vip/IN_STGOLD/index.m3u8
 #http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115669.m3u8
-#https://rolextv.asia:443/shafeeq0076/shafeeq0078/27133
-#http://109.61.81.147:2080/cdn2/4857/video.m3u8?token=4444
 http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15760&deviceMac=00:1A:79:73:A8:3B
 #http://172.16.29.34/ontest1/ontest1/340
-#http://119.156.26.155:8000/play/a079/index.m3u8
-#http://tv.indigotv.me:80/live.ts?channelId=196&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
