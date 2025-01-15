@@ -178,9 +178,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15760&deviceMac=00:1A:79:73:A
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510292.ts
-#https://rolextv.asia:443/shafeeq0076/shafeeq0078/97799
-#http://144.217.70.181:9587/hin2/STARGOLD2/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=00:1A:79:40:26:09
+#http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510292.ts
 
 
 
@@ -188,7 +187,8 @@ http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510292.ts
 https://la.drmlive.au/tp/zee-209.m3u8
 
 #EXTINF:-1,& PICTURES
-https://la.drmlive.au/tp/zee-pictures.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:40:26:09
+#https://la.drmlive.au/tp/zee-pictures.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,Gold Romance
@@ -200,22 +200,19 @@ https://la.drmlive.au/tp/zee-pictures.m3u8
 http://xtv.ooo:8080/live/327424919/919424723/382221.ts
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
-https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:40:26:09
+#https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
 https://la.drmlive.au/tp/zee-zeeclassic.m3u8
 #http://119.156.26.155:8000/play/a07q/index.m3u8
 
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-https://la.drmlive.au/tp/zee-zeeaction.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=15834&deviceMac=00:1A:79:40:26:09
+#https://la.drmlive.au/tp/zee-zeeaction.m3u8
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-#https://webott.viatv.com.np/v0t1/StarGoldSelectHD.stream/playlist.m3u8
-#http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115673.m3u8
-http://172.16.29.34/ontest1/ontest1/385
-#http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-#http://tv.indigotv.me:80/live.ts?channelId=197&uid=7245&deviceMac=00:1A:79:4A:02:91
-
+http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=15834&deviceMac=00:1A:79:40:26:09
 
 
 
