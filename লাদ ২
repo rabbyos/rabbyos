@@ -17,7 +17,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:7
 
 #EXTINF:-1 ,ISLAM Ban
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 ,TOFFE MOVIE
+http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=15834&deviceMac=00:1A:79:40:26:09
 
 #EXTINF:-1 ,NAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
