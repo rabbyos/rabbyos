@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Quran 
 http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=15834&deviceMac=00:1A:79:40:26:09
-#EXTINF:-1,ZEE CINEMA
-https://la.drmlive.au/tp/zee-zeecinema.m3u8
+#EXTINF:-1,ANMOL 2
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
+#https://la.drmlive.au/tp/zee-zeecinema.m3u8
 #http://109.61.81.147:2080/cdn2/4865/video.m3u8?token=4444
 #http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
 #EXTINF:-1,ZEE CINEMA HD
@@ -185,32 +186,35 @@ http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=00:1A:79:40
 
 
 #EXTINF:-1,& XPLORER HD
-https://la.drmlive.au/tp/zee-209.m3u8
+https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
 
 #EXTINF:-1,& PICTURES
 http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:40:26:09
 #https://la.drmlive.au/tp/zee-pictures.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,Gold Romance
+#EXTINF:-1,ANMOL CINEMA
+https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
 
-#EXTINF:-1,
-
+#EXTINF:-1,&PRIVE
+https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 
 #EXTINF:-1,UTSAV GOLD
 http://xtv.ooo:8080/live/327424919/919424723/382221.ts
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
-http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:40:26:09
-#https://la.drmlive.au/tp/zee-tvpictureshd.m3u8
+https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:40:26:09
+
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
-https://la.drmlive.au/tp/zee-zeeclassic.m3u8
-#http://119.156.26.155:8000/play/a07q/index.m3u8
+https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
+
 
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=15834&deviceMac=00:1A:79:40:26:09
-#https://la.drmlive.au/tp/zee-zeeaction.m3u8
+https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=15834&deviceMac=00:1A:79:40:26:09
+
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=15834&deviceMac=00:1A:79:40:26:09
