@@ -489,12 +489,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=15760&deviceMac=00:1A:79:73:A
 http://tv.cloudcdn.me:80/live.ts?channelId=175&uid=15760&deviceMac=00:1A:79:73:A8:3B
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63403
 #EXTINF:-1 ,SPORTS 18 1
-http://172.16.29.34/ontest1/ontest1/336
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
+#http://172.16.29.34/ontest1/ontest1/336
 #EXTINF:-1 ,SKY SPORTS CRICKET
-http://gcp-dash.ngslbs.com/TVD024/index.mpd
+
 
 #EXTINF:-1 ,TEN SPORTS
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 
 #EXTINF:-1 ,CARTOON NETWORK
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
