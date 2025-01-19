@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Quran 
 http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=15834&deviceMac=00:1A:79:0A:3B:2D
-#EXTINF:-1,ANMOL2
+#EXTINF:-1 ,ANMOL2
 https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 #https://la.drmlive.au/tp/zee-zeecinema.m3u8
 #http://109.61.81.147:2080/cdn2/4865/video.m3u8?token=4444
