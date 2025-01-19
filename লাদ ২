@@ -16,8 +16,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=7084&deviceMac=00:1A:79:0B:3E
 #EXTINF:-1,  Zee Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:91:38:01
 
-#EXTINF:-1 ,ISLAM Ban
-https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+#EXTINF:-1 ,
+
 #EXTINF:-1 ,TOFFE MOVIE
 http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=15834&deviceMac=00:1A:79:91:38:01
 
@@ -44,7 +44,7 @@ http://170.254.18.107/ZEECINEMA/index.m3u8
 
 
 #EXTINF:-1 xui-id="387" tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="http://172.16.29.34:80/images/5dc5e1b1267daeeb265a10a7f85b81e7.png" group-title="WI-FI",JALSHA MOVIES HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5czJZdJL5NIAEXBZ-4lMb0/ts
+
 
 #EXTINF:-1 ,
 
@@ -53,16 +53,13 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5czJZdJL5NIAEXBZ-4lMb0/ts
 #EXTINF:-1 ,MATRIBHUMI TV
 http://103.101.197.10:8989/M_Movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8f12k9vtPVBsLpH6Ly2Qtr2N9cMZ28IJRszpaF7uT&s" group-title="Indian Bangla", Jalsha Movies HD 
-#http://bd.ottbd.online:2082/live/rozario859/01327184859/2187.m3u8
-#http://172.16.29.34/ontest1/ontest1/387
-https://baskardo.vip/IN_JALSHAMOVIES/index.m3u8
-#http://172.19.178.39:18190/JS-TV-06/index.m3u8
-#http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451571.ts
-#http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/2977/117.ts
+
+
 
 
 #EXTINF:-1 ,STARJALSHA HD
-http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=15760&deviceMac=00:1A:79:91:38:01
+https://ottbanglsg.b-cdn.net/ottban1787s/video.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=15760&deviceMac=00:1A:79:91:38:01
 #http://172.16.29.3:8080/hls/sjolshahd.m3u8
 #http://suprino.xyz:80/PMF3J9X/BV7HG8H/76204
 #http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
@@ -144,8 +141,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" , Colors Bangla Cinema
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
-#http://150.242.202.110:824/jiobe/live/8465.ts
+https://newhub247.store/wp78174/live.m3u8?id=1657
+#https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
+
 
 
 
