@@ -75,7 +75,7 @@ http://atg100.xyz:80/live/UL33K17/SYC4T9D/76204.m3u8
 #http://172.16.29.34/ontest1/ontest1/389.m3u8
 #http://10.21.56.46:9191/News-24/tracks-v1a1/mono.m3u8?token=6d529d144b53a7bc8abfe96c5e59906fa2a8ad0c-a5c272ffd9c3e42c94487f00d243ae77-1723775977-172
 #EXTINF:-1,StarJalshaHD
-http://megaott.live:8080/live/45ffgauksas/gu8krWn2CuxE/39881.ts
+http://megaott.live:8080/live/45ffgauksas/gu8krWn2CuxE/39881.m3u8
 #http://stream247.live:8080/starjalsha/index.m3u8
 #https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 
@@ -103,7 +103,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=15834&deviceMac=00:1A:79:91:3
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #http://14.102.123.50:5001/live/685.m3u8
 #EXTINF:-1 ,MINIPLEX
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72212.ts
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72212.m3u8
 
 #EXTINF:-1 ,
 
@@ -119,7 +119,7 @@ http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72212.ts
 #EXTINF:-1 ,
 
 #EXTINF:-1,COLORS CINEPLEX
-http://tv.mototvlive.net:8880/live/hasan19/hasan1519/19048.ts
+http://tv.mototvlive.net:8880/live/hasan19/hasan1519/19048.m3u8
 #http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
 
 #EXTINF:-1 ,
@@ -158,17 +158,12 @@ http://103.205.133.71/SonyMaxFHD/index.m3u8
 #https://linkchur.top/file/tf/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8
 #https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/push.m3u8?id=144
 #http://119.156.26.155:8000/play/a06e/index.m3u8
-#https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
 #http://172.16.29.34/ontest1/ontest1/323
-#http://xtv.ooo:8080/live/414559860/69865599/66179.ts
-#http://xtv.ooo:8080/live/874246786/743567899/66179.ts
-#http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm73IjnT9IcGU1i-NVQlVY3uE/ts
 #http://tv.indigotv.me:80/live.ts?channelId=185&uid=7245&deviceMac=00:1A:79:4A:02:91
 
-#EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX 
-http://app.luckonline.eu/live/restream234509023/5667883dhlkths89/747.ts
+#EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX
 #http://170.254.18.107/SONYMAX/index.m3u8
-#http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1020708.ts
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1020708.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=15760&deviceMac=00:1A:79:91:38:01
 #https://linkchur.top/file/tf/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
@@ -181,40 +176,38 @@ http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15760&deviceMac=00:1A:79:91:3
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
-http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=00:1A:79:91:38:01
-#http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510292.ts
+#http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=00:1A:79:91:38:01
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510292.m3u8
 
 
 
 #EXTINF:-1,& XPLORER HD
-https://live.drmlive-02.workers.dev/zee/and-xplore-hd.m3u8
+
 
 #EXTINF:-1,& PICTURES
-http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:91:38:01
-#https://la.drmlive.au/tp/zee-pictures.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:91:38:01
+https://la.drmlive.au/tp/zee-pictures.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,ANMOL CINEMA
-https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema.m3u8
+
 
 #EXTINF:-1,&PRIVE
-https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
+
 
 #EXTINF:-1,UTSAV GOLD
-http://xtv.ooo:8080/live/327424919/919424723/382221.ts
+
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
-https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
-#http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:91:38:01
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:91:38:01
 
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
-https://live.drmlive-02.workers.dev/zee/zee-bollywood.m3u8
+
 
 
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-https://live.drmlive-02.workers.dev/zee/zee-action.m3u8
-#http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=15834&deviceMac=00:1A:79:40:26:09
+http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=15834&deviceMac=00:1A:79:40:26:09
 
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
@@ -231,7 +224,7 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi Movies",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72171.ts
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72171.m3u8
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441460
 #http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
@@ -245,7 +238,7 @@ http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02
 
 
 #EXTINF:-1 ,STAR PLUS HD
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856.ts
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856.m3u8
 
 
 
