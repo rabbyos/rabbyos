@@ -162,7 +162,7 @@ http://103.205.133.71/SonyMaxFHD/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX
 #http://170.254.18.107/SONYMAX/index.m3u8
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1020708.m3u8
+http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/747.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=15760&deviceMac=00:1A:79:91:38:01
 #https://linkchur.top/file/tf/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
@@ -174,14 +174,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15760&deviceMac=00:1A:79:91:3
 #http://172.16.29.34/ontest1/ontest1/340
 
 
+
+
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
 #http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=00:1A:79:91:38:01
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/510292.m3u8
+http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/492.m3u8
 
 
 
-#EXTINF:-1,& XPLORER HD
-
+#EXTINF:-1,DISC
+http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
 
 #EXTINF:-1,& PICTURES
 #http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:91:38:01
@@ -210,8 +212,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=15834&deviceMac=00:1A:79:40:2
 
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=15834&deviceMac=00:1A:79:91:38:01
-
+#http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=15834&deviceMac=00:1A:79:91:38:01
+http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/631.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="", South Station
@@ -229,8 +231,8 @@ http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72171.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
 #https://fifabd9-fun-tho5.spidy.online/VT/go.php?id=Colors_Cineplex_voot_MOB
-http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
-
+#http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
+http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/632.m3u8
 
 
 
