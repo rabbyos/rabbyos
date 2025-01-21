@@ -102,7 +102,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=15834&deviceMac=00:1A:79:91:3
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #http://14.102.123.50:5001/live/685.m3u8
 #EXTINF:-1 ,MINIPLEX
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72212.m3u8
+http://tv.mototvlive.net:8880/live/hasan19/hasan1519/4834.m3u8
+#http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72212.m3u8
 
 #EXTINF:-1 ,
 
@@ -188,10 +189,11 @@ http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
 #EXTINF:-1,& PICTURES
 #http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:91:38:01
 https://la.drmlive.au/tp/zee-pictures.m3u8
-#EXTINF:-1,
+#EXTINF:-1,GOLDMINE
+http://tv.mototvlive.net:8880/live/hasan19/hasan1519/4731.m3u8
 
-#EXTINF:-1,ANMOL CINEMA
-
+#EXTINF:-1,XPLORE
+http://tv.mototvlive.net:8880/live/hasan19/hasan1519/2769.m3u8
 
 #EXTINF:-1,&PRIVE
 
@@ -246,9 +248,10 @@ http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856.m3u8
 
 
 #EXTINF:-1 ,SONY AATH 
-http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=7084&deviceMac=00:1A:79:91:38:01
+http://tv.mototvlive.net:8880/live/hasan19/hasan1519/19805.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=7084&deviceMac=00:1A:79:91:38:01
 #http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
-#https://linkchur.top/file/tf/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_aath/playlist.m3u8
+
 
 
 #EXTINF:-1,TEN PRIME
