@@ -66,7 +66,8 @@ http://172.19.178.49:18190/sn-starjalsha/tracks-v1a1/mono.m3u8
 #http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Jalsha
-http://tv.cloudcdn.me/live.ts?channelId=116592&uid=10223&deviceMac=00:1A:79:91:38:01
+http://prothomalo.lol/.wp-hitt/stream.m3u8?id=STAR-JALSHA&e=.m3u8
+#http://tv.cloudcdn.me/live.ts?channelId=116592&uid=10223&deviceMac=00:1A:79:91:38:01
 #http://103.175.242.10:8080/starjalsha/index.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 ,STARJALSHA
