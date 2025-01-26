@@ -10,16 +10,16 @@ https://live.drmlive-02.workers.dev/zee/zee-anmol-cinema-2.m3u8
 https://live.drmlive-02.workers.dev/zee/zee-cinema-hd.m3u8
 
 #EXTINF:-1 ,ZING
-http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=7084&deviceMac=00:1A:79:0B:3E:DA
+http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=7084&deviceMac=1A:79:0A:3B:2D
 
 
 #EXTINF:-1,  Zee Bangla
-http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:91:38:01
+http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=1A:79:0A:3B:2D
 
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,TOFFE MOVIE
-http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=15834&deviceMac=00:1A:79:91:38:01
+http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=15834&deviceMac=1A:79:0A:3B:2D
 
 #EXTINF:-1 ,ZEE CINEMA
 http://170.254.18.107/ZEECINEMA/index.m3u8
@@ -67,7 +67,7 @@ http://172.19.178.49:18190/sn-starjalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Jalsha
 http://prothomalo.lol/.wp-hitt/stream.m3u8?id=STAR-JALSHA&e=.m3u8
-#http://tv.cloudcdn.me/live.ts?channelId=116592&uid=10223&deviceMac=00:1A:79:91:38:01
+#http://tv.cloudcdn.me/live.ts?channelId=116592&uid=10223&deviceMac=1A:79:0A:3B:2D
 #http://103.175.242.10:8080/starjalsha/index.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 ,STARJALSHA
@@ -86,7 +86,7 @@ http://megaott.live:8080/live/45ffgauksas/gu8krWn2CuxE/39881.m3u8
 http://172.19.178.39:18190/JS-TV-08/index.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e4213295cf7105f6e7c721956967b50b
-#http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
+#http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=1A:79:0A:3B:2D
 
 
 
@@ -99,7 +99,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1,ZEE BANGLA CINEMA
-http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=15834&deviceMac=00:1A:79:91:38:01
+http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=15834&deviceMac=1A:79:0A:3B:2D
 #https://rolextv.asia:443/shafeeq0076/shafeeq0078/8578
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #http://14.102.123.50:5001/live/685.m3u8
@@ -166,21 +166,21 @@ http://103.205.133.71/SonyMaxFHD/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX
 http://170.254.18.107/SONYMAX/index.m3u8
 #http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/747.m3u8
-#http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=15760&deviceMac=00:1A:79:91:38:01
+#http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=15760&deviceMac=1A:79:0A:3B:2D
 #https://linkchur.top/file/tf/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
 #https://baskardo.vip/IN_STGOLD/index.m3u8
 #http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115669.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15760&deviceMac=00:1A:79:91:38:01
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15760&deviceMac=1A:79:0A:3B:2D
 #http://172.16.29.34/ontest1/ontest1/340
 
 
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
-http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=00:1A:79:91:38:01
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=1A:79:0A:3B:2D
 #http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/492.m3u8
 
 
@@ -189,7 +189,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=00:1A:79:91
 http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
 
 #EXTINF:-1,& PICTURES
-#http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:91:38:01
+#http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=1A:79:0A:3B:2D
 https://la.drmlive.au/tp/zee-pictures.m3u8
 #EXTINF:-1,GOLDMINE
 http://tv.mototvlive.net:8880/live/hasan19/hasan1519/4731.m3u8
@@ -204,7 +204,7 @@ http://tv.mototvlive.net:8880/live/hasan19/hasan1519/2769.m3u8
 
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
-http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:91:38:01
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=1A:79:0A:3B:2D
 
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
@@ -212,11 +212,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:91:3
 
 
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=15834&deviceMac=00:1A:79:40:26:09
+http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=15834&deviceMac=1A:79:0A:3B:2D
 
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-#http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=15834&deviceMac=00:1A:79:91:38:01
+#http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=15834&deviceMac=1A:79:0A:3B:2D
 http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/631.m3u8
 
 
@@ -235,8 +235,8 @@ http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72171.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
 #https://fifabd9-fun-tho5.spidy.online/VT/go.php?id=Colors_Cineplex_voot_MOB
-#http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
-http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/632.m3u8
+http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
+
 
 
 
@@ -272,7 +272,7 @@ http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Asiantv" tvg-id="local_out/asiantv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png",Asiantv
 http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnbangla" tvg-id="local_out/atnbangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",Atnbangla
-http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=5353&deviceMac=00:1A:79:91:38:01
+http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=5353&deviceMac=1A:79:0A:3B:2D
 #http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnnews" tvg-id="local_out/atnnews" tvg-logo="https://yt3.googleusercontent.com/orKgO3oLUrLX5tIicxAzciYawyRQGmJnrnT9ixiHnSEaqPeIDar0Glk7dBpclUj8INXMwBrClw=s900-c-k-c0x00ffffff-no-rj",Atnnews
 http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
@@ -319,7 +319,7 @@ http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/maasrangatv/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 tvg-name="Mohona TV HD" tvg-id="local_out/mohonatv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/200px-Mohona_tv_Logo.svg.png",Mohona TV HD
-http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=7084&deviceMac=00:1A:79:91:38:01
+http://tv.cloudcdn.me:80/live.ts?channelId=103&uid=7084&deviceMac=1A:79:0A:3B:2D
 #http://103.163.247.39/local_out/mohonatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Mytv" tvg-id="local_out/mytv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54820410151.png",Mytv
 https://mytvbangla.com/0.m3u8
