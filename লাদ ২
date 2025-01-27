@@ -13,8 +13,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=7084&deviceMac=00:1A:79:0A:3B
 #EXTINF:-1,  Zee Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:0A:3B:2D
 
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,Anmol 2
+https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-bigganga
 #EXTINF:-1 ,TOFFE MOVIE
 http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=15834&deviceMac=00:1A:79:0A:3B:2D
 
@@ -68,7 +68,7 @@ http://prothomalo.lol/.wp-hitt/stream.m3u8?id=STAR-JALSHA&e=.m3u8
 #http://103.175.242.10:8080/starjalsha/index.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 ,STARJALSHA
-http://norjyqk.top:8080/live/271737115436654/a2e24356629f/53639.m3u8
+http://103.151.60.204/Star-Jolsha-HD/index.m3u8
 #http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8
 #http://172.16.29.34/ontest1/ontest1/389.m3u8
 #http://10.21.56.46:9191/News-24/tracks-v1a1/mono.m3u8?token=6d529d144b53a7bc8abfe96c5e59906fa2a8ad0c-a5c272ffd9c3e42c94487f00d243ae77-1723775977-172
