@@ -2,28 +2,34 @@
 #EXTINF:-1,Quran 
 http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=15834&deviceMac=00:1A:79:0A:3B:2D
 #EXTINF:-1 ,ANMOL
-http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=7084&deviceMac=00:1A:79:1F:2E:5A
+https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=7084&deviceMac=00:1A:79:1F:2E:5A
 #EXTINF:-1,ZEE CINEMA HD
-#http://jasss.whf.bz/SAINI/play.m3u8?id=11693
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 http://watchindia.net:8880/live/40972/04523/787.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:1F:2E:5A
 
 #EXTINF:-1 ,ZING
-http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=7084&deviceMac=00:1A:79:0A:3B:2D
+https://live.drmlive-02.workers.dev/zee/zing.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=7084&deviceMac=00:1A:79:0A:3B:2D
 
 
 #EXTINF:-1,  Zee Bangla
-http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:0A:3B:2D
+https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:0A:3B:2D
 
 #EXTINF:-1 ,Anmol 2
-https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-bigganga
+https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
+#https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-bigganga
 #EXTINF:-1 ,TOFFE MOVIE
 http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=15834&deviceMac=00:1A:79:0A:3B:2D
 
 #EXTINF:-1 ,ZEE CINEMA
 http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:-1,
-#EXTINF:-1 ,
+#EXTINF:-1,Zee cinema
+https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
+#EXTINF:-1 ,ZEE TV
+https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #EXTINF:-1 ,
 #EXTINF:-1 ,
 #EXTINF:-1 ,
@@ -99,9 +105,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1,ZEE BANGLA CINEMA
-http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=15834&deviceMac=00:1A:79:0A:3B:2D
-#https://rolextv.asia:443/shafeeq0076/shafeeq0078/8578
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=15834&deviceMac=00:1A:79:0A:3B:2D
 #http://14.102.123.50:5001/live/685.m3u8
 #EXTINF:-1 ,MINIPLEX
 http://tv.mototvlive.net:8880/live/hasan19/hasan1519/4834.m3u8
@@ -194,7 +199,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=00:1A:79:1F
 http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
 
 #EXTINF:-1,& PICTURES
-http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:1F:2E:5A
+https://live.drmlive-02.workers.dev/zee/pictures.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:1F:2E:5A
 
 #EXTINF:-1,GOLDMINE
 http://stb.iphd.tv:80/live/53875792/gKDVxGgJwQ/102571.m3u8
@@ -202,11 +208,12 @@ http://stb.iphd.tv:80/live/53875792/gKDVxGgJwQ/102571.m3u8
 #EXTINF:-1, GOLDMINE BOLLY
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1,XPLORE
-http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/635.m3u8
+https://live.drmlive-02.workers.dev/zee/209.m3u8
+#http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/635.m3u8
 #http://tv.mototvlive.net:8880/live/hasan19/hasan1519/2769.m3u8
 
 #EXTINF:-1,&PRIVE
-
+https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 #EXTINF:-1 tvg-id="58863" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI",HINDI CRIME MOVIES
 http://jasss.whf.bz/SAINI/play.m3u8?id=58863
 
@@ -215,15 +222,17 @@ http://jasss.whf.bz/SAINI/play.m3u8?id=58863
 http://jasss.whf.bz/SAINI/play.m3u8?id=3006
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
-http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:1F:2E:5A
+https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:1F:2E:5A
 
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
-
+https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
 
 
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=15834&deviceMac=00:1A:79:0A:3B:2D
+https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=15834&deviceMac=00:1A:79:0A:3B:2D
 
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
