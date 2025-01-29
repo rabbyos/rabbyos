@@ -4,7 +4,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=15834&deviceMac=00:1A:79:0A:3
 #EXTINF:-1 ,ANMOL
 http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=7084&deviceMac=00:1A:79:1F:2E:5A
 #EXTINF:-1,ZEE CINEMA HD
-http://jasss.whf.bz/SAINI/play.m3u8?id=11693
+#http://jasss.whf.bz/SAINI/play.m3u8?id=11693
 http://watchindia.net:8880/live/40972/04523/787.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:1F:2E:5A
 
@@ -120,7 +120,6 @@ http://tv.mototvlive.net:8880/live/hasan19/hasan1519/4834.m3u8
 
 #EXTINF:-1 ,
 #EXTINF:-1 tvg-id="44350" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI MOVIES",BBO FLIX HINDI
-http://89.187.167.113:49893/ghLs2zdZSnFvTT0000077f303d5c8779313a8a/index.m3u8?token=cf5c642c8ac2d3a10ba02d79bf1ec813
 #http://jasss.whf.bz/SAINI/play.m3u8?id=44350
 
 
@@ -209,8 +208,7 @@ http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/635.m3u8
 #EXTINF:-1,&PRIVE
 
 #EXTINF:-1 tvg-id="58863" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI",HINDI CRIME MOVIES
-http://ut038.tamcdn.me./ghLs2zdZSnFvTT0000077f34335a80603f3c9eaaec7870599b77c27263fcf8ffb99a3a6bc0350315e8/index.m3u8?token=3eab65c2b4b90bae84dabab38cf10854
-#http://jasss.whf.bz/SAINI/play.m3u8?id=58863
+http://jasss.whf.bz/SAINI/play.m3u8?id=58863
 
 
 #EXTINF:-1,UTSAV GOLD
