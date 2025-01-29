@@ -121,7 +121,8 @@ http://tv.mototvlive.net:8880/live/hasan19/hasan1519/4834.m3u8
 
 #EXTINF:-1 ,
 #EXTINF:-1 tvg-id="44350" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI MOVIES",BBO FLIX HINDI
-http://jasss.whf.bz/SAINI/play.m3u8?id=44350
+http://89.187.167.113:49893/ghLs2zdZSnFvTT0000077f303d5c8779313a8a/index.m3u8?token=cf5c642c8ac2d3a10ba02d79bf1ec813
+#http://jasss.whf.bz/SAINI/play.m3u8?id=44350
 
 
 #EXTINF:-1,COLORS CINEPLEX
@@ -175,7 +176,8 @@ http://95.211.160.36:7388/Sony%20Max.php?e=.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
-http://jasss.whf.bz/SAINI/play.m3u8?id=1042
+http://origi-drrp-3.prcdn.cc/ghLs2zdZSnFvTT0000077f3a365d9c76222c81b2f47d60519064c57f62f5/index.m3u8?token=70fd7aea7ccbf451aad309201595c42f
+#http://jasss.whf.bz/SAINI/play.m3u8?id=1042
 #https://baskardo.vip/IN_STGOLD/index.m3u8
 #http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115669.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15760&deviceMac=00:1A:79:1F:2E:5A
@@ -194,7 +196,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=00:1A:79:1F
 http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
 
 #EXTINF:-1,& PICTURES
-#http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:1F:2E:5A
+http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:1F:2E:5A
 
 #EXTINF:-1,GOLDMINE
 http://stb.iphd.tv:80/live/53875792/gKDVxGgJwQ/102571.m3u8
@@ -208,7 +210,8 @@ http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/635.m3u8
 #EXTINF:-1,&PRIVE
 
 #EXTINF:-1 tvg-id="58863" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI",HINDI CRIME MOVIES
-http://jasss.whf.bz/SAINI/play.m3u8?id=58863
+http://ut038.tamcdn.me./ghLs2zdZSnFvTT0000077f34335a80603f3c9eaaec7870599b77c27263fcf8ffb99a3a6bc0350315e8/index.m3u8?token=3eab65c2b4b90bae84dabab38cf10854
+#http://jasss.whf.bz/SAINI/play.m3u8?id=58863
 
 
 #EXTINF:-1,UTSAV GOLD
