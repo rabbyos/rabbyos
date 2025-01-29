@@ -4,9 +4,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=15834&deviceMac=00:1A:79:0A:3
 #EXTINF:-1 ,ANMOL
 http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=7084&deviceMac=00:1A:79:1F:2E:5A
 #EXTINF:-1,ZEE CINEMA HD
-http://menu26.reycdn.me/ghLs2zdZSnFvTT0000077f3a365d9c76222c88a3f0707c5f916dcc6175f9f9/video.m3u8?token=c3227e0985dee284bc43d7943927bedc
-#http://jasss.whf.bz/SAINI/play.m3u8?id=11693
-#http://watchindia.net:8880/live/40972/04523/787.m3u8
+http://jasss.whf.bz/SAINI/play.m3u8?id=11693
+http://watchindia.net:8880/live/40972/04523/787.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:1F:2E:5A
 
 #EXTINF:-1 ,ZING
