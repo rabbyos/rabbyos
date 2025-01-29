@@ -188,15 +188,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=00:1A:79:1F
 http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
 
 #EXTINF:-1,& PICTURES
-http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:1F:2E:5A
-#https://la.drmlive.au/tp/zee-pictures.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:1F:2E:5A
+
 #EXTINF:-1,GOLDMINE
 http://stb.iphd.tv:80/live/53875792/gKDVxGgJwQ/102571.m3u8
 
 #EXTINF:-1, GOLDMINE BOLLY
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1,XPLORE
-http://tv.mototvlive.net:8880/live/hasan19/hasan1519/2769.m3u8
+http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/635.m3u8
+#http://tv.mototvlive.net:8880/live/hasan19/hasan1519/2769.m3u8
 
 #EXTINF:-1,&PRIVE
 
