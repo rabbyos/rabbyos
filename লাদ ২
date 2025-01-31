@@ -63,7 +63,8 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 
 
 #EXTINF:-1 ,STARJALSHA HD
-http://103.89.248.26:8082/Star_jalsha/tracks-a1/index.fmp4.m3u8?token=612ec94bc66ca5e5c571ccae4664637d3ae4d1bf-958203d2366f5f39edabdd2e29b50024-1738324394-1738313594
+http://172.20.2.5:8082/STAR-JALSHA/tracks-v1a1/mono.m3u8?token=ee3bd5eee210409e5cd41d5068b719f8ee7755c1-c1d2fa86f67cc1dbb1581dbe86bb10da-1738328004-1738317204
+#http://103.89.248.26:8082/Star_jalsha/tracks-a1/index.fmp4.m3u8?token=612ec94bc66ca5e5c571ccae4664637d3ae4d1bf-958203d2366f5f39edabdd2e29b50024-1738324394-1738313594
 #http://103.175.242.10:8080/starjalsha/index.m3u8
 #https://ottbanglsg.b-cdn.net/ottban1787s/video.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=15760&deviceMac=00:1A:79:1F:2E:5A
