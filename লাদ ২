@@ -72,7 +72,8 @@ http://103.175.242.10:8080/starjalsha/index.m3u8
 #http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Jalsha
-http://172.19.178.39:18190/JS-TV-08/index.m3u8
+http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e4213295cf7105f6e7c721956967b50b
+#http://172.19.178.39:18190/JS-TV-08/index.m3u8
 #http://103.151.60.204/Star-Jolsha-HD/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=116592&uid=10223&deviceMac=00:1A:79:0A:3B:2D
 #http://103.175.242.10:8080/starjalsha/index.m3u8
