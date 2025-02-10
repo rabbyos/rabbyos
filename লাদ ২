@@ -115,8 +115,7 @@ http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=15834&deviceMac=00:1A:79:0A:3B:2D
 #http://14.102.123.50:5001/live/685.m3u8
 #EXTINF:-1 ,MINIPLEX
-http://tv.mototvlive.net:8880/live/hasan19/hasan1519/4834.m3u8
-#http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72212.m3u8
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72212.m3u8
 
 #EXTINF:-1 ,
 
@@ -136,7 +135,7 @@ http://tv.mototvlive.net:8880/live/hasan19/hasan1519/4834.m3u8
 
 #EXTINF:-1 ,
 #EXTINF:-1 tvg-id="44350" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI MOVIES",BBO FLIX HINDI
-#http://jasss.whf.bz/SAINI/play.m3u8?id=44350
+http://jasss.whf.bz/SAINI/play.m3u8?id=44350
 
 
 #EXTINF:-1,COLORS CINEPLEX
