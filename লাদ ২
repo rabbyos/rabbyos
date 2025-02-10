@@ -215,13 +215,13 @@ http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:1F:2E:5A
 
 #EXTINF:-1,GOLDMINE
-http://stb.iphd.tv:80/live/53875792/gKDVxGgJwQ/102571.m3u8
+http://bostv.one:8080/live/shailesh1/shailesh2/95900.m3u8
 
 #EXTINF:-1, GOLDMINE BOLLY
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1,XPLORE
 #https://live.drmlive-02.workers.dev/zee/209.m3u8
-http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/635.m3u8
+http://bostv.one:8080/live/shailesh1/shailesh2/89915.m3u8
 #http://tv.mototvlive.net:8880/live/hasan19/hasan1519/2769.m3u8
 
 #EXTINF:-1,&PRIVE
@@ -235,8 +235,8 @@ http://jasss.whf.bz/SAINI/play.m3u8?id=3006
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 #https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:1F:2E:5A
-
+#http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=15834&deviceMac=00:1A:79:1F:2E:5A
+http://bostv.one:8080/live/shailesh1/shailesh2/85207.m3u8
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
 
