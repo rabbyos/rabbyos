@@ -3,11 +3,10 @@
 http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=15834&deviceMac=00:1A:79:0A:3B:2D
 #EXTINF:-1 ,ANMOL
 #https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=7084&deviceMac=00:1A:79:1F:2E:5A
-#EXTINF:-1,ZEE CINEMA HD
+http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=7084&deviceMac=00:1A:79:0A:3B:2D
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #http://watchindia.net:8880/live/40972/04523/787.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:1F:2E:5A
+http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:0A:3B:2D
 
 #EXTINF:-1 ,ZING
 #https://live.drmlive-02.workers.dev/zee/zing.m3u8
@@ -29,7 +28,7 @@ http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1,Zee cinema
 
 #EXTINF:-1 ,ZEE hd
-https://raw.githubusercontent.com/rabbyos/rabbyos/refs/heads/main/Zee%20cinema%20hd
+
 #EXTINF:-1 ,
 #EXTINF:-1 ,
 #EXTINF:-1 ,
