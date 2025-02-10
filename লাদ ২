@@ -18,8 +18,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=7084&deviceMac=00:1A:79:0A:3B
 http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:0A:3B:2D
 
 #EXTINF:-1 ,Anmol 2
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdntl=exp=1739309756~acl=%2f*~data=hdntl~hmac=2d6b010d13e04b7c3016fb05b711c8594abd72597224d2dca7821489588d3e80
 #https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
-https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-bigganga
+@https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-bigganga
 #EXTINF:-1 ,TOFFE MOVIE
 http://tv.cloudcdn.me:80/live.ts?channelId=97&uid=15834&deviceMac=00:1A:79:0A:3B:2D
 
@@ -63,7 +64,7 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 
 #EXTINF:-1 ,STARJALSHA HD
 #http://103.89.248.26:8082/Star_jalsha/tracks-a1/index.fmp4.m3u8?token=612ec94bc66ca5e5c571ccae4664637d3ae4d1bf-958203d2366f5f39edabdd2e29b50024-1738324394-1738313594
-http://lkn1.chowdhury-shaheb.com/starjalsha/index.m3u8
+http://bostv.one:8080/live/shailesh1/shailesh2/131989.m3u8
 #http://103.175.242.10:8080/starjalsha/index.m3u8
 #https://ottbanglsg.b-cdn.net/ottban1787s/video.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=15760&deviceMac=00:1A:79:1F:2E:5A
