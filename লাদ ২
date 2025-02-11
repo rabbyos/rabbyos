@@ -273,7 +273,8 @@ http://jasss.whf.bz/SAINI/play.m3u8?id=59632
 
 
 #EXTINF:-1 ,STAR PLUS HD
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856.m3u8
+http://45.148.145.57/IN_STS/index.m3u8
+#http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856.m3u8
 #EXTINF:-1 tvg-id="58894" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI MOVIES",HINDI DRAMA MOVIES
 http://jasss.whf.bz/SAINI/play.m3u8?id=58894
 
