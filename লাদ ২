@@ -8,7 +8,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=7084&deviceMac=00:1A:79:0A:3B
 http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #http://watchindia.net:8880/live/40972/04523/787.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:0A:3B:2D
+#http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:0A:3B:2D
 
 #EXTINF:-1 ,ZING
 #https://live.drmlive-02.workers.dev/zee/zing.m3u8
