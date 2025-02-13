@@ -10,8 +10,6 @@
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:4C:95:D3
 http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZING
-#https://live.drmlive-02.workers.dev/zee/zing.m3u8
-#http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=7084&deviceMac=00:1A:79:4C:95:D3
 
 
 #EXTINF:-1,  Zee Bangla
@@ -20,7 +18,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:4
 http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Anmol 2
 https://live.drmlive-02.workers.dev/azee/bigganga.m3u8
-https://adda.aneplaymax.online/wp-taed/stream.m3u8?id=0-9-bigganga
+
 #EXTINF:-1 ,TOFFE MOVIE
 
 
@@ -111,9 +109,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 ,JALSHA MOVIES
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 #EXTINF:-1,ZEE BANGLA CINEMA
-#http://humsab.xyz/IN_ZEBC/index.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=15834&deviceMac=00:1A:79:4C:95:D3
-#http://14.102.123.50:5001/live/685.m3u8
+
 #EXTINF:-1 ,MINIPLEX
 http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72212.m3u8
 
@@ -188,18 +184,12 @@ http://170.254.18.107/SONYMAX/index.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
-#http://jasss.whf.bz/SAINI/play.m3u8?id=1042
-#https://baskardo.vip/IN_STGOLD/index.m3u8
-#http://cdnmax.pro/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/115669.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=15760&deviceMac=00:1A:79:0A:3B:2D
-#http://172.16.29.34/ontest1/ontest1/340
 
 
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
-http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=15834&deviceMac=00:1A:79:4C:95:D3
-#http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/492.m3u8
+http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/492.m3u8
 
 
 
@@ -239,13 +229,11 @@ https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
 
 
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-#https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=15834&deviceMac=00:1A:79:0A:3B:2D
 
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=15834&deviceMac=00:1A:79:0A:3B:2D
-#http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/631.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi Movies" tvg-logo="", South Station
@@ -474,12 +462,15 @@ http://tv.cloudcdn.me:80/live.ts?channelId=38893&uid=5353&deviceMac=00:1A:79:91:
 #EXTINF:-1 tvg-logo="LOGO" group-title="MUSIC CHANNEL", MON TV BANGLA
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports Channels", Star Sports 1 English HD
-http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=15834&deviceMac=00:1A:79:91:38:01
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0yA8k0MWyewq3TFIUINM32cbc266NygS2TD5qZqoRw&s" group-title="Sports Channels", Star Sports 3
-http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=7245&deviceMac=00:1A:79:0A:3B:2D
-
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-1-hd" tvg-logo="https://i.postimg.cc/6QYLXBdk/SONY-SPORTS-TEN-1.png" group-title="Sports",Sony Sports Ten 1
+https://otttv.co.in/d2h/livestream/sony-ten-1-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-2-hd" tvg-logo="https://i.postimg.cc/FsbQV6bf/SONY-SPORTS-TEN-2.png" group-title="Sports",Sony Sports Ten 2
+https://otttv.co.in/d2h/livestream/sony-ten-2-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-ten-3-hd" tvg-logo="https://i.postimg.cc/nzLv0NQn/SONY-SPORTS-TEN-3.png" group-title="Sports",Sony Sports Ten 3
+https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png" group-title="Sports",Sony Sports Ten 5
+https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports Channels", Star Sports 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=49568&uid=15834&deviceMac=00:1A:79:0A:3B:2D
@@ -488,18 +479,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:0A:3B
 
 
 
-#EXTINF: -1 tvg-name="Sony Ten 1 HD" tvg-logo="http://lifetvbd.xyz:8080/images/95e673577bb0726bba74cf538bcbd24c.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 1 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15834&deviceMac=00:1A:79:0A:3B:2D
-#http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=7245&deviceMac=00:1A:79:B0:A9:0C
-#EXTINF: -1 tvg-name="Sony Ten 2 HD" tvg-logo="http://lifetvbd.xyz:8080/images/1ac33cea25728a9e5181c63cc5fefa78.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15834&deviceMac=00:1A:79:0A:3B:2D
-#EXTINF: -1 tvg-name="Sony Ten 3 HD" tvg-logo="http://lifetvbd.xyz:8080/images/7468071e59103c0ad9f97aaddb381ac8.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 3 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15834&deviceMac=00:1A:79:0A:3B:2D
-#EXTINF:-1 group-title="Sports",Sony ten 4
-
-
-#EXTINF: -1 tvg-name="Sony Ten 5 HD" tvg-logo="http://lifetvbd.xyz:8080/images/26ee9f0a2b315f3bc627c93ba4a6e1d3.png" group-title="SPORTS | Star Sports & Sony Ten", Sony Ten 5 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=15834&deviceMac=00:1A:79:0A:3B:2D
 #EXTINF:-1 tvg-logo="" group-title="",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
