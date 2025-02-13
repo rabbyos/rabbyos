@@ -498,7 +498,8 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Hindi Music" group-title="",Zoom
-http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=15760&deviceMac=00:1A:79:0A:3B:2D
+https://lifetvbd.xyz:8880/live/omor20/omor20/26.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=15760&deviceMac=00:1A:79:0A:3B:2D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi Music",Music India
 http://tv.cloudcdn.me:80/live.ts?channelId=175&uid=15760&deviceMac=00:1A:79:0A:3B:2D
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63403
