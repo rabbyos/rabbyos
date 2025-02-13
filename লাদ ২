@@ -255,8 +255,8 @@ http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72171.m3u8
 #https://fifabd9-fun-tho5.spidy.online/VT/go.php?id=Colors_Cineplex_voot_MOB
 http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
 
-
-
+#EXTINF:-1 ,BOLLYWOOD MOVIES
+https://lifetvbd.xyz:8880/live/omor20/omor20/183.m3u8
 
 #EXTINF:-1 tvg-id="59632" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI MOVIES",NOW CINEMA
 http://jasss.whf.bz/SAINI/play.m3u8?id=59632
@@ -274,7 +274,6 @@ http://jasss.whf.bz/SAINI/play.m3u8?id=58894
 
 #EXTINF:-1 ,SONY AATH 
 #http://tv.mototvlive.net:8880/live/hasan19/hasan1519/19805.m3u8
-
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
 
 
@@ -474,8 +473,9 @@ https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png" group-title="Sports",Sony Sports Ten 5
 https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports Channels", Star Sports 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=49568&uid=15834&deviceMac=00:1A:79:0A:3B:2D
+#EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports Channels", Star Sports 1 HD
+https://lifetvbd.xyz:8880/live/omor20/omor20/2579.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=49568&uid=15834&deviceMac=00:1A:79:0A:3B:2D
 #EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:0A:3B:2D
 
@@ -487,11 +487,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://lifetvbd.xyz:8880/live/omor20/omor20/5104.m3u8
 #http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 ,MTV BEATS
-http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=15760&deviceMac=00:1A:79:0A:3B:2D
+https://lifetvbd.xyz:8880/live/omor20/omor20/110.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=15760&deviceMac=00:1A:79:0A:3B:2D
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63571
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music" group-title="",9XM
-http://tv.cloudcdn.me:80/live.ts?channelId=143&uid=15760&deviceMac=00:1A:79:0A:3B:2D
+https://lifetvbd.xyz:8880/live/omor20/omor20/16.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=143&uid=15760&deviceMac=00:1A:79:0A:3B:2D
 #http://line.rs6ott.com/live/ae5d4c3c9212/06041c6c3379/280784.ts
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Mastii Music
 https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
@@ -501,7 +503,8 @@ https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 https://lifetvbd.xyz:8880/live/omor20/omor20/26.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=15760&deviceMac=00:1A:79:0A:3B:2D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi Music",Music India
-http://tv.cloudcdn.me:80/live.ts?channelId=175&uid=15760&deviceMac=00:1A:79:0A:3B:2D
+https://lifetvbd.xyz:8880/live/omor20/omor20/28.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=175&uid=15760&deviceMac=00:1A:79:0A:3B:2D
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63403
 #EXTINF:-1 ,SPORTS 18 1
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
