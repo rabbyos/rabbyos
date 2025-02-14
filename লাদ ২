@@ -187,17 +187,24 @@ http://170.254.18.107/SONYMAX/index.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
-https://lifetvbd.xyz:8880/live/omor20/omor20/2586.m3u8
+http://103.115.126.26:8000/play/a08u/index.m3u8
+#https://lifetvbd.xyz:8880/live/omor20/omor20/2586.m3u8
 
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
-https://lifetvbd.xyz:8880/live/omor20/omor20/65.m3u8
+http://103.115.126.26:8000/play/a08w/index.m3u8
+#https://lifetvbd.xyz:8880/live/omor20/omor20/65.m3u8
+#EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD - Rs 14.00
+http://103.115.126.26:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo Wild HD - Rs 8.00
+http://103.115.126.26:8000/play/a051/index.m3u8
 
 
 
 #EXTINF:-1,DISC
-http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
+http://103.115.126.26:8000/play/a057/index.m3u8
+#http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
 
 #EXTINF:-1,& PICTURES
 #https://live.drmlive-02.workers.dev/zee/pictures.m3u8
@@ -214,7 +221,7 @@ https://lifetvbd.xyz:8880/live/omor20/omor20/99.m3u8
 #http://tv.mototvlive.net:8880/live/hasan19/hasan1519/2769.m3u8
 
 #EXTINF:-1,&PRIVE
-
+http://103.115.126.26:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="58863" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI",HINDI CRIME MOVIES
 http://jasss.whf.bz/SAINI/play.m3u8?id=58863
 
@@ -224,8 +231,8 @@ http://jasss.whf.bz/SAINI/play.m3u8?id=3006
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 #https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
-https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
-
+#https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
+http://103.115.126.26:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
 
@@ -235,7 +242,7 @@ https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
 
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-
+http://103.115.126.26:8000/play/a04o/index.m3u8
 
 
 
@@ -254,7 +261,8 @@ http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72171.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
 #https://fifabd9-fun-tho5.spidy.online/VT/go.php?id=Colors_Cineplex_voot_MOB
-http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
+http://103.115.126.26:8000/play/a03v/index.m3u8
+#http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 ,BOLLYWOOD MOVIES
 https://lifetvbd.xyz:8880/live/omor20/omor20/183.m3u8
@@ -474,12 +482,24 @@ https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png" group-title="Sports",Sony Sports Ten 5
 https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fimagesdishtvd2h.whatsonindia.com%2Fdasimages%2Fchannel%2Flandscape%2F360x270%2FVZUAQVzD.png&w=256&q=75" group-title="Sports Channels", Star Sports 1 HD
-https://lifetvbd.xyz:8880/live/omor20/omor20/2579.m3u8
-#http://tv.cloudcdn.me:80/live.ts?channelId=49568&uid=15834&deviceMac=00:1A:79:0A:3B:2D
-#EXTINF:-1 group-title="Sports",Star Sports Select 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=300&uid=7245&deviceMac=00:1A:79:0A:3B:2D
-
+#EXTINF:-1 group-title="-",Star Sports 1 HD - Rs 19.00
+http://103.115.126.26:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 Hindi HD - Rs 19.00
+http://103.115.126.26:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 Tamil HD - Rs 19.00
+http://103.115.126.26:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 Telugu HD - Rs 19.00
+http://103.115.126.26:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 2 HD - Rs 19.00
+http://103.115.126.26:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 3 - Rs 2.00
+http://103.115.126.26:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports First - Rs 0.50
+http://103.115.126.26:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports Select 1 HD - Rs 19.00
+http://103.115.126.26:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports Select 2 HD - Rs 15.00
+http://103.115.126.26:8000/play/a043/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="",YRF Music HD
@@ -488,7 +508,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://lifetvbd.xyz:8880/live/omor20/omor20/5104.m3u8
 #http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 ,MTV BEATS
-https://lifetvbd.xyz:8880/live/omor20/omor20/110.m3u8
+http://103.115.126.26:8000/play/a05u/index.m3u8
+#https://lifetvbd.xyz:8880/live/omor20/omor20/110.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=15760&deviceMac=00:1A:79:0A:3B:2D
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63571
 
@@ -517,7 +538,8 @@ https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/inde
 
 
 #EXTINF:-1 ,CARTOON NETWORK
-https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
+http://103.115.126.26:8000/play/a089/index.m3u8
+#https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
 #EXTINF:-1 ,CARTOON NETWORK HD+
 http://103.110.110.11:8081/live/cartoon/playlist.m3u8
 #EXTINF:-1 ,
