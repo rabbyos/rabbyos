@@ -216,10 +216,9 @@ https://lifetvbd.xyz:8880/live/omor20/omor20/9583.m3u8
 #EXTINF:-1, GOLDMINE BOLLY
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1,XPLORE
-#https://live.drmlive-02.workers.dev/zee/209.m3u8
-https://lifetvbd.xyz:8880/live/omor20/omor20/99.m3u8
+#https://live.drmlive-02.workers.dev/zee/209.m3u8https://lifetvbd.xyz:8880/live/omor20/omor20/99.m3u8
 #http://tv.mototvlive.net:8880/live/hasan19/hasan1519/2769.m3u8
-
+http://78.40.140.201:9321/86e4228d28529f50bbb9bb382bd86713507ea07f90290d44386414eb03a1ac/tracks-v1a1/mono.m3u8?token=63ac274b3cb8d0f8274674f4f4574e48368625bbcb2d2d532caf0aed966d175eda4c4104414db26137d1f52d6b3822ec784870e71ab0955d4ec09d3c1e01e2ab50ce9c86732564-3a6f43b2ca761e642bfac0eca1443057
 #EXTINF:-1,&PRIVE
 http://103.115.126.26:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="58863" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI",HINDI CRIME MOVIES
@@ -255,7 +254,8 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi Movies",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72171.m3u8
+http://78.40.140.201:9321/86e4228d28529f50bbb9bb382bd86713507ea07c98211b593f7917f218a1ad/tracks-v1a1/mono.m3u8?token=fec85336d8487fb928708ee22705703da8bb9f0d2179d145391cc022427afa9b616e32c8531dbe096b2da0eeb99fc4f666bbf55e05c707b3b0309065e9e458b85ec2bb891fd9b4-0ced752eee94863ed9614141ffcc51f6
+#http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72171.m3u8
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441460
 #http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
