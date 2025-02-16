@@ -173,7 +173,7 @@ https://mycdn.tamilultratv.com/live.m3u8?id=1657
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
-http://45.155.89.250:9250/86e4228d28529f50bbb9bb382bc361134d68b27f86321b4f/tracks-v1a1/mono.m3u8?token=05c2b66a6005aa6695f952df00d2eae878ac74edbec093f9c01a4a38aa0d44e3b1a34dd777c52355e2fddc7fd145462a41fb708ecd50b03f6cce405020ce107286809336935348-a36088dbfc8267151dc0a0bec62fd6f1
+http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
 #http://103.205.133.71/SonyMaxFHD/index.m3u8
 #http://119.156.26.155:8000/play/a06e/index.m3u8
 #http://172.16.29.34/ontest1/ontest1/323
