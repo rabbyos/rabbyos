@@ -118,7 +118,7 @@ http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 #EXTINF:-1,ZEE BANGLA CINEMA
 http://mega4k.one:8080/chanpreet/chanpreet/131986
 #EXTINF:-1 ,MINIPLEX
-http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72212.m3u8
+http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72212.m3u8?token=7544977764f42e2ff814050fdb3e53f1a62a2403-a70868c9ef53a27bd34a3b901c0ae297-1739917528-1739906728
 
 #EXTINF:-1 ,
 
@@ -289,7 +289,8 @@ http://jasss.whf.bz/SAINI/play.m3u8?id=58894
 
 #EXTINF:-1 ,SONY AATH 
 #http://tv.mototvlive.net:8880/live/hasan19/hasan1519/19805.m3u8
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
+http://10.21.56.46:9191/sony-aath/index.m3u8?token=7544977764f42e2ff814050fdb3e53f1a62a2403-a70868c9ef53a27bd34a3b901c0ae297-1739917528-1739906728
+#http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
 
 
 
