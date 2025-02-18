@@ -179,11 +179,9 @@ https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Bangla_Cinema_voot_
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
-http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
+https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
+#http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
 #http://103.205.133.71/SonyMaxFHD/index.m3u8
-#http://119.156.26.155:8000/play/a06e/index.m3u8
-#http://172.16.29.34/ontest1/ontest1/323
-#http://tv.indigotv.me:80/live.ts?channelId=185&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX
 #http://95.211.160.36:7388/Sony%20Max.php?e=.m3u8
