@@ -21,7 +21,8 @@ http://mega4k.one:8080/chanpreet/chanpreet/62238
 #http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:4C:95:D3
 http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Anmol 2
-https://live.drmlive-02.workers.dev/azee/bigganga.m3u8
+http://14.102.123.50:6969/play/a0ts
+#https://live.drmlive-02.workers.dev/azee/bigganga.m3u8
 
 #EXTINF:-1 ,TOFFE DRAMA
 https://lifetvbd.xyz:8880/live/omor20/omor20/9448.M3U8
