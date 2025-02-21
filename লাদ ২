@@ -92,7 +92,8 @@ http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e4213295cf7105f6e7c721956967b50b
 #http://172.16.29.34/ontest1/ontest1/389.m3u8
 #http://10.21.56.46:9191/News-24/tracks-v1a1/mono.m3u8?token=6d529d144b53a7bc8abfe96c5e59906fa2a8ad0c-a5c272ffd9c3e42c94487f00d243ae77-1723775977-172
 #EXTINF:-1,StarJalshaHD
-http://172.19.178.49:18190/sn-starjalsha/tracks-v1a1/mono.m3u8
+https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
+#http://172.19.178.49:18190/sn-starjalsha/tracks-v1a1/mono.m3u8
 #http://megaott.live:8080/live/45ffgauksas/gu8krWn2CuxE/39881.m3u8
 #http://stream247.live:8080/starjalsha/index.m3u8
 #https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
