@@ -20,9 +20,11 @@ http://mega4k.one:8080/chanpreet/chanpreet/62238
 #http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
 #http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:4C:95:D3
 http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="PROBASHI BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,VISION HD BDIX
+http://161.248.188.101/visionhd/index.m3u8
 #EXTINF:-1 ,Anmol 2
-http://14.102.123.50:6969/play/a0ts
-#https://live.drmlive-02.workers.dev/azee/bigganga.m3u8
+https://live.drmlive-02.workers.dev/azee/bigganga.m3u8
 
 #EXTINF:-1 ,TOFFE DRAMA
 https://lifetvbd.xyz:8880/live/omor20/omor20/9448.M3U8
