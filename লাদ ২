@@ -125,8 +125,8 @@ http://mega4k.one:8080/chanpreet/chanpreet/131986
 #EXTINF:-1 ,MINIPLEX
 http://activefrance.net:80/live/PMF3J9X/BV7HG8H/72212.m3u8?token=7544977764f42e2ff814050fdb3e53f1a62a2403-a70868c9ef53a27bd34a3b901c0ae297-1739917528-1739906728
 
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,MBC
+http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/621.m3u8
 #EXTINF:-1 ,
 
 
@@ -229,7 +229,7 @@ http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1,XPLORE
 #https://live.drmlive-02.workers.dev/zee/209.m3u8https://lifetvbd.xyz:8880/live/omor20/omor20/99.m3u8
 #http://tv.mototvlive.net:8880/live/hasan19/hasan1519/2769.m3u8
-http://78.40.140.201:9321/86e4228d28529f50bbb9bb382bd86713507ea07f90290d44386414eb03a1ac/tracks-v1a1/mono.m3u8?token=63ac274b3cb8d0f8274674f4f4574e48368625bbcb2d2d532caf0aed966d175eda4c4104414db26137d1f52d6b3822ec784870e71ab0955d4ec09d3c1e01e2ab50ce9c86732564-3a6f43b2ca761e642bfac0eca1443057
+http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/635.m3u8
 #EXTINF:-1,&PRIVE
 http://103.115.126.26:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="58863" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI",HINDI CRIME MOVIES
@@ -536,6 +536,7 @@ https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141345377
 #EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Show Box
 https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Hindi Music" group-title="",Zoom
+http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/624.m3u8
 https://lifetvbd.xyz:8880/live/omor20/omor20/26.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=15760&deviceMac=00:1A:79:0A:3B:2D
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi Music",Music India
