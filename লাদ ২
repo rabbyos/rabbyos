@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U8
 #EXTINF:-1,Quran 
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
@@ -186,9 +186,9 @@ https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Bangla_Cinema_voot_
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
-https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
+#https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
-#http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
 #http://103.205.133.71/SonyMaxFHD/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX
