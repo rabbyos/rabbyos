@@ -4,8 +4,9 @@
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
 
-#EXTINF:-1 ,T SPORT
-http://kst.moonplex.net:8080/CH2/index.m3u8
+#EXTINF:-1 ,18 SPORT
+https://moonkerala.xyz/jcinema/stream.m3u8?id=0000002|Referer=https://moonkerala.xyz/
+#http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 ,ZEE CINEMA HD
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
