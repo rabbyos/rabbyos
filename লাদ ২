@@ -25,7 +25,7 @@ http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PROBASHI BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,VISION HD BDIX
 http://161.248.188.101/visionhd/index.m3u8
 #EXTINF:-1 ,Anmol 2
-https://live.drmlive-02.workers.dev/azee/bigganga.m3u8
+https://lifetvbd.xyz:8880/omor20/omor20/172
 
 #EXTINF:-1 ,TOFFE DRAMA
 https://lifetvbd.xyz:8880/live/omor20/omor20/9448.M3U8
@@ -74,7 +74,8 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 #http://103.89.248.26:8082/Star_jalsha/tracks-a1/index.fmp4.m3u8?token=612ec94bc66ca5e5c571ccae4664637d3ae4d1bf-958203d2366f5f39edabdd2e29b50024-1738324394-1738313594
 #http://bostv.one:8080/live/shailesh1/shailesh2/131989.m3u8
 #http://103.175.242.10:8080/starjalsha/index.m3u8
-http://kst.moonplex.net:8080/CH3/index.m3u8
+https://lifetvbd.xyz:8880/omor20/omor20/9161
+#http://kst.moonplex.net:8080/CH3/index.m3u8
 #http://172.20.3.1:81/StarJalshaHD/tracks-v1a1/mono.m3u8
 #http://172.16.29.3:8080/hls/sjolshahd.m3u8
 #http://suprino.xyz:80/PMF3J9X/BV7HG8H/76204
@@ -189,7 +190,8 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
 #https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
-http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
+https://lifetvbd.xyz:8880/omor20/omor20/2800
+#http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
 #http://103.205.133.71/SonyMaxFHD/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX
@@ -302,7 +304,7 @@ http://jasss.whf.bz/SAINI/play.m3u8?id=58894
 
 
 #EXTINF:-1 ,SONY AATH 
-http://tv.mototvlive.net:8880/bdixiptvbd/.com/19805
+https://lifetvbd.xyz:8880/omor20/omor20/3157
 #http://tv.mototvlive.net:8880/live/hasan19/hasan1519/19805.m3u8
 #http://10.21.56.46:9191/sony-aath/index.m3u8?token=7544977764f42e2ff814050fdb3e53f1a62a2403-a70868c9ef53a27bd34a3b901c0ae297-1739917528-1739906728
 #http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
