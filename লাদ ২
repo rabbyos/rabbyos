@@ -191,13 +191,15 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
 #https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/insurance/&key=@FREDFLIXCEO
 #https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
-https://lifetvbd.xyz:8880/omor20/omor20/2800
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#https://lifetvbd.xyz:8880/omor20/omor20/2800
 #http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
 #http://103.205.133.71/SonyMaxFHD/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/sony_max_tv_in.jpg" tvg-id="sonymaxhd.in" ,SONY MAX
 #http://95.211.160.36:7388/Sony%20Max.php?e=.m3u8
-http://kst.moonplex.net:8080/CH1/index.m3u8
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+#http://kst.moonplex.net:8080/CH1/index.m3u8
 #http://170.254.18.107/SONYMAX/index.m3u8
 #http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/747.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=185&uid=15760&deviceMac=00:1A:79:0A:3B:2D
@@ -305,7 +307,8 @@ http://jasss.whf.bz/SAINI/play.m3u8?id=58894
 
 
 #EXTINF:-1 ,SONY AATH 
-https://lifetvbd.xyz:8880/omor20/omor20/3157
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#https://lifetvbd.xyz:8880/omor20/omor20/3157
 #http://tv.mototvlive.net:8880/live/hasan19/hasan1519/19805.m3u8
 #http://10.21.56.46:9191/sony-aath/index.m3u8?token=7544977764f42e2ff814050fdb3e53f1a62a2403-a70868c9ef53a27bd34a3b901c0ae297-1739917528-1739906728
 #http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
