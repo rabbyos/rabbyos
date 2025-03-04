@@ -226,7 +226,8 @@ http://103.115.126.26:8000/play/a051/index.m3u8
 
 
 #EXTINF:-1,DISC
-http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
+http://bd.bdix.xyz:8880/789865437/789865437/19779
+#http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
 #http://103.115.126.26:8000/play/a057/index.m3u8
 #http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
 
