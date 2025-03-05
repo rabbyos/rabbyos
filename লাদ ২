@@ -13,7 +13,7 @@ http://kst.moonplex.net:8080/CH2/index.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:4C:95:D3
 #http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
 #http://45.148.145.57/IN_ZeeCinemaHD/index.m3u8
-http://bd.bdix.xyz:8880/789865437/789865437/19794
+http://mega4k.one:8080/926276/926276/97486
 #EXTINF:-1 ,ZING
 http://mega4k.one:8080/chanpreet/chanpreet/62238
 #https://lifetvbd.xyz:8880/live/omor20/omor20/6.m3u8
@@ -90,7 +90,8 @@ http://172.20.3.1:81/StarJalshaHD/tracks-v1a1/mono.m3u8
 #http://103.175.242.10:8080/starjalsha/index.m3u8
 #http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 #EXTINF:-1 ,STARJALSHA
-http://bd.bdix.xyz:8880/789865437/789865437/19049
+http://mega4k.one:8080/926276/926276/122092
+#http://bd.bdix.xyz:8880/789865437/789865437/19049
 #http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e4213295cf7105f6e7c721956967b50b
 #https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
 #https://raw.github.com/Hasanmahmud000/Yt/main/Star_Jalsha.stream.m3u8
