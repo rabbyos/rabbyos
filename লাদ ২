@@ -13,7 +13,7 @@ http://kst.moonplex.net:8080/CH2/index.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:4C:95:D3
 #http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
 #http://45.148.145.57/IN_ZeeCinemaHD/index.m3u8
-http://mega4k.one:8080/kulbir/123456/97486
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1350
 #EXTINF:-1 ,ZING
 http://mega4k.one:8080/chanpreet/chanpreet/62238
 #https://lifetvbd.xyz:8880/live/omor20/omor20/6.m3u8
@@ -126,9 +126,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 ,JALSHA MOVIES
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 #EXTINF:-1,ZEE BANGLA CINEMA
-http://mega4k.one:8080/kulbir/123456/131986
-#EXTINF:-1 ,MINIPLEX
-http://activefrance.net:80/PMF3J9X/BV7HG8H/72212
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21658
+#EXTINF:-1 ,All Time
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/192959
 
 #EXTINF:-1 ,MBC
 http://45.148.145.57/AR_MBCBOLLYOODHD/index.m3u8
@@ -177,9 +177,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" , Colors Bangla Cinema
-http://bd.bdix.xyz:8880/789865437/789865437/13888
-#https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Bangla_Cinema_voot_MOB
-#https://newhub247.store/wp78174/live.m3u8?id=1657
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306556
+#http://bd.bdix.xyz:8880/789865437/789865437/13888
 #https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 
 
@@ -210,7 +209,7 @@ https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
 #http://103.115.126.26:8000/play/a08u/index.m3u8
 #https://lifetvbd.xyz:8880/live/omor20/omor20/2586.m3u8
-http://mega4k.one:8080/kulbir/123456/85208
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1070
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
@@ -288,7 +287,7 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441460
 #http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
-http://mega4k.one:8080/kulbir/123456/85207
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16958
 #https://fifabd9-fun-tho5.spidy.online/VT/go.php?id=Colors_Cineplex_voot_MOB
 #http://103.115.126.26:8000/play/a03v/index.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
