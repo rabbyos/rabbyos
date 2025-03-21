@@ -4,8 +4,8 @@ http://103.190.132.15:1935/sdcv/sdcv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#Local Channel",Padma Cable Vision
 http://103.190.132.15:1935/pcv/pcv/playlist.m3u8
 
-#EXTINF:-1,Anmol 2
-https://play.denver1769.fun/Play/Z5/index.php?id=0-9-bigganga|User-Agent=Denver1769
+#EXTINF:-1,Taikies
+http://78.40.140.201:9321/86e4228d28529f50bbb9bb382bd86713507ea06d913806493f6019e81aadbbb2/index.m3u8?token=7ddfce6fbada5baae90d6d30384184c1bbdd54d551211d9c6968aa3c731f4b7b3de97e3d059ebf375bb45e13703bc1fcf9dae40231e02f494ebde7f396b3040989cf7f5d28dac2-8961304168a53733b102111a15ae2d33
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
 
@@ -14,9 +14,9 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 ,ZEE CINEMA HD
-#https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
+http://starshare.org:80/live/Money12345/Money12345/230.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:4C:95:D3
-http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
+#http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
 #http://45.148.145.57/IN_ZeeCinemaHD/index.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1350
 #EXTINF:-1 ,ZING
@@ -218,14 +218,10 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1070
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
-http://78.40.140.201:9321/86e4228d28529f50bbb9bb382bd86713507ea06d8a2c005e277b14e00ed6a1b46140/index.m3u8?token=7e9bfba8e5f9e03ce7c61383d35882341cbbe4ba63e1e0f33c56d5adfa0e63fffc1bde1489ff929f9bcc7a5143a8dbe6efb9eeba68f621a70cbf2b960b4a685b252384d714d993-a3a8b24c2bcb37e21f9c5d5870f51c48
+http://78.40.140.201:9321/86e4228d28529f50bbb9bb382bd86713507ea06d8a2c005e277b14e00ed6a1b46140/index.m3u8?token=af173dd3634f724c08f065874b7a78f799d3b48ae4390a9383c5d9b457169b0b24e9c6d45bb147fc76e35972f44e48cdd4d5df4d28b35eca088489c56e1a846856f3f93e9d4406-1edc09d2df22ff9f8a991714010faba9
 #http://103.115.126.26:8000/play/a08w/index.m3u8
 #https://lifetvbd.xyz:8880/live/omor20/omor20/65.m3u8
-#EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD - Rs 14.00
-http://45.148.145.57/IND_NationalGeoHD/index.m3u8
-#http://103.115.126.26:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="-",Nat Geo Wild HD - Rs 8.00
-http://103.115.126.26:8000/play/a051/index.m3u8
+
 
 
 
@@ -236,8 +232,8 @@ http://bd.bdix.xyz:8880/789865437/789865437/19779
 #http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
 
 #EXTINF:-1,& PICTURES
-#https://live.drmlive-02.workers.dev/zee/pictures.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:4C:95:D3
+https://live.drmlive-02.workers.dev/zee/pictures.m3u8
+#http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:4C:95:D3
 
 #EXTINF:-1,GOLDMINE
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
@@ -245,15 +241,13 @@ http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 #EXTINF:-1, GOLDMINE BOLLY
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1,XPLORE
-#https://live.drmlive-02.workers.dev/zee/209.m3u8
-http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/635.m3u8?reffer=http://app.luckonline.eu:80/
+https://live.drmlive-02.workers.dev/zee/209.m3u8
+
 #http://tv.mototvlive.net:8880/live/789865437/789865437/2769.m3u8?reffer=http://tv.mototvlive.net:8880/
 #https://play.denver1769.fun/Play/Z5/index.php?id=0-9-209|User-Agent=Denver1769
 #http://activefrance.net:80/PMF3J9X/BV7HG8H/510293
 #EXTINF:-1,GOLDMINE MOVIE
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441440.m3u8
-#EXTINF:-1 tvg-id="58863" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI",HINDI CRIME MOVIES
-http://jasss.whf.bz/SAINI/play.m3u8?id=58863
 
 
 #EXTINF:-1,UTSAV GOLD
@@ -262,8 +256,8 @@ http://45.148.145.57/IN_STU/index.m3u8
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
 #https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
-#https://cdn.hoichoi24.com/AndPictureTV/video.m3u8
-http://45.148.145.57/IN_PICURES/index.m3u8
+http://starshare.org:80/live/Money12345/Money12345/231.m3u8
+#http://45.148.145.57/IN_PICURES/index.m3u8
 #http://103.115.126.26:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
@@ -274,7 +268,7 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441452
 http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://port.denver1769.fun/oplx4.php?id=221257
+http://starshare.org:80/live/Money12345/Money12345/210.m3u8
 #http://103.115.126.26:8000/play/a04o/index.m3u8
 
 
@@ -293,23 +287,16 @@ http://202.164.50.194:8000/play/a0cr/index.m3u8
 #http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16958
+http://starshare.org:80/live/Money12345/Money12345/867.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16958
 #https://fifabd9-fun-tho5.spidy.online/VT/go.php?id=Colors_Cineplex_voot_MOB
 #http://103.115.126.26:8000/play/a03v/index.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=470&uid=7245&deviceMac=00:1A:79:4A:02:91
-
-#EXTINF:-1 ,BOLLYWOOD MOVIES
-
-
-#EXTINF:-1 tvg-id="59632" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI MOVIES",NOW CINEMA
-http://jasss.whf.bz/SAINI/play.m3u8?id=59632
 
 
 #EXTINF:-1 ,STAR PLUS HD
 http://45.148.145.57/IN_STS/index.m3u8
 #http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856.m3u8
-#EXTINF:-1 tvg-id="58894" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI MOVIES",HINDI DRAMA MOVIES
-http://jasss.whf.bz/SAINI/play.m3u8?id=58894
 
 
 
