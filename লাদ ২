@@ -1,8 +1,4 @@
 #EXTM3U8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#Padma Online",Shariatpur Digital Cable Vision
-http://103.190.132.15:1935/sdcv/sdcv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#Local Channel",Padma Cable Vision
-http://103.190.132.15:1935/pcv/pcv/playlist.m3u8
 
 #EXTINF:-1,Taikies
 http://78.40.140.201:9321/86e4228d28529f50bbb9bb382bd86713507ea06d913806493f6019e81aadbbb2/index.m3u8?token=7ddfce6fbada5baae90d6d30384184c1bbdd54d551211d9c6968aa3c731f4b7b3de97e3d059ebf375bb45e13703bc1fcf9dae40231e02f494ebde7f396b3040989cf7f5d28dac2-8961304168a53733b102111a15ae2d33
@@ -20,25 +16,27 @@ http://starshare.org:80/live/Money12345/Money12345/230.m3u8
 #http://45.148.145.57/IN_ZeeCinemaHD/index.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1350
 #EXTINF:-1 ,ZING
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1347
+https://live.drmlive-02.workers.dev/zee/zing.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1347
 #http://mega4k.one:8080/chanpreet/chanpreet/62238
 #https://lifetvbd.xyz:8880/live/omor20/omor20/6.m3u8
 
 #EXTINF:-1,  Zee Bangla
-http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
+https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
+#http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
 #http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:4C:95:D3
 #http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="PROBASHI BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,VISION HD BDIX
-http://78.40.140.201:9321/86e4228d28529f50bbb9bb382bd86713507ea07a96241c42287513fb1caba8a87752ce97/index.m3u8?token=fea1b45e52c48bdcdb480abc7a3e065ab2bb8ba6b6b89755accd7f859ef42eb97a949992b959a72bd790391de3da26fc7e54aaccd38006287b4d68c9aa45546a0e113c4941adcd-56e4ca7c4f286a1bc09886c4f8d7bfa2
+#EXTINF:-1 group-title="PROBASHI BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,ANMOL2 BDIX
+https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 #EXTINF:-1 ,Movies Hd
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446017
 
 #EXTINF:-1 ,TOFFE DRAMA
-https://lifetvbd.xyz:8880/live/omor20/omor20/9448.M3U8
+
 
 #EXTINF:-1 ,TOFFE MOVIE
-https://lifetvbd.xyz:8880/live/omor20/omor20/9447.m3u8
+
 #EXTINF:-1 ,ZEE CINEMA
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1,Zee cinema
@@ -89,8 +87,8 @@ http://kst.moonplex.net:8080/CH3/index.m3u8
 #http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Jalsha
-http://172.20.3.1:81/StarJalshaHD/tracks-v1a1/mono.m3u8
-#http://172.19.178.39:18190/JS-TV-08/index.m3u8
+
+http://172.19.178.39:18190/JS-TV-08/index.m3u8
 #http://103.151.60.204/Star-Jolsha-HD/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=116592&uid=10223&deviceMac=00:1A:79:0A:3B:2D
 #http://103.175.242.10:8080/starjalsha/index.m3u8
@@ -112,14 +110,6 @@ https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
 
 
 
-#EXTINF:-1 xui-id="448" tvg-id="Star Jalsha HD" tvg-name="STAR JALSHA" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHmgO3z92qISkdzUFtZPTkoFGm-aI-yHevVMZI4u_eaJw.png" group-title="IND | Bangla",STAR JALSHA 
-#http://172.19.178.39:18190/JS-TV-08/index.m3u8
-#http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
-#http://humsab.xyz/IN_JALSHAS/index.m3u8?token=e4213295cf7105f6e7c721956967b50b
-https://lifetvbd.xyz:8880/live/omor20/omor20/7982.m3u8
-#http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:0A:3B:2D
-
-
 
 #EXTINF:-1,RDCMOVIES
 https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
@@ -131,7 +121,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 ,JALSHA MOVIES
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 #EXTINF:-1,ZEE BANGLA CINEMA
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21658
+https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21658
 #EXTINF:-1 ,All Time
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/192959
 
@@ -154,13 +145,10 @@ http://45.148.145.57/AR_MBCBOLLYOODHD/index.m3u8
 
 #EXTINF:-1 ,
 #EXTINF:-1 tvg-id="44350" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI MOVIES",BBO FLIX HINDI
-http://mega4k.one:8080/kulbir/123456/85205
-#http://jasss.whf.bz/SAINI/play.m3u8?id=44350
 
 
 #EXTINF:-1,COLORS CINEPLEX
-https://iamranapk-com-wcc9.spidy.online/VOT/go.php?id=Colors_Cineplex_SD_voot_MOB
-#http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
 
 #EXTINF:-1 ,
 
@@ -255,17 +243,19 @@ http://45.148.145.57/IN_STU/index.m3u8
 #http://jasss.whf.bz/SAINI/play.m3u8?id=3006
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
-#https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
-http://starshare.org:80/live/Money12345/Money12345/231.m3u8
+https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
+#http://starshare.org:80/live/Money12345/Money12345/231.m3u8
 #http://45.148.145.57/IN_PICURES/index.m3u8
 #http://103.115.126.26:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441452
+https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
+#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441452
 
 
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-http://45.148.145.57/IN_ZeeActionHD/index.m3u8
+https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
+#http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
 http://starshare.org:80/live/Money12345/Money12345/210.m3u8
@@ -311,12 +301,6 @@ https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 
 
 
-#EXTINF:-1,TEN PRIME
-https://app.ncare.live/live-orgin/tenprime.stream/playlist.m3u8
-#EXTINF:-1  group-title="Music", Gaan Bangla
-
-#EXTINF:-1 ,GLOBAL
-https://app.ncare.live/live-orgin/Global-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Anandatv" tvg-id="local_out/anandatv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/21993649301.png", Anandatv
 http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Bijoytv" tvg-id="local_out/bijoytv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/19637260041.png", Bijoytv
@@ -327,9 +311,8 @@ http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Asiantv" tvg-id="local_out/asiantv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png",Asiantv
 http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnbangla" tvg-id="local_out/atnbangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",Atnbangla
-http://app.luckonline.eu:80/Sohail02/myQYkEntaxuZ/558
 #http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=5353&deviceMac=00:1A:79:0A:3B:2D
-#http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
+http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnnews" tvg-id="local_out/atnnews" tvg-logo="https://yt3.googleusercontent.com/orKgO3oLUrLX5tIicxAzciYawyRQGmJnrnT9ixiHnSEaqPeIDar0Glk7dBpclUj8INXMwBrClw=s900-c-k-c0x00ffffff-no-rj",Atnnews
 http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Banglatv" tvg-id="local_out/banglatv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Banglatv
