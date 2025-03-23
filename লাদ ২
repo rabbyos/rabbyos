@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1,Taikies
-http://78.40.140.201:9321/86e4228d28529f50bbb9bb382bd86713507ea06d913806493f6019e81aadbbb2/index.m3u8?token=7ddfce6fbada5baae90d6d30384184c1bbdd54d551211d9c6968aa3c731f4b7b3de97e3d059ebf375bb45e13703bc1fcf9dae40231e02f494ebde7f396b3040989cf7f5d28dac2-8961304168a53733b102111a15ae2d33
+
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
 
