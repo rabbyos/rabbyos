@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U8
 #EXTM3U
 #EXTINF:-1,Taikies
 
@@ -40,9 +40,9 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446017
 #EXTINF:-1 ,ZEE CINEMA
 https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
 #http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:-1,Zee cinema
+#EXTINF:-1,
 
-#EXTINF:-1 ,ZEE hd
+#EXTINF:-1 ,
 
 #EXTINF:-1 ,
 #EXTINF:-1 ,
@@ -103,7 +103,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8
 #http://172.16.29.34/ontest1/ontest1/389.m3u8
 #http://10.21.56.46:9191/News-24/tracks-v1a1/mono.m3u8?token=6d529d144b53a7bc8abfe96c5e59906fa2a8ad0c-a5c272ffd9c3e42c94487f00d243ae77-1723775977-172
 #EXTINF:-1,StarJalshaHD
-https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
+http://103.122.74.6:8888/hls/STAR.JALSHA.HD.m3u8
+#https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
 #http://172.19.178.49:18190/sn-starjalsha/tracks-v1a1/mono.m3u8
 #http://megaott.live:8080/live/45ffgauksas/gu8krWn2CuxE/39881.m3u8
 #http://stream247.live:8080/starjalsha/index.m3u8
@@ -201,16 +202,15 @@ https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 #https://linkchur.top/file/tf/file.php?id=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
-#EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 
+#EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD 2
+http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
 #http://103.115.126.26:8000/play/a08u/index.m3u8
 #https://lifetvbd.xyz:8880/live/omor20/omor20/2586.m3u8
-http://109.61.81.48:5080/1066/video.m3u8?token=1d95c0c52c88879cec1b34e511f5e9e9
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1070
 
 
-#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold 2
-http://78.40.140.201:9321/86e4228d28529f50bbb9bb382bd86713507ea06d8a2c005e277b14e00ed6a1b46140/index.m3u8?token=af173dd3634f724c08f065874b7a78f799d3b48ae4390a9383c5d9b457169b0b24e9c6d45bb147fc76e35972f44e48cdd4d5df4d28b35eca088489c56e1a846856f3f93e9d4406-1edc09d2df22ff9f8a991714010faba9
-#http://103.115.126.26:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold
+http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
 #https://lifetvbd.xyz:8880/live/omor20/omor20/65.m3u8
 
 
@@ -270,7 +270,8 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://starshare.org:80/live/Money12345/Money12345/210.m3u8
+http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
+#http://starshare.org:80/live/Money12345/Money12345/210.m3u8
 #http://103.115.126.26:8000/play/a04o/index.m3u8
 
 
@@ -297,7 +298,8 @@ http://starshare.org:80/live/Money12345/Money12345/867.m3u8
 
 
 #EXTINF:-1 ,STAR PLUS HD
-http://45.148.145.57/IN_STS/index.m3u8
+http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
+#http://45.148.145.57/IN_STS/index.m3u8
 #http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856.m3u8
 
 
@@ -463,8 +465,9 @@ http://10.21.56.46:9191/t-sports/index.m3u8?token=08aee99f69a04616c00e64b05bcf7a
 #EXTINF:-1,  TSPORTS 2
 https://lifetvbd.xyz:8880/live/omor20/omor20/9542.m3u8
 
-#EXTINF:-1,WILLOW
-http://172.16.29.34/ontest1/ontest1/413
+#EXTINF:-1,WILLOW 2
+https://m3u8.cloudycx.net/media/hls/files/480p.m3u8
+#http://172.16.29.34/ontest1/ontest1/413
 
 
 
@@ -503,24 +506,24 @@ https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png" group-title="Sports",Sony Sports Ten 5
 https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 
-#EXTINF:-1 group-title="-",Star Sports 1 HD - Rs 19.00
-http://103.115.126.26:8000/play/a03l/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports 1 Hindi HD - Rs 19.00
-http://103.115.126.26:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports 1 Tamil HD - Rs 19.00
-http://103.115.126.26:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports 1 Telugu HD - Rs 19.00
-http://103.115.126.26:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports 2 HD - Rs 19.00
-http://103.115.126.26:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports 3 - Rs 2.00
-http://103.115.126.26:8000/play/a07s/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports First - Rs 0.50
-http://103.115.126.26:8000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports Select 1 HD - Rs 19.00
-http://103.115.126.26:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports Select 2 HD - Rs 15.00
-http://103.115.126.26:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 HD
+http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 Hindi HD
+
+#EXTINF:-1 group-title="-",Star Sports 1 Tamil HD
+
+#EXTINF:-1 group-title="-",Star Sports 1 Telugu HD
+
+#EXTINF:-1 group-title="-",Star Sports 2 HD
+http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
+#EXTINF:-1 group-title="-",Star Sports 3
+
+#EXTINF:-1 group-title="-",Star Sports First
+
+#EXTINF:-1 group-title="-",Star Sports Select 1 HD
+
+#EXTINF:-1 group-title="-",Star Sports Select 2 HD
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="",YRF Music HD
