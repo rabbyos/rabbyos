@@ -290,7 +290,8 @@ http://202.164.50.194:8000/play/a0cr/index.m3u8
 #http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
-http://starshare.org:80/live/Money12345/Money12345/867.m3u8
+http://watchindia.net:8880/41701/62215/803
+#http://starshare.org:80/live/Money12345/Money12345/867.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16958
 #https://fifabd9-fun-tho5.spidy.online/VT/go.php?id=Colors_Cineplex_voot_MOB
 #http://103.115.126.26:8000/play/a03v/index.m3u8
