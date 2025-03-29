@@ -87,7 +87,6 @@ http://kst.moonplex.net:8080/CH3/index.m3u8
 #http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Jalsha
-
 http://172.19.178.39:18190/JS-TV-08/index.m3u8
 #http://103.151.60.204/Star-Jolsha-HD/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=116592&uid=10223&deviceMac=00:1A:79:0A:3B:2D
@@ -125,11 +124,12 @@ http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21658
 #EXTINF:-1 ,All Time
-http://202.164.50.194:8000/play/a07z/index.m3u8
-#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/192959
+#http://202.164.50.194:8000/play/a07z/index.m3u8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/192959
 
 #EXTINF:-1 ,MBC
-http://45.148.145.57/AR_MBCBOLLYOODHD/index.m3u8
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#http://45.148.145.57/AR_MBCBOLLYOODHD/index.m3u8
 #http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/621.m3u8
 #EXTINF:-1 ,
 
@@ -146,7 +146,6 @@ http://45.148.145.57/AR_MBCBOLLYOODHD/index.m3u8
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,
-#EXTINF:-1 tvg-id="44350" tvg-logo="https://i.imghippo.com/files/ojRcn1726452710.png" group-title="HINDI MOVIES",BBO FLIX HINDI
 
 
 #EXTINF:-1,COLORS CINEPLEX
@@ -216,10 +215,8 @@ http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
 
 
 #EXTINF:-1,DISC
-http://bd.bdix.xyz:8880/789865437/789865437/19779
+http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 #http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
-#http://103.115.126.26:8000/play/a057/index.m3u8
-#http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/1967.m3u8
 
 #EXTINF:-1,& PICTURES
 https://live.drmlive-02.workers.dev/zee/pictures.m3u8
@@ -231,12 +228,10 @@ https://cdn-2.pishow.tv/live/1459/1459_0.m3u8
 #http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 
 #EXTINF:-1, GOLDMINE BOLLY
-
 #http://202.164.50.194:8000/play/a08e/index.m3u8
-#http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
+http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1,XPLORE
 https://live.drmlive-02.workers.dev/zee/209.m3u8
-
 #http://tv.mototvlive.net:8880/live/789865437/789865437/2769.m3u8?reffer=http://tv.mototvlive.net:8880/
 #https://play.denver1769.fun/Play/Z5/index.php?id=0-9-209|User-Agent=Denver1769
 #http://activefrance.net:80/PMF3J9X/BV7HG8H/510293
@@ -245,9 +240,9 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #http://202.164.50.194:8000/play/a087/index.m3u8
 #http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441440.m3u8
 #EXTINF:-1 group-title="-",Goldmines 2
-http://202.164.50.194:8000/play/a089/index.m3u8
+
 #EXTINF:-1 group-title="-",Goldmines Action
-http://202.164.50.194:8000/play/a090/index.m3u8
+
 
 
 #EXTINF:-1,UTSAV GOLD
@@ -264,7 +259,7 @@ https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441452
 #EXTINF:-1 group-title="-",MH ONE 
-http://202.164.50.194:8000/play/a0cw/index.m3u8
+
 
 
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
