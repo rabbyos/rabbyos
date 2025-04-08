@@ -88,7 +88,8 @@ http://kst.moonplex.net:8080/CH3/index.m3u8
 #http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Jalsha
-http://172.19.178.39:18190/JS-TV-08/index.m3u8
+http://vocotv.pro:80/vale/vale/693959
+#http://172.19.178.39:18190/JS-TV-08/index.m3u8
 #http://103.151.60.204/Star-Jolsha-HD/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=116592&uid=10223&deviceMac=00:1A:79:0A:3B:2D
 #http://103.175.242.10:8080/starjalsha/index.m3u8
@@ -210,7 +211,7 @@ https://www.tbn24.com/api/video/4029_0.m3u8
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold2
-http://megaott.live:8080/live/gJGhqFvycXv8/EgDTP3WPUz89/48224.m3u8
+http://vocotv.pro:80/live/vale/vale/694100.m3u8
 #http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
 #https://lifetvbd.xyz:8880/live/omor20/omor20/65.m3u8
 
@@ -270,7 +271,7 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://megaott.live:8080/live/gJGhqFvycXv8/EgDTP3WPUz89/48226.m3u8
+http://vocotv.pro:80/live/vale/vale/694098.m3u8
 #http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
 #http://starshare.org:80/live/Money12345/Money12345/210.m3u8
 #http://103.115.126.26:8000/play/a04o/index.m3u8
@@ -512,7 +513,8 @@ https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
 https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
 
 #EXTINF:-1 group-title="-",Star Sports 1 HD
-http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
+http://vocotv.pro:80/live/vale/vale/694065.m3u8
+#http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
 #EXTINF:-1 group-title="-",Star Sports 1 Hindi HD
 
 #EXTINF:-1 group-title="-",Star Sports 1 Tamil HD
@@ -520,7 +522,8 @@ http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
 #EXTINF:-1 group-title="-",Star Sports 1 Telugu HD
 
 #EXTINF:-1 group-title="-",Star Sports 2 HD
-http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
+http://vocotv.pro:80/live/vale/vale/694058.m3u8
+#http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
 #EXTINF:-1 group-title="-",Star Sports 3
 
 #EXTINF:-1 group-title="-",Star Sports First
