@@ -1,7 +1,7 @@
 #EXTM3U8
 #EXTM3U
 #EXTINF:-1,Taikies
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=671569&extension=ts&play_token=eoBM3aO2IE
+
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
 
@@ -132,7 +132,8 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #http://45.148.145.57/AR_MBCBOLLYOODHD/index.m3u8
 #http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/621.m3u8
 #EXTINF:-1 ,MINIPLEX
-http://gotit14.xyz:80/2F635BX/ZJX02CY/72212
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=373023&extension=ts&play_token=OMXizBz4cg
+#http://gotit14.xyz:80/2F635BX/ZJX02CY/72212
 
 #EXTINF:-1 ,
 
@@ -285,12 +286,12 @@ https://jmp2.uk/sam-IN38000072R.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisiK50nT9KXOAVZcRYy4aTrv4cVP9btrY4_s2KvXzXaSzGeUEmvgE3Gj4&s=10" group-title="Hindi Movies",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cH2PYV0B/BFlix-Movies.jpg" group-title="Hindi Movies",BFlix Movies
-http://202.164.50.194:8000/play/a0cr/index.m3u8
-#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441460
+#http://202.164.50.194:8000/play/a0cr/index.m3u8
+http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441460
 #http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
-http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/48060
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=373051&extension=ts&play_token=FBpzkim4iB
 #http://watchindia.net:8880/41701/62215/803
 #http://starshare.org:80/live/Money12345/Money12345/867.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16958
