@@ -334,8 +334,8 @@ http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Asiantv" tvg-id="local_out/asiantv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png",Asiantv
 http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnbangla" tvg-id="local_out/atnbangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",Atnbangla
-#http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=5353&deviceMac=00:1A:79:0A:3B:2D
-http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/1722.m3u8
+#http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnnews" tvg-id="local_out/atnnews" tvg-logo="https://yt3.googleusercontent.com/orKgO3oLUrLX5tIicxAzciYawyRQGmJnrnT9ixiHnSEaqPeIDar0Glk7dBpclUj8INXMwBrClw=s900-c-k-c0x00ffffff-no-rj",Atnnews
 http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Banglatv" tvg-id="local_out/banglatv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Banglatv
