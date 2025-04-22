@@ -33,8 +33,12 @@ https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 #EXTINF:-1 ,Movies Hd
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446017
 
-#EXTINF:-1 ,TOFFE DRAMA
+#EXTINF:-1 ,MUSIC
+#EXTINF:-1 group-title="2. JAGOBD",RB TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="3. BANGLA",MUSIC BANGLA
+http://live.matribhumitv.com/music-bangla/index.m3u8
 
 #EXTINF:-1 ,TOFFE MOVIE
 
@@ -530,73 +534,18 @@ http://vocotv.pro:80/live/vale/vale/694058.m3u8
 #EXTINF:-1 group-title="-",Star Sports Select 1 HD
 
 #EXTINF:-1 group-title="-",Star Sports Select 2 HD
+#EXTINF:-1 ,YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png",9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
+#EXTINF:-1 , MASTI III
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:-1 group-title="2. JAGOBD",Zoom
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="",YRF Music HD
-http://app.luckonline.eu:80/Sohail02/myQYkEntaxuZ/628
-#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi Music",Hindi Hits HD
-https://lifetvbd.xyz:8880/live/omor20/omor20/5104.m3u8
-#http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 ,MTV BEATS
-http://app.luckonline.eu:80/Sohail02/myQYkEntaxuZ/609
-#http://103.115.126.26:8000/play/a05u/index.m3u8
-#https://lifetvbd.xyz:8880/live/omor20/omor20/110.m3u8
-#http://tv.cloudcdn.me:80/live.ts?channelId=173&uid=15760&deviceMac=00:1A:79:0A:3B:2D
-#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63571
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Hindi Music" group-title="",9XM
-http://202.164.50.194:8000/play/a06o/index.m3u8
-#http://mega4k.one:8080/chanpreet/chanpreet/97331
-#http://tv.cloudcdn.me:80/live.ts?channelId=143&uid=15760&deviceMac=00:1A:79:0A:3B:2D
-#http://line.rs6ott.com/live/ae5d4c3c9212/06041c6c3379/280784.ts
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Mastii Music
-https://epiconvh.akamaized.net/live/showbox/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi Music" group-title="",Show Box
-https://epiconvh.s.llnwi.net/showbox/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Hindi Music" group-title="",Zoom
-http://app.luckonline.eu:80/Sohail02/myQYkEntaxuZ/624
-#http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/624.m3u8
-https://lifetvbd.xyz:8880/live/omor20/omor20/26.m3u8
-#http://tv.cloudcdn.me:80/live.ts?channelId=121&uid=15760&deviceMac=00:1A:79:0A:3B:2D
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="Hindi Music",Music India
-http://202.164.50.194:8000/play/a06l/index.m3u8
-#http://tv.cloudcdn.me:80/live.ts?channelId=175&uid=15760&deviceMac=00:1A:79:0A:3B:2D
-#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63403
-#EXTINF:-1 ,SPORTS 18 1
-https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1741520182~acl=/*~hmac=1a03b1cce9e170f94589ef43002f4ca93183df5ba52f1fb9319f3d2151846076
-#https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
-#http://172.16.29.34/ontest1/ontest1/336
-#EXTINF:-1 ,SKY SPORTS CRICKET
-
-
-#EXTINF:-1 ,TEN SPORTS
-
-
-#EXTINF:-1 ,CARTOON NETWORK
-http://103.115.126.26:8000/play/a089/index.m3u8
-#https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
-#EXTINF:-1 ,CARTOON NETWORK HD+
-http://103.110.110.11:8081/live/cartoon/playlist.m3u8
-#EXTINF:-1 ,
-
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-
-#EXTINF:-1 ,
 
 #EXTINF:-1 ,
 
