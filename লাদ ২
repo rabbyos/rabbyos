@@ -142,7 +142,8 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/621.m3u8
 #EXTINF:-1 ,MINIPLEX
 #http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/276965.m3u8
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=373023&extension=ts&play_token=OMXizBz4cg
+http://hin1.packetcdn.me:8972/85fc3b8d28529a59beb5bb3c2dc27a025b65b86193241c4830781dfc0eacba/index.m3u8?token=3e5c81d36d6062fed424248d7e58ad8e0e223fccb19de2673c0d92549de2a9d88654f19710f68a7fcd72fb657dc8720e725d16316c83547bc5a69f9ad7589e6392c9208b1805-7b76582e06df53d21d33cf90858eab94
+#http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=373023&extension=ts&play_token=OMXizBz4cg
 #http://gotit14.xyz:80/2F635BX/ZJX02CY/72212
 
 #EXTINF:-1 ,
@@ -282,7 +283,8 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/276911.m3u8
+http://hin1.packetcdn.me:8972/85fc3b8d28529a59beb5bb3c2dc27a025b65b8618d3913533f7317e815bbada47e44d2f13462af/index.m3u8?token=4be14d0ca1f1fb0cf9691c38f20bcc32003eb16376f01c7929b293432ca5d0d5db191a9aaa81af94f0ffcf2e3a71bc13830d6f0242cad8e6e09e0fff2910999ed9e3b0ecffb2-28494b2c8a0bc8fe850502e42b9d16ec
+#http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/276911.m3u8
 #http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
 #http://starshare.org:80/live/Money12345/Money12345/210.m3u8
 #http://103.115.126.26:8000/play/a04o/index.m3u8
