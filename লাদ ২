@@ -3,6 +3,8 @@
 #EXTINF:-1,  BTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 #EXTINF:-1,Taikies
+http://hin1.packetcdn.me:8972/85fc3b8d28529a59beb5bb3c2dc36108407fa06a9f2119482567/index.m3u8?token=5dbecf4b166ad8f20eb94db7638027eb0626872b8ae1adc906dee66ff1b9e82c8f7349a63b4d0eb55b04994493ab31f41288e79951c0d2240ced0277a93e413df102922133e0-57b85b3afab4f86fb7c1383870cd69be
+#EXTINF:-1,  CINEMA
 http://45.148.145.57/IN_StarGold2/index.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_6.m3u8
