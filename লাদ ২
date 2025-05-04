@@ -11,7 +11,8 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 
 #EXTINF:-1 ,TSPORT
 #https://moonkerala.xyz/jcinema/stream.m3u8?id=0000002|Referer=https://moonkerala.xyz/
-http://kst.moonplex.net:8080/CH2/index.m3u8
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/.ts
+#http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 ,ZEE CINEMA HD
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
@@ -344,40 +345,50 @@ http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Greentv" tvg-id="local_out/greentv" tvg-logo="https://i.ibb.co/RNMfMSz/green-tv-digital-logo-e-2147483647-v-beta-t-e13u-TEB4gj-Qa1o-Htunxrh0ow-TBt-Qhy1d-Rnf0g7-h2e8.jpg",Greentv
 http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Asiantv" tvg-id="local_out/asiantv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/800px-Asian_TV_Logo.svg.png",Asiantv
-http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3oPDxxNOHaf1vCi1T6JNGA/.ts
+#http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnbangla" tvg-id="local_out/atnbangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",Atnbangla
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/1722.m3u8
 #http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnnews" tvg-id="local_out/atnnews" tvg-logo="https://yt3.googleusercontent.com/orKgO3oLUrLX5tIicxAzciYawyRQGmJnrnT9ixiHnSEaqPeIDar0Glk7dBpclUj8INXMwBrClw=s900-c-k-c0x00ffffff-no-rj",Atnnews
-http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbr7tznLQfRHlkqWyjbZrc/.ts
+#http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Banglatv" tvg-id="local_out/banglatv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Banglatv
 http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Banglavision" tvg-id="local_out/banglavision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpQDWg5tjkpION52cCgsx1tRtR0R1SYfvHQ&s",Banglavision
-http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxZs0o8I4EG1wfbna0vngpo/.ts
+#http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Btv" tvg-id="local_out/btv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Bangladesh_Television_Logo.svg",Btv
 http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Channel24" tvg-id="local_out/channel24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png",Channel 24
-http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7xUx0YT-eZSOJM5vzFXQc0/.ts
+#http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 tvg-name="Channel9" tvg-id="local_out/channel9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1280px-Channel9_bd.svg.png",Channel 9
 http://103.163.247.39/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Channeli" tvg-id="local_out/channeli" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/82222195941.png",Channel i
-http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9wNRL3H3YXOqIWwmA39Dug/.ts
+#http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Colorsbanglahd" tvg-id="local_out/colorsbanglahd" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/98881060371.png",COLORS BANGLA HD
 http://103.163.247.39/local_out/colorsbanglahd/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Dbcnews" tvg-id="local_out/dbcnews" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mcjICfjqYwOn4eljNmtsZLBpOmW0t0JlzJUhXSslAkBVo=s900-c-k-c0x00ffffff-no-rj",Dbcnews
-http://103.163.247.39/local_out/dbcnews/video.m3u8?token=At5F1MFZYnciB3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_c-juLWCidG_f87qmcpH-o/.ts
+#http://103.163.247.39/local_out/dbcnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Deepto" tvg-id="local_out/deepto" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/10599646091.png",Deepto
-#https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-http://103.163.247.39/local_out/deepto/video.m3u8?token=At5F1MFZYnciB3
+#http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_7KUEPhrDuFXaAlxtVkpKE/.ts
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#http://103.163.247.39/local_out/deepto/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Deshtv" tvg-id="local_out/deshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg?20230113005235", Desh TV
-http://103.163.247.39/local_out/deshtv/video.m3u8?token=At5F1MFZYnciB3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzCO6nUZdf53Bsy0Mzt6WU4/.ts
+#http://103.163.247.39/local_out/deshtv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Duronto" tvg-id="local_out/duronto" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/7ec1c6413f7d988bc964a6e7dfd65024.png",Duronto
 http://103.163.247.39/local_out/duronto/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Ekattortv" tvg-id="local_out/ekattortv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkA9JiFh7mPzvSJaR1VRwnRR-RI8CSyciGhA&s",Ekattortv
-http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6mXC-KJP5guDTqwni-oYlQ/.ts
+#http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Ekhontv" tvg-id="local_out/ekhontv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJghBvTz9mJsxJ1GIMQLuMTidXo4k0yy8_Q&s",Ekhontv
-http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2BVl1RSX4ezkUjtgNCVHQ4/.ts
+#http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Ekusheytv" tvg-id="local_out/ekusheytv" tvg-logo="http://img-cdn.curl.pk:8880/chimg/8210567643.jpg",Ekusheytv
 http://103.163.247.39/local_out/ekusheytv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Gaanbangla" tvg-id="local_out/gaanbangla" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kO8uM2Iwy-Ydtu6i3Gsku6Q2dskadTbtOUIEZ7BvGdNWQ=s900-c-k-c0x00ffffff-no-rj",Gaanbangla
@@ -407,7 +418,8 @@ http://103.163.247.39/local_out/ntv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Rtv" tvg-id="local_out/rtv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/b1bc9580f8e5d656e0eddd664e6c4830.png",Rtv
 http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Boishakhi" tvg-id="local_out/boishakhi" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/87695160791.png",Boishakhi
-http://103.163.247.39/local_out/boishakhi/video.m3u8?token=At5F1MFZYnciB3
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_FyNforKHGnrkd_iikb_Hk/.ts
+#http://103.163.247.39/local_out/boishakhi/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Satv" tvg-id="local_out/satv" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/76934174321.png", Satv
 http://103.163.247.39/local_out/satv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="akash3" tvg-logo="https://i.ibb.co.com/C68mTwM/ekattor-Farid.jpg" group-title="Bangladesh", Ekattor TV
