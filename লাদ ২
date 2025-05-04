@@ -93,8 +93,8 @@ http://www.luckonline.eu:80/live/restream234509023/5667883dhlkths89/3527.m3u8
 #http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Jalsha
-http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/277424.m3u8
-#http://smart.bengaldigital.live/Star-jalsha/index.m3u8
+#http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/277424.m3u8
+http://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #http://172.19.178.39:18190/JS-TV-08/index.m3u8
 #http://103.151.60.204/Star-Jolsha-HD/index.m3u8
 #http://tv.cloudcdn.me/live.ts?channelId=116592&uid=10223&deviceMac=00:1A:79:0A:3B:2D
@@ -110,7 +110,7 @@ http://38.96.178.201/live/STARJALSHA/index.m3u8
 #http://172.16.29.34/ontest1/ontest1/389.m3u8
 #http://10.21.56.46:9191/News-24/tracks-v1a1/mono.m3u8?token=6d529d144b53a7bc8abfe96c5e59906fa2a8ad0c-a5c272ffd9c3e42c94487f00d243ae77-1723775977-172
 #EXTINF:-1,StarJalshaHD
-http://kst.moonplex.net:8080/CH3/index.m3u8
+http://kst.moonplex.net:8080/CH3/index.m3u8?token=At5F1MFZYnciB3
 #https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
 #http://172.19.178.49:18190/sn-starjalsha/tracks-v1a1/mono.m3u8
 #http://megaott.live:8080/live/45ffgauksas/gu8krWn2CuxE/39881.m3u8
