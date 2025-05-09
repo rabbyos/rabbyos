@@ -3,7 +3,7 @@
 #EXTINF:-1,  BTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 #EXTINF:-1,Taikies
-http://hin1.packetcdn.me:8972/85fc3b8d28529a59beb5bb3c2dc36108407fa06a9f2119482567/index.m3u8?token=5dbecf4b166ad8f20eb94db7638027eb0626872b8ae1adc906dee66ff1b9e82c8f7349a63b4d0eb55b04994493ab31f41288e79951c0d2240ced0277a93e413df102922133e0-57b85b3afab4f86fb7c1383870cd69be
+
 #EXTINF:-1,  CINEMA
 http://45.148.145.57/IN_StarGold2/index.m3u8
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
@@ -565,18 +565,45 @@ http://vocotv.pro:80/live/vale/vale/694058.m3u8
 #EXTINF:-1 group-title="-",Star Sports Select 1 HD
 
 #EXTINF:-1 group-title="-",Star Sports Select 2 HD
-#EXTINF:-1 ,YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Music",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png",9X Jalwa
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-#EXTINF:-1 , MASTI III
+
+#EXTINF:0, B4U Music UK
+#EXTGRP:Music
+http://b1g.uk:80/play/live.php?mac=00:1A:79:B4:3D:F2&stream=621041&extension=ts&play_token=OeSeP7ChJG&sn2=
+#EXTINF:0,B4U Music
+#EXTGRP:Music
+https://cdn-2.pishow.tv/live/415/master.m3u8
+#EXTINF:0,Mastiii
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
-#EXTINF:-1 group-title="2. JAGOBD",Zoom
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8
-
-
+#EXTINF:0, Hindi Hits
+#EXTGRP:Music
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:0, Zoom
+#EXTGRP:Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+#EXTINF:0,YRF Music
+#EXTGRP:Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:0, E24
+#EXTGRP:Music
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist_1824k.m3u8
+#EXTINF:0,9XM
+#EXTGRP:Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+#EXTINF:0,9X Jalwa
+#EXTGRP:Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+#EXTINF:0, MTV Beats
+#EXTGRP:Music
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:77:87:1A&stream=373021&extension=ts&play_token=yxdNH51iqr
+#EXTINF:0, Music India
+#EXTGRP:Music
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:0, Music India UK
+#EXTGRP:Music
+http://92.114.85.72:8000/play/a0oc
+#EXTINF:0, iLove
+#EXTGRP:Music
+https://cdn-2.pishow.tv/live/238/master.m3u8
 
 #EXTINF:-1 ,
 
