@@ -45,13 +45,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="3. BANGLA",MUSIC BANGLA
 http://live.matribhumitv.com/music-bangla/index.m3u8
 
-#EXTINF:-1 ,TOFFE MOVIE
-
+#EXTINF:-1 ,SHEMARO MOVIE
+http://103.145.48.150:90/laosat24/shemarootv/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA
 https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
 #http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:-1,
-
+#EXTINF:-1,Bangla
+http://103.145.48.150:90/laosat24/filmytv/index.m3u8
 #EXTINF:-1 ,
 
 #EXTINF:-1 ,
