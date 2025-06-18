@@ -52,8 +52,8 @@ https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
 #http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1,Bangla
 http://103.145.48.150:90/laosat24/filmytv/index.m3u8
-#EXTINF:-1 ,
-
+#EXTINF:-1 ,CHANNEL A1
+https://iptvbd.live/channela1/1080.m3u8
 #EXTINF:-1 ,
 #EXTINF:-1 ,
 #EXTINF:-1 ,
