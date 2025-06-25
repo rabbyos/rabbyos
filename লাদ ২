@@ -241,14 +241,15 @@ http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/62668.m3u8
 #http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
 
 #EXTINF:-1,& PICTURES
-https://live.drmlive-02.workers.dev/zee/pictures.m3u8
+http://stvlive.net:8080/andpicture/index.m3u8
+#https://live.drmlive-02.workers.dev/zee/pictures.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:4C:95:D3
 
 #EXTINF:-1,GOLDMINE
-#https://cdn-2.pishow.tv/live/1459/master.m3u8
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 #https://cdn-2.pishow.tv/live/1459/1459_0.m3u8
 #http://202.164.50.194:8000/play/a08j/index.m3u8
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
+#http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 
 #EXTINF:-1, GOLDMINE BOLLY
 #http://202.164.50.194:8000/play/a08e/index.m3u8
@@ -259,9 +260,9 @@ https://live.drmlive-02.workers.dev/zee/209.m3u8
 #https://play.denver1769.fun/Play/Z5/index.php?id=0-9-209|User-Agent=Denver1769
 #http://activefrance.net:80/PMF3J9X/BV7HG8H/510293
 #EXTINF:-1,GOLDMINE MOVIE
-#https://cdn-2.pishow.tv/live/1461/master.m3u8
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 #http://202.164.50.194:8000/play/a087/index.m3u8
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441440.m3u8
+#http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441440.m3u8
 #EXTINF:-1 group-title="-",Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 group-title="-",Goldmines Action
