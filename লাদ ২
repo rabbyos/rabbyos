@@ -147,9 +147,9 @@ http://tv.bdiptv.store/live/restream/restreamkk/81.m3u8
 http://tv.bdiptv.store/live/restream/restreamkk/27.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21658
-#EXTINF:-1 ,All Time
-#http://202.164.50.194:8000/play/a07z/index.m3u8
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/192959
+#EXTINF:-1 ,Star movies
+http://tv.bdiptv.store/live/restream/restreamkk/95.m3u8
+
 
 #EXTINF:-1 ,MBC
 #https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
@@ -246,7 +246,8 @@ http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/277061.m3u8
 
 
 #EXTINF:-1,DISC
-http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/62668.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/98.m3u8
+#http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/62668.m3u8
 #http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 #http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
 
