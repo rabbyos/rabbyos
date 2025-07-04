@@ -15,11 +15,12 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
 #EXTINF:-1 ,TSPORT
 #https://moonkerala.xyz/jcinema/stream.m3u8?id=0000002|Referer=https://moonkerala.xyz/
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/.ts
+http://tv.bdiptv.store/live/restream/restreamkk/37.m3u8
+#http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/.ts
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 ,ZEE CINEMA HD
-https://smart.pendy.dpdns.org/Smart.php?id=Zeecinemahd&e=m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/28.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:4C:95:D3
 #http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
@@ -33,7 +34,7 @@ https://live.drmlive-02.workers.dev/zee/zing.m3u8
 
 #EXTINF:-1,  Zee Bangla
 #http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/39888
-http://103.175.242.10:8080/zeebangla/index.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/14.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
 #http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:4C:95:D3
@@ -91,7 +92,7 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 
 
 #EXTINF:-1 ,STARJALSHA
-http://stvlive.net:8080/starjalsha/index.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/52.m3u8
 #https://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:-1 ,STARJALSHA HD
 #http://103.89.248.26:8082/Star_jalsha/tracks-a1/index.fmp4.m3u8?token=612ec94bc66ca5e5c571ccae4664637d3ae4d1bf-958203d2366f5f39edabdd2e29b50024-1738324394-1738313594
@@ -137,26 +138,27 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1,Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 ,JALSHA MOVIES
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5czJZdJL5NIAEXBZ-4lMb0/.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/81.m3u8
+#http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5czJZdJL5NIAEXBZ-4lMb0/.m3u8
 #http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/277425.m3u8
 #http://honeywatch.net:80/play/live.php?mac=00:1a:79:cb:FF:E1&stream=1118058&extension=ts&play_token=tqXptndjnr
 #http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 #EXTINF:-1,ZEE BANGLA CINEMA
-https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/27.m3u8
+#https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21658
 #EXTINF:-1 ,All Time
 #http://202.164.50.194:8000/play/a07z/index.m3u8
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/192959
 
 #EXTINF:-1 ,MBC
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#http://45.148.145.57/AR_MBCBOLLYOODHD/index.m3u8
+#https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+http://45.148.145.57/AR_MBCBOLLYOODHD/index.m3u8
 #http://app.luckonline.eu:80/live/0c%3A89%3A10%3Ae8%3A1c%3Ad4/869/621.m3u8
 #EXTINF:-1 ,MINIPLEX
-#http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/276965.m3u8
-http://hin1.packetcdn.me:8972/85fc3b8d28529a59beb5bb3c2dc27a025b65b86193241c4830781dfc0eacba/index.m3u8?token=3e5c81d36d6062fed424248d7e58ad8e0e223fccb19de2673c0d92549de2a9d88654f19710f68a7fcd72fb657dc8720e725d16316c83547bc5a69f9ad7589e6392c9208b1805-7b76582e06df53d21d33cf90858eab94
+http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/276965.m3u8
 #http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=373023&extension=ts&play_token=OMXizBz4cg
-#http://gotit14.xyz:80/2F635BX/ZJX02CY/72212
+#http://gotit14.xyz:80/2F635BX/ZJX02CY/72212.ts
 
 #EXTINF:-1 ,
 
@@ -208,6 +210,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306556
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
+#http://tv.bdiptv.store/live/restream/restreamkk/23.m3u8
 #https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #https://lifetvbd.xyz:8880/omor20/omor20/2800
@@ -225,7 +228,8 @@ https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0/.ts
+http://tv.bdiptv.store/live/restream/restreamkk/92.ts
+#http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0/.ts
 #http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
 #http://103.115.126.26:8000/play/a08u/index.m3u8
 #https://lifetvbd.xyz:8880/live/omor20/omor20/2586.m3u8
@@ -342,7 +346,8 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwqgyVIvQj6A55n5tJfJ-YA/.ts
 
 
 #EXTINF:-1 ,SONY AATH 
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/18.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
 #https://lifetvbd.xyz:8880/omor20/omor20/3157
 #http://tv.mototvlive.net:8880/live/hasan19/hasan1519/19805.m3u8
 #http://10.21.56.46:9191/sony-aath/index.m3u8?token=7544977764f42e2ff814050fdb3e53f1a62a2403-a70868c9ef53a27bd34a3b901c0ae297-1739917528-1739906728
@@ -361,7 +366,7 @@ http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3oPDxxNOHaf1vCi1T6JNGA/.ts
 #http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnbangla" tvg-id="local_out/atnbangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",Atnbangla
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/1722.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/67.m3u8
 #http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Atnnews" tvg-id="local_out/atnnews" tvg-logo="https://yt3.googleusercontent.com/orKgO3oLUrLX5tIicxAzciYawyRQGmJnrnT9ixiHnSEaqPeIDar0Glk7dBpclUj8INXMwBrClw=s900-c-k-c0x00ffffff-no-rj",Atnnews
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxbr7tznLQfRHlkqWyjbZrc/.ts
@@ -383,13 +388,15 @@ http://103.163.247.39/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9wNRL3H3YXOqIWwmA39Dug/.ts
 #http://103.163.247.39/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Colorsbanglahd" tvg-id="local_out/colorsbanglahd" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/98881060371.png",COLORS BANGLA HD
-http://103.163.247.39/local_out/colorsbanglahd/video.m3u8?token=At5F1MFZYnciB3
+http://tv.bdiptv.store/live/restream/restreamkk/91.m3u8
+#http://103.163.247.39/local_out/colorsbanglahd/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Dbcnews" tvg-id="local_out/dbcnews" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mcjICfjqYwOn4eljNmtsZLBpOmW0t0JlzJUhXSslAkBVo=s900-c-k-c0x00ffffff-no-rj",Dbcnews
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_c-juLWCidG_f87qmcpH-o/.ts
 #http://103.163.247.39/local_out/dbcnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Deepto" tvg-id="local_out/deepto" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/10599646091.png",Deepto
 #http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_7KUEPhrDuFXaAlxtVkpKE/.ts
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/38.m3u8
+#https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #http://103.163.247.39/local_out/deepto/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-name="Deshtv" tvg-id="local_out/deshtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg?20230113005235", Desh TV
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAzCO6nUZdf53Bsy0Mzt6WU4/.ts
@@ -507,8 +514,8 @@ http://live.dataplayer.in:8080/live/rmmeghnatv.m3u8?hls_ctx=s3o5u428
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtxSW4E0BEhj1UDKM2KgvzPFfyCBtq6D-Bg&s" , Gazi TV
-#http://172.16.29.34/ontest1/ontest1/233
-http://10.21.56.46:9191/GAZI/index.m3u8?token=a860132d61aeb4a9b8fadb32de2f693e26b2d2b4-69cfbebdb240cefc6adee039fb9b9a05-1728981188-1728970388
+http://tv.bdiptv.store/live/restream/restreamkk/87.m3u8
+#http://10.21.56.46:9191/GAZI/index.m3u8?token=a860132d61aeb4a9b8fadb32de2f693e26b2d2b4-69cfbebdb240cefc6adee039fb9b9a05-1728981188-1728970388
 
 
 
