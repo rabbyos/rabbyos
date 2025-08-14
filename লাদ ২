@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1,  BTV
 #EXTINF:-12, 24/7 Bangla Movies
@@ -27,7 +26,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3727.ts
 #http://45.148.145.57/IN_ZeeCinemaHD/index.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1350
 #EXTINF:-1 ,ZING
-https://live.drmlive-02.workers.dev/zee/zing.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=943732&extension=ts&play_token=n3v5RNcAJP
+#https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1347
 #http://mega4k.one:8080/chanpreet/chanpreet/62238
 #https://lifetvbd.xyz:8880/live/omor20/omor20/6.m3u8
