@@ -41,7 +41,8 @@ http://tv.bdiptv.store/live/restream/restreamkk/14.m3u8
 #http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PROBASHI BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,ANMOL2 BDIX
-https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12342.ts
+#https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 #EXTINF:-1 ,Movies Hd
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446017
 
@@ -147,9 +148,8 @@ http://tv.bdiptv.store/live/restream/restreamkk/81.m3u8
 http://tv.bdiptv.store/live/restream/restreamkk/27.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21658
-#EXTINF:-1 ,Star movies
-http://tv.bdiptv.store/live/restream/restreamkk/95.m3u8
-
+#EXTINF:-1 ,All Time
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12346.ts
 
 #EXTINF:-1 ,MBC
 #https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
