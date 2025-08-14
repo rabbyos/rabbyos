@@ -20,7 +20,7 @@ http://tv.bdiptv.store/live/restream/restreamkk/37.m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 ,ZEE CINEMA HD
-http://tv.bdiptv.store/live/restream/restreamkk/28.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3727.ts
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:4C:95:D3
 #http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
@@ -228,8 +228,7 @@ https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD
-http://tv.bdiptv.store/live/restream/restreamkk/92.ts
-#http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0/.ts
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0/.ts
 #http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
 #http://103.115.126.26:8000/play/a08u/index.m3u8
 #https://lifetvbd.xyz:8880/live/omor20/omor20/2586.m3u8
@@ -237,7 +236,7 @@ http://tv.bdiptv.store/live/restream/restreamkk/92.ts
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold2
-http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/277061.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
 #http://gotit14.xyz:80/2F635BX/ZJX02CY/510292
 #http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
 #https://lifetvbd.xyz:8880/live/omor20/omor20/65.m3u8
@@ -252,7 +251,7 @@ http://tv.bdiptv.store/live/restream/restreamkk/98.m3u8
 #http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
 
 #EXTINF:-1,& PICTURES
-http://stvlive.net:8080/andpicture/index.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3655.ts
 #https://live.drmlive-02.workers.dev/zee/pictures.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:4C:95:D3
 
@@ -342,7 +341,8 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwqgyVIvQj6A55n5tJfJ-YA/.ts
 #http://45.148.145.57/IN_STS/index.m3u8
 #http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856.m3u8
 
-
+#EXTINF:-1,ZEE TV FHD
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3729.ts
 
 
 
