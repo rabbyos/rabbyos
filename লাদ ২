@@ -236,7 +236,8 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0/.ts
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold2
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=671573&extension=ts&play_token=aDUam1frFC
+https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
+#http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=671573&extension=ts&play_token=aDUam1frFC
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
 #http://gotit14.xyz:80/2F635BX/ZJX02CY/510292
 #http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
@@ -526,6 +527,50 @@ http://tv.bdiptv.store/live/restream/restreamkk/87.m3u8
 http://10.21.56.46:9191/t-sports/index.m3u8?token=08aee99f69a04616c00e64b05bcf7a86fe64854c-7b21c92ba1a856749cffb545ffa393f3-1728981197-1728970397
 #EXTINF:-1,  TSPORTS 2
 https://lifetvbd.xyz:8880/live/omor20/omor20/9542.m3u8
+#EXTINF:-1, tvg-id="27", tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starsportshd1hindi.png", group-title="Sports",Star Sports-1 Hindi
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
+
+#EXTINF:-1, tvg-id="", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKl2XEAhGamZ3AAGuPaXHP0bf3elKcoDmZJIZ-QJ0t8smeEg_VBbTmXy8", group-title="Sports",Star Sports 1
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
+
+#EXTINF:-1, tvg-id="", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359", group-title="Sports",Star Sports 2
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
+
+#EXTINF:-1, tvg-id="", tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP8j8Vc_lguK13yQO9X3u_hvSXI2kmnJAywg&s", group-title="Sports",Star Sports 3
+https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
+
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png", group-title="Sports",Star sports select 1
+http://103.122.252.100:8080/STAR-SPORTS-SELECT-1/index.m3u8
+
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png", group-title="Sports",Star sports select 2
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+
+#EXTINF:-1, tvg-id="", tvg-logo="https://i.postimg.cc/rwZdgMp5/download.png", group-title="Sports",Star sports select 1 Hindi
+https://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8
+
+#EXTINF:-1, tvg-id="1033", tvg-logo="https://live.dinesh29.com.np/logos/jiotv/starsportskhel.png", group-title="Sports",star sports khel
+https://live.dinesh29.com.np/stream/jiotvplus/starsportskhel/master.m3u8
+
+#EXTINF:-1, tvg-id="812", tvg-logo="", group-title="Sports",Euro Sports
+http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
+
+#EXTINF:-1, tvg-id="sony-ten-1-hd", tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", group-title="Sports",Sony Sports Ten 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1, tvg-id="sony-ten-2-hd", tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png", group-title="Sports",Sony Sports Ten 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+
+#EXTINF:-1, tvg-id="sony-ten-3-hd", tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png", group-title="Sports",Sony Sports Ten 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#EXTINF:-1, tvg-id="sony-ten-4-hd", tvg-logo="https://wwwhttps://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png", group-title="Sports",Sony Sports Ten 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1, tvg-id="sony-ten-5-hd", tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png", group-title="Sports",Sony Sports Ten 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#EXTINF:-1, tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png", group-title="Sports",PTV Sports
+http://103.122.252.100:8080/PTV-SPORTS/index.m3u8
 
 #EXTINF:-1,WILLOW 2
 https://m3u8.cloudycx.net/media/hls/files/480p.m3u8
@@ -560,33 +605,6 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-1-hd" tvg-logo="https://i.postimg.cc/6QYLXBdk/SONY-SPORTS-TEN-1.png" group-title="Sports",Sony Sports Ten 1
-https://otttv.co.in/d2h/livestream/sony-ten-1-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-2-hd" tvg-logo="https://i.postimg.cc/FsbQV6bf/SONY-SPORTS-TEN-2.png" group-title="Sports",Sony Sports Ten 2
-https://otttv.co.in/d2h/livestream/sony-ten-2-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3" tvg-language="Hindi" tvg-country="IN" tvg-chno="sony-ten-3-hd" tvg-logo="https://i.postimg.cc/nzLv0NQn/SONY-SPORTS-TEN-3.png" group-title="Sports",Sony Sports Ten 3
-https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8
-#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5" tvg-language="English" tvg-country="IN" tvg-chno="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/Vs72zb9N/SONY-SPORTS-TEN-5.png" group-title="Sports",Sony Sports Ten 5
-https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8
-
-#EXTINF:-1 group-title="-",Star Sports 1 HD
-http://vocotv.pro:80/live/vale/vale/694065.m3u8
-#http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
-#EXTINF:-1 group-title="-",Star Sports 1 Hindi HD
-
-#EXTINF:-1 group-title="-",Star Sports 1 Tamil HD
-
-#EXTINF:-1 group-title="-",Star Sports 1 Telugu HD
-
-#EXTINF:-1 group-title="-",Star Sports 2 HD
-http://vocotv.pro:80/live/vale/vale/694058.m3u8
-#http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
-#EXTINF:-1 group-title="-",Star Sports 3
-
-#EXTINF:-1 group-title="-",Star Sports First
-
-#EXTINF:-1 group-title="-",Star Sports Select 1 HD
-
-#EXTINF:-1 group-title="-",Star Sports Select 2 HD
 
 #EXTINF:0, B4U Music UK
 #EXTGRP:Music
