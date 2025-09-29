@@ -14,27 +14,28 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
 #EXTINF:-1 ,TSPORT
 #https://moonkerala.xyz/jcinema/stream.m3u8?id=0000002|Referer=https://moonkerala.xyz/
-http://tv.bdiptv.store/live/restream/restreamkk/37.m3u8
-#http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/.ts
+
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/.ts
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 ,ZEE CINEMA HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3727.ts
+http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:4C:95:D3
 #http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
 #http://45.148.145.57/IN_ZeeCinemaHD/index.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1350
 #EXTINF:-1 ,ZING
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=943732&extension=ts&play_token=n3v5RNcAJP
+https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
+#http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=943732&extension=ts&play_token=n3v5RNcAJP
 #https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1347
 #http://mega4k.one:8080/chanpreet/chanpreet/62238
 #https://lifetvbd.xyz:8880/live/omor20/omor20/6.m3u8
 
 #EXTINF:-1,  Zee Bangla
+http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/39888
-http://tv.bdiptv.store/live/restream/restreamkk/14.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
 #http://tv.cloudcdn.me:80/live.ts?channelId=132512&uid=15760&deviceMac=00:1A:79:4C:95:D3
@@ -45,7 +46,6 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12342.ts
 #https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 #EXTINF:-1 ,Movies Hd
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446017
-
 #EXTINF:-1 ,SANGEET BANGLA
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 group-title="2. JAGOBD",RB TV
