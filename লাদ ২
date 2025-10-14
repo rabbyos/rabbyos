@@ -212,7 +212,8 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
 #http://tv.bdiptv.store/live/restream/restreamkk/23.m3u8
 #https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+http://116.90.120.149:8000/play/a0bw/index.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #https://lifetvbd.xyz:8880/omor20/omor20/2800
 #http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
 #http://103.205.133.71/SonyMaxFHD/index.m3u8
