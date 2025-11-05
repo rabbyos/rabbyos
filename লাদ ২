@@ -1,5 +1,8 @@
 #EXTM3U
 #EXTINF:-1,  BTV
+#EXTINF:-1 group-title="India" tvg-id="Zee Amol Cinema" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",MOV | Zee Amol Cinema
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8
+
 #EXTINF:-12, 24/7 Bangla Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-12, 24/7 Dubbed Movies
