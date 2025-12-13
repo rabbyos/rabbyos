@@ -24,7 +24,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/.ts
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 ,ZEE CINEMA HD
-http://smart.bengaldigital.live/ZeeCinema/index.m3u8
+http://66.102.120.18:8000/play/a06w/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:4C:95:D3
 #http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
@@ -220,9 +220,9 @@ http://172.20.21.22/live/skyfeed1017/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
+http://66.102.120.18:8000/play/a071/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkk/23.m3u8
 #https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8
-http://116.90.120.149:8000/play/a0bw/index.m3u8
 #https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
 #https://lifetvbd.xyz:8880/omor20/omor20/2800
 #http://172.20.3.1:81/SonyMAXHD/tracks-v1a1/mono.m3u8
@@ -247,7 +247,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0/.ts
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold2
-http://116.90.120.149:8000/play/a0ea/index.m3u8
+http://66.102.120.18:8000/play/a077/index.m3u8
 #http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=671573&extension=ts&play_token=aDUam1frFC
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/3707.ts
 #http://gotit14.xyz:80/2F635BX/ZJX02CY/510292
@@ -258,13 +258,14 @@ http://116.90.120.149:8000/play/a0ea/index.m3u8
 
 
 #EXTINF:-1,DISC
-http://tv.bdiptv.store/live/restream/restreamkk/98.m3u8
+http://66.102.120.18:8000/play/a01k/index.m3u8
 #http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/62668.m3u8
 #http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
 #http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
 
-#EXTINF:-1,& PICTURES
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3655.ts
+#EXTINF:-1,& TV
+http://66.102.120.18:8000/play/a01u/index.m3u8
+#http://nayatv.ydns.eu:80/xfireflix/flixfire/3655.ts
 #https://live.drmlive-02.workers.dev/zee/pictures.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:4C:95:D3
 
@@ -305,7 +306,8 @@ http://66.102.120.18:8000/play/a01t/index.m3u8
 #http://103.115.126.26:8000/play/a04q/index.m3u8
 
 #EXTINF:-1 xui-id="505" tvg-id="Zee Bollywood" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfFpW24V4wSL6DXgSTzuKj_FApr1ev9JWIfW4cE--zvO1A.png" group-title="IND | Movies",ZEE BOLLYWOOD
-https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
+http://66.102.120.18:8000/play/a00n/index.m3u8
+#https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
 #http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441452
 
 
@@ -315,8 +317,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction&e=m3u8
 #https://live.drmlive-02.workershttp://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=671570&extension=ts&play_token=LVPxMSBwrD#http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=671570&extension=ts&play_token=LVPxMSBwrD
-#http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3mbxe8nlL2rdpEH2607g44/.ts
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3mbxe8nlL2rdpEH2607g44/.ts
 #http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/276911.m3u8
 #http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
 #http://starshare.org:80/live/Money12345/Money12345/210.m3u8
@@ -337,7 +338,7 @@ http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441460.m3u8
 #http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
-http://87.255.35.150:18296
+http://87.255.35.150:18296/ts
 #http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=373051&extension=ts&play_token=FBpzkim4iB
 #http://watchindia.net:8880/41701/62215/803
 #http://starshare.org:80/live/Money12345/Money12345/867.m3u8
@@ -355,12 +356,13 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwqgyVIvQj6A55n5tJfJ-YA/.ts
 #http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856.m3u8
 
 #EXTINF:-1,ZEE TV FHD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3729.ts
+http://66.102.120.18:8000/play/a00y/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV World
-http://103.230.105.252:1935/live/btv/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor TV
