@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,  BTV
 #EXTINF:-1 group-title="India" tvg-id="Zee Amol Cinema" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",MOV | Zee Amol Cinema
-https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8
+
 
 #EXTINF:-12, 24/7 Bangla Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
@@ -11,7 +11,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1,Taikies
 
 #EXTINF:-1,  CINEMA
-http://45.148.145.57/IN_StarGold2/index.m3u8
+
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
@@ -29,8 +29,8 @@ http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 #http://45.148.145.57/IN_ZeeCinemaHD/index.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1350
 #EXTINF:-1 ,ZING
-https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
-#http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=943732&extension=ts&play_token=n3v5RNcAJP
+#https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=943732&extension=ts&play_token=n3v5RNcAJP
 #https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1347
 #http://mega4k.one:8080/chanpreet/chanpreet/62238
@@ -98,7 +98,8 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 
 
 #EXTINF:-1 ,STARJALSHA
-http://103.175.242.10:8080/starjalsha/index.m3u8
+https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
+#http://103.175.242.10:8080/starjalsha/index.m3u8
 #https://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:-1 ,STARJALSHA HD
 #http://103.89.248.26:8082/Star_jalsha/tracks-a1/index.fmp4.m3u8?token=612ec94bc66ca5e5c571ccae4664637d3ae4d1bf-958203d2366f5f39edabdd2e29b50024-1738324394-1738313594
@@ -202,7 +203,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" , Colors Bangla Cinema
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306556
+http://172.20.21.22/live/skyfeed1017/index.m3u8
+
+#http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306556
 
 
 
