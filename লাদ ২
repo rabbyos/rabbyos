@@ -9,8 +9,10 @@ https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
 #EXTINF:-1,Taikies
+https://tplay.live/playlist/movies/bollywood-movies/index.m3u8
 
 #EXTINF:-1,  CINEMA
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
@@ -276,7 +278,7 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #http://202.164.50.194:8000/play/a08e/index.m3u8
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1,XPLORE
-https://xfireflix.fun/opplex/opplex.php?id=66241
+http://66.102.120.18:8000/play/a012/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/209.m3u8
 #http://tv.mototvlive.net:8880/live/789865437/789865437/2769.m3u8?reffer=http://tv.mototvlive.net:8880/
 #https://play.denver1769.fun/Play/Z5/index.php?id=0-9-209|User-Agent=Denver1769
@@ -296,7 +298,7 @@ http://45.148.145.57/IN_STU/index.m3u8
 #http://jasss.whf.bz/SAINI/play.m3u8?id=3006
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
-https://smart.pendy.dpdns.org/Smart.php?id=Npicture&e=m3u8
+http://66.102.120.18:8000/play/a01t/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 #http://starshare.org:80/live/Money12345/Money12345/231.m3u8
 #http://45.148.145.57/IN_PICURES/index.m3u8
@@ -335,7 +337,8 @@ http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441460.m3u8
 #http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=373051&extension=ts&play_token=FBpzkim4iB
+http://87.255.35.150:18296
+#http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=373051&extension=ts&play_token=FBpzkim4iB
 #http://watchindia.net:8880/41701/62215/803
 #http://starshare.org:80/live/Money12345/Money12345/867.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16958
