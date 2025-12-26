@@ -24,7 +24,8 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/.ts
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 ,ZEE CINEMA HD
-http://66.102.120.18:8000/play/a06w/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd?|drmScheme=clearkey&drmLicense=f56beaac9f124616872c741c9ce4fa4e:5d40a903238f4ad98abbed1877d4e3d1
+#http://66.102.120.18:8000/play/a06w/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=12359&uid=7084&deviceMac=00:1A:79:4C:95:D3
 #http://172.20.3.1:81/ZeeCinema/tracks-v1a1/mono.m3u8
@@ -32,7 +33,7 @@ http://66.102.120.18:8000/play/a06w/index.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1350
 #EXTINF:-1 ,ZING
 #https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=943732&extension=ts&play_token=n3v5RNcAJP
+http://163.61.227.29:8000/play/a05s/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1347
 #http://mega4k.one:8080/chanpreet/chanpreet/62238
