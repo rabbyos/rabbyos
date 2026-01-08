@@ -101,7 +101,8 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 
 
 #EXTINF:-1 ,STARJALSHA
-https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+#https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://103.175.242.10:8080/starjalsha/index.m3u8
 #https://smart.bengaldigital.live/Star-jalsha/index.m3u8
 #EXTINF:-1 ,STARJALSHA HD
@@ -110,7 +111,7 @@ https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #http://kst.moonplex.net:8080/CH3/index.m3u8
 
 #http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA/.ts.m3u8
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA7KmZiV1VLWfumYmaIyCmgA/
 #http://172.16.29.3:8080/hls/sjolshahd.m3u8
 
 #EXTINF:-1 ,Jalsha
