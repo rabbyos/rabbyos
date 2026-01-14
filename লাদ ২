@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="-",MH ONE DIL SE
+http://103.78.149.54:8000/play/a03i/index.m3u8
 #EXTINF:-1,  BTV
 #EXTINF:-1 group-title="India" tvg-id="Zee Amol Cinema" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",MOV | Zee Amol Cinema
 
@@ -33,6 +35,7 @@ http://103.178.78.151:7505/play/a0wb/index.m3u8
 #http://45.148.145.57/IN_ZeeCinemaHD/index.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1350
 #EXTINF:-1 ,ZING
+http://103.78.149.54:8000/play/a00m/index.m3u8
 #https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
 
 #https://live.drmlive-02.workers.dev/zee/zing.m3u8
@@ -42,8 +45,9 @@ http://103.178.78.151:7505/play/a0wb/index.m3u8
 
 #EXTINF:-1,  Zee Bangla
 http://103.175.242.10:8080/zeebangla/index.m3u8
-#EXTINF:-1,  Zee Bangla
-http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+#EXTINF:-1,  shemaro josh
+http://103.78.149.54:8000/play/a01j/index.m3u8
+#http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/39888
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
@@ -51,7 +55,8 @@ http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PROBASHI BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,ANMOL2 BDIX
-http://110.39.27.47:8001/play/a03w/index.m3u8
+http://103.78.149.54:8000/play/a01o/index.m3u8
+#http://110.39.27.47:8001/play/a03w/index.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/12342.ts
 #https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 #EXTINF:-1 ,Movies Hd
@@ -67,11 +72,13 @@ http://live.matribhumitv.com/music-bangla/index.m3u8
 #EXTINF:-1 ,SHEMARO MOVIE
 http://103.145.48.150:90/laosat24/shemarootv/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA
+http://103.78.149.54:8000/play/a01j/index.m3u8
 https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
 #http://a
-http://103.145.48.150:90/laosat24/filmytv/index.m3u8
+
 #EXTINF:-1 ,CHANNEL A1
-https://iptvbd.live/channela1/1080.m3u8
+http://103.145.48.150:90/laosat24/filmytv/index.m3u8
+#https://iptvbd.live/channela1/1080.m3u8
 #EXTINF:-1 ,
 #EXTINF:-1 ,
 #EXTINF:-1 ,
@@ -327,8 +334,11 @@ http://66.102.120.18:8000/play/a00n/index.m3u8
 
 
 #EXTINF:-1 xui-id="502" tvg-id="Zee Action" tvg-name="ZEE ACTION" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHcbf73-oIV__asDbm6zVn9ZYCbFKRulOX5wV0pFC-jFA.png" group-title="IND | Movies",ZEE ACTION
-https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction&e=m3u8
-#https://live.drmlive-02.workershttp://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=671570&extension=ts&play_token=LVPxMSBwrD#http://45.148.145.57/IN_ZeeActionHD/index.m3u8
+http://103.78.149.54:8000/play/a005/index.m3u8
+#https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction&e=m3u8
+#https://live.drmlive-02.workers
+#http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=671570&extension=ts&play_token=LVPxMSBwrD
+#http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3mbxe8nlL2rdpEH2607g44/.ts
