@@ -236,7 +236,7 @@ http://172.20.21.22/live/skyfeed1017/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,SET MAX HD
-http://cdnd.sonyplex.com:8090/hls/sonymaxhd.m3u8
+http://103.99.249.139/sonymax/index.m3u8
 #http://103.167.255.18:8085/play/a0kp/index.m3u8
 #http://66.102.120.18:8000/play/a071/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkk/23.m3u8
@@ -259,7 +259,9 @@ http://103.178.78.151:7505/play/a1vx/index.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0/.ts
+http://103.99.249.139/stargold/index.m3u8
+
+#http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0/.ts
 #http://110.39.27.47:8001/play/a00d/index.m3u8
 #http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
 #http://103.115.126.26:8000/play/a08u/index.m3u8
