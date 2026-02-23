@@ -56,7 +56,8 @@ http://103.78.149.54:8000/play/a01j/index.m3u8
 #http://172.20.3.1:81/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PROBASHI BANGLA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMlrgKcsKrh2fus_sXBQT1vfPbi2wY3CtClRZbKbBF2g49RMT9ZKW5D2E9SOEN6uQAUyjpby9nxqNhqPpo2ujXVl25cJMLhRpebWfLIhvQPAVjjxkihk8Unk_RZaqxYYWXhpck_3bfm8b8ym-DmE29462NO4aMQFMOv6v4fftOh3FIGewTLDwgj9Z6mto/s320/LogoWiz_07022025_033725%5B1%5D.JPEG" ,ANMOL2 BDIX
-http://103.78.149.54:8000/play/a01o/index.m3u8
+#http://103.78.149.54:8000/play/a01o/index.m3u8
+http://103.175.73.12:8080/live/257/257_0.m3u8
 #http://110.39.27.47:8001/play/a03w/index.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/12342.ts
 #https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
@@ -302,7 +303,8 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #http://202.164.50.194:8000/play/a08e/index.m3u8
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1,XPLORE
-http://66.102.120.18:8000/play/a012/index.m3u8
+http://103.175.73.12:8080/live/268/268_0.m3u8
+#http://66.102.120.18:8000/play/a012/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/209.m3u8
 #http://tv.mototvlive.net:8880/live/789865437/789865437/2769.m3u8?reffer=http://tv.mototvlive.net:8880/
 #https://play.denver1769.fun/Play/Z5/index.php?id=0-9-209|User-Agent=Denver1769
@@ -322,7 +324,9 @@ http://45.148.145.57/IN_STU/index.m3u8
 #http://jasss.whf.bz/SAINI/play.m3u8?id=3006
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
-http://110.39.27.47:8001/play/a01d/index.m3u8
+http://103.175.73.12:8080/live/267/267_0.m3u8
+
+#http://110.39.27.47:8001/play/a01d/index.m3u8
 
 #http://66.102.120.18:8000/play/a01t/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
