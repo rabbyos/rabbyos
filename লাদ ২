@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",MH ONE DIL SE
-http://103.78.149.54:8000/play/a03i/index.m3u8
+
 #EXTINF:-1,  BTV
 #EXTINF:-1 group-title="India" tvg-id="Zee Amol Cinema" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",MOV | Zee Amol Cinema
 
@@ -144,7 +144,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8
 #http://172.16.29.34/ontest1/ontest1/389.m3u8
 #http://10.21.56.46:9191/News-24/tracks-v1a1/mono.m3u8?token=6d529d144b53a7bc8abfe96c5e59906fa2a8ad0c-a5c272ffd9c3e42c94487f00d243ae77-1723775977-172
 #EXTINF:-1,StarJalshaHD
-https://v5on.site/play.php?id=277405
 #https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/video.m3u8
 #http://172.19.178.49:18190/sn-starjalsha/tracks-v1a1/mono.m3u8
 #http://megaott.live:8080/live/45ffgauksas/gu8krWn2CuxE/39881.m3u8
@@ -173,7 +172,7 @@ http://tv.bdiptv.store/live/restream/restreamkk/27.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21658
 #EXTINF:-1 ,All Time
-http://103.178.78.151:7505/play/a0pb/index.m3u8
+http://103.229.254.25:7001/play/a0f5/index.m3u8
 
 #EXTINF:-1 ,MBC
 #https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
