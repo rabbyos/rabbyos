@@ -45,7 +45,8 @@ http://103.78.149.54:8000/play/a00m/index.m3u8
 #https://lifetvbd.xyz:8880/live/omor20/omor20/6.m3u8
 
 #EXTINF:-1,  Zee Bangla
-https://csm-e-runntvprdlive-eb.runnads.runn.media/csm/extlive/runntvprd01,nhbollyflixottplay.m3u8
+http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
+
 #EXTINF:-1,  shemaro josh
 http://103.78.149.54:8000/play/a01j/index.m3u8
 #http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
@@ -168,7 +169,7 @@ http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
 #http://honeywatch.net:80/play/live.php?mac=00:1a:79:cb:FF:E1&stream=1118058&extension=ts&play_token=tqXptndjnr
 #http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 #EXTINF:-1,ZEE BANGLA CINEMA
-http://tv.bdiptv.store/live/restream/restreamkk/27.m3u8
+http://172.16.29.2:8090/hls/ZeeBanglaCinemaHD.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21658
 #EXTINF:-1 ,All Time
@@ -371,7 +372,8 @@ http://163.61.227.29:8000/play/a05s/index.m3u8
 #http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 
 #EXTINF:-1 tvg-id="3694429" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="3694429" group-title="",Colors CINEPLEX HD
-http://cdnd.sonyplex.com:8090/hls/ColorsCineplexHD.m3u8
+http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8
+#http://cdnd.sonyplex.com:8090/hls/ColorsCineplexHD.m3u8
 #http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=373051&extension=ts&play_token=FBpzkim4iB
 #http://watchindia.net:8880/41701/62215/803
 #http://starshare.org:80/live/Money12345/Money12345/867.m3u8
@@ -390,7 +392,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwqgyVIvQj6A55n5tJfJ-YA/.ts
 #http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856.m3u8
 
 #EXTINF:-1,sony aath
-http://103.175.73.12:8080/live/196/196_0.m3u8
+http://172.16.29.2:8090/hls/SonyAtth.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
