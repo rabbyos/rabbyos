@@ -50,7 +50,8 @@ http://103.78.149.54:8000/play/a00m/index.m3u8
 http://172.16.29.2:8090/hls/ZeeBanglaHD.m3u8
 
 #EXTINF:-1,  shemaro josh
-http://103.78.149.54:8000/play/a01j/index.m3u8
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#http://103.78.149.54:8000/play/a01j/index.m3u8
 #http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/39888
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
@@ -74,8 +75,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="3. BANGLA",MUSIC BANGLA
 http://live.matribhumitv.com/music-bangla/index.m3u8
 
-#EXTINF:-1 ,SHEMARO MOVIE
-http://103.145.48.150:90/laosat24/shemarootv/index.m3u8
+#EXTINF:-1 ,SHEMARO UMANG
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA
 http://103.78.149.54:8000/play/a01j/index.m3u8
 https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
