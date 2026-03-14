@@ -177,7 +177,8 @@ http://172.16.29.2:8090/hls/ZeeBanglaCinemaHD.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/21658
 #EXTINF:-1 ,All Time
-http://103.229.254.25:7001/play/a0f5/index.m3u8
+http://103.175.73.12:8080/live/54/54_0.m3u8
+#http://103.229.254.25:7001/play/a0f5/index.m3u8
 
 #EXTINF:-1 ,MBC
 #https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
@@ -300,7 +301,8 @@ http://66.102.120.18:8000/play/a01u/index.m3u8
 #http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=15834&deviceMac=00:1A:79:4C:95:D3
 
 #EXTINF:-1,GOLDMINE
-https://cdn-2.pishow.tv/live/1459/master.m3u8
+http://103.175.73.12:8080/live/53/53_0.m3u8
+#https://cdn-2.pishow.tv/live/1459/master.m3u8
 #https://cdn-2.pishow.tv/live/1459/1459_0.m3u8
 #http://202.164.50.194:8000/play/a08j/index.m3u8
 #http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
@@ -316,12 +318,14 @@ http://103.175.73.12:8080/live/268/268_0.m3u8
 #https://play.denver1769.fun/Play/Z5/index.php?id=0-9-209|User-Agent=Denver1769
 #http://activefrance.net:80/PMF3J9X/BV7HG8H/510293
 #EXTINF:-1,GOLDMINE MOVIE
-https://cdn-2.pishow.tv/live/1461/master.m3u8
+http://103.175.73.12:8080/live/51/51_0.m3u8
+#https://cdn-2.pishow.tv/live/1461/master.m3u8
 #http://202.164.50.194:8000/play/a087/index.m3u8
 #http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441440.m3u8
 #EXTINF:-1 group-title="-",Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 group-title="-",Goldmines Action
+#EXTINF:-1 group-title="-",Goldmines bollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
 
 
 
