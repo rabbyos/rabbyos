@@ -291,7 +291,8 @@ http://103.229.254.25:7001/play/a0df/index.m3u8
 
 
 #EXTINF:-1,DISC
-http://103.229.254.25:7001/play/a071/index.m3u8
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#http://103.229.254.25:7001/play/a071/index.m3u8
 #http://110.39.27.47:8001/play/a017/index.m3u8
 #http://66.102.120.18:8000/play/a01k/index.m3u8
 #http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/62668.m3u8
