@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dilse.mhone.in/wp-content/uploads/2022/02/MH-ONE-dil-se-LOGO-white-copy.png" group-title="India",MH One Dil Se (576p)
-https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
+http://103.229.254.25:7001/play/a0es/index.m3u8
+#https://mumt01.tangotv.in/MHONEDILSE/index.m3u8
 #EXTINF:-1 group-title="-",MH ONE DIL SE
 
 #EXTINF:-1,  BTV
@@ -21,10 +22,11 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-0 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Al Quran Al Kareem
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
-#EXTINF:-1 ,TSPORT
-#https://moonkerala.xyz/jcinema/stream.m3u8?id=0000002|Referer=https://moonkerala.xyz/
+#EXTINF:-1 ,NATIONAL GEO
+http://103.229.254.25:7001/play/a038/index.m3u8
 
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/m3u8
+
+#http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 ,ZEE CINEMA HD
@@ -166,7 +168,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 #EXTINF:-1,Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 ,JALSHA MOVIES
-http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
+http://103.229.254.25:7001/play/a0dt/index.m3u8
 #http://stvlive.net:8080/jalshamovies/tracks-v1a1/mono.m3u8
 #http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA5czJZdJL5NIAEXBZ-4lMb0/.m3u8
 #http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/277425.m3u8
@@ -264,7 +266,8 @@ http://103.178.78.151:7505/play/a1vx/index.m3u8
 #http://tv.indigotv.me:80/live.ts?channelId=184&uid=7245&deviceMac=00:1A:79:4A:02:91
 
 #EXTINF:-1 group-title="" tvg-logo="http://openboxv8s.com/india/star_gold_hd.jpg" tvg-id="stargoldhd.in" ,Star GOLD
-http://103.99.249.139/stargold/index.m3u8
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#http://103.99.249.139/stargold/index.m3u8
 
 #http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyOSC2GeyegcW1N_URGba-0/.ts
 #http://110.39.27.47:8001/play/a00d/index.m3u8
@@ -275,7 +278,8 @@ http://103.99.249.139/stargold/index.m3u8
 
 
 #EXTINF:-1 group-title="Hindy Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdmcammH4_j3ZYayI6FIavoBYC3Lax5pOhg&s",Star Gold2
-http://103.178.78.151:7505/play/a0un/index.m3u8
+http://103.229.254.25:7001/play/a0df/index.m3u8
+#http://103.178.78.151:7505/play/a0un/index.m3u8
 #http://110.39.27.47:8001/play/a031/index.m3u8
 #http://66.102.120.18:8000/play/a077/index.m3u8
 #http://main.light-ott.net:80/play/live.php?mac=00:1A:79:00:12:f4&stream=671573&extension=ts&play_token=aDUam1frFC
@@ -288,7 +292,8 @@ http://103.178.78.151:7505/play/a0un/index.m3u8
 
 
 #EXTINF:-1,DISC
-http://110.39.27.47:8001/play/a017/index.m3u8
+http://103.229.254.25:7001/play/a071/index.m3u8
+#http://110.39.27.47:8001/play/a017/index.m3u8
 #http://66.102.120.18:8000/play/a01k/index.m3u8
 #http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/62668.m3u8
 #http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
@@ -334,7 +339,8 @@ http://45.148.145.57/IN_STU/index.m3u8
 #http://jasss.whf.bz/SAINI/play.m3u8?id=3006
 
 #EXTINF:-1 xui-id="500" tvg-id="1sports" tvg-name="&PICTURE HD" tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH0i6l5tqiDHvOcqA8Wu3qy3wBBLYZyF3_fFgm1M2EA7w.png" group-title="IND | Movies",&PICTURE HD
-http://103.175.73.12:8080/live/267/267_0.m3u8
+http://103.229.254.25:7001/play/a033/index.m3u8
+#http://103.175.73.12:8080/live/267/267_0.m3u8
 
 #http://110.39.27.47:8001/play/a01d/index.m3u8
 
@@ -359,7 +365,8 @@ http://103.161.153.165:8000/play/a03s/index.m3u8
 #http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN | ENTERTAINMENT" tvg-logo="https://static.epg.best/in/StarGoldSelect.in.png" tvg-id="stargoldselecthd.in" ,IN | Star Gold Select FHD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3mbxe8nlL2rdpEH2607g44/.ts
+http://103.229.254.25:7001/play/a032/index.m3u8
+#http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3mbxe8nlL2rdpEH2607g44/.ts
 #http://4u.eagle4u.org:80/live/38%3A68%3Aa4%3A94%3Ab6%3A8c/66afcfoc4d/276911.m3u8
 #http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
 #http://starshare.org:80/live/Money12345/Money12345/210.m3u8
@@ -392,15 +399,17 @@ http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8
 
 
 #EXTINF:-1 ,STAR PLUS HD
+http://103.229.254.25:7001/play/a09z/index.m3u8
 #http://110.39.27.47:8001/play/a005/index.m3u8
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwqgyVIvQj6A55n5tJfJ-YA/.ts
+#http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAwqgyVIvQj6A55n5tJfJ-YA/.ts
 #http://megaott.live:8080/gJGhqFvycXv8/EgDTP3WPUz89/9692
 #http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
 #http://45.148.145.57/IN_STS/index.m3u8
 #http://activefrance.net:80/live/PMF3J9X/BV7HG8H/1019856.m3u8
 
 #EXTINF:-1,sony aath
-http://172.16.29.2:8090/hls/SonyAtth.m3u8
+http://103.229.254.25:7001/play/a0g5/index.m3u8
+#http://172.16.29.2:8090/hls/SonyAtth.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
