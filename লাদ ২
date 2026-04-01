@@ -30,7 +30,8 @@ http://103.229.254.25:7001/play/a038/index.m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 ,ZEE CINEMA HD
-http://103.99.249.139/zeecinema/index.m3u8
+https://cdn2.rongintv.workers.dev/ch/389
+#http://103.99.249.139/zeecinema/index.m3u8
 #http://103.178.78.151:7505/play/a0wb/index.m3u8
 #http://110.39.27.47:8001/play/a00q/index.m3u8
 #http://66.102.120.18:8000/play/a06w/index.m3u8
